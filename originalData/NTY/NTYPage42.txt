@@ -1,0 +1,281 @@
+为什么新冠病毒令我们如此恐惧和焦虑？
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">华盛顿大学宣布该校第四例新型冠状病毒疑似病例排除，两位教授——一位公共政策教授和一位公共卫生教授——随即邀请学生和教员们参加了一场小型晚宴。</div>
+<div class="article-paragraph">和校内其他地方乃至世界各地一样，在宴会上，冠状病毒成了唯一的话题。</div>
+<div class="article-paragraph">但是，其中一位参与者，一名公共卫生学生，表示她受够了。盛怒之下，她一口气说出一组统计数据。</div>
+<div class="article-paragraph">该病毒已经在全球范围内导致1100人死亡，在美国大约感染了十几人。令人担忧但要常见许多的<span>流感每年造成约<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6815659/" rel="noopener noreferrer" target="_blank">40万人</a>死亡，其中包括上个流感季的死亡的</span><span><a href="https://www.cdc.gov/flu/about/burden/2018-2019.html" rel="noopener noreferrer" target="_blank">34200美国</a><a href="https://www.cdc.gov/flu/about/burden/2018-2019.html" rel="noopener noreferrer" target="_blank">人</a></span>和之前一年流感季死亡的61099个美国人。</div>
+<div class="article-paragraph">新型冠状病毒的死亡率目前还很难说，根据估计，其最高值可达流感的20倍，但如果除去被疫情冲垮的中国湖北省，某些估计值低至0.16％。与流感差不多。</div>
+<div class="article-paragraph">学生问，公众反应存在如此极端的反差，不觉得奇怪吗？</div>
+<div class="article-paragraph">晚宴的合办人、公共政策教授安·博斯特罗姆(Ann Bostrom)在回述当晚的情形时笑了起来。作为一名人类风险评估心理学方面的专家，博斯特罗姆说，这位学生对病毒的理解是正确的，但对人的理解却不正确。</div>
+<div class="article-paragraph">她说，公共卫生指标可能会根据绝对的致死率将流感与新型冠状病毒并列，甚至排在新型冠状病毒前面，但人自有一套衡量危险的方法。而被命名为COVID-19的新型冠状病毒病几乎击中了我们所有触发认知的因素。</div>
+<div class="article-paragraph">这解释了全球范围内的焦虑情绪。</div>
+<div class="article-paragraph">当然，对席卷中国乃至其他地方的冠状病毒疫情暴发感到恐惧，绝非不理智的表现。</div>
+<div class="article-paragraph">但是心理学家和公共卫生专家说，从人们对这种病毒近乎恐慌、而不把流感这种严重的威胁当回事的现象中，我们可以得到一条教训。它说明了人们在风险评估中的无意识偏见，以及常常以冲动来引导我们的回应方式——有时会导致严重的后果。</div>
+<div class="article-paragraph"><i>[</i><a href="https://www.nytimes.com/zh-hans/2020/02/11/world/asia/corona-virus-student-stories-chinese.html"><i>征文：新冠病毒给你带来什么影响</i></a><i>？]</i></div>
+<div class="article-paragraph"><span><b>我们的大脑如何评估威胁</b></span></div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="在北京，一名戴着口罩和手套、穿着塑料雨衣的女性。横幅上写着：“强防护，不恐慌，信科学，不传谣”。" data-src="https://static01.nyt.com/images/2020/02/13/world/13int-coronavirus3/merlin_168528063_bf3cc2fc-0dc5-4941-82f2-190567367dd8-master1050.jpg" src="https://static01.nyt.com/images/2020/02/13/world/13int-coronavirus3/merlin_168528063_bf3cc2fc-0dc5-4941-82f2-190567367dd8-master1050.jpg"/></div><figcaption><span>在北京，一名戴着口罩和手套、穿着塑料雨衣的女性。横幅上写着：“强防护，不恐慌，信科学，不传谣”。</span> <cite>Kevin Frayer/Getty Images</cite></figcaption></figure></div>
+<div class="article-paragraph">专家曾经认为，人们会像精算师那样评估风险，当正在变道的汽车离得太近，或当本地犯罪率激增的时候，就会进行成本效益分析。然而1980年代的一系列心理学实验颠覆了这种想法。</div>
+<div class="article-paragraph">研究人员发现，人们使用一系列思维捷径来衡量危险。这往往是无意识的，意味着本能发挥的作用可能比他们意识到的要大得多。</div>
+<div class="article-paragraph">世界充满着大大小小的风险。理想情况下，这些思维捷径可以帮助人们找出哪些问题值得关注，哪些需要忽略。但是它们可能并不完美。</div>
+<div class="article-paragraph">冠状病毒也许就是这样一个例子。</div>
+<div class="article-paragraph">现代风险心理学的先锋、俄勒冈大学的心理学家保罗·斯洛维奇(Paul Slovic)说：“导致人们提高风险感知的按钮，这一次全部触击到了。”</div>
+<div class="article-paragraph">当你遇到潜在风险时，你的大脑会将它在过去的经验中进行一次快速搜索。如果它可以轻易地唤起多个令人担忧的记忆，那么你的大脑就会作出危险很高的结论。但是，它常常无法评估这些记忆是否真正具有代表性。</div>
+<div class="article-paragraph">一个典型的例子是坠机。</div>
+<div class="article-paragraph">如果两次坠机事件连续发生，坐飞机突然变成了可怕的事情——即使你的意识头脑知道那些坠机事件是极小的几率，对你下一次的飞行几乎没有安全影响。但是，如果你随后坐了几次飞机都没有任何问题，那么你的大脑很可能会开始告诉你坐飞机是安全的。</div>
+<div class="article-paragraph">斯洛维奇说，涉及冠状病毒时，好像人们正在经历一个又一个飞机坠毁的报告。</div>
+<div class="article-paragraph">“我们听到的消息是死亡人数，”他说。“而不是98％左右的人正在从中康复，并且可能只患了轻症。”</div>
+<div class="article-paragraph">这种趋势也可以走向另一个极端，除了不必要的担忧外也会导致不必要的自大。尽管流感每年导致成千上万的美国人死亡，但大多数流感患者的感受平淡无奇。</div>
+<div class="article-paragraph">研究发现，告知流感有多么危险并不会改变这个情形。大脑的风险评估法直接盖过了理性计算——这让试图提高流感疫苗接种率的卫生官员感到无尽惊愕。</div>
+<div class="article-paragraph">“我们受到经验的条件反射，”斯洛维奇说。“但是经验会误导我们对事物过于习惯。”</div>
+<div class="article-paragraph"><span><b>偏见，捷径和直觉</b></span></div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="在曼尼拉，想买口罩的人挤在一起。" data-src="https://static01.nyt.com/images/2020/02/04/science/13int-coronavirus2/04CORONAVIRUS3-master1050.jpg" src="https://static01.nyt.com/images/2020/02/04/science/13int-coronavirus2/04CORONAVIRUS3-master1050.jpg"/></div><figcaption><span>在曼尼拉，想买口罩的人挤在一起。</span> <cite>Ezra Acayan/Getty Images</cite></figcaption></figure></div>
+<div class="article-paragraph">人们对冠状病毒风险的评估还涉及其他心理捷径。</div>
+<div class="article-paragraph">其中一个涉及新颖性：我们习惯于将精力集中在新的威胁上，寻找任何引发担忧的原因。这可能导致我们沉迷于最糟糕的消息和最坏的情况，使危险看上去更大。</div>
+<div class="article-paragraph">也许最强大的捷径是情绪。</div>
+<div class="article-paragraph">评估冠状病毒带构成的危险极其困难；即使是科学家也不确定。但是，我们的大脑似乎用一种更容易的方式：将情绪直觉反应转化为我们自以为合理的结论，即使它与坚实的数据相悖。</div>
+<div class="article-paragraph"><span>“我们头脑中的世界并非现实的精确复制品，”诺贝尔经济学奖获得者丹尼尔·卡尼曼(Daniel Kahneman)在他<a href="https://us.macmillan.com/books/9780374533557" rel="noopener noreferrer" target="_blank">2011年的书</a>中写道。“我们面前的信息的普遍性和情感强度</span>，会左右我们对事件发生频率的判断。”</div>
+<div class="article-paragraph">博斯特罗姆说，在极端情况下，这可能导致“挤出效应”(crowding-out effect)，因为我们的情绪冲动压倒了我们的认知能力。冠状病毒触击到了这些诱发因素，力度通常很强。</div>
+<div class="article-paragraph">其中一个是恐惧。</div>
+<div class="article-paragraph">如果一个风险看起来特别痛苦或令人不安，人们往往会提高这种风险发生在自己身上的几率的估计。关于冠状病毒的报道通常带有令人不安的图像：不卫生的食品市场，整座城市的封锁和人满为患的医院。</div>
+<div class="article-paragraph">另一个触发因素是人们尚未完全了解病毒的威胁。它越不为人所知，就会有越多的人担心它，并高估它的威胁。</div>
+<div class="article-paragraph">令人感到失控的威胁，例如失控的疾病暴发，会引发类似的反应，导致人们寻求重新实施控制，例如囤积物资。</div>
+<div class="article-paragraph">我们自愿承担的风险或至少感到自愿的风险，通常被认为是低于实际风险的。一项研究发现，如果人们把危险视为一个选择，那么危险会增加一千倍。</div>
+<div class="article-paragraph"><span>如果这个数字听起来很高，那么想想开车，这种危险绝大多数是自愿承担的，每年会导致<a href="https://www.bloomberg.com/news/articles/2019-02-13/traffic-deaths-in-u-s-exceed-40-000-for-third-straight-year" rel="noopener noreferrer" target="_blank">4万多</a>美国人丧生。但是恐怖主义是一种我们被迫面临的威胁，造成的死亡人数不到100。</span></div>
+<div class="article-paragraph">有无数合理的原因使恐怖主义比交通死亡更能引起人们的强烈反响。同样，快速传播且人们知之甚少的病毒暴发相对于熟悉的流感也是如此。</div>
+<div class="article-paragraph">心理学家说，这正是重点。</div>
+<div class="article-paragraph">“所有这些事情都影响着我们的感觉，”斯洛维奇说。“这就是我们经受威胁的表现。不是风险的统计，而是风险的感觉。”</div>
+<div class="article-paragraph"><span><b>做出选择</b></span></div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="北京人迹寥寥的街道。" data-src="https://static01.nyt.com/images/2020/02/13/world/13int-coronavirus-sub/merlin_168521892_9a193a23-6453-496d-b793-048d53a4968e-master1050.jpg" src="https://static01.nyt.com/images/2020/02/13/world/13int-coronavirus-sub/merlin_168521892_9a193a23-6453-496d-b793-048d53a4968e-master1050.jpg"/></div><figcaption><span>北京人迹寥寥的街道。</span> <cite>Jason Lee/Reuters</cite></figcaption></figure></div>
+<div class="article-paragraph">所有这些情绪都可以产生现实后果。</div>
+<div class="article-paragraph">参考人们对1979年宾夕法尼亚州三英里岛核电站部分熔毁的反应。虽然该事件没有造成死亡，但它导致公众要求从核电转向化石燃料，而后者被认为单单<span>是<a href="https://www.thelancet.com/commissions/pollution-and-health" rel="noopener noreferrer" target="_blank">对空气质量的影响</a></span>就导致了每年超过数千人过早死亡。</div>
+<div class="article-paragraph">这种计算使老派经济学家感到困惑，他们认为这是非理性的。一位杰出的核电专家称其为“疯狂”。</div>
+<div class="article-paragraph">但这也有助于建立人们如何衡量风险的新心理模型。</div>
+<div class="article-paragraph">斯洛维奇说：“我们的感觉并不太会做算术。”</div>
+<div class="article-paragraph">在判断低概率、高风险威胁，例如核战争、恐怖主义，或死于冠状病毒或流感时，尤其如此。</div>
+<div class="article-paragraph">斯洛维奇说，我们的头脑要不就是倾向于将概率“基本上舍入为零”，继而反应不够，要不就是专注于最糟糕的结果，这“让我们产生强烈的感觉，于是反应过度”。</div>
+*
+防弹轿车、机器人和煤炭：朝鲜如何逃避国际制裁
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">华盛顿——几个月来，朝鲜一直在躲避联合国制裁，出口煤炭、沙子和石油，并进口包括防弹轿车、酒和机器人机械在内的奢侈商品。这些发现是基于一份即将发布的联合国报告、其他使用卫星图像和航运数据作出的评估，以及对分析人士的采访。<br/></div>
+<div class="article-paragraph">分析人士说，这些出口为朝鲜提供了继续发展核武器和弹道导弹项目所需的资金。他们还说，这些进口奢侈商品的技术显示，朝鲜可能在用同样的方法为那些项目获取军民两用技术。该国针对金融机构和加密货币交易所的复杂网络犯罪活动也为筹集资金提供了帮助。</div>
+<div class="article-paragraph">即将发布的联合国专家小组年度报告对2018年从荷兰运往东亚的两辆走私奔驰防弹轿车做出了更详细的描述。去年7月，《纽约时报》和高级防务研究中心(Center for Advanced Defense Studies)也曾对此进行一项调查。</div>
+<div class="article-paragraph">在时报的文章和视频出现之后，该联合国小组进行了自己的调查，并得出结论。根据时报看到的报告草案，两辆汽车在从欧洲运出之前，曾是两家意大利公司的财产，这两家公司显然是供应链的开始。联合国预计将于本月发布这份报告。</div>
+<div class="article-paragraph">在接受采访时，其中一家意大利公司的高管桑德罗·钱齐(Sandro Cianci)证实，该公司购买了两辆奔驰防弹轿车，最终将其运往亚洲，但他表示，他们没有从事非法活动，也不知道这些车最终会抵达朝鲜。</div>
+<div class="article-paragraph">美国官员、分析人士和相关报道说，中国和俄罗斯已经在总体上削弱了制裁，并在帮助非法走私。去年12月，两国向联合国提议放松制裁。</div>
+<div class="article-paragraph">美国官员和分析人士援引卫星图像，表明朝鲜船只在中国领海内进行了转移，以此作为朝鲜逃避制裁的证据。</div>
+<div class="article-paragraph">“中国必须对朝鲜实施制裁。他们必须停止这种船对船的转移，”唐纳德·特朗普总统的国家安全顾问罗伯特·C·奥布莱恩(Robert C. O’Brien)上个月说。“我们需要中国的帮助，因为我们正在向朝鲜施压，要求他们坐到谈判桌前，”他还说。</div>
+<div class="article-paragraph">自2016年以来，美国已经推动联合国通过了五轮制裁决议。</div>
+<div class="article-paragraph">特朗普把与朝鲜的外交关系作为他标志性的外交政策举措。但令美国官员沮丧的是，自去年10月斯德哥尔摩的一轮谈判代表会谈突然结束以来，朝鲜领导人金正恩一直拒绝与华盛顿接触。此前，特朗普和金正恩于2019年2月在越南河内举行的第二次峰会失败。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="2019年6月16日，船只在朝鲜海州湾挖沙。中国公司是这些沙子的主要买家。" data-src="https://static01.nyt.com/images/2020/03/09/video/nksandbarge/nksandbarge-master1050.jpg" src="https://static01.nyt.com/images/2020/03/09/video/nksandbarge/nksandbarge-master1050.jpg"/></div><figcaption><span>2019年6月16日，船只在朝鲜海州湾挖沙。中国公司是这些沙子的主要买家。</span> <cite>Satellite image © 2020 Maxar Technologies.</cite></figcaption></figure></div>
+<div class="article-paragraph">这些漏洞百出的制裁意味着特朗普政府对朝鲜的施压远远达不到效果，美国官员正在失去他们所说的唯一真正的影响力。专家说，这可能有助于解释平壤最近对华盛顿的冷淡态度。</div>
+<div class="article-paragraph">一些分析人士表示，中国国家主席习近平今年6月对朝鲜的访问，可能标志着制裁执行的一个转折点。</div>
+<div class="article-paragraph">“鉴于中美关系的恶化，北京的领导人没有心情在朝鲜问题上与华盛顿合作，”前美国中央情报局朝鲜问题分析师、目前在布鲁金斯学会(Brookings Institution)工作的朴正铉（Jung H. Pak，音）说。“从新度假区和旅游区的开放，以及百货商店的大量供应来看，政府和精英们成功地找到了漏洞。”</div>
+<div class="article-paragraph">金正恩在朝鲜国内和访问海外期间使用的奔驰防弹轿车就是明显的表现。</div>
+<div class="article-paragraph">在这份新报告的草稿中，联合国小组列出了2018年夏天运往朝鲜的两辆奔驰防弹轿车的车辆识别号。这些数字使调查人员得以查出有关这批货物和相关公司的更多细节。</div>
+<div class="article-paragraph">报告将两家意大利公司列为采购商，但没有指控他们从事非法活动。</div>
+<div class="article-paragraph">钱齐是欧洲汽车与更多SRL公司(European Cars and More SRL)的销售经理，这家意大利公司在2018年初从梅赛德斯-奔驰购买了这些汽车。他在数次冗长的采访中表示，自己没有违反任何出口规定，并对梅赛德斯-奔驰在2019年12月切断与他的业务联系表示失望。</div>
+<div class="article-paragraph">他没有提供购买这些汽车的客户姓名。“我的客户是意大利人。他在罗马做进出口生意，”钱齐说。“这位客户不仅与中国有外交上的联系，还与其他国家有外交上的联系。”</div>
+<div class="article-paragraph">报告中提到的第二家意大利公司是总部位于罗马的LS Logistica e Spedizioni SRL。它负责将这些汽车运往中国大连，然后再运往日本。该公司没有回复记者通过电子邮件发出的置评请求。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="朝鲜平壤一家百货商店的消毒工作。目前还不清楚这种新型冠状病毒的危机将如何影响朝鲜。" data-src="https://static01.nyt.com/images/2020/03/09/us/politics/09dc-northkorea-2/merlin_169742268_1ef08990-cb90-49b7-b403-1e9fdac7a28c-master1050.jpg" src="https://static01.nyt.com/images/2020/03/09/us/politics/09dc-northkorea-2/merlin_169742268_1ef08990-cb90-49b7-b403-1e9fdac7a28c-master1050.jpg"/></div><figcaption><span>朝鲜平壤一家百货商店的消毒工作。目前还不清楚这种新型冠状病毒的危机将如何影响朝鲜。</span> <cite>Kyodo News, via Associated Press</cite></figcaption></figure></div>
+<div class="article-paragraph">制裁的漏洞远远不止于奢侈品的进口。联合国的报告说，朝鲜通过走私商品筹集了数以百万计的美元。</div>
+<div class="article-paragraph">去年10月，2014年至2019年任专家小组成员的史蒂芬妮·克莱恩-阿尔布兰特(Stephanie Kleine-Ahlbrandt)在38 North网站上写道，针对朝鲜的“最大压力”行动已经“走到了尽头”。</div>
+<div class="article-paragraph">“特朗普政府对这种情况负有特别的责任，”她写道。“在最大压力行动中，它一直是自己最大的敌人。”</div>
+<div class="article-paragraph">她断言，特朗普“仍然不愿意承认无核化进程缺乏进展的错误或失败，也不愿意改变美国与朝鲜的谈判方式”。</div>
+*
+韩国“N号房”事件：匿名聊天室里的性剥削和奴役
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">韩国首尔——周三，韩国警方要求检方起诉一名24岁男性，他被控勒索数十名年轻女性拍摄色情视频，其中至少有16名是未成年人，并通过加密聊天室在网上出售这些视频。</div>
+<div class="article-paragraph">这起案件令女权倡导者所称的一个日益严重的问题引起全国关注：一个由秘密聊天室组成的网络，以在线高薪工作的承诺来吸引年轻女性，然后对她们进行性剥削。据当地新闻媒体估计，有多达30万付费用户在使用这些在线聊天室，警方表示，在这些聊天室里，运营者甚至为个别用户提供量身定制的视频，其中往往包括极度不人道的性场景。</div>
+<div class="article-paragraph">警方称，涉及最近一起案件的人叫赵周彬，自2018年底以来，他一直通过在Telegram上运营的会员聊天室分享这些非法视频片段。Telegram是在韩国很受欢迎的加密信息服务。</div>
+<div class="article-paragraph">赵周彬在网上化名“博士”，是韩国当局对此类数量激增的色情视频交易的打击中，最臭名昭著的犯罪嫌疑人。</div>
+<div class="article-paragraph">周三上午，在被押解离开首尔一间警局，前往检察官办公室的途中，赵周彬说，“感谢你们让我停下了我无法停下的恶魔般的生活。”但当记者要求他就面临的多项多项刑事指控发表评论时，他没有做出回应。</div>
+<div class="article-paragraph">直到周三，警方才公布赵周彬的名字和照片。韩国通常保护犯罪嫌疑人的身份，尊重他们及其亲属的权利。但当被告是公众人物或有特别令人发指的罪行时，就会有例外情况。</div>
+<div class="article-paragraph"><span>自上周赵周彬被逮捕以来，<a href="https://www1.president.go.kr/petitions/586819" rel="noopener noreferrer" target="_blank" title="Link: https://www1.president.go.kr/petitions/586819">超过260万韩国人</a>在网上向文在寅总统请愿，要求政府公开他的名字和长相。另一则吸引<a href="https://www1.president.go.kr/petitions/586880" rel="noopener noreferrer" target="_blank" title="Link: https://www1.president.go.kr/petitions/586880">近190万人</a>参与的请愿</span>，则要求政府公布参与了赵周彬和其他类似聊天室的所有客户名单。</div>
+<div class="article-paragraph">周三，韩国警察厅在将赵周彬移交检方时表示，之所以披露赵周彬身份，是因为他“反复用残忍的犯罪手段”使74名女性（包括16名未成年人）沦为性“奴隶”。</div>
+<div class="article-paragraph">过去一周，随着韩国媒体不断披露赵周彬涉嫌犯罪活动的细节，韩国民众表达了越来越强烈的愤怒。</div>
+<div class="article-paragraph">警方称，赵周彬在网上用虚假的工作机会吸引女性受害者，然后引诱她们拍摄露骨的性视频片段，并承诺给她们一大笔钱。一旦得到这些不堪的素材，他就以此为勒索工具，威胁要在网上或向她们的朋友亲戚公开，除非她们继续提供愈加灭绝人性甚至暴力的素材。</div>
+<div class="article-paragraph">据当地媒体报道，在这些视频中，一些受害者的身体上刻有“奴隶”这个词。</div>
+<div class="article-paragraph">近年来，作为世界致力于打击儿童色情产业的一部分，韩国警方一直在取缔色情文件分享网站。但与此同时，警方说他们很快意识到很大一部分非法色情交易正转移到Telegram等社交媒体信息服务的聊天群中。</div>
+<div class="article-paragraph">Telegram大受欢迎，是因为许多韩国人认为这类加密信息应用有助于保护他们的言论自由。但据警方不断扩大的调查显示，这类应用也成为了色情交易的重要工具。</div>
+<div class="article-paragraph">去年9月，警方逮捕了一名化名“守望者”的聊天室运营者。他的身份原来是一名38岁的办公室职员。上个月，警方逮捕了66名参与其他在线聊天室运营的人。</div>
+<div class="article-paragraph">但如今看来，这位“博士”在从事这项暴利营生时格外狡猾，调查人员说，他在Telegram聊天室中用“预览”片段吸引客户，当客户要求更多露骨或污秽的视频时，他就向他们收取更高的费用。</div>
+<div class="article-paragraph">当警方在上周终于将其逮捕，才得知“博士”就是赵周彬，首尔以西的仁川市一所两年制职业学院的普通毕业生，曾经担任过校报主编。据当地媒体报道，赵周彬过着双重生活，同时还在一家帮助残疾人和穷人的慈善机构当志愿者。</div>
+<div class="article-paragraph">警方还逮捕了十几名共犯，其中有20多岁的年轻人，在政府机构服务以履行强制性的兵役。调查人员还在寻找另一个化名“GodGod”的匿名聊天室运营者。</div>
+<div class="article-paragraph">周一，文在寅承诺进行全面调查，严惩不贷。他还敦促警方调查这些聊天室的客户。调查人员称，赵周彬和他的客户经常使用加密货币来摆脱警方的追踪。</div>
+<div class="article-paragraph"><span>2017年，韩国修订法律，加强对偷拍色情内容——即用隐蔽的微型摄像机拍摄女性受害者，地点<a href="https://www.nytimes.com/2018/09/03/world/asia/korea-toilet-camera.html">通常在公共卫生间</a>——的惩罚。韩国女性家族部(Ministry of Gender Equality and Family)部长李贞玉本周表示，政府正努力进一步</span>增加对网络性犯罪的惩治。</div>
+*
+新型冠状病毒，来自穿山甲的复仇？
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">“再也不能无动于衷了！”上个月初，中国国家主席习近平对高层官员<a href="http://www.qstheory.cn/dukan/qs/2020-02/15/c_1125572832.htm" rel="noopener noreferrer" target="_blank" title="Link: http://www.qstheory.cn/dukan/qs/2020-02/15/c_1125572832.htm">发怒</a>，他所指的是食用野生动物带来的公共健康风险。2月24日，第十三届全国人民代表大会<a href="https://www.nytimes.com/2020/02/27/science/coronavirus-pangolin-wildlife-ban-china.html">通过决定</a>，“全面禁止非法野生动物交易、革除滥食野生动物陋习、切实保障人民群众生命健康安全。”这一决定以及早些时候对野生动物市场发布的禁令，是对新冠病毒所引发的担忧的直接回应，据信这种病毒起源于蝙蝠，可能是通过中国中部城市<a href="https://www.businessinsider.com/wuhan-coronavirus-chinese-wet-market-photos-2020-1" rel="noopener noreferrer" target="_blank" title="Link: https://www.businessinsider.com/wuhan-coronavirus-chinese-wet-market-photos-2020-1">武汉一个活鲜市场</a>出售的野生动物传播给人类的。<br/></div>
+<div class="article-paragraph"><span>目前，基因分析还没有找到罪魁祸首，但<a href="https://cn.nytimes.com/health/20200211/pangolin-coronavirus/" title="Link: https://cn.nytimes.com/health/20200211/pangolin-coronavirus/">主要的怀疑对象之一</a>就是穿山甲，这是一种长鼻、有鳞、以蚂蚁为食的哺乳动物，在西方几乎不为人知，但在中国却被广泛认为是一种美味佳肴，且具有药用价值。</span></div>
+<div class="article-paragraph"><span>现在，鉴于穿山甲被怀疑可能让人类感染了<a href="http://www.nytimes.com/2020/03/05/world/coronavirus-news.html" title="Link: http://www.nytimes.com/2020/03/05/world/coronavirus-news.html">Covid-19</a></span>，它将最终得以幸免并得到保护。真会这样吗？</div>
+<div class="article-paragraph">30年来，中国明面上一直禁止野生动物交易，但这没有让穿山甲逃脱成为世界上被非法贩卖最多的哺乳动物的命运。</div>
+<div class="article-paragraph"><span>中国<a href="http://www.china.org.cn/english/environment/34349.htm" rel="noopener noreferrer" target="_blank" title="Link: http://www.china.org.cn/english/environment/34349.htm">第一部野生动物保护法</a>的颁布可以追溯到1980年代末期，</span>同时期官方还列出了约330种濒危物种名录。例如非法偷猎、走私或交易穿山甲这样的行为，可能会被判长期监禁。</div>
+<div class="article-paragraph">2000年，中国发布了针对1700多种被认为具有生物、科学或社会价值的受保护物种的详细法规。在池塘里捕捉蟾蜍或抓壁虎都可能违法。</div>
+<div class="article-paragraph"><span>2007年，<a href="https://www.chinadialogue.net/article/show/single/ch/11275-The-plight-of-the-pangolin-in-China" rel="noopener noreferrer" target="_blank" title="Link: https://www.chinadialogue.net/article/show/single/ch/11275-The-plight-of-the-pangolin-in-China">在定点医院和诊所之外</a>销售穿山甲产品属于违法。2018年，武汉市所在的湖北省划建<a href="http://www.yangtse.com/app/zhongguo/2018-11-15/640741.html" rel="noopener noreferrer" target="_blank" title="Link: http://www.yangtse.com/app/zhongguo/2018-11-15/640741.html">近300个野生动物保护地</a>，并严厉打击无证狩猎和交易。</span></div>
+<div class="article-paragraph">但这些措施没能够保护穿山甲。2019年1月，香港当局仅在一批货物<span>中就查获了<a href="https://www.nytimes.com/2019/02/01/world/asia/pangolin-smuggling-hong-kong.html" title="Link: https://www.nytimes.com/2019/02/01/world/asia/pangolin-smuggling-hong-kong.html">九吨穿山甲鳞片</a>，这些鳞片被认为来自大约1.4万只穿山甲。接下来的一个月，马来西亚查获了<a href="https://www.nytimes.com/2019/04/08/world/asia/pangolin-singapore-seizure-poaching.html">33吨穿山甲肉</a>，到4月，新加坡又查获了14吨穿山甲鳞片。</span></div>
+<div class="article-paragraph"><span>根据野生动物保护组织野生救援(WildAid)<a href="https://wildaid.org/wp-content/uploads/2017/09/WildAid-Pangolins-on-the-Brink.pdf" rel="noopener noreferrer" target="_blank" title="Link: https://wildaid.org/wp-content/uploads/2017/09/WildAid-Pangolins-on-the-Brink.pdf">2016年的一份报告</a>，在过去十年里，有超过100万只穿山甲被偷猎，<a href="https://www.traffic.org/publications/reports/pangolin-trade-in-china/" rel="noopener noreferrer" target="_blank">有人说</a>这一数字占到了所有非法野生动物交易的20%。</span></div>
+<div class="article-paragraph"><span>根据全球野生动物交易监控网络<a href="https://www.traffic.org/publications/reports/pangolin-trade-in-china/" rel="noopener noreferrer" target="_blank">TRAFFIC</a>的数据，从2007年到2016年，大约有9万只穿山甲被走私到中国。2017年，<a href="https://www.cites.org/eng/disc/what.php" rel="noopener noreferrer" target="_blank" title="Link: https://www.cites.org/eng/disc/what.php">《濒危野生动植物种国际贸易公约》</a>（中国亦参与其中）针对所有八种穿山甲的国际商业贸易禁令开始生效。但根据<a href="http://www.cbcgdf.org/English/index.html" rel="noopener noreferrer" target="_blank" title="Link: http://www.cbcgdf.org/English/index.html">中国生物多样性保护与绿色发展组织</a>(China Biodiversity Conservation and Green Development Group)的数据，截至去年，中华穿山甲在中国大陆地区已<a href="http://www.chinadevelopmentbrief.cn/news/environmental-organization-proclaims-the-chinese-pangolin-functionally-extinct-provoking-debate/" rel="noopener noreferrer" target="_blank" title="Link: http://www.chinadevelopmentbrief.cn/news/environmental-organization-proclaims-the-chinese-pangolin-functionally-extinct-provoking-debate/">“功能性灭绝”</a>。</span></div>
+<div class="article-paragraph">在过去20年里，马来亚穿山甲的数量减少了80%，而菲律宾和印度的穿山甲数量减少了50%。</div>
+<div class="article-paragraph">问题之一在于中国的监管框架中没有明确野生动物的范畴<span>。执法一直很松懈，而且像<a href="https://mp.weixin.qq.com/s/HyQCeCrE-Z2ZZZ64LHngUQ" rel="noopener noreferrer" target="_blank" title="Link: https://mp.weixin.qq.com/s/HyQCeCrE-Z2ZZZ64LHngUQ">中药商店</a>和<a href="http://www.bjd.com.cn/a/202001/24/WS5e2a4cc0e4b0e6e58393bcdd.html" rel="noopener noreferrer" target="_blank">网上卖家</a>这种有执照的零售商都不在监管范围之外。最新的禁令也有<a href="https://newsroom.wcs.org/News-Releases/articleType/ArticleView/articleId/13855/WCS-Statement-and-Analysis-On-the-Chinese-Governments-Decision-Prohibiting-Some-Trade-and-Consumption-of-Wild-Animals.aspx" rel="noopener noreferrer" target="_blank">漏洞</a>，</span><a href="https://www.nytimes.com/2020/02/27/science/coronavirus-pangolin-wildlife-ban-china.html" title="Link: https://www.nytimes.com/2020/02/27/science/coronavirus-pangolin-wildlife-ban-china.html">允许药用或研究用途的野生动物交易</a>。</div>
+<div class="article-paragraph">再者，穿山甲市场需求当然非常庞大，随之而来的就是偷猎者和销售者看到<span>巨大的经济利益。活穿山甲的价格已经从1990年代的每磅七美元涨到了<a href="https://qz.com/874854/chinas-insatiable-thirst-for-pangolin-scales-is-fed-by-an-international-black-market/" rel="noopener noreferrer" target="_blank" title="Link: https://qz.com/874854/chinas-insatiable-thirst-for-pangolin-scales-is-fed-by-an-international-black-market/">现在的每磅300美元左右</a>。</span></div>
+<div class="article-paragraph"><span>穿山甲火锅被认为是美味。官员们经常用<a href="http://news.sina.com.cn/c/nd/2017-02-07/doc-ifyafcyw0540684.shtml" rel="noopener noreferrer" target="_blank">爆炒穿山甲肉</a>来招待贵客。有人用姜和香茅<a href="http://www.ttmeishi.com/YuanLiao/chuanshanjia/" rel="noopener noreferrer" target="_blank">炖煮</a></span>或<span>蒸穿山甲，并<a href="https://www.youtube.com/watch?v=BZY7x1166EQ" rel="noopener noreferrer" target="_blank">在网上晒出成品</a>。穿山甲肉是地位的象征。</span></div>
+<div class="article-paragraph">穿山甲鳞片更是被认为具有保健功用<span>。<a href="https://wildaid.org/victory-cites-approves-strong-protections-for-pangolins/" rel="noopener noreferrer" target="_blank">在2015年的一项调查中</a>，70%的中国受访者表示相信食用穿山甲可以治疗风湿、皮肤病和促进伤口愈合。人们持有这样的信念，认为它们来自传统</span>的中国烹饪和医学。</div>
+<div class="article-paragraph">只不过，我们的祖先其实说的是完全相反的话。</div>
+<div class="article-paragraph">穿山甲肉如果有什么作用，也是引发疾病而不是治愈疾病：它味道很苦，且被认为有毒性。652年，唐朝的炼丹家孙思邈所著的处方集《备急千金要方》给出了这样的建议：“腹内有宿病勿食鲮鲤鱼肉，害人。”草药学家、博物学家与医生李时珍(1518–1593)所著的中国医学及烹饪典籍《本草纲目》则警告吃穿山甲的人“食后慢性腹泻，继而惊风狂热”。</div>
+<div class="article-paragraph">古籍还告诫人们其它的野生动物也都不要吃，包括蛇、獾以及如野猪这样的动物，如今这些动物被认为有时会将疾病传染给人类。</div>
+<div class="article-paragraph"><span>然而，根据百度的大数据检索，在Covid-19暴发前的十年，即2009年到2019年之间，关键词<a href="https://news.sina.com.cn/s/2020-02-01/doc-iimxyqvy9413501.shtml" rel="noopener noreferrer" target="_blank" title="Link: https://news.sina.com.cn/s/2020-02-01/doc-iimxyqvy9413501.shtml">“穿山甲”</a>占到所有“野味”搜索量的23%。比野猪、竹鼠和</span>椰子狸都要多。</div>
+<div class="article-paragraph">自上个月中国禁止食用某些麝香猫、蝙蝠、旱獭<span>以及穿山甲以来，中国社交媒体上关于什么野生动物还能吃的话题<a href="https://new.qq.com/omn/20200225/20200225A0TAME00.html" rel="noopener noreferrer" target="_blank">依然流行</a>。“牛蛙还能吃吗？”“鹿肉呢？”“鹌鹑还能吃吗？鹌鹑蛋呢？”</span></div>
+<div class="article-paragraph">穿山甲真的把冠状病毒传给人类了吗？因为我们把它们带到了灭绝的边缘，Covid-19是它们对我们的报复吗？无论如何，再出台一项禁止买卖和食用穿山甲的法令都不太可能帮到它们，尤其是在它们的医用价值仍被看重的情况下。这时候更该做的，是对抗关于健康和传统的现代误解——就这一任务而言，没什么比重读几世纪前的典籍更有用处了。</div>
+*
+奥巴马在民主党初选中扮演了什么角色？
+<div class="article-paragraph"><div class="" data-poster=""><iframe allowfullscreen="true" frameborder="0" height="321" scrolling="0" src="https://www.nytimes.com/video/players/offsite/index.html?videoId=100000007087323" width="480"></iframe></div></div>
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">过去一年里，乔·拜登(Joe Biden)和前总统贝拉克·奥巴马(Barack Obama)在政治上保持着一定的距离，奥巴马在民主党初选中保持了一种公开中立的姿态，任何候选人来电话，他都会提供建议（多数人也都这样做了），而拜登则说想靠自己赢得选举。</div>
+<div class="article-paragraph">不过，尽管如此精心地隐蔽起来，奥巴马在这场竞选终局部分的参与，仍然比之前披露的要多很多，即便在他周二宣布支持拜登之前就已如此。</div>
+<div class="article-paragraph">几个月来，奥巴马一直与党内高级官员保持密切联系，希望防止2016年那样漫长而恶劣的初选重演。</div>
+<div class="article-paragraph">随后，在拜登几乎确定成为民主党提名人的几周后，奥巴马告诉一位朋友，他需要“加快终局的推进”——与他的前副总统仅存的对手、伯尼·桑德斯(Bernie Sanders)参议员进行了至少四次长谈。据熟悉桑德斯的人士透露，奥巴马要他退出竞选的建议，在他终止竞选、支持拜登的决定中发挥了重要作用。</div>
+<div class="article-paragraph">那时，拜登和奥巴马已经开始具体讨论棘手的问题：将在何时何地，如何安排前总统扮演他所不熟悉的角色，为他当年的“小弟”充当“小弟”。</div>
+<div class="article-paragraph">如何处理这些问题是朋友之间的谈判，但这是一场微妙的谈判。与两人关系密切的十几名人士接受采访时表示，再度联手虽然是双方都乐意的事，但由于政治和个人问题交织在一起，联合的条件变得复杂起来。这些人大多要求匿名。</div>
+<div class="article-paragraph">现在，随着初选结束，拜登和他的助手们急于尽快有效地利用这位前总统，尤其是在筹款方面，因为他们要与唐纳德·特朗普总统靠小额捐款形成的强大力量抗衡。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="2016年，小约瑟夫·R·拜登副总统和贝拉克·奥巴马总统。奥巴马对今年初选的参与，比之前披露的要多得多。" data-src="https://static01.nyt.com/images/2020/04/12/us/politics/00Obama-biden-01/merlin_114191773_00711942-8d2c-4da3-9638-e6f6338950a2-master1050.jpg" src="https://static01.nyt.com/images/2020/04/12/us/politics/00Obama-biden-01/merlin_114191773_00711942-8d2c-4da3-9638-e6f6338950a2-master1050.jpg"/></div><figcaption><span>2016年，小约瑟夫·R·拜登副总统和贝拉克·奥巴马总统。奥巴马对今年初选的参与，比之前披露的要多得多。</span> <cite>Al Drago/The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">“拜登显然凭自己的力量取得了巨大的成就，但总统是任何人都无法替代的——我的意思是，特朗普身边有谁呢？”为奥巴马做民调工作多年、希拉里·克林顿(Hillary Clinton)在2016年的高级顾问乔·本纳森(Joel Benenson)说。“到了他能让奥巴马参与的程度，你知道，这可是一件大事。”</div>
+<div class="article-paragraph">据几位熟悉奥巴马想法的人士透露，奥巴马对竞选活动提出的任何建议都持开放态度。但他仍建议保持谨慎，以便更好地保留自己的政治资本，避免让人觉得他是来拯救拜登的。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="拜登在南卡罗来纳州举行的选举夜派对上，他在那里的初选胜利，开启了他的复出之旅。" data-src="https://static01.nyt.com/images/2020/04/12/us/politics/00Obama-biden-02/merlin_169813206_26dddb85-7cf1-4d85-87b0-30d79adb19ed-master1050.jpg" src="https://static01.nyt.com/images/2020/04/12/us/politics/00Obama-biden-02/merlin_169813206_26dddb85-7cf1-4d85-87b0-30d79adb19ed-master1050.jpg"/></div><figcaption><span>拜登在南卡罗来纳州举行的选举夜派对上，他在那里的初选胜利，开启了他的复出之旅。</span> <cite>Maddie McGarvey for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">更紧迫的问题是，在新冠大流行和经济崩溃期间，与现任总统的较量存在一些实务上的困难。和特朗普一样，奥巴马更擅长在现场面对观众发表激动人心的演讲，而不是面对镜头录制演讲。然而由于限制社交距离禁令，在可预见的未来，现场面对观众演讲是不可能做到的。</div>
+<div class="article-paragraph">在周二上午发布的一段冷静而充满激情的12分钟视频里，奥巴马宣布支持拜登。“我很自豪能支持乔·拜登成为美国总统，”奥巴马说，画面显示了他面部的特写镜头。“我相信乔具备我们现在所需要的总统的一切品质。”</div>
+<div class="article-paragraph">对于如何推销拜登，奥巴马提供了一个预演，不是将他当作一名传统的独立候选人，而是作为结合了正直和才能的广泛民主联盟的领袖。在把桑德斯吸引回来后，他称赞他为“原汁原味的美国人，一生致力于为劳动者的希望发声”，他以“与我们携手。与乔携手。”作为影片的结尾。</div>
+<div class="article-paragraph">竞选团队仍在制定让奥巴马参与筹款的细节。但据知情人士透露，现在仍是奥巴马最信任的政治顾问的戴维·普洛夫(David Plouffe)主动请缨，并计划参加几场拜登的虚拟筹款会，这些活动可能是奥巴马参与前的演习。</div>
+<div class="article-paragraph">拜登感谢奥巴马的友谊，但对他自己这场空前的复出越来越感到自豪。据一位了解他的民主党资深人士透露，当有新闻报道称奥巴马致电祝贺拜登在南卡罗来纳州的胜利时，这位候选人向他的工作人员明确表示，尽管他与奥巴马的关系在推动非裔美国选民方面发挥了作用，但奥巴马“没有动一根手指”。</div>
+<div class="article-paragraph">这个嘛，也许动了动小拇指。去年，奥巴马向拜登的团队提供了竞选策略建议，艾奥瓦党团会议选战失利后，还为拜登鼓劲。去年秋天与自由派组织民主联盟(Democracy Alliance)成员进行的一次私人晚宴上，奥巴马对桑德斯的“革命式”政策提出了含蓄的批评，并认为选民想要的是改变，而不是“推翻体制”。</div>
+<div class="article-paragraph">奥巴马对民主党大选已经提前结束感到松了一口气，但他还有其他的2020年计划——希望在竞选活动白热化之前完成、出版和宣传他的白宫回忆录。</div>
+<div class="article-paragraph">他原本打算在大会（现定最早于8月举行）结束后公开参与，当初在2016年的克林顿和2018年的国会候选人的秋季巡回竞选活动中，他就是这样做的。在桑德斯获得内达华州党团会议初选胜利后，一些民主党官员今年早些时候提议奥巴马代表拜登出面干预，被他拒绝，理由是他不想为了朋友而去“作弊”。</div>
+<div class="article-paragraph">但是，随着桑德斯的蹿升和拜登的滑落，他对选战态势越来越感到不安。到2月下旬，他对身边人说，拜登的竞选缺乏“基础设施”这一点令他担心，而拜登在失去艾奥瓦州和新罕布什尔州之后仍相信自己能获得提名，也让他心存疑虑。</div>
+<div class="article-paragraph">民主党官员说，奥巴马没有直接参与此后不久的竞选策略调整。但了解情况的人士说，他明确表示，他支持拜登的决定——任命前奥巴马竞选场地组织专家珍妮弗·奥马利·狄龙(Jennifer O'Malley Dillon)为新的竞选经理，并将另一位奥巴马的老部下、前白宫通讯主管安妮塔·邓恩(Anita Dunn)提拔到更高的职位。</div>
+<div class="article-paragraph">奥巴马并没有直接鼓励桑德斯的对手在决定性的超级星期二初选之前支持拜登。但是他的确对温和派的皮特·布蒂吉格(Pete Buttigieg)说，宣布退选那一天的他，掌握着与人谈条件的巨大资本——这位前印第安纳州南本德市长很快就加入了支持拜登的前候选人的行列。</div>
+<div class="article-paragraph">曾在2016年指责民主党建制势力密谋支持克林顿的桑德斯，注意到了所有这些举动，但他并未对奥巴马做出类似的指责。</div>
+<div class="article-paragraph">实际上，他的一个竞选顾问在上个月桑德斯一连串的惨败后说，参议员对奥巴马在整个竞选期间的中立表示感谢。该顾问要求匿名。桑德斯否认有报道称他曾打算在2012年对奥巴马提出初选挑战，但桑德斯近几个月来曾多次与前总统进行接触，以告知他竞选活动的进展。</div>
+<div class="article-paragraph">最后，桑德斯得出结论，通过前总统来商讨一个缓和协议，可以减轻退选给他的选民造成的打击。奥巴马的参与是否最终会吸引桑德斯选民在大选中支持拜登，目前尚不得而知，而包括桑德斯自己的竞选新闻秘书在内的一些支持者表示并不会。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="2016年，伯尼·桑德斯参议员和奥巴马。据接近桑德斯的人士透露，奥巴马让这位参议员退出竞选的建议，在他决定结束竞选、支持拜登的过程中发挥了重要作用。" data-src="https://static01.nyt.com/images/2020/04/12/us/politics/00Obama-biden-03/00Obama-biden-03-master1050.jpg" src="https://static01.nyt.com/images/2020/04/12/us/politics/00Obama-biden-03/00Obama-biden-03-master1050.jpg"/></div><figcaption><span>2016年，伯尼·桑德斯参议员和奥巴马。据接近桑德斯的人士透露，奥巴马让这位参议员退出竞选的建议，在他决定结束竞选、支持拜登的过程中发挥了重要作用。</span> <cite>Zach Gibson for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">3月下旬，奥巴马主动与桑德斯取得了联系。两名知情人士说，他们后来至少又进行了三次会谈，前总统希望桑德斯放心，他已经在相当程度上完成了他想要做的工作，让民主党——以及拜登——实现充分的左倾。</div>
+<div class="article-paragraph">但是，人们说，他主要是作为一个倾听者，听取沉浸在反思中的桑德斯坦率地谈论他在竞选后的计划，以及对选战的感受，两人此前从未有过这样的对话。</div>
+<div class="article-paragraph">就桑德斯而言，他希望和前总统保持通畅的沟通渠道。在上周退选后不久，在接受MSNBC采访时被问到可否透露谈话内容，他对着镜头摆摆手表示不会说，并回答：“那是私人谈话。”</div>
+<div class="article-paragraph">采访者克里斯·海斯(Chris Hayes)继续问：“那么，我能问一下你与拜登副总统的谈话吗？”</div>
+<div class="article-paragraph">“哦，那可以，”桑德斯笑着回答。</div>
+*
+在意大利被排斥的香港学生：我成了冠状病毒“代言人”
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">上个月从家乡香港到达意大利博洛尼亚后不久，席亚拉·卢(Ciara Lo)的钱包就被偷了。但她说，去警察局报案时，她被告知必须在外面等。而当这名22岁的学生想去银行开户时，她说自己又被员工拒之门外。那名员工同时还说了一些有关新型冠状病毒的话。<br/></div>
+<div class="article-paragraph">前往意大利博洛尼亚附近的摩德纳雷焦艾米利亚大学(University of Modena and Reggio Emilia)读书的卢女士说，自从来到这里，她就感到被歧视，甚至被刻意避开——因为她是华人。</div>
+<div class="article-paragraph">一个多星期以来，意大利北部一直在艰难应对不断蔓延的冠状病毒，而该病毒源自中国大陆的湖北省武汉市。多座城市已被封锁，确诊病例累计超过1600例，死亡34人。</div>
+<div class="article-paragraph">反政府抗议活动和内乱在香港持续了数月之后，英语专业的卢女士表示很期待出国就读的这个学期，以及她的第一次欧洲之行。由于担心交换项目可能因新冠病毒而暂停，她比原定计划提早九天飞到了意大利。</div>
+<div class="article-paragraph">她说：“我以为来到意大利意味着我可以出去走一走。”</div>
+<div class="article-paragraph">然而她说，她在博洛尼亚机场被恶狠狠地盯了很久，她猜想会不会是因为脸上那只在16个小时的飞行中一直没摘下来的口罩。她乘上了一辆去往博洛尼亚市中心的公共汽车——到市中心后不久，她说她的背包被人划开，钱包被盗。</div>
+<div class="article-paragraph">一位路人把她带到警察局报案，但是在出示香港护照后，她说她被告知要在外面等。她穿着薄薄的卫衣，在外面很快冻得开始发抖。</div>
+<div class="article-paragraph">卢女士说，最终她被允许做了备案，但是再也没有收到过有关自己钱包的消息，警方倒是给了一个电话号码，要她在出现冠状病毒症状时拨打。（博洛尼亚警方没有立即回应置评请求。）</div>
+<div class="article-paragraph">卢女士在意大利联合圣保罗银行(Intesa Sanpaolo)受到的对待也令她大吃一惊。她想要在这家银行开户，以便父母为她汇款。在一个分行，一位柜员告诉她，她不会说意大利语，所以无法开设帐户。在另一个分行，她说她被一名员工护送出去，这名员工抱歉地告诉她，她必须离开，因为她来自“冠状病毒区”。</div>
+<div class="article-paragraph">银行发言人表示，卢女士受到的对待“缺乏尊重，没有反映意大利联合圣保罗银行的价值观或政策”。</div>
+<div class="article-paragraph">卢女士说，并不是在意大利遇到的每个人都对她都怀有敌意。有些人竭尽所能帮助她。陪她去警察局的那个人在他们分别时给了她一笔饭钱，在另一家银行，一名员工代表她打电话给她的大学，解释说她没有钱，开户有困难。学校派了一名雇员到博洛尼亚借钱给她。</div>
+<div class="article-paragraph">但总的来说，卢女士感觉像是被排斥了。</div>
+<div class="article-paragraph">她说：“我很难过。因为我是华人，所以我就成了冠状病毒的代言人。”</div>
+<div class="article-paragraph">最近几天，意大利已成为欧洲冠状病毒暴发的中心，是亚洲地区之外确诊病例最多的国家。为了避开人群和不受欢迎的目光，卢女士大部分时间待在家里，只在买菜的时候冒险出门。</div>
+<div class="article-paragraph">她说，博洛尼亚各地超市货架上的漂白剂和诸如意大利面、番茄酱等主要食物已经扫荡一空。街道像香港一样空无一人。口罩仍不常见，但是越来越多的人用冬天戴的围巾遮住了嘴。</div>
+<div class="article-paragraph">尽管觉得银行和警察局的人对她不友善，但卢女士表示对他们并没有心存恨意。她感到自己不受欢迎，但她能理解为什么意大利人担心并且想要维护他们的社区安全。在香港也有类似的感觉，但歧视是针对中国大陆来的人们。</div>
+<div class="article-paragraph">“我在想，爱国和排外之间是否能找到一种平衡，”她问。“对香港人来讲也是一样：在友善待人的同时，我们如何保护自己的福祉和权利？”</div>
+<div class="article-paragraph">她又说道：“要取得平衡并不容易，永远不会有平衡。”</div>
+*
+美国从“钻石公主号”邮轮撤侨
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">在“钻石公主号”邮轮于日本横滨接受隔离检疫超过一个星期后，船上的<a href="https://www.nytimes.com/2020/02/16/world/asia/coronavirus-japan-cruise-americans.html">美国乘客撤离</a>。这艘邮轮上已有数百人感染了新型冠状病毒。</div>
+<div class="article-paragraph">根据美国驻日本大使馆的一份声明，这些美国乘客乘坐周一早晨7时05分从东京启程的两架包机飞往美国。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="周日，“钻石公主号”停泊在横滨的大黑码头。" data-src="https://static01.nyt.com/images/2020/02/16/world/16japan-ship-sub3/merlin_169022790_cd5ba8fd-8c3e-4199-b1fa-471067685440-master1050.jpg" src="https://static01.nyt.com/images/2020/02/16/world/16japan-ship-sub3/merlin_169022790_cd5ba8fd-8c3e-4199-b1fa-471067685440-master1050.jpg"/></div><figcaption><span>周日，“钻石公主号”停泊在横滨的大黑码头。</span> <cite>Athit Perawongmetha/Reuters</cite></figcaption></figure></div>
+<div class="article-paragraph">在这些乘客准备离开日本时，日本卫生官员称，“钻石公主号”邮轮上确认感染冠状病毒的病例已从70例升至355例。</div>
+<div class="article-paragraph"> “只想马上离开这里，”52岁的医疗社工萨拉·阿拉纳(Sarah Arana)周日对记者说。她来自加州帕索罗伯斯。</div>
+<div class="article-paragraph">美国大使馆之前建议美籍乘客在为期14天的隔离期内留在邮轮上，但随着情况恶化，突然在周六<a href="https://www.nytimes.com/2020/02/15/world/asia/japan-cruise-ship-coronavirus.html">改变计划</a>，称这是“一个快速发展的状况”。</div>
+<div class="article-paragraph">包括“钻石公主号”上的病例在内，日本报告的新型冠状病毒感染人数是中国大陆以外地区中最高的。在世界范围内，目前已有<a href="https://cn.nytimes.com/morning-brief/20200217/coronavirus-china-briefing/">超过7万人被感染，1700余人死亡</a>，绝大多数发生在中国大陆。</div>
+<div class="article-paragraph"><i>[</i><a href="https://www.nytimes.com/zh-hans/2020/02/11/world/asia/corona-virus-student-stories-chinese.html"><i>征文：新冠病毒给你带来什么影响</i></a><i>？]</i><br/></div>
+<div class="article-paragraph">这艘邮轮在接受隔离时，共载有乘客和船员超过3700人，其中有大约400名美国人。被发现带有病毒和一些尤其易受感染的乘客被送下了船。</div>
+<div class="article-paragraph">根据美国国务院的一份声明，只有经过筛查、没有表现出任何疾病症状的乘客可以乘坐此次飞往美国的航班。</div>
+<div class="article-paragraph">一经入境美国，这些乘客将被要求在加州费尔菲尔德的特拉维斯空军基地或者圣安东尼奥附近的拉克兰空军基地接受为期两周的隔离。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="美国乘客盖伊·柯尔特正在“钻石公主号”上收拾她的行李。" data-src="https://static01.nyt.com/images/2020/02/16/world/16japan-ship2/16japan-ship2-master1050.jpg" src="https://static01.nyt.com/images/2020/02/16/world/16japan-ship2/16japan-ship2-master1050.jpg"/></div><figcaption><span>美国乘客盖伊·柯尔特正在“钻石公主号”上收拾她的行李。</span> <cite>Philip Courter, via Reuters</cite></figcaption></figure></div>
+<div class="article-paragraph">美国大使馆表示，没有能够乘坐这两架包机的人们在3月4日前不能进入美国，该日期是他们在周三被允许下船的两星期以后。</div>
+<div class="article-paragraph">澳大利亚政府称已派出一名专家前往横滨，考量对船上超过200名澳籍乘客的最佳安排方案。以色列政府称该国三名在船上的乘客已被感染。这是以色列的首批确诊病例。</div>
+<div class="article-paragraph">在该邮轮上，有大约330名香港居民，包括260名中国公民和70名外籍人士。香港政府称，香港乘客中有11人已被感染。</div>
+<div class="article-paragraph">一名于1月乘坐“钻石公主号”邮轮从横滨前往香港的80岁男性乘客在2月1日被检出冠状病毒阳性，这是该邮轮上的第一例感染病例。</div>
+*
+从新冠病毒致死率看女性的生存优势
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">随着新冠病毒的传播不断跨越国界、海洋和大陆，有一个令人困惑的数据至今仍未能得到合理解释：虽然现在说还为时过早，但几乎在所有有数据支持的国家，死于该病毒的<a href="https://cn.nytimes.com/health/20200221/coronavirus-men-women/">男性都多于女性</a>。</div>
+<div class="article-paragraph">对于这种差异的解释主要集中在行为方面，其中一些几乎肯定是正确的。抽更多烟、不愿寻求适当及时的医疗服务、不爱洗手，这些绝对会影响什么样的人受到最严重的打击。</div>
+<div class="article-paragraph">但在这些解释中，有一点被忽视了：男性死于新冠病毒的比例高于女性并不是一种异常现象。更确切地说，它可能及时而引人瞩目地证明了一个直到最近都被低估的科学事实：在生存方面，男性是较为弱势的性别。</div>
+<div class="article-paragraph">不仅仅是在百年一遇的大流行病期间才是如此。这种天生的生物优势在人类生活的各个年龄阶段都很明显：女婴总是更有可能活到一周岁；如今80%的百岁老人是女性；活到110岁高龄的老人中，女性的比例达到惊人的95%。一般来说，基因意义上的男性肌肉更发达、身材更高、体型更大、身体更强壮，但在从出生到晚年遇到的种种身体方面的困难方面，基因意义上的女性几乎总是比基因意义上的男性更能克服过去。</div>
+<div class="article-paragraph">长期以来，我们一直认为，男性过早的、不成比例的死亡背后的唯一原因是行为。但事实上，无论教育程度、经济状况，乃至酒精、毒品或烟草的消费情况如何，女性在两性中的生存优势依然存在。</div>
+<div class="article-paragraph">几年前，我以一种非常个人化而痛苦的方式开始了解女性的生理优势。那是一个美丽的夏日。经过漫长的冬天和潮湿的春天，终于阳光普照。我答应妻子艾玛共享一段安静的二人世界：只有她，一个XX女性，还有我，一个XY男性。我记得的最后一件事是，我们在一条几乎空无一人的街道上驾车向西行驶，我伸出手握住她的手。</div>
+<div class="article-paragraph">目击者后来告诉我们，有人从侧面撞上了我们，他闯了红灯，以每小时45英里的速度向我们冲来。我们的车翻了两圈，受到严重的撞击，车顶塌陷了，安全气囊也没有打开。由于车子被严重损坏，第一批急救人员准备应对可怕的创伤。我们能活着就已经很幸运了。</div>
+<div class="article-paragraph">虽然经历了这样的事，我们的伤势却相对较轻，也很相似——但是艾玛的伤势更严重一些。所以，当我绑在脊柱固定板上，救护车向医院飞驰的时候，除了在想为什么所有七个安全气囊都没能打开，我还在为艾玛是基因意义上的女性而心怀感激，因为我知道，即使妻子的伤势和我一样，鉴于几率，她也更有可能更好更快地复原。</div>
+<div class="article-paragraph">这种女性基因优势的背后是什么？答案要从染色体水平开始说起。</div>
+<div class="article-paragraph">重温一下两个性别之间的基本染色体差异：基因意义上的女性的细胞中有两条X染色体——一条来自母亲，一条来自父亲；而基因意义上的男性的细胞中只有一条来自母亲的X染色体，还有一条Y染色体。</div>
+<div class="article-paragraph">这是至关重要的，因为X染色体在构建和维持人类大脑和免疫系统等重要功能方面用处很大。生物学家早就知道，XX染色体在某些领域为女性带来了优势：如果另一个X染色体有缺陷，可以使用备用的X染色体，所以女性更不容易患上色盲等疾病。</div>
+<div class="article-paragraph">但我们现在才刚刚开始理解这条额外的X染色体所带来的全部好处：不仅仅是女性拥有额外的X染色体可以交换使用。更确切地说，由2000多个基因组合而成的两个X染色体，被那些在女性体内相互作用、相互合作的细胞所利用。每个细胞主要使用一个X染色体，因此，如果一条X染色体的基因能够更好地识别入侵病毒，比如说新冠病毒，使用该X染色体的免疫细胞就可以专注于这项任务；而使用另一条X染色体的免疫细胞则可以专注于杀死感染新冠病毒的细胞这类任务，从而提高对抗病毒的效率。</div>
+<div class="article-paragraph">相比之下，典型的男性在生存中不得不只靠一个X染色体。如果男性特定的基因无法有效识别或杀死感染新冠病毒的细胞怎么办？在这种情况下，他抵抗感染的能力将会受到限制：他只有那么一个孤零零的X。</div>
+<div class="article-paragraph">最关键的是，当处理生活中的创伤和压力时——不管是避免严重的先天畸形、发育障碍，或是抵抗感染——女性具有遗传选择。而男性则没有。</div>
+<div class="article-paragraph">和我相比，我的妻子的优势不仅仅是总体上寿命较长。例如，在我俩都有的器官中，她患癌症的风险就比我低。而且一旦患上癌症，她生存的几率更高，因为研究表明，女性对治疗的反应比男性要好。</div>
+<div class="article-paragraph">而且我们的性染色体在很大程度上决定着我们的性激素——这也给她带来了优势：更高水平的睾丸激素似乎会抑制免疫系统；相反，研究已发现雌激素可刺激产生更强烈的免疫反应。</div>
+<div class="article-paragraph">我们从事故中恢复过来，但恢复过程非常不同——我受的伤和后来的感染花了好几周才痊愈——她的遗传优势得以真正体现出来。无论生活如何考验，爱玛都可能比我活的久。</div>
+<div class="article-paragraph">女性的免疫系统更擅长与恶性细胞和微生物的入侵作斗争，而拥有这样更加积极的免疫系统的代价，则是更容易患自身免疫性疾病。女性的免疫系统更有可能攻击自己，在类风湿关节炎、多发性硬化症、自身免疫性甲状腺炎、干燥综合征和狼疮中就会发生这种情况。作为XY男性，我唯一的福利就是出现这些病症的机会较低。</div>
+<div class="article-paragraph">在临床医学实践中，对性别之间的这些生理差异的理解和应对没有取得太多进展。大多是因为医学界在很大程度上忽略了基因女性的染色体上、激素上和解剖学上的高度独特性。当前的医学实践主要基于针对雄性细胞、雄性组织、雄性器官、雄性动物和雄性测试对象的研究而建立的。于是，涉及到健康和福祉的决定因素时，我们对男性的了解更多。除妇科和产科问题等少数例外，我们倾向于在临床上像对待男性一样对待女性。因此，我们对性别差异产生的巨大医学影响的理解还停留在初期。</div>
+<div class="article-paragraph">但是，对这些差异的理解可能会填补阻碍我们取得医学突破的知识空白。我们需要改变以男性为中心、无视差异的医疗保健模式以及由此产生的研究文化。随着全球范围内令人担忧的男性死亡人数每天继续攀升，这种紧迫感在当前的全球大流行中最为明显。</div>
+<div class="article-paragraph"><span>大约20年前，美国国家科学院药学研究中心<a href="https://www.ncbi.nlm.nih.gov/books/NBK222288/" rel="noopener noreferrer" target="_blank">发表了一份报告</a>，其中称：“性别是重要的基本变量，应纳入考量。”然而，在20年后的今天，我们的医学实践方式几乎没有任何实质性的进展。现在，我们必须超越对这一变量的简单区分，去理解女性原生的真正生物优势</span>，以及男性在这方面的差异。医学的未来取决于此。</div>
+*
+撤离武汉之后：美国人的隔离生活什么样？
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>、或发送邮件至cn.letters@nytimes.com订阅《纽约时报》</i><a href="https://cn.nytimes.com/morning-brief/"><i>中文简报</i></a><i>。]</i></div>
+<div class="article-paragraph">洛杉矶——本周，一群陌生人聚集在温暖的南加州阳光下。他们和自己的子女一起玩球。他们沿着绿树成荫的小路慢跑。下午，他们一起看了电影。</div>
+<div class="article-paragraph">他们还得接受医务人员每天给他们量几次体温。他们不被允许离开这里。</div>
+<div class="article-paragraph">这个位于加州里弗赛德军事基地上的临时社区，是由从冠状病毒疫情重灾区中国武汉撤离的人组成的，共有195人，其中有外交官、婴儿、一名橄榄球运动员和一名主题公园设计师，他们都是自隔离政策实施后得以离开武汉的美国人。</div>
+<div class="article-paragraph">现在他们发现自己被困在美国。联邦政府上周五实施了从飞机离开武汉开始为期14天的隔离措施。起初这些患者得到的说法是需要至少等72小时，以便完成医学检查。</div>
+<div class="article-paragraph">周三，这批人乘坐国务院唯一一架从中国撤侨的专机抵达美国。当他们在马奇空军预备基地(March Air Reserve Base)等待医务人员的许可离开时，一些人回忆起在武汉最后几天的不安和恐惧，以及飞机最终将他们带走时的一幕。</div>
+<div class="article-paragraph">“太离奇了，”主题公园设计师马修·麦考伊(Matthew McCoy)回忆飞机上身穿危险物质防护服的机组人员照顾戴口罩的乘客。“他们想让我们保持冷静，但他们又让这些从头到脚防护住的人给你量体温。感觉就像一架中情局的货机。”</div>
+<div class="article-paragraph">该病毒已造成200多人死亡，数千人感染。为控制病毒的传播，人们被隔离在一艘邮轮上、医院病房里，还有一座岛上。</div>
+<div class="article-paragraph">里弗赛德县地方官员称，周三晚些时候，也就是飞机抵达加州几小时后，一名乘客试图离开基地，但遭到拦截。该县一名发言人表示已向这名乘客发出了隔离令，因为“如果有人未经全面健康评估就离开基地，会给公众带来未知风险”。</div>
+<div class="article-paragraph">乘客有大把的闲余时间，做着百无聊赖的事情。</div>
+<div class="article-paragraph">“我锻炼身体，看电影，吃得很好，”现年27岁的纽约橄榄球运动员贾里德·埃文斯(Jarred Evans)说，他已经在武汉生活了两年，在那里他为华美橄榄球联盟冠军武汉巴萨卡队效力。他还被检测了无数次。他说：“我这辈子都没经历过这么多次体温检测。”</div>
+<div class="article-paragraph"><figure class="article-inline-photo"><div class="img-box"><img alt="来自纽约的27岁橄榄球运动员贾里德·埃文斯在基地内自拍，他在武汉已经住了两年。" data-src="https://static01.nyt.com/images/2020/01/30/us/30CORONA-AMERICAN-jerod/30CORONA-AMERICAN-jerod-jumbo.jpg" src="https://static01.nyt.com/images/2020/01/30/us/30CORONA-AMERICAN-jerod/30CORONA-AMERICAN-jerod-jumbo.jpg"/></div><figcaption><span>来自纽约的27岁橄榄球运动员贾里德·埃文斯在基地内自拍，他在武汉已经住了两年。</span> <cite></cite></figcaption></figure></div>
+<div class="article-paragraph">麦考伊在军事基地一家旅馆的房间里说：“虽然这不是地中海俱乐部，但我们很幸运能在这里。我尽量忙于工作、社交媒体，完成我的酒店健身计划。”这家西班牙风格的酒店拥有灰泥拱廊和一个巨大的庭院，面朝一片葱翠的草坪。</div>
+<div class="article-paragraph">在安克雷奇停靠加油并进行医学检查后，疾病控制与预防中心(Centers for Disease Control and Prevention)的专家在加利福尼亚接待了乘客，他们进行了医学检查并提供了心理咨询。做了鼻咽拭子采集。抽了血。又测了一次体温。</div>
+<div class="article-paragraph">一些人回想起在武汉最后几天黯淡甚至恐怖的时光。</div>
+<div class="article-paragraph">埃文斯曾是辛辛那提大学(University of Cincinnati)的四分卫，他受聘为武汉的橄榄球队效力，为此搬到了武汉。</div>
+<div class="article-paragraph">这个赛季不错：他的队于1月8日在上海赢得了全国冠军。</div>
+<div class="article-paragraph">“我爱上了中国文化，”他说，“我成为了橄榄球在中国的代言人。”</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="正从武汉飞往安克雷奇的飞机，飞机在那里加油并进行了医疗筛查。" data-src="https://static01.nyt.com/images/2020/01/31/us/CORONAVIRUS-AMERICAN/CORONAVIRUS-AMERICAN--jumbo.jpg" src="https://static01.nyt.com/images/2020/01/31/us/CORONAVIRUS-AMERICAN/CORONAVIRUS-AMERICAN--jumbo.jpg"/></div><figcaption><span>正从武汉飞往安克雷奇的飞机，飞机在那里加油并进行了医疗筛查。</span> <cite>Matthew McCoy</cite></figcaption></figure></div>
+<div class="article-paragraph">但是，当冠状病毒开始在武汉蔓延时，埃文斯将自己关在公寓里，储备了大米、面条、鸡蛋和消毒剂。</div>
+<div class="article-paragraph">他说：“我做了每个中国人在做的事。”</div>
+<div class="article-paragraph">埃文斯说：“我把自己锁在家里。这座城市变成了一个鬼城。”但他感到与世隔绝，他说在美国的母亲担心自己的安全。</div>
+<div class="article-paragraph">当他听说有航班要离开这个国家时，他迅速填写了网上表格。美国驻北京使馆发来的电子邮件中显示：“此航班的空间非常有限，我们谨此要求您不要分享有关航班的详细信息，包括在社交媒体上。”</div>
+<div class="article-paragraph">埃文斯得知该航班可以坐200人，他是第171个，他说：“我感到非常幸运，能从武汉的所有美国居民中被选中。”有些美国人说他们试图获得一个座位，但被告知已经没有了。</div>
+<div class="article-paragraph">居住在上海的麦考伊，在武汉封锁时被困，他在那里工作，将一家购物中心重塑为一个主题公园。</div>
+<div class="article-paragraph">他回忆说，城市的气氛“差不多就要陷入恐慌了”。</div>
+<div class="article-paragraph">麦考伊是一名前海军陆战队员，参加了12次马拉松比赛，身体强健，他说他坚信自己并未感染该病毒，但是他仍然认真对待疫情。他认为值得花1100美元买一张去美国的单程票。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="马修·麦考伊是居住在上海的主题公园设计师，他已经开始在酒店房间里工作。" data-src="https://static01.nyt.com/images/2020/01/30/us/30CORONA-AMERICAN/30CORONA-AMERICAN-master1050.jpg" src="https://static01.nyt.com/images/2020/01/30/us/30CORONA-AMERICAN/30CORONA-AMERICAN-master1050.jpg"/></div><figcaption><span>马修·麦考伊是居住在上海的主题公园设计师，他已经开始在酒店房间里工作。</span> <cite></cite></figcaption></figure></div>
+<div class="article-paragraph">当这群美国人离开武汉时，他们已经被告知必须在一个隔离的地点待上至少72小时。</div>
+<div class="article-paragraph">他在飞行前收到的一封电子邮件说：“这种隔离至少要持续72个小时，还可能会延长至14天，或者在健康监测下有条件地离开。”麦考伊说，这并没有困扰大多数人。“每个人都不介意。我们努力做爱国者，尽力帮忙，”他说。 “我们在这里是受迫的观众。”</div>
+<div class="article-paragraph">周四早上，他们回到美国的第一天，吃了早餐卷饼，喝了果汁和咖啡。午餐时，他们得到了丰盛的炸玉米饼鸡肉沙拉。</div>
+<div class="article-paragraph">一张邀请函通过酒店房间的门缝下塞进来，承诺要进行一次“市政厅讨论”。联邦卫生官员吁请这群人留在基地，直到通过全面的医学检查。</div>
+<div class="article-paragraph">现在只需要等待。</div>
+<div class="article-paragraph">在外面，有点心、薯条、饼干和玩具。还有踏板车、橄榄球、橄榄球和飞盘可以玩。</div>
+<div class="article-paragraph">“这里的人真的很好，”埃文斯说。“每个人都精神振奋。没人惊慌或害怕。”</div>
+<div class="article-paragraph">但这里没有握手或拥抱，并且大多数人都戴着口罩。</div>
+*
+哈里王子夫妇最后一次出席英国王室活动
+<div class="article-paragraph"> <i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">在伦敦西敏寺的英联邦日庆典上，哈里王子和梅根王妃微笑回首，这是他们出席的最后一场王室活动。在此之后，这对夫妇就将迁居到加拿大西部的一个边陲城市，开启作为“半王室成员”的未知新生活。</div>
+<div class="article-paragraph">在风笛声和不停闪烁的闪光灯中，哈里王子夫妇先于威廉王子和凯特王妃入场，坐在他们后面一排。梅根向凯特打了个招呼，但两兄弟几乎没有说话——他们之间冰冷的拘谨氛围是曾经亲密的关系几乎破裂的象征。</div>
+<div class="article-paragraph">随着英国国歌《天佑女王》响起，伊丽莎白女王和查尔斯王子走到教堂的拱顶下，这熟悉的盛况有了些悲伤的意味。他们也很少对哈里和梅根说话。梅根曾经是王室未来的象征，他们离开的决定几乎破坏了王室的未来。</div>
+<div class="article-paragraph">最近几天，哈里一直忙于个人事务，例如在艾比路与摇滚明星乔恩·邦·乔维(Jon Bon Jovi)录音，以及在苏格兰爱丁堡出席一个旅游会议。在会议上，他对与会者说，“叫我哈里就行了。” 上周五，为了庆祝国际妇女节，梅根令人意外地造访了伦敦一所学校。<i><br/></i><i></i></div>
+<div class="article-paragraph">从3月31日起，这对夫妇将不再是温莎王朝的“全职成员”。他们预计很快就会回到加拿大。在这次返回英国前，他们把儿子阿奇托付给那里的朋友照顾。</div>
+<div class="article-paragraph">这对夫妇最后一次以皇室成员身份露面的地点西敏寺大教堂充满了哈里王子的生活痕迹：1953年，伊丽莎白女王在这里加冕；2011年，威廉王子在这里结婚；从1066年爱德华国王下葬开始，有30位国王和女王长眠于此。</div>
+<div class="article-paragraph">“这是一个非常重要的时刻，”伦敦《泰晤士报》的皇家记者瓦伦丁·洛(Valentine Low)说。 “这意味着出生于王室并不意味着必须留在王室。”</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="女王伊丽莎白二世周一抵达英联邦服务中心。她给了哈里夫妇一笔数额不大的遣散费。" data-src="https://static01.nyt.com/images/2020/03/09/world/09royals2/merlin_170243778_fe552745-0f56-4358-8789-554ea92e7614-master1050.jpg" src="https://static01.nyt.com/images/2020/03/09/world/09royals2/merlin_170243778_fe552745-0f56-4358-8789-554ea92e7614-master1050.jpg"/></div><figcaption><span>女王伊丽莎白二世周一抵达英联邦服务中心。她给了哈里夫妇一笔数额不大的遣散费。</span> <cite>Henry Nicholls/Reuters</cite></figcaption></figure></div>
+<div class="article-paragraph">为避免尴尬，白金汉宫的官员们放弃了让威廉和凯特加入到女王队伍中、而让哈里和梅根直接就座的计划。两对夫妇最终都没有与女王一同进场。</div>
+<div class="article-paragraph">据宫廷官员称，这次规划在最终确定之前已经分发给了皇家记者团。 虽然也有王室高级成员不参加女王队列的先例，但一些王室观察人士仍然认为，这其中的含义意味深长。</div>
+<div class="article-paragraph">女王的次子安德鲁王子缺席了整个活动，此前，他与涉嫌性交易罪名的金融家杰弗里·爱泼斯坦(Jeffrey Epstein)的友谊引发了轩然大波。</div>
+*

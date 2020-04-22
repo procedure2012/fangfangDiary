@@ -1,0 +1,258 @@
+新冠病毒疫情能有多糟糕？这里是六大关键问题
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>、或发送邮件至cn.letters@nytimes.com订阅《纽约时报》</i><a href="https://cn.nytimes.com/morning-brief/"><i>中文简报</i></a><i>。]</i></div>
+<div class="article-paragraph">随着冠状病毒疫情持续在中国各地蔓延，一些早期研究正在更清晰地描绘出病原体的行为方式，及其能否得到控制的关键性决定因素。<br/></div>
+<div class="article-paragraph"><span>虽然这种病毒现在是一个严重的公共卫生问题，但对中国以外的大多数人来说，其风险仍然很低，季节性流感才是一个更直接的威胁。为了避免染上任何病毒性疾病，专家建议<a href="https://cn.nytimes.com/opinion/20200131/coronavirus-prevention-tips/">勤洗手</a>，生病时不要去办公室或学校。专家说，大多数健康的人无需口罩，囤积口罩有可能导致医护人员口罩<a href="https://www.nytimes.com/2020/01/29/health/coronavirus-masks-hoarding.html">短缺</a>，他们才是必须佩戴口罩的人。</span></div>
+<div class="article-paragraph"><span><b>1. 这种病毒的传染性如何</b></span><b>？</b></div>
+<div class="article-paragraph"><i>它似乎具有中等传染性，与SARS差不多。</i></div>
+<div class="article-paragraph"><span>疫情的规模取决于病毒在人际传播的速度和容易程度。尽管研究才刚刚开始，但<a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2001316" rel="noopener noreferrer" target="_blank">科学家</a><a href="https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/" rel="noopener noreferrer" target="_blank" title="Link: https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/">估</a><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3524675" rel="noopener noreferrer" target="_blank" title="Link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3524675">计</a>，如果没有有效的遏制措施，每个新型冠状病毒患者可能感染1.5至3.5个人。</span></div>
+<div class="article-paragraph">所以，它的传染性与SARS大致相当。SARS是2003年在中国传播的另一种冠状病毒，在导致8098人感染、774人死亡后得到了控制。像这样的呼吸道病毒可以在空气中传播，当病人呼吸、说话、咳嗽或打喷嚏时，会产生细小的飞沫。</div>
+<div class="article-paragraph">这些飞沫仅会波及周围数英尺。因此，该病毒的传染性不及空中传播距离可以达到100英尺（约30.5米）的麻疹、水痘和结核等病原体。不过，它的传染性要大于HIV或肝炎，这些病只能通过直接接触感染者的体液传播。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="" data-src="https://static01.nyt.com/images/2020/02/01/multimedia/c01china-virus-contain1/c01china-virus-contain1-master1050.png" src="https://static01.nyt.com/images/2020/02/01/multimedia/c01china-virus-contain1/c01china-virus-contain1-master1050.png"/></div><figcaption><span></span> <cite>The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">如果每个新型冠状病毒的感染者感染2～3个人，在不采取任何控制措施的情况下，可能足以维持和加速疫情的暴发。</div>
+<div class="article-paragraph">以下是它的传播原理。在下面的图中，一组五名感染者只要五个感染周期，就能将病毒传播给大约368个人。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="" data-src="https://static01.nyt.com/images/2020/02/01/multimedia/c01china-virus-contain7/c01china-virus-contain7-master1050.png" src="https://static01.nyt.com/images/2020/02/01/multimedia/c01china-virus-contain7/c01china-virus-contain7-master1050.png"/></div><figcaption><span></span> <cite>The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">将它和传染性相对低的病毒做一比较，比如季节性流感。平均来说，一个流感患者会感染1.3个人。差异虽然看起来可能不大，但造成的结果却大相径庭：在同样的情况下（一组五名感染者加上五个感染周期），可能只有45人被流感感染。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="" data-src="https://static01.nyt.com/images/2020/02/01/multimedia/c01china-virus-contain8/c01china-virus-contain8-master1050.png" src="https://static01.nyt.com/images/2020/02/01/multimedia/c01china-virus-contain8/c01china-virus-contain8-master1050.png"/></div><figcaption><span></span> <cite>The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">但任何一种疾病的传播数量并非一成不变。通过有效的公共卫生措施，如隔离病人、跟踪他们曾经接触过的人，可以减少疾病的发生。2003年，当全球的卫生部门对SARS感染者进行有条不紊地跟踪和隔离后，每名感染者的平均感染人数降至0.4人，足以阻止疫情的扩散。</div>
+<div class="article-paragraph"><span>世界各地的卫生部门正在<a href="https://www.nytimes.com/2020/01/29/health/china-coronavirus-outbreak.html">付出巨大努力</a>，试图</span>再次做到这一点。</div>
+<div class="article-paragraph">截至目前，中国境外的病例数量很少。但是最近几天，包括美国在内的几个国家的新增病例都没有到过中国。而且，中国的病例数量在加速增长，远远超过了2003年SARS的新增速度。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="注：世界卫生组织对SARS的官方病例统计在疫情刚暴发时有所延迟。一些病例疑似但未得到确诊；SARS是一种排除性诊断，因此以前报告的病例在进一步调查后可能被删除。武汉的新型冠状病毒的诊断数据截至美东时间2月1日晚间7时30分。" data-src="https://static01.nyt.com/images/2020/02/03/multimedia/c03coronavirus2/c03coronavirus2-master1050.png" src="https://static01.nyt.com/images/2020/02/03/multimedia/c03coronavirus2/c03coronavirus2-master1050.png"/></div><figcaption><span>注：世界卫生组织对SARS的官方病例统计在疫情刚暴发时有所延迟。一些病例疑似但未得到确诊；SARS是一种排除性诊断，因此以前报告的病例在进一步调查后可能被删除。武汉的新型冠状病毒的诊断数据截至美东时间2月1日晚间7时30分。</span> <cite>The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph"><span><b>2. 这种病毒有多致命？</b></span></div>
+<div class="article-paragraph"><i>现在还不知道。但是死亡率可能不到3％，远低于SARS。</i></div>
+<div class="article-paragraph">这是决定疫情暴发杀伤力的最重要因素之一，也是最不为人知的因素之一。</div>
+<div class="article-paragraph"><span>评估新病毒的致命性很难。最先发现的通常是最糟糕的病例，这可能会使我们对患者死亡概率的理解产生偏差。在<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30183-5/fulltext" rel="noopener noreferrer" target="_blank">武汉报道的首批41例患者</a>中，约有三分之一不得不在ICU中接受治疗，其中许多患者出现发烧、剧烈咳嗽、呼吸急促和肺炎的症状。但是，轻症患者可能始终没有去看医生。因此，患病者数量可能比我们知道的要多，并且死亡率可能比我们最初认为的要低。</span></div>
+<div class="article-paragraph">同时，由病毒引发的死亡数字可能被低估了。疫情暴发中心的中国城市缺少检测试剂盒和病床，许多病患无法就医。</div>
+<div class="article-paragraph">多伦多西奈山医院(Mount Sinai Hospital)的传染病专家艾里森·麦基尔(Allison McGeer)博士曾是加拿大应对非典的前线医护人员，他说：“这种病毒的性质和机制仍存在很多不确定性。”</div>
+<div class="article-paragraph">早期迹象表明，该病毒的死亡率大大低于另外两种冠状病毒：致死率三分之一的MERS，以及致死率约十分之一的SARS。所有这些疾病似乎都附着在肺细胞表面的蛋白质，但MERS和SARS似乎对肺组织更具破坏性。截至1月31日，在已证实感染的人中，死亡率低于四十分之一。许多死亡病例都是有基础疾病的老年人。</div>
+<div class="article-paragraph">以下是新型冠状病毒与其他传染病的比较：</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="注：图中显示的是平均致死率和传播数。不同机构对致死率的估计可能有所不同，武汉冠状病毒的传染数只是初步估计。" data-src="https://static01.nyt.com/images/2020/02/01/multimedia/c01china-virus-contain3/c01china-virus-contain3-master1050.png" src="https://static01.nyt.com/images/2020/02/01/multimedia/c01china-virus-contain3/c01china-virus-contain3-master1050.png"/></div><figcaption><span>注：图中显示的是平均致死率和传播数。不同机构对致死率的估计可能有所不同，武汉冠状病毒的传染数只是初步估计。</span> <cite>The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">麦基尔说，即使死亡率很低，病原体可能仍然非常危险。例如，即使流感的死亡率低于千分之一，在美国，每年仍约有20万人因这种病毒而住院治疗，约有3.5万人死亡。</div>
+<div class="article-paragraph"><span><b>3. 出现症状需要多长时间？</b></span></div>
+<div class="article-paragraph"><i>可能2～14天不等。</i></div>
+<div class="article-paragraph">感染后到出现症状所需的时间对于防控至关重要。这段时间被称为潜伏期，可以让卫生官员隔离或观察可能接触了该病毒的人。但是，如果潜伏期过长或过短，这些措施可能难以实施。</div>
+<div class="article-paragraph">有些疾病，例如流感，潜伏期只有两到三天。人们可能会在表现出流感症状之前就将传染性病毒散播出去，几乎不可能鉴定和隔离感染该病毒的人。然而，非典的潜伏期约为五天。此外，症状开始需要四到五天，此后病人才能传播病毒。麦基尔说，这给了官员时间来阻止病毒，并有效地控制了疫情。</div>
+<div class="article-paragraph">美国疾控中心的官员估计，新型冠状病毒的潜伏期为2至14天。但是，尚不清楚一个人是否可以在症状发作之前传播病毒，也不清楚疾病的严重程度是否会影响患者传播病毒的难易程度。</div>
+<div class="article-paragraph">位于纳什维尔的范德比尔特大学(Vanderbilt University)传染病专家马克·丹尼森(Mark Denison)博士说：“这令我担心，因为这意味着感染可能会躲过检测。”</div>
+<div class="article-paragraph"><span><b>4. 感染者是否广泛旅行？</b></span></div>
+<div class="article-paragraph">这个病毒之所以传播迅速，是因为它始于一个交通枢纽。</div>
+<div class="article-paragraph">武汉是一个在控制疫情方面难度很大的地方。它有1100万人口，比纽约市还多。平均每天有3500名乘客乘坐直飞航班从武汉前往其他国家。这些城市最先报告了中国境外发现冠状病毒的病例。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="注：上图显示的是2019年10月至11月的客运量，这是目前可获得的最新数据。" data-src="https://static01.nyt.com/images/2020/02/01/multimedia/c01china-virus-contain5/c01china-virus-contain5-master1050.png" src="https://static01.nyt.com/images/2020/02/01/multimedia/c01china-virus-contain5/c01china-virus-contain5-master1050.png"/></div><figcaption><span>注：上图显示的是2019年10月至11月的客运量，这是目前可获得的最新数据。</span> <cite>The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">武汉也是中国的主要交通枢纽，通过高铁和国内航空公司与北京、上海等大城市相连。去年10月和11月，近200万人从武汉飞往中国各地。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="注：上图显示的是2019年10月至11月的客运量，这是目前可获得的最新数据。少于1000名乘客的目的地没有被标识。" data-src="https://static01.nyt.com/images/2020/02/01/multimedia/c01china-virus-contain6/c01china-virus-contain6-master1050.png" src="https://static01.nyt.com/images/2020/02/01/multimedia/c01china-virus-contain6/c01china-virus-contain6-master1050.png"/></div><figcaption><span>注：上图显示的是2019年10月至11月的客运量，这是目前可获得的最新数据。少于1000名乘客的目的地没有被标识。</span> <cite>The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">2003年非典暴发时，中国的交通还远没有这么发达。现在，大量农民工在国内和国际流动——他们前往非洲、亚洲其他地区和拉丁美洲，中国正通过“一带一路”倡议在这些地区大力推进基础设施建设。在卫生系统不具备应对疾病能力的国家，这样的旅行会造成疾病暴发的高风险，比如面临日益恶化的饥饿和经济危机的津巴布韦。</div>
+<div class="article-paragraph">总体而言，中国的火车和飞机乘客数量是SARS暴发期间的四倍。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="注：航空旅行数据仅包括搭乘中国航空公司的乘客。" data-src="https://static01.nyt.com/images/2020/02/02/multimedia/c03coronavirus/c03coronavirus-master1050.png" src="https://static01.nyt.com/images/2020/02/02/multimedia/c03coronavirus/c03coronavirus-master1050.png"/></div><figcaption><span>注：航空旅行数据仅包括搭乘中国航空公司的乘客。</span> <cite>The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph"><span>中国采取了前所未有的措施，对居住在武汉和附近城市的数千万人实施旅行限制。<a href="https://www.nytimes.com/2020/01/26/world/asia/coronavirus-wuhan-china-hubei.html">但专家警告</a>，封锁可能来得太迟，限制了食品和药品的供应。武汉市长承认，在限制措施开始前，已有500万人在春节前离开了这座城市。</span></div>
+<div class="article-paragraph">“你不可能把细菌封起来，新感染总会传播，”乔治城大学(Georgetown University)法学教授、世界卫生组织国家和全球卫生法合作中心主任劳伦斯·O·戈斯汀(Lawrence O. Gostin)说。“它会出来的，总会出来的。”</div>
+<div class="article-paragraph"><span><b>5. 应对措施的效果如何</b></span><b>？</b></div>
+<div class="article-paragraph"><i>世卫组织赞扬了中国的努力，但批评人士担心，仅采取封锁措施可能还不够。</i></div>
+<div class="article-paragraph">除了关闭交通，官员们还关闭了武汉一个出售活禽、海鲜和野生动物的市场，这里被认为是这次冠状病毒的源头，后来全国范围内的野生动物交易活动也被暂停。学校停课，北京的长城被禁止进入，中国出发的旅行团也被暂停。世界卫生组织官员赞扬了中国对冠状病毒的积极应对。</div>
+<div class="article-paragraph">但这些措施也产生了意料之外的效果。武汉的居民如果身体不适，必须步行或骑车数英里才能到医院。在那里，许多人抱怨，由于医院床位、工作人员和物资短缺，他们被拒之门外。</div>
+<div class="article-paragraph">直到最近，国外的研究人员还担心中国不接受能够帮助追踪病毒并阻止其传播的专家。</div>
+<div class="article-paragraph"><span>周四，世界卫生组织宣布新型冠状病毒的暴发为<a href="https://www.nytimes.com/2020/01/30/health/coronavirus-world-health-organization.html" title="Link: https://www.nytimes.com/2020/01/30/health/coronavirus-world-health-organization.html">国际关注的突发公共卫生事件</a>，并承认这种疾病的风险超出了中国。</span></div>
+<div class="article-paragraph">美国和其他国家的卫生官员已开始对抵达机场的旅客进行筛查，隔离疑似病例。哈萨克斯坦、俄罗斯和越南等国家已经暂时限制了进出中国的旅行和签证。但批评人士担心，这些措施还不够。</div>
+<div class="article-paragraph"><span><b>6. 开发疫苗需要多长时间</b></span><b>？</b></div>
+<div class="article-paragraph"><i>至少还需要一年的时间。</i></div>
+<div class="article-paragraph">冠状病毒疫苗可以预防感染并阻止疾病的传播。但是研制疫苗需要时间。</div>
+<div class="article-paragraph">2003年SARS暴发后，研究人员花了大约20个月的时间才研制出可用于人体试验的疫苗。(这种疫苗根本不需要，因为疾病最终得到了控制。)到2015年寨卡病毒暴发时，研究人员已将疫苗研发时间缩短至六个月。</div>
+<div class="article-paragraph"><span>现在，他们希望过去疫情暴发时的工作有助于进一步缩短时间。研究人员已经研究了这种<a href="https://ncbiinsights.ncbi.nlm.nih.gov/2020/01/13/novel-coronavirus/" rel="noopener noreferrer" target="_blank">新型冠状病毒的基因组</a>，发现了对感染至关重要的蛋白质。来自澳大利亚国立卫生研究院(National Institutes of Health)和至少三家公司的科学家正在研制备选疫苗。</span></div>
+<div class="article-paragraph">“如果没有遇到任何不可预见的障碍，我们能在未来三个月内进行一期试验，”美国国家过敏症和传染病研究所(National Institute of Allergy and Infectious Diseases)所长安东尼·福奇(Anthony Fauci)说。</div>
+<div class="article-paragraph"><span>福奇博士警告，在初步试验之后，可能还需要几个月甚至几年的时间来进行广泛的测试，以证明疫苗安全有效。在最好的情况下，疫苗可能在<a href="https://www.nytimes.com/2020/01/28/health/coronavirus-vaccine.html">一年后</a>对公众开放。<b></b></span></div>
+*
+在偏见与歧视中做贡献：美国华人为医护人员采购物资
+<div class="article-paragraph"><span><i>[欢迎</i></span><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/" title="Link: https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">上个月，家住新泽西州蒙特维尔的急诊科医生彼得·李(Peter Lee)求助于社交媒体应用微信时，情绪几近崩溃。</div>
+<div class="article-paragraph">他受到了各方面的困扰。在工作中，他要时刻避免暴露于新型冠状病。在家里，他担心感染怀孕的妻子和年幼的女儿。在日常生活中，他突然面对着一种针对华裔美国人的新偏见。</div>
+<div class="article-paragraph">“比如把这种病毒称为‘中国病毒’的言论，会给像我这样的人带来影响，”34岁的李大夫说，他的父亲1986年从北京来纽约州奥尔巴尼市时，口袋里只有60美元。“这种言论助长了对我们这些人的某种偏见。”<br/></div>
+<div class="article-paragraph">但他3月20日在微信上发布的帖子是关于他和同事们面临的最迫在眉睫的危险：缺乏个人防护器材，尤其是口罩和防护服。<br/></div>
+<div class="article-paragraph">三天后，李大夫孤注一掷的恳求得到了回应。离蒙特维尔约30公里的<a href="https://millburnchinese.membershiptoolkit.com" rel="noopener noreferrer" target="_blank">蜜尔本华人协会</a>的会员看到了他的帖子，并采取了行动，他们筹集到了五万多美元，从一家在皇后区有仓库的中国公司那里得到了一万个口罩、防护服和其他器材。它们分发给了李大夫的雇主<a href="https://www.envisionphysicianservices.com/" rel="noopener noreferrer" target="_blank" title="Link: https://www.envisionphysicianservices.com/">Envision Physician Services</a>和其他一些机构。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="新泽西州的一个华裔社团在不到一周的时间里就筹集到了五万多美元，为当地医务人员采购了数千个口罩。" data-src="https://static01.nyt.com/images/2020/03/30/nyregion/NYVIRUS-SUPPLIES/merlin_171120330_b2c78e89-5705-426f-a6f2-63a8deed1634-master1050.jpg" src="https://static01.nyt.com/images/2020/03/30/nyregion/NYVIRUS-SUPPLIES/merlin_171120330_b2c78e89-5705-426f-a6f2-63a8deed1634-master1050.jpg"/></div><figcaption><span>新泽西州的一个华裔社团在不到一周的时间里就筹集到了五万多美元，为当地医务人员采购了数千个口罩。</span> <cite>Bryan Anselm for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">与此同时，纽约州的<a href="https://www.facebook.com/NYLICAA/" rel="noopener noreferrer" target="_blank">长岛华人协会</a>给三家医院送了一万多个口罩，并给纽约的上门护理服务中心(<a href="https://www.vnsny.org/" rel="noopener noreferrer" target="_blank" title="Link: https://www.vnsny.org/">Visiting Nursing Service of New York</a>)送了近8000个医用口罩。<br/></div>
+<div class="article-paragraph">在纽约州和新泽西州各地，即使在面临种族主义言论，<a href="https://www.nytimes.com/2020/03/23/us/chinese-coronavirus-racist-attacks.html">有时甚至是人身攻击</a>的时候，来自美国华人社区的小群体正在团结起来，为这个国家抗击新冠病毒大流行做贡献。他们主要在微信上建立起庞大网络，调动在美中两国的关系，为有需求的医护人员采购物资。</div>
+<div class="article-paragraph">一些采购的物资直接来自中国，来自上海<span><a href="http://www.dashengmask.com/" rel="noopener noreferrer" target="_blank">大胜</a>这样的企业</span>。个别公司要求批量发货，这对一个地方组织来说可能数量太大、需要的钱太多，但通过微信与多个组织建立联系有助于解决这个问题，蜜尔本华人协会发言人吴婷舟（音）说。“我们在微信上说，‘咱们聊聊。你们想一起买吗？’”她说。</div>
+<div class="article-paragraph">许多华裔美国人喜欢用微信，因为他们在中国的朋友和亲戚也使用这个应用程序。哥伦比亚大学(Columbia University)研究亚裔美国人及其历史的教授艾明如说，用微信组织起来的做法并不特别。</div>
+<div class="article-paragraph">“总的来说，这个社区本身很有组织性，”她说。“华人有各种各样的协会，有些是基于职业，有些是基于在中国的祖籍，”她说。“有建立关系的历史，也有在问题出现时凝聚起来的历史。”</div>
+<div class="article-paragraph">纽约的亚美医师协会(<a href="https://www.caipa.net/caipa/2020/03/22/supplies-donation-to-nyu-langone-brooklyn/" rel="noopener noreferrer" target="_blank" title="Link: https://www.caipa.net/caipa/2020/03/22/supplies-donation-to-nyu-langone-brooklyn/">Coalition of Asian Americans in Private Practice</a>)拥有1000多名会员，今年1月以来，这个组织已筹集到近25万美元的资金，预计本月将把八万个N95口罩送到纽约的医院。罗格斯大学(Rutgers University)的一些华裔教授为支持新不伦瑞克市的一家医院筹集了1.2万美元，并弄到4000多个口罩。帕西帕尼的一个教会向医院捐赠了数千个口罩，甚至还向当地的加油站捐赠了口罩，因为按照当地法律，必须由加油站的工作人员给车加油。</div>
+<div class="article-paragraph"><a href="https://twitter.com/shentong" rel="noopener noreferrer" target="_blank">沈彤</a>是天安门广场大屠杀时代的异见人士，现住曼哈顿，是一名作家和影响力投资人。他利用自己在Facebook上的各种朋友圈——包括“火人节”(Burning Man)和“占领华尔街”(Occupy Wall Street)——筹集资金，寻找供应商。</div>
+<div class="article-paragraph">例如，他的大学校友群迄今已筹集了约十万美元，先是为帮助中国，现在是为帮助美国。这个群向位于布鲁克林的纽约州立大学唐斯泰特医学中心(<a href="https://www.suny.edu/attend/visit-us/complete-campus-list/downstate/" rel="noopener noreferrer" target="_blank">SUNY Downstate Medical Center</a>)、曼哈顿的勒诺克斯山(<a href="https://lenoxhill.northwell.edu/" rel="noopener noreferrer" target="_blank">Lenox Hill</a>)和其他市立医院捐赠了医疗物资。“我们用这笔钱很快发放了一万多个口罩，”他说。</div>
+<div class="article-paragraph">沈彤指出，捐款者中既有美国公民，也有中国公民，但许多中国公司不想让人知道它们的名字。“其中一个原因是合规和FDA认证问题，它们可能没有，”他说。<br/></div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="詹姆斯·斯坦纳(James Steiner)在纽约瓦利斯特里姆替沈彤代收了一箱N95口罩，后者正在帮助将口罩分发给医院和医护人员。" data-src="https://static01.nyt.com/images/2020/04/01/nyregion/00nyvirus-chineseorgsNEW1/merlin_171186279_9d62cd3a-35c2-4776-9e77-564c00b8e5a3-master1050.jpg" src="https://static01.nyt.com/images/2020/04/01/nyregion/00nyvirus-chineseorgsNEW1/merlin_171186279_9d62cd3a-35c2-4776-9e77-564c00b8e5a3-master1050.jpg"/></div><figcaption><span>詹姆斯·斯坦纳(James Steiner)在纽约瓦利斯特里姆替沈彤代收了一箱N95口罩，后者正在帮助将口罩分发给医院和医护人员。</span> <cite>Johnny Milano for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="存放在这个仓库里的N95口罩正等着运往纽约市。" data-src="https://static01.nyt.com/images/2020/04/01/nyregion/00nyvirus-chineseorgsNEW2/merlin_171186261_c6c70333-28e6-430a-af44-afa0644b03d1-master1050.jpg" src="https://static01.nyt.com/images/2020/04/01/nyregion/00nyvirus-chineseorgsNEW2/merlin_171186261_c6c70333-28e6-430a-af44-afa0644b03d1-master1050.jpg"/></div><figcaption><span>存放在这个仓库里的N95口罩正等着运往纽约市。</span> <cite>Johnny Milano for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">包括阿里巴巴联合创始人马云和蔡崇信的私人基金会在内的工商界领袖基金会最近承诺，送给纽约州100万个医用口罩和100万个N95口罩。上周末，蔡崇信夫妇基金会(Joe and Clara Tsai Foundation)与中国政府协调，把<a href="https://www.nytimes.com/2020/04/04/nyregion/coronavirus-new-york-update.html">1000台呼吸机</a>空运到了纽约的肯尼迪国际机场。喜玛拉雅资本(Himalaya Capital Management)董事长李录也带头大笔捐款，华裔美国人精英组织“百人会”(<a href="https://www.committee100.org/" rel="noopener noreferrer" target="_blank">Committee of 100</a>)募集到了100万美元。</div>
+<div class="article-paragraph">慷慨解囊很不错。但沈彤指出，草根层次的小群体和个人的努力已产生了显著且立竿见影的效果。</div>
+<div class="article-paragraph">“在一名受过训练的社会学者眼里，大型机构在快速响应上的无能令人惊讶，而意气相投、关系密切的小群体的情况则恰恰相反，”沈彤说。“也许我是新移民，但我对这种临时安排努力的重要性有信心。”</div>
+<div class="article-paragraph">自从蜜尔本华人协会行动起来后，已有八家医院向该协会寻求帮助。据最新统计，该协会的约100名志愿者已筛选了近50家中国的口罩制造商和其他防护装备制造商。<br/></div>
+<div class="article-paragraph">“我们的志愿者可以在一秒钟内分辨别出哪些是假哪些是真，”蜜尔本华人协会的另一位发言人玛丽亚·吴(Maria Wu)说。一旦医院签署不追纠责任书，它们就可以拿到口罩。<br/></div>
+<div class="article-paragraph">蜜尔本华人协会预计在4月中寻时将直接从中国收到至少5000个口罩和650件防护服。</div>
+<div class="article-paragraph">“我们需要站出来，为那些保护我们的人做点什么，以保护他们，”玛丽亚·吴说。“这一直是这个社区的共识。”</div>
+<div class="article-paragraph">尤其是因为这些人中还有人要在一线工作中应对歧视。<br/></div>
+<div class="article-paragraph">“已经发生过几起针对亚洲人的袭击，患者看到华人医生时非常小心翼翼，”纽约大学朗格尼医学中心蒂施医院脑神经科医生傅全孝(Sun-Hoo Foo)说，他也是亚美医师协会的会员。</div>
+<div class="article-paragraph">虽然傅全孝感染了新冠病毒，目前正在新泽西州阿尔帕因的家中隔离康复，但他说，自己渴望重返医院。“如果我现在就能返回医院的话，我会这样做，”他说。“我唯一担心的是把病毒传染给其他人。”</div>
+<div class="article-paragraph">哥伦比亚大学的艾明如说，有傅全孝这样的态度的人是大多数。她说，某些人对华裔美国人的偏见并不能阻止这个社区为结束这场危机做贡献，她说。“希望人们看到华人组织正在做的事情时，能改变一些歧视的看法。”</div>
+<div class="article-paragraph">李大夫也希望如此。“我希望人们能明白，美国华人社区对美国生活有很强的归属感，”他说。“虽然我们生为华人，但我们内心是美国人。”</div>
+*
+红会争议与救援乱象背后，中国公民社会缺位之痛
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">随着新型冠状病毒在中国传播，武汉及湖北省的医院已连续三周向全国人民紧急求助：送更多的防护装备来。</div>
+<div class="article-paragraph">送来的东西近在眼前，却令人沮丧地遥不可及。捐赠给中国红十字会武汉分会的医疗用品在仓库里闲置着。距离武汉110公里的仙桃市，是世界上最大的防护用品生产中心之一。仙桃市官员已下令该市的工厂停工。试图组织救援物资的个人面临违反中国严格的慈善法的风险。</div>
+<div class="article-paragraph">中国政府已向世界证明，它能封闭整座城市，能在10天里建成一座医院，能让14亿人在家里呆上好几周。但它也暴露出一个明显的弱点：政府不能与自己的人民合作。这个弱点让生命处于危险之中，并威胁到控制疫情的努力。</div>
+<div class="article-paragraph">新冠病毒的暴发让人们看到，中国突兀地缺少一个充满活力的公民社会，这些诸如商业团体、非营利组织、慈善机构和教会的民间协会，能在无需政府参与的情况下，把人们组织起来。</div>
+<div class="article-paragraph">可以把公民社会看作是帮助一个社会平稳、灵活运转的神经系统，本杰明·富兰克林(Benjamin Franklin)200多年前在费城组建第一个志愿消防队、第一个公共图书馆，以及第一家慈善医院时，就已经认识到了这一点。“一个人能干的好事数量惊人，如果他把其当成事业来做的话，”他<a href="https://founders.archives.gov/documents/Franklin/01-41-02-0049" rel="noopener noreferrer" target="_blank" title="Link: https://founders.archives.gov/documents/Franklin/01-41-02-0049">在1783年写道</a>。</div>
+<div class="article-paragraph">“‘大政府’包办一切的传统管理机制已不高效，甚至力不从心，”管理咨询师段战江在一篇关于疫情管理的文章中写道。“政府很忙但力不从心，民间力量闲置但也只能干着急。”<br/></div>
+<div class="article-paragraph">段战江建议政府克制事事主导的冲动，把更多的精力放在监管上。<br/></div>
+<div class="article-paragraph">中国共产党从不喜欢也不信任公民社会。它对任何可能对其统治构成挑战的组织持怀疑态度，包括大的私营企业。中共一直在打压非政府组织，如人权组织、慈善机构，以及教会和清真寺。中共不希望在自己的政府与中国的14亿人民之间有任何阻碍。</div>
+<div class="article-paragraph">中国的大公司和富裕的个人一直在捐赠，许多都很慷慨。但他们也都设法保持低调，担心冒犯政府，因为这个政府急于将任何功劳归于自己，动不动就怀疑外部团体对其发起挑战。</div>
+<div class="article-paragraph">这些隔阂在抗击疫情的前线非常明显，那里的工作人员<a href="https://www.nytimes.com/2020/02/14/world/asia/china-coronavirus-doctors.html" title="Link: https://www.nytimes.com/2020/02/14/world/asia/china-coronavirus-doctors.html">一直缺少保护自身安全的适当装备</a>。医生和护士穿的是一次性雨衣，而不是防护服。他们在给病人进行危险的咽拭子检测时，戴的是普通的、不胜任的外科口罩。他们穿着成人纸尿裤，因为他们一旦脱下连体防护服，就得将其扔掉，而他们每天只有一套防护服。</div>
+<div class="article-paragraph">当局<a href="https://new.qq.com/omn/TWF20200/TWF2020021800449300.html" rel="noopener noreferrer" target="_blank">本周一说</a>，已有3000多名医护人员受到感染，但这些人并不都是在工作中感染的。</div>
+<div class="article-paragraph"><i>[</i><a href="https://www.nytimes.com/zh-hans/2020/02/11/world/asia/corona-virus-student-stories-chinese.html"><i>征文：新冠病毒给你带来什么影响</i></a><i>？]</i><br/></div>
+<div class="article-paragraph">中国老百姓用自己建立的社交媒体群，帮助病人寻找医院床位，派志愿者开车送他们去医院，从世界各地采购防护装备。他们可以通过与政府协调做更多的事情。</div>
+<div class="article-paragraph">“我们就是小舟，能力有限，”家住北京的设计师Panda Yin说，他建了一个约有200人的微信志愿群，帮助一线医护人员寻找保护装备。“本来有高速路，但很多人知道路上有大坑。”</div>
+<div class="article-paragraph">这个“大坑”就是中国红十字会。中国红会与其他地方的红十字会没有隶属关系，它是政府用来垄断慈善事业而控制的两个组织之一。武汉市政府坚持要求所有捐赠必须经过当地的红十字会分会。</div>
+<div class="article-paragraph">中国红会的腐败和低效早已臭名远扬。国内媒体报道过好几起红会丑闻，包括九年前的一起：一名据称在中国红会有高级职位的人在网上发图<a href="https://www.nytimes.com/2011/07/04/world/asia/04china.html">炫耀自己的奢华生活</a>。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="在中国青岛的一家工厂里，工人们正在生产口罩。" data-src="https://static01.nyt.com/images/2020/02/17/business/00newworld-3/merlin_168466062_ed00625e-02fd-41ed-a4cc-a712750f4b2c-master1050.jpg" src="https://static01.nyt.com/images/2020/02/17/business/00newworld-3/merlin_168466062_ed00625e-02fd-41ed-a4cc-a712750f4b2c-master1050.jpg"/></div><figcaption><span>在中国青岛的一家工厂里，工人们正在生产口罩。</span> <cite>Agence France-Presse — Getty Images</cite></figcaption></figure></div>
+<div class="article-paragraph">据中国民众用不完整的数据所做的分析，红十字会在发放口罩和其他物资方面行动迟缓。中央政府已在周五要求红会<a href="http://www.mca.gov.cn/article/xw/tzgg/202002/20200200024510.shtml" rel="noopener noreferrer" target="_blank">加快发放捐赠</a>，证实了人们的说法。<br/></div>
+<div class="article-paragraph">据中国红会自己的数据，这家机构在发放口罩时，将最多最好的直接发给当地政府部门，而不是一线医院。<br/></div>
+<div class="article-paragraph">2月11日，武汉市政府防疫指挥中心收到了近1.9万个N95医用口罩，它被认为是过滤颗粒物最有效的口罩之一。而武汉最大的公立医院之一协和医院只收到了450个口罩。当天仅有四家医院收到了口罩，协和医院是其中之一。2月13日，所有的N95口罩都送给了当地的卫健委。没有一个送给医院。</div>
+<div class="article-paragraph">本月早些时候，湖北省的三名红十字会官员<a href="http://www.xinhuanet.com/english/2020-02/04/c_138755528.htm" rel="noopener noreferrer" target="_blank">受到纪律处分</a>。武汉红十字会本周表示，自己只是该市物资供应队伍的一部分，物资的分配由市政府官员负责。</div>
+<div class="article-paragraph">如果说红十字会是分发医疗物资的瓶颈，地方和中央政府有时则是私人生产、购买和分发这些物资的障碍。<br/></div>
+<div class="article-paragraph">仙桃市政府2月3日关闭了该市几乎所有防护产品工厂，只批准了10家继续运行。<br/></div>
+<div class="article-paragraph">一名当地官员上周对官方报纸《人民日报》说，出于质量控制的原因，市政府做出了这一决定。该官员说，在该市113家中型企业中，只有两家有在中国销售医用防护服的资格证书，因为仙桃的大部分无纺布产品仅供出口。<br/></div>
+<div class="article-paragraph">仙桃一家工厂的老板说，那是瞎话。由于担心遭受报复，这位老板要求记者只写他姓王。他为英国和美国客户制造的防护服必须至少达到与中国相同的标准，如果不是更高的话。他说，这些产品很多都又被卖回到中国了。仙桃的官员没有回复记者的置评请求。<br/></div>
+<div class="article-paragraph">王先生和另外两名因担心报复而要求不具名的工厂老板说，真正的原因是，如果工厂工人感染病毒或产品出现质量问题，仙桃的管理人员不想承担责任。这种说法得到了中国当地媒体报道的支持。王先生等人都认同，政府在这个特殊时期需要限制价格、严格检查产品质量。但他们说，政府可以制定规则并监督他们，而不是关闭工厂。</div>
+<div class="article-paragraph">那名当地官员<a href="https://mp.weixin.qq.com/s/u52J7cTlNyXpcgGZvfmLnw" rel="noopener noreferrer" target="_blank">告诉《人民日报》</a>，在得到省政府的批准后，该市在2月9日前又批准了73家公司恢复生产。假如出现问题的话，省政府的批准为市级官员提供了政治掩护。不过，王先生等人说，大多数工厂仍处于闲置状态。<br/></div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="中国官方报纸《中国日报》发布的一张照片显示，中国人民解放军空军抵达武汉天河国际机场，随行者包括医护人员。" data-src="https://static01.nyt.com/images/2020/02/17/business/00newworld-2/merlin_168461274_62be4cb8-590b-4d4c-8cba-e34ef510376f-master1050.jpg" src="https://static01.nyt.com/images/2020/02/17/business/00newworld-2/merlin_168461274_62be4cb8-590b-4d4c-8cba-e34ef510376f-master1050.jpg"/></div><figcaption><span>中国官方报纸《中国日报》发布的一张照片显示，中国人民解放军空军抵达武汉天河国际机场，随行者包括医护人员。</span> <cite>China Daily/Reuters</cite></figcaption></figure></div>
+<div class="article-paragraph">仙桃也切断了私人购买保护产品的努力。</div>
+<div class="article-paragraph">本月早些时候，仙桃官员阻止了湖北荆州的志愿者获得所需物资。荆州位于仙桃以西约160公里。据一名志愿者说，仙桃当局在他们离开时，试图在一个检查站没收他们的物资，并将他们赶出了该市。这名志愿者要求记者只写他姓张，因为他是政府工作人员，未被授权接受新闻媒体采访。<br/></div>
+<div class="article-paragraph">张先生说，他和其他志愿者不得不采取行动，因为荆州市卫健委应付不过来，而且过于官僚，无法及时向当地医院提供所需物资。<br/></div>
+<div class="article-paragraph">他在社交媒体上分享了志愿者将防护服、护目镜和医用酒精送到医院的照片和视频。他在一个聊天群里说，当他看到当地一家发热门诊的医生和护士除了普通外科口罩外没有任何防护装备时，他都快哭了。他说，门诊的负责人非常感激他们，她把四个西瓜送给了他。</div>
+<div class="article-paragraph">像张先生这样的志愿者正在通过社交媒体筹集物资。他的一个聊天群里主要是一些企业家，比如一名姓刘的50多岁的科技创业者，由于担心遭受报复，刘先生只报了自己的姓。</div>
+<div class="article-paragraph">群里讨论的一个话题是，他们是否可以在微信朋友圈（类似于Facebook的时间线）上发布他们的筹款公告。中国对个人向公众集资有严格的规定。<br/></div>
+<div class="article-paragraph">群里像刘先生这样的企业主有与政府打交道的经验。他们有人担心公共卫生部门会认为他们越轨，会因任何可能违反公共筹款规定的行为来找他们的麻烦。<br/></div>
+<div class="article-paragraph">刘先生说，如果他们不得不避开所有非常模糊的界线的话，他们大概什么都做不成。<br/></div>
+<div class="article-paragraph">“人命第一，”他说。<br/></div>
+*
+等不到的包机：滞留湖北的台湾人能回家吗
+<div class="article-paragraph">最近几天，滞留在湖北省宜昌的台湾人Chloe Chang（以下称张小姐）夜里每隔半小时就会醒来一次，有时会崩溃哭泣。她和家人被困在公寓里，楼里还有人死于新冠病毒。她的中国大陆籍丈夫鼓励她：“台湾政府一定会来救我们。”但她殷切盼望的返台包机迟迟没有到来。</div>
+<div class="article-paragraph">“两边都不要我们，我们都放弃了。我们现在就属于难民，”现年26岁、从事美术行业的张小姐表示。</div>
+<div class="article-paragraph">今年农历新年前，当她和家人自台湾前往宜昌探亲时，他们还不知道自己会在病毒肆虐的城市里动弹不得，并卷入两岸防疫的政治风波中。起初，她和上百名滞留大陆的台湾人希望两岸能尽快协商出包机返台方案，但这几天，他们对未见成果的协商感到绝望，将愤怒转向台湾。</div>
+<div class="article-paragraph">上月，武汉“封城”、湖北“封省”后，多国纷纷派出专机撤侨，但台湾政府最初于1月底向中国发出撤离民众请求时，第一时间并未获得国台办同意。在台湾官方与民间持续与陆方斡旋下，2月3日晚间，第一架返台包机自武汉撤回247人，其中包括数十名大陆籍配偶。</div>
+<div class="article-paragraph">飞机落地后，事情很快又出现翻转。由于<a href="https://www.cna.com.tw/news/firstnews/202002045009.aspx" rel="noopener noreferrer" target="_blank">首架包机上出现一名确诊病例</a>，防疫问题成为台湾社会关切的焦点，医界也因担忧医疗资源不足而发起“<a href="https://www.cna.com.tw/news/firstnews/202002070174.aspx" rel="noopener noreferrer" target="_blank">拒无限制包机回台</a>”连署行动，随后，台湾出现一波反对后续撤离滞留湖北台湾人行动的声浪。</div>
+<div class="article-paragraph">此外，<a href="https://udn.com/news/story/120940/4326152" rel="noopener noreferrer" target="_blank">陆配挤占包机名额</a>及<a href="https://news.ltn.com.tw/news/politics/paper/1350579" rel="noopener noreferrer" target="_blank">包机名单决定权</a>等问题也在台湾引发争议。民进党立法委员爆料，机上一些陆配并非台湾人，挤占了其他滞留台湾人的乘机名额，社会舆论批评随之而至。与此同时，居中协调包机事宜的台商、台协与台办也<a href="https://news.ltn.com.tw/news/life/paper/1349897" rel="noopener noreferrer" target="_blank">被指控操弄包机乘客名单</a>，排挤了老弱妇孺与重病患者优先乘机的权益。这一系列事件都让带有人道意义的救援蒙上政治阴影。</div>
+<div class="article-paragraph">张小姐表示，她2月初收到当地台办及台商协会的通知，说2月5日能坐上包机回台。当天，他们全家也已坐上大巴准备前往机场了。然而，在大巴车将要启动那一刻，台办的一名官员突然上车，宣布班机起飞不了，原因是“台湾不让你们回去”。 “我当时真的是很崩溃。”她说。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="中国，宜昌，Chloe Chang在她和家人住的公寓里。" data-src="https://static01.nyt.com/images/2020/02/15/world/15life-taiwan-1-copy/merlin_168907029_38f3b675-bef2-4b1a-a0f5-d4ae126d2b59-master1050.jpg" src="https://static01.nyt.com/images/2020/02/15/world/15life-taiwan-1-copy/merlin_168907029_38f3b675-bef2-4b1a-a0f5-d4ae126d2b59-master1050.jpg"/></div><figcaption><span>中国，宜昌，Chloe Chang在她和家人住的公寓里。</span> <cite>Courtesy of Chloe Chang</cite></figcaption></figure></div>
+<div class="article-paragraph">不过，台湾政府对于包机生变的说法与陆方并不一致。陆委会4日<a href="https://www.mac.gov.tw/News_Content.aspx?n=B383123AEADAEE52&amp;sms=2B7F1AE4AC63A181&amp;s=11DB4DB1FC41809D" rel="noopener noreferrer" target="_blank">发布声明称</a>，陆媒报道5日还有第二架包机，但双方并未有任何联系与协商，故所述并非事实。<br/></div>
+<div class="article-paragraph"> 随后，新华社8日报道称，“台湾当局一再拖延，三天过去了，始终卡着不让他们回去，”武汉市台办负责人呼吁台湾当局配合中国的运送行动，“让台胞尽快返乡，不要再找各种借口和理由阻挡他们回家。”</div>
+<div class="article-paragraph">面对中国的呼吁和台湾社会的关切，台湾总统<a href="https://udn.com/news/story/120940/4333491" rel="noopener noreferrer" target="_blank">蔡英文10日表示</a>，台湾政府处理下一架包机的原则是“弱势、检疫优先”，正在与陆方进行沟通。</div>
+<div class="article-paragraph">“我们台湾人为什么不能回去？”滞留在湖北黄冈的台湾人Shelly Song（以下称宋小姐）表示。“只要是可以回去，台湾要隔离、要怎么样防疫，我都愿意配合。”</div>
+<div class="article-paragraph">现年40岁、经营美容工作室的宋小姐在黄冈长大，她在十多年前和台湾人结婚，几年前放弃大陆籍，获得台湾身份。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="中国宜昌一个火车站的乘客，这里距离武汉约200英里。" data-src="https://static01.nyt.com/images/2020/01/21/multimedia/21xp-virus-explainer/21xp-virus-explainer-master1050.jpg" src="https://static01.nyt.com/images/2020/01/21/multimedia/21xp-virus-explainer/21xp-virus-explainer-master1050.jpg"/></div><figcaption><span>中国宜昌一个火车站的乘客，这里距离武汉约200英里。</span> <cite>CHINATOPIX, via Associated Press</cite></figcaption></figure></div>
+<div class="article-paragraph">她认为，这次大陆方面对于安排滞留台人返台已经尽了最大的努力，当地台办都要前往她家量体温，然后做了一些简单的检疫，来确认她可以上大巴。她对于中国在忙于对抗疫情之际还给予照顾表示感激，“我只是觉得台湾很奇怪，为什么不接？”</div>
+<div class="article-paragraph">对于台湾舆论质疑“陆配挤占台湾人包机名额”一事，她也感到愤慨。“我的小孩是台湾人、先生是台湾人，我的名字只能叫陆配，请问一下我是哪里人？”</div>
+<div class="article-paragraph">张小姐也说，尽管丈夫已拿到台湾居留证四年了，但要拿到台湾身分证仍需要两年，是一段很漫长的过程。她的膝盖有习惯性错位问题，需要丈夫照顾，她说：“哪有说自己家里人生病了，你就不要他回来。”</div>
+<div class="article-paragraph">台湾社会对病毒的恐惧与反中情绪使得政府的防疫措施进一步升级。12日，台湾疫情指挥中心<a href="https://www.cna.com.tw/news/firstnews/202002125004.aspx" rel="noopener noreferrer" target="_blank">宣布</a>，未取得台湾籍、仍滞留于中港澳地区的陆配子女禁止入境。在现行规范下，持有台湾居留证的陆配仍可来台，过去14天去过中国的外籍人士则被限制入境。</div>
+<div class="article-paragraph">随着中国当局持续扩大实施“封城”的力度，湖北疫情更加严峻、物资紧缺的情况也反映在滞留台湾人的日常生活中。张小姐、宋小姐和许多滞留的台湾人最近都在微信群组中讨论如何自救，甚至考虑求助于国际上的难民救援组织。</div>
+<div class="article-paragraph">张小姐表示，因为她所在的公寓楼里出现了确诊及死亡病例，穿着隔离服的人和警察这几天有进出她的小区，对整栋大楼进行消毒，“这时候每家每户就绝对不可以出门了。”她还担心出门买菜会增加感染病毒的概率。“我小孩已经吃了整整三天九餐的白面条，”电话那头，偶尔会传来张小姐两岁孩子的哭喊声。</div>
+<div class="article-paragraph"><figure class="article-inline-photo"><div class="img-box"><img alt="滞留湖北期间，Chloe Chang绘制的漫画。" data-src="https://static01.nyt.com/images/2020/02/12/universal/cn-ori1/cn-ori1-jumbo.jpg" src="https://static01.nyt.com/images/2020/02/12/universal/cn-ori1/cn-ori1-jumbo.jpg"/></div><figcaption><span>滞留湖北期间，Chloe Chang绘制的漫画。</span> <cite>Chloe Chang</cite></figcaption></figure></div>
+<div class="article-paragraph">由于长时间在家，张小姐通过绘制漫画来表达她的无助与不满。漫画中，她嘲讽蔡英文政府蓄意拖延包机时程，将滞留湖北的人员当作政治筹码。</div>
+<div class="article-paragraph">宋小姐说她1月23日去过超市后，就再也没有出过娘家的门。“我妈妈一直担心我，她怕我出门感染。”她一天不走，妈妈心里一天都累。“台湾政府为什么不带我回家？”</div>
+<div class="article-paragraph"><i>[</i><a href="https://www.nytimes.com/zh-hans/2020/02/11/world/asia/corona-virus-student-stories-chinese.html"><i>征文：新冠病毒给你带来什么影响</i></a><i>？]</i><br/></div>
+*
+面对病毒和禁足，我们该离开中国吗？
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠肺炎疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">上海——距离武汉这座拥有1100万人口的城市被封锁已经过去了两周，在此期间，我和我的丈夫在500多英里外的上海公寓里，也同样按照当局要求闭门不出。<br/></div>
+<div class="article-paragraph">随着禁闭的日子缓慢消磨，我们不再换下睡衣，每一天的界限也不再分明。每天早上，我一睁眼就会拿起床边桌上的手机，仔细阅读最新消息、新的死亡人数、新的确诊病例、遏制冠状病毒蔓延的新措施，还有新的猜测。但一切都感觉离我在23楼的公寓很遥远。在窗户和墙壁之内，我们生活在自己的小世界里。</div>
+<div class="article-paragraph">我们就像舒适温室里的水培植物，靠输送的营养生长脂肪。每天，外卖员开着电动车送来外卖、杂货和水。每当我戴上口罩走出公寓大门，乘坐消毒剂味道强烈的电梯下楼，踏上去大堂拿货的冒险之旅，我都感觉自己很傻。我用钥匙的边缘按电梯按钮。这些预防措施就像是角色扮演，但我仍然在每次进门时尽责地洗手，低声哼着字母歌。</div>
+<div class="article-paragraph">“我们要不要离开？”丈夫已经向我提过好几次这个问题了，每次都很随意，声音平静，小心翼翼掩饰着自己的情绪。我们都是美国公民，所以我们随时可以选择离开。</div>
+<div class="article-paragraph"><span>我们谁都不想成为婚姻中危言耸听的那个人，尤其是<a href="https://www.nytimes.com/2020/01/26/world/china-coronavirus.html">当我们还年轻、健康、离危害如此之远的时候</a>。</span></div>
+<div class="article-paragraph">“不用。对我们来说没那么危险。”</div>
+<div class="article-paragraph">“也是。”</div>
+<div class="article-paragraph">“说真的，现在去旅行才吓人。现在去和一群陌生人挤在一起13个小时似乎是个糟糕的主意。”</div>
+<div class="article-paragraph">“嗯。”</div>
+<div class="article-paragraph">“再说，上海的情况很好。杂货店里商品充足，我们点的所有东西都能顺利送达，医院里也不拥挤。”</div>
+<div class="article-paragraph">“对。”</div>
+<div class="article-paragraph">“我们没事。我们是安全的。”</div>
+<div class="article-paragraph">我知道，我如此渴望留下是不完全合乎逻辑的。我们的家人和朋友都很担心，催促我们趁现在还有机会赶紧回美国，与这场蔓延的疫情相隔一片大洋才好。但我一直在想，当湖北省（武汉是其省会）的人们正面临医院人满为患、物资供应短缺、被驱赶和粗暴对待的时候；医务人员正冒着生命危险上前线的时候，我们有资格考虑逃离吗？在舒适的家里禁足几个星期真的是逃跑的好理由吗？</div>
+<div class="article-paragraph">即使上海的情况可能变得没那么舒适，我们也并非束手无策。我们有几盒口罩、几桶饮用水、土豆和卷心菜、方便面、麦片和几块冷冻牛排。如果你认为这听起来像是城市老鼠的肤浅逻辑，你是对的。如果情况真的变糟，我并不知道该如何处理。</div>
+<div class="article-paragraph">仔细想想，我对这种新的致命疾病如此不当回事是说不通的，尤其是考虑到中国政府的过往记录，我对它几乎没有什么信任。</div>
+<div class="article-paragraph">也许我根本就没有那么冷静。当我剥开内疚的外壳，就看到了暗处酝酿着的焦虑。和中国其他所有人一样，我对正在发生的事情没有多少具体概念，我完全听任中国政府的摆布，不知它会如何选择。但我们平民并不清楚全部的真相，哪怕真相是政府所要求的信任的重要部分。</div>
+<div class="article-paragraph">在疫情暴发之初，当地媒体曾有几天时间进行了<span>严肃报道，但随后，<a href="https://www.nytimes.com/2020/02/05/world/asia/china-coronavirus-censorship.html">政府宣传机器半路杀出</a>，以宣传正能量和维持秩序的名义限制公众所能了解的信息。这不是什么新鲜事。在中国，人人都知道不要轻信共产党的喉舌，但当14亿人的生命危在旦夕，我们还可能接受半真半假的信息吗？</span></div>
+<div class="article-paragraph">此刻，我也感受到了其他所有中国人感受到的那种对死亡的原始恐惧，它让我们麻痹。我曾一度说服自己一切都会好起来，但这种幻觉迟早会被什么东西打破。</div>
+<div class="article-paragraph">昨天，我在社交媒体上看到，有人发现自1月30日以来，官方统计的死亡人数与确诊人数的比例每天都保持在2.1%。“神奇的病毒，还是个数学高手！”</div>
+<div class="article-paragraph">盯着这些数字，我感觉我的脸在扭曲。我忘记了，每一条新闻都必须加以审查，用来巩固政权的统治。即使在生死攸关的时刻，我仍不能免于这种令人筋疲力竭的活动，党永远都要赢。</div>
+<div class="article-paragraph">它就像伤口一样刺痛，而这种疼痛让我清醒。</div>
+<div class="article-paragraph">当千百万生命危在旦夕时，我非常希望能相信中国政府。我想要相信其决策是为了拯救最多的人。我想要相信实施世界上规模最大的隔离——实际上牺牲了一个有5800万人口的省——是为了更多人的利益。我想要相信每一个极端措施都会有回报，而不只是美化了的公关噱头。</div>
+<div class="article-paragraph">我害怕这种惊惧。我不想面对事情可能变得多么糟糕，如果基础设施停止平稳运行，我们小小的舒适家庭禁足生活将会多么快地崩塌。坐以待毙的人即便养尊处优也还是坐以待毙，而我已经不再幻想这一切能善终了。</div>
+*
+为什么儿童似乎不易感染新冠病毒？
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>、或发送邮件至cn.letters@nytimes.com订阅《纽约时报》</i><a href="https://cn.nytimes.com/morning-brief/"><i>中文简报</i></a><i>。]</i></div>
+<div class="article-paragraph">新型冠状病毒的感染者已经超过了2.4万人，至少造成490人死亡。（截至2月5日24时，中国大陆新型冠状病毒确诊病例28018例，死亡病例563例。——编注）但根据现有数据，到目前为止，出现重症的儿童人数似乎相对较少。</div>
+<div class="article-paragraph"><span>“患者年龄中位数在49岁至56岁之间，”根据《美国医学会杂志》(JAMA)周三发表的一份<a href="https://jamanetwork.com/journals/jama/fullarticle/2760782" rel="noopener noreferrer" target="_blank">报告</a>称。“儿童病例很少见。”</span></div>
+<div class="article-paragraph">那么，为什么患病的儿童很少呢？</div>
+<div class="article-paragraph">香港大学的病毒学家裴伟士(Malik Peiris)博士说，“以我的经验，我肯定年轻人也会感染，但他们的症状相对较轻。”他研发出了一种针对这种新型冠状病毒的测试方法。</div>
+<div class="article-paragraph">科学家之所以没有看到更多儿童受感染，是因为“我们没有关于轻症病例的数据”，他说。</div>
+<div class="article-paragraph">“如果这种冠状病毒在世界范围内传播，并且像季节性流感那样传得四处都是，可能我们就会看到更多的例子，”他补充道。</div>
+<div class="article-paragraph">在一个已发表的病例中<span>，有一名10岁的儿童和家人去过疫情暴发中心武汉。在返回深圳后，其他受到感染的家庭成员出现了<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30154-9/fulltext" rel="noopener noreferrer" target="_blank">发烧、咽痛、腹泻和肺炎症状</a>，他们的年龄从36岁到66岁不等。</span></div>
+<div class="article-paragraph">医生发现，这个孩子有病毒性肺炎的迹象，但没有明显的症状。一些科学家怀疑，这是儿童感染冠状病毒的典型情况。</div>
+<div class="article-paragraph">澳大利亚悉尼新南威尔士大学(University of New South Wales)的流行病学家雷娜·麦金泰尔(Raina MacIntyre)博士一直在研究这种新型冠状病毒的传播，她说，“儿童可能会出现无症状感染，或者是非常轻微的感染，这是肯定的。”</div>
+<div class="article-paragraph">在许多方面，SARS、MERS以及其他冠状病毒的暴发有相似规律。2012年沙特阿拉伯和2015年韩国的MERS疫情共夺走了800多人的生命。大多数被感染的儿童始终未出现症状。</div>
+<div class="article-paragraph">2003年的非典疫情没有儿童死亡，800名死者当中，大多数的年龄在45岁以上，而且男性的风险更大。</div>
+<div class="article-paragraph">在8000多例SARS感染者病例中，疾控中心的研究人员在已发表的报告中识别出135名儿童受到感染。</div>
+<div class="article-paragraph">研究人员发现，12岁以下的儿童入院、输氧或进行其他治疗的可能性要小得多。12岁以上儿童的症状与成人相似。</div>
+<div class="article-paragraph">“我们还不完全清楚这种与年龄有关的严重性增加的原因，”裴伟士说。“但我们现在看到了这一点——非典也一样，现在这一点看得更清楚了。”</div>
+<div class="article-paragraph">病毒只在儿童当中引发轻度感染，而成人则严重得多，这种情况并不罕见。例如，水痘在儿童身上可能基本上无关紧要，但在成年人身上却是灾难性的。</div>
+<div class="article-paragraph">流感的非同寻常之处在于，它与人类一起进化了数千年，每年在全世界感染数百万人。裴伟士指出，尽管每年有成千上万的幼童因为流感入院，但死亡率很低。</div>
+<div class="article-paragraph">成年人可能更易感染，因为他们往往患有其他疾病，如糖尿病、高血压或心脏病，这些疾病削弱了他们抵御感染的能力。</div>
+<div class="article-paragraph">人体的先天免疫力对抵抗病毒至关重要，但随着年龄的增长，特别是中年以后，抵抗力也会出现下降。</div>
+<div class="article-paragraph">“50岁的时候发生了一些事情，”麦金泰尔说。“衰退了，并且是大幅度的衰退，这就是为什么我们看到，老年人当中的发病率最高。”</div>
+<div class="article-paragraph">关于这种新型冠状病毒的一个重要问题是，被感染且无症状的儿童是否能够将病毒传染给他人。</div>
+<div class="article-paragraph">“我们知道，一般年轻人——不仅仅是孩子，也包括青年和少年——与社会的接触最密切，”麦金泰尔说，那些没有意识到自己生病的年轻人可能会助长疫情的传播。</div>
+<div class="article-paragraph">为了全面了解这种流行病，她和其他科学家表示，他们需要详细的数据：当人们第一次接触该病毒时，当他们最初开始出现症状时，有多少人有轻微的症状，有多少人有严重的症状。</div>
+<div class="article-paragraph">有了详细的数据，一些观察结果可能会出现变化，如男性当中的高风险。尽管如此，纳什维尔范德比尔特大学(Vanderbilt University)的儿科传染病专家马克·丹尼森(Mark Denison)博士说，他预计感染儿童不会突然上升。</div>
+<div class="article-paragraph">他说：“我很难想像，儿童临床疾病的漏报率会高到我们只听到两三起病例的程度。”</div>
+<div class="article-paragraph">“我认为这意味着中国感染的儿童很少，”他说，“他们面临的风险并不大。”</div>
+*
+隔离病房还是感染温床？武汉方舱医院引发专家担忧
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠肺炎疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">随着新型冠状病毒在中国武汉市内的扩散势头未减，上周，政府官员采取了严酷的措施。</div>
+<div class="article-paragraph">穿着防护装备的工作人员接到指示前往城市里的每个家庭，将受感染的居民转移至在体育馆、展览中心和一个建筑综合体中匆忙建立的大型隔离点。</div>
+<div class="article-paragraph">主持政府应对病毒疫情工作的副总理孙春兰说：“决不能当逃兵，否则就会被永远钉在历史的耻辱柱上。”</div>
+<div class="article-paragraph">许多专家对于将数千名患者安置在方舱医院中是否能阻止冠状病毒传播表示怀疑。目前，中国每个省都出现了病例，总数超过4万，虽然绝大多数在湖北省。</div>
+<div class="article-paragraph">纳什维尔范德堡大学医学中心(Vanderbilt University Medical Center)的传染病专家威廉·沙夫纳博士(William Schaffner)说：“这有点像马已经跑出去了才去关门。”</div>
+<div class="article-paragraph">并且，这些方舱医院使人联想到西班牙流感大流行期间美国建造的那些收容所，并引起了其他的担忧。</div>
+<div class="article-paragraph">中国当局已表示，只有确诊冠状病毒的居民才被送往方舱医院，但并未充分解释筛查如何进行，这增加了许多患者实际感染流感或其他疾病的可能性。</div>
+<div class="article-paragraph">在方舱医院内部，狭窄的床并排放置，或叠加为上下铺，病房用隔断隔开——非常有利于呼吸道病毒的传播。患者将要接受什么样的治疗，或将隔离多长时间，外界同样知之甚少。</div>
+<div class="article-paragraph"><i>[</i><a href="https://www.nytimes.com/zh-hans/2020/02/11/world/asia/corona-virus-student-stories-chinese.html"><i>征文：新冠病毒给你带来什么影响</i></a><i>？]</i></div>
+<div class="article-paragraph"><span><b>令人毛骨悚然的相似</b></span></div>
+<div class="article-paragraph">武汉的遏制措施让人想起1918年美国为遏制西班牙流感而采取的措施。但是，武汉的实施规模远远要大得多：它是一个拥有1100万人口的城市。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="在1918年西班牙流感大流行期间，一个仓库被改造成病人收容所。" data-src="https://static01.nyt.com/images/2020/02/11/science/11virus-quarantine02/11virus-quarantine02-master1050.jpg" src="https://static01.nyt.com/images/2020/02/11/science/11virus-quarantine02/11virus-quarantine02-master1050.jpg"/></div><figcaption><span>在1918年西班牙流感大流行期间，一个仓库被改造成病人收容所。</span> <cite>Universal History Archive/Universal Images Group, via Getty Images</cite></figcaption></figure></div>
+<div class="article-paragraph">1918年8月在纽约市，有报道称一艘载有感染西班牙流感的水手和乘客的挪威船只到达，卫生官员随即派出救护车将11名患者直接运送到医院。</div>
+<div class="article-paragraph"><span>根据<a href="https://www.influenzaarchive.org/" rel="noopener noreferrer" target="_blank" title="Link: https://www.influenzaarchive.org/">密歇根大学医学史中心(University of Michigan Center for the History of Medicine)的《流感百科全书》</a>(Influenza Encyclopedia)，该市的卫生专员罗耶·S·科普兰德(Royal S. Copeland)博士最终将整个港口隔离。</span></div>
+<div class="article-paragraph">随着这种流行病在那年秋天的蔓延，全国各地的城市都禁止了公众聚会。洛杉矶的官员于10月份关闭了学校，并禁止举办葬礼、去剧院、台球室——以及为电影拍摄聚众的镜头。巴尔的摩下令关闭教堂和学校，但没有关闭酒吧，理由是酒精有“药用”价值。</div>
+<div class="article-paragraph">许多城市将患者隔离在家中等待康复。在纽约，家人被指示将生病的家庭成员关在房间里并限制与他们的接触；住在拥挤的廉租公寓的患者被隔离在城市的医院。</div>
+<div class="article-paragraph">弗吉尼亚州里士满附近一个大型军事基地的疫情没能及时遏制，到1918年10月上旬，里士满市已有一万例流感病例。市政官员将一所未使用的高中改造为拥有500个床位的临时医院，并开始将患者送进去。</div>
+<div class="article-paragraph">密歇根大学医学史教授、《隔离》(Quarantine)一书的作者霍华德·马克尔(Howard Markel)博士说，尽管在这样的庇护所有护士提供护理，但情况依然严峻。</div>
+<div class="article-paragraph">马克尔说，患者基本上是被关进去的，流感幸存者回忆起医护人员差劲甚至不友好的对待，以及糟糕的食物和洗浴设施。患者出现了妄想；经常有人打架。</div>
+<div class="article-paragraph">他说：“那可不是四季酒店。”</div>
+<div class="article-paragraph">早期报道称，武汉的方舱医院没有足够的供暖，并且存在供电故障。人员配备不足，医疗设备短缺。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="目前还不清楚中国官员是如何筛查送往收容所的冠状病毒感染者的。" data-src="https://static01.nyt.com/images/2020/02/11/science/11virus-quarantine03/merlin_168363963_fe67cfda-cc62-4fec-8f5b-32d1d9f59688-master1050.jpg" src="https://static01.nyt.com/images/2020/02/11/science/11virus-quarantine03/merlin_168363963_fe67cfda-cc62-4fec-8f5b-32d1d9f59688-master1050.jpg"/></div><figcaption><span>目前还不清楚中国官员是如何筛查送往收容所的冠状病毒感染者的。</span> <cite>China Daily/Reuters</cite></figcaption></figure></div>
+<div class="article-paragraph">“这让我们回到了19世纪，”马克尔说。“这是一种过时的流行病应对措施，因为你更在乎健康人群，而不是患者。”</div>
+<div class="article-paragraph"><span><b>感染的机会</b></span></div>
+<div class="article-paragraph">马克尔和其他专家说，武汉的方舱医院甚至可能成为病毒传染的温床，尤其是对患者没有做好适当的筛查。</div>
+<div class="article-paragraph">患者已经处于虚弱状态，而这样的设施使病毒和细菌易于传播——不仅是冠状病毒，而且还包括当人们在狭小区域聚集时可能活跃的数十种病原体中的任何一种。</div>
+<div class="article-paragraph">华盛顿大学(University of Washington)研究人员妮可·埃雷特(Nicole A. Errett)说：“每当我们将人们集中在一起，即使是为了躲避飓风，我们也会担心他们得传染病。”</div>
+<div class="article-paragraph">住进收容所的人可能被误诊为冠状病毒感染，实际上他们患上的可能是流感之类疾病，这是一种特别矛盾的情况。比起待在一个大的开放式病房里，同受感染的人挤在一起，他们待在家里更能安全远离病毒。</div>
+<div class="article-paragraph">在家隔离还有一些无形的好处。埃雷特说，把病人从一个有亲人照顾的支持性环境中转移出来，安置在收容所，可能会让他们感到羞耻，并在关键时刻剥夺他们的情感支持。</div>
+<div class="article-paragraph">病人在仓库般的环境中是否会得到适当的医疗照顾常常是不确定的，因为历史上这些收容所都是在当地医院超负荷运转的时候开放。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="1918年西班牙流感大流行期间的圣路易斯红十字会机动队。" data-src="https://static01.nyt.com/images/2020/02/11/science/11virus-quarantine04/11virus-quarantine04-master1050.jpg" src="https://static01.nyt.com/images/2020/02/11/science/11virus-quarantine04/11virus-quarantine04-master1050.jpg"/></div><figcaption><span>1918年西班牙流感大流行期间的圣路易斯红十字会机动队。</span> <cite>Universal History Archive/Universal Images Group, via Getty Images</cite></figcaption></figure></div>
+<div class="article-paragraph">在过去，通常不清楚这种隔离会持续多久。</div>
+<div class="article-paragraph">1918年流感大流行期间，弗吉尼亚州里士满的官员在11月取消了许多限制，允许教堂举行仪式，学校重新开学。</div>
+<div class="article-paragraph">到12月初，医院又接近满负荷运转，流感恢复到接近疫情暴发时的水平。</div>
+<div class="article-paragraph">但马克尔说，在武汉隔离病人，也许可以成功地阻止冠状病毒的进一步传播。</div>
+<div class="article-paragraph">“在最好的情况下，通过在大量收容病人和可能患病的人，让他们远离健康者，可以防止进一步的传播。”</div>
+<div class="article-paragraph">“但这可能会以牺牲被大量收容者所需的医疗护理为代价。这是我所担心的。”</div>
+<div class="article-paragraph">也有科学家认为，最好让病人待在家里，让家人接受培训，提供护理并保护自己不受感染。</div>
+<div class="article-paragraph">官方要做的可能不是提供收容所，而是分发食品和卫生用品，包括为看护者提供的个人防护装备，并设立发布信息的电话热线。</div>
+<div class="article-paragraph">约翰·霍普金斯卫生安全中心的詹妮弗·B·努佐(Jennifer B. Nuzzo)说，至关重要的是为病情最严重的病人提供医院设施，而不是把卫生保健资源花在病情较轻的病人身上。</div>
+<div class="article-paragraph">“在这个时候试图阻止病毒的传播是错误的目标，”她说。</div>
+<div class="article-paragraph">“我不认为有证据表明，我们能阻止如此迅速而悄无声息地传播的呼吸道病毒。”</div>
+*

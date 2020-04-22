@@ -1,0 +1,270 @@
+我们无法预测的病毒和未来
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">几周前，我跟大家说不需要对冠状病毒恐慌。不，这样说太温和了。我在《纽约时报》尖叫般的巨大号标题中，几乎是在命令你不要对这种可能要传遍全球的新型病毒感到惊慌。</div>
+<div class="article-paragraph">要公平地讲，<span>我<a href="https://www.nytimes.com/2020/01/29/opinion/coronavirus-panic.html" title="Link: https://www.nytimes.com/2020/01/29/opinion/coronavirus-panic.html">在那篇专栏里</a>的论据大多是对的：在当时，新型冠状病毒似乎远没有流感那么令人担忧的危险，<a href="https://www.cdc.gov/media/releases/2017/p1213-flu-death-estimate.html" rel="noopener noreferrer" target="_blank" title="Link: https://www.cdc.gov/media/releases/2017/p1213-flu-death-estimate.html">流感每年导致全球几十万人死亡</a>。</span>这种后来被命名为Covid-19的疾病导致的死亡人数当时还不到200，而中国政府遏制疫情的行动虽然晚了，但规模庞大，看上去好像起了效果。我当时认为，最大的担忧是大范围的过度反应和恐慌带来的威胁——以及对公民自由的限制，尤其是对那些移民和弱势人群，一个担惊受怕的世界可能会为了防治疾病蔓延而接受这种限制。</div>
+<div class="article-paragraph">事态的发展对我的论证不太有利<span>。我仍然认为大规模恐慌是一个严重的威胁，但是现在<a href="https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200224-sitrep-35-covid-19.pdf?sfvrsn=1ac4218d_2" rel="noopener noreferrer" target="_blank" title="Link: https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200224-sitrep-35-covid-19.pdf?sfvrsn=1ac4218d_2">Covid-19</a>的</span>致死数<span>已上升到数千，这种疾病已经在几大洲出现，我也开始突然害怕这种病毒及其潜在的致命性。我是在恐慌吗？并不是，还没有。但是，看到周一<a href="https://www.nytimes.com/2020/02/24/business/stock-market-coronavirus.html">股市暴跌</a>且各国政府奋力控制感染蔓延后，我开始闻到毁灭的味道。这个闲散的周末，我发现自己在网上寻找N95口罩，我的妻子和我开始</span>重新考虑夏天的举家度假计划。与我上一篇专栏文章中坚定的、不要着急的语调相比，这一切都在迅速扭转。</div>
+<div class="article-paragraph">“专家”做久了，我早就学会了不要因为对未来的偶尔错误预测而担忧。我想，有时候也许我不是想错了，我可能是想的格局太小。不过，我对我的病毒专栏文章的确感到遗憾的一点是，它处处显得我很有把握。我不只是对病毒的威胁嗤之以鼻；以历史上另外两种冠状病毒SARS和MERS的历史做我的参照，我差不多是在保证这次的病毒也会渐渐消失。</div>
+<div class="article-paragraph"><span>回想起来，我分析中的错误很明显，并且这是一种已经在媒体上普遍存在的错误，尤其是在电视和Twitter上的评论。我的错误是，我没有充足地考虑到统计学家所说的<a href="https://www.pimco.com/handlers/displaydocument.ashx?id=Y8Xa4IMzIEbGicJGFdwHSKwLqB2QrIpdOGOJ6Gd7ZqCCw74JEBbx4c3p%2FtQ5cP2PnApBY6LCBBRPvdzzJZqVPFtLdZcf7k0I0jGD%2FJemtxXk1yISVNw%2BujImssGEYH%2Fq21JB3dKl4lxrBAiKxMuB0w%2BxSTPaDRMaHiIvdmurTjDAyE8wSnxekLM3bQAlqx7LcuQHshD6HIfGbUauXsmgqKSjs18v5tRRGNuBcLduTFQp8bOdR4h6Xg%2F1yteUShXKuaGNAR49yUX4gu3uO49lIjPg6D35t5%2F6e1HhOUxXmocbCvsDPLgnFImelmYDYk6KZ1OJfnvnYBaR7rOlH%2BgNLF2EVD%2FKTIaUXtKeB0RXrWI%3D" rel="noopener noreferrer" target="_blank" title="Link: https://www.pimco.com/handlers/displaydocument.ashx?id=Y8Xa4IMzIEbGicJGFdwHSKwLqB2QrIpdOGOJ6Gd7ZqCCw74JEBbx4c3p%2FtQ5cP2PnApBY6LCBBRPvdzzJZqVPFtLdZcf7k0I0jGD%2FJemtxXk1yISVNw%2BujImssGEYH%2Fq21JB3dKl4lxrBAiKxMuB0w%2BxSTPaDRMaHiIvdmurTjDAyE8wSnxekLM3bQAlqx7LcuQHshD6HIfGbUauXsmgqKSjs18v5tRRGNuBcLduTFQp8bOdR4h6Xg%2F1yteUShXKuaGNAR49yUX4gu3uO49lIjPg6D35t5%2F6e1HhOUxXmocbCvsDPLgnFImelmYDYk6KZ1OJfnvnYBaR7rOlH%2BgNLF2EVD%2FKTIaUXtKeB0RXrWI%3D">尾部风险</a>，或者是意外的“<a href="https://www.macleans.ca/culture/black-swan-author-nassim-nicholas-taleb-divides-the-world-into-three/" rel="noopener noreferrer" target="_blank">黑天鹅</a>”事件的概率，这种事件能颠覆历史预期。</span></div>
+<div class="article-paragraph">这种很有把握的样子，通常是评论文章<span>的关键部分；优柔寡断的专家没人想听。但是我担心，毫无根据的确定性和对未知的低估，可能是我们的集体失败，因为这使我们看不到一种新的动态主导的人类社会：<a href="https://cn.nytimes.com/technology/20180104/2018-technology-chaos/" title="Link: https://cn.nytimes.com/technology/20180104/2018-technology-chaos/">世界变得越来越复杂</a>，因此越来越难以预测。</span></div>
+<div class="article-paragraph">是的，未来总是不可知的。然而我们有理由相信，它正在变本加厉，因为当涉及到大的人类群体时——也就是从政治到市场到宗教到艺术再到娱乐的大多数事情——形形色色的力量在从根本上改变着社会。这些力量很容易被描述为达沃斯式的宏大概念：互联网、智能手机、社交网络、全球化和供应链与制造业的相互依存、文化的国际化、前所未有的旅行流量、城市化和气候变化等等。但它们的作用不是不相关联的。它们以非线性的方式重叠交织在一起，混乱随之而来。</div>
+<div class="article-paragraph">在过去的几十年中，世界变得不知所措、更加疯狂、某种程度上更加凌乱。黑天鹅在盘旋；混乱的猴子被释放了。而且，无论我们是在谈论选举、经济还是人类社会的任何其他角落，面对不断扩大的未知，我们这些专家阶层的人表达谦卑通常会过的更好。我们应该对我们所说的一切添加免责声明：“我可能是错的！我们可能都错了！”</div>
+<div class="article-paragraph"><span>由于我不觉得我的评论员同事们会这样做，因此，当作为观众的你下次看到，比如说，一名资深<a href="https://www.realclearpolitics.com/video/2020/02/23/james_carville_on_sanders_youre_a_fool_if_you_think_he_can_win_by_expanding_the_electorate.html" rel="noopener noreferrer" target="_blank">政治专家</a>坚持认为<a href="https://nymag.com/intelligencer/2020/01/bernie-sanders-electable-trump-2020-nomination-popular-socialism.html" rel="noopener noreferrer" target="_blank" title="Link: https://nymag.com/intelligencer/2020/01/bernie-sanders-electable-trump-2020-nomination-popular-socialism.html">提名伯尼·桑德斯(Bernie Sanders)是在发疯</a>，要记住：这个世界</span>是很怪的！奇怪的事情是会发生的！而且，有可能——很有可能——在2020年的当下，谁都不知道自己在说什么。完全不知道。</div>
+<div class="article-paragraph"><span>我应该指出，<a href="https://globalguerrillas.typepad.com/globalguerrillas/2009/04/the-increasing-frequency-of-black-swans.html" rel="noopener noreferrer" target="_blank" title="Link: https://globalguerrillas.typepad.com/globalguerrillas/2009/04/the-increasing-frequency-of-black-swans.html">全球复杂性导致黑天鹅事件增加的说法尚存争议</a>，而且很难从经验上加以证明。但</span>有一个观点是得到理论支持的，即联系更紧密、更复杂的系统会导致更加令人惊讶的、<span>意想不到的结果。这种说法在直觉上也说得通。例如，全球连通性的增强是<a href="https://twitter.com/nntaleb/status/1221410676540936194" rel="noopener noreferrer" target="_blank" title="Link: https://twitter.com/nntaleb/status/1221410676540936194">Covid-19难以控制</a>的原因之一。（<a href="https://cn.nytimes.com/asia-pacific/20200224/coronavirus-japan-cruise-ship/" title="Link: https://cn.nytimes.com/asia-pacific/20200224/coronavirus-japan-cruise-ship/">当局显然没有对邮轮行业带来的疾病威胁做好准备</a>，<a href="http://www.chinadaily.com.cn/a/201906/17/WS5d0702f3a3103dbf143289d0.html" rel="noopener noreferrer" target="_blank">该行业过去十年在中国迅速发展</a>。）</span></div>
+<div class="article-paragraph">更重要的是，人类事务的不可预测性越来越强，这一点在我们最近经历的许多意外中表现得很明显。2008年的金融危机不是让大多数预言家感到困惑的意外事件又是什么呢？或者，就此而言，第一位非洲裔美国总统的当选、美国在同性恋权利问题上的超快转变、英国脱欧、特朗普当选，还有伯尼·桑德斯的崛起，哪一件不是呢？</div>
+<div class="article-paragraph">并且，仍然是在<span>政治领域，想想所有会给对2020年可能发生的事件蒙上阴影的<a href="https://www.thecut.com/2019/05/who-will-win-2020-election-impossible-to-know.html" rel="noopener noreferrer" target="_blank" title="Link: https://www.thecut.com/2019/05/who-will-win-2020-election-impossible-to-know.html">未知因素</a>吧。<a href="https://www.theguardian.com/us-news/2020/feb/21/mike-bloomberg-facebook-ad-campaign" rel="noopener noreferrer" target="_blank">迈克尔·布隆伯格</a>(Michael Bloomberg)和<a href="https://www.theatlantic.com/magazine/archive/2020/03/the-2020-disinformation-war/605530/" rel="noopener noreferrer" target="_blank" title="Link: https://www.theatlantic.com/magazine/archive/2020/03/the-2020-disinformation-war/605530/">特朗普在数字广告上的巨额支出</a>会大幅改变选举的运作方式吗？还是说我们夸大了广告支出的作用？</span>美国人最终会拒绝社会主义吗，还是说，我们许多人都不太在乎这样一个过时的标签？桑德斯的革命军是会倾巢出动投票，还是会留在家里？我们的选举能经受住恶意干涉或国内的蠢行？这种病毒将如何影响经济和美国人的安全感？这对特朗普来说是好事还是坏事？</div>
+<div class="article-paragraph">我要亮出我的底牌：我认为，桑德斯当选的可能性越来越大了，这种病毒至少在短期内可能会重塑日常生活的很多方面，特朗普政府对它的反应肯定是笨拙的，或许是极其可怕的。</div>
+<div class="article-paragraph">当然，我也可能是错的。我们都有可能是错的。</div>
+*
+新冠病毒疫情的另一个受害者：美中贸易协议
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>、或发送邮件至cn.letters@nytimes.com订阅《纽约时报》</i><a href="https://cn.nytimes.com/morning-brief/"><i>中文简报</i></a><i>。]</i></div>
+<div class="article-paragraph"><span>华盛顿——迅速传播的新型冠状病毒可能会制造另一个受害者：<a href="https://cn.nytimes.com/business/20200116/china-trade-deal-text/">美中贸易协议</a>。</span></div>
+<div class="article-paragraph">病毒已经造成360多人丧生，数万人患病，而工厂停工、航班停飞和供应链<span>的扰动将<a href="https://cn.nytimes.com/business/20200204/sars-coronavirus-economic-impact-china/" title="Link: https://cn.nytimes.com/business/20200204/sars-coronavirus-economic-impact-china/">给中国经济造成沉重打击</a></span>。（截至2月3日24时，病毒在中国大陆造成死亡病例425例——编注。）<a href="https://www.nytimes.com/2020/01/15/business/economy/china-trade-deal.html" title="Link: https://www.nytimes.com/2020/01/15/business/economy/china-trade-deal.html">上个月，特朗普政府与中国官员签署了初步贸易协议</a>，经济上的打击可能会减缓中国对部分贸易协议承诺的履行。</div>
+<div class="article-paragraph">根据该协议的条款，中国已承诺在未来两年内购买额外的2000亿美元美国商品，包括大豆、机械和能源产品。要想完成如此高额的指标，中国公司将很快需要开始购买大量美国产品。</div>
+<div class="article-paragraph">中国政府按说还应该迅速采取行动，为美国农业和金融公司开放市场，并在几个月内对这些领域进行重大改革。</div>
+<div class="article-paragraph">但是，分析人士说，随着中国各地工厂和商店关闭以及政府官员专注于遏制病毒传播，北京将难以满足特朗普总统的条件。</div>
+<div class="article-paragraph">彼得森国际经济研究所的高级研究员玛丽·E·洛夫里(Mary E. Lovely)说：“这可能会有麻烦，特别是对于制造商而言。”</div>
+<div class="article-paragraph">她举出一个例子：航班停飞和旅游业务减少将对中国的航空公司造成压力，这可能会减少他们今年新购美国飞机的数量。</div>
+<div class="article-paragraph">“美国将如何应对呢？我们真的不知道，”她说。</div>
+<div class="article-paragraph">明尼苏达大学的供应链专家卡迪克·纳塔拉坚(Karthik Natarajan)表示，城市和工厂的关闭严重影响了制造业和旅游业。</div>
+<div class="article-paragraph">他说：“部分协议定于2月中旬生效，但随着中国政府专注应对疫情，制定行动计划以履行贸易协定的承诺可能会暂置一旁。”</div>
+<div class="article-paragraph">第一阶段贸易协议的最后一句话可能成为关键。该规定要求“如因自然灾害或其他双方不可控的不可预料情况，导致一方延误，无法及时履行本协议的义务，双方应进行磋商。”</div>
+<div class="article-paragraph">但是，即使面临致命的灾难，中国无法履行承诺仍可能会在美国引起一些反对，有可能使两国回到在签署贸易协定之前的艰难关系。</div>
+<div class="article-paragraph">经济学家预测，至少从短期来看，该病毒会拖累全球增长。在美国，高盛(Goldman Sachs)分析师估计第一季度经济增长将下降0.4个百分点，尽管这种影响可能会减弱。</div>
+<div class="article-paragraph">这些代价可能很快超过贸易协定的经济利益。尽管特朗普政府吹捧协议会带来巨大的经济收益<span>，但<a href="https://www.nytimes.com/2020/01/16/business/trade-deals-economy.html">经济学家的预测较为保守</a>，因为该协议仍将对超过3600亿美元的中国商品加征关税。</span></div>
+<div class="article-paragraph">特朗普政府的一些官员私下里说，中国可能以该病毒为借口推迟履行承诺，希望特朗普最终在今年的大选出局。</div>
+<div class="article-paragraph">中国一些人对特朗普政府限制两国间<span>旅行的禁令做出了负面反应，该禁令包括<a href="https://www.nytimes.com/2020/01/31/business/china-travel-coronavirus.html" title="Link: https://www.nytimes.com/2020/01/31/business/china-travel-coronavirus.html">禁止所有最近有中国旅行史的外国人入境</a>。</span></div>
+<div class="article-paragraph">欧亚集团总裁伊恩·布雷默(Ian Bremmer)在致客户的信中说，中国政府认为美国采取关闭边境的举动是“没有必要的挑衅，在最近商定的第一阶段贸易协议的背景下，加入了一点不良的气息”。</div>
+<div class="article-paragraph">为特朗普政府提供咨询的哈德逊研究所(Hudson Institute)中国专家白邦瑞(Michael Pillsbury)表示支持采取紧急措施，并可能要根据情况逐步升级。</div>
+<div class="article-paragraph">他还说，政府必须在病毒的潜在后果和破坏与中国的关系之间作出谨慎权衡。</div>
+<div class="article-paragraph">白邦瑞说：“流行病传播可能会伤害我们自己的经济，我们需要在限制流行病的防备性担忧和一些人做出过激反应的冲动之间找到平衡。”他说，这样的回应可能“促使中国的强硬派陷入多疑妄想，他们已经在说美国正在无情地利用这次健康危机”。</div>
+<div class="article-paragraph"><span>一些美国官员的评论引发了这些担忧。在周四接受福克斯商业新闻网(Fox Business)采访时，商务部长威尔伯·罗斯(Wilbur Ross)似乎<a href="https://www.nytimes.com/2020/01/30/business/economy/wilbur-ross-coronavirus-jobs.html" title="Link: https://www.nytimes.com/2020/01/30/business/economy/wilbur-ross-coronavirus-jobs.html">表示该病毒为美国带来了可能的经济机会</a>。</span></div>
+<div class="article-paragraph">罗斯对冠状病毒的受害者表示同情，但他说这很可能有助工作岗位回流到美国。</div>
+<div class="article-paragraph">“这确实使企业在评估其供应链时，成为他们需要去考虑的一件事，”他补充说。“因此，我认为这将有助于加快北美地区的就业机会回归。”</div>
+<div class="article-paragraph">洛夫里说，这种病毒就像美国对中国的关税一样，一直在鼓励企业评估其供应链，并投资于某些在中国境外生产的相同产品，从而使它们不完全依赖单一来源。但是往往这些工厂并不回流到美国。</div>
+<div class="article-paragraph">她说：“我们看到墨西哥和越南的贸易份额有所增加，但其中也包括韩国和日本这样收入较高的国家。”</div>
+*
+武汉疫情引发愤怒狂潮，医院资源短缺紧急求援
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>、或发送邮件至cn.letters@nytimes.com订阅《纽约时报》</i><a href="https://cn.nytimes.com/morning-brief/"><i>中文简报</i></a><i>。]</i></div>
+<div class="article-paragraph">中国武汉——周四，封城已一周，这个处于<a href="https://www.nytimes.com/2020/01/30/world/asia/coronavirus-china.html">冠状病毒疫情暴发</a>中心的中国中部省份饱受床位、医疗用品和医生短缺之苦，加剧了人们的愤怒和焦虑。</div>
+<div class="article-paragraph">人们越来越沮丧，国家电视台央视周四援引警方的消息<a href="http://m.news.cctv.com/2020/01/30/ARTIYetcA7cWAzPPqYcWU9Ei200130.shtml" rel="noopener noreferrer" target="_blank">报道</a>，一名感染者的家属在湖北省省会武汉市一家医院殴打了一名医生。他的岳父在医院去世后，该男子被指控拉扯、损坏了这名医生的口罩和防护服，可能使他暴露于病毒。该男子后来被拘留。</div>
+<div class="article-paragraph">与此同时，该地区的医院因为物资快速消耗，再次向社会求助。财经新闻网站<a href="https://www.yicai.com/news/100483434.html" rel="noopener noreferrer" target="_blank">第一财经报道</a>，在距离武汉不远、拥有700万人口的城市黄冈，短缺现象尤为严重，那里的一些医务人员为了防止感染，穿着雨衣，用垃圾袋作为鞋套。</div>
+<div class="article-paragraph">在日益加剧的不安情绪中，世界卫生组织<a href="https://www.nytimes.com/2020/01/30/health/coronavirus-world-health-organization.html">宣布</a>此次疫情为国际关注的突发公共卫生事件，承认该疾病目前对中国以外的国家构成风险。各国可以决定是否关闭边界、取消航班，或是对到达入境口岸的人员进行排查。</div>
+<div class="article-paragraph">同样在周四，中国政府机构宣布，计划向前线医务人员每天发放最高300元的补贴，并重新开放工厂以提高医疗用品和防护装备的产量。</div>
+<div class="article-paragraph">湖北省省长王晓东在周三的新闻发布会上说：“我们绝不能让黄冈成为第二个武汉。”</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="周四，在中国武汉，一名病人从家中转移到医院。这里有许多人感染了这种危险的新型冠状病毒。" data-src="https://static01.nyt.com/images/2020/01/30/world/30china-virus02/merlin_168078396_b037dbc1-ea40-4166-8d3f-5f4e02a30df3-master1050.jpg" src="https://static01.nyt.com/images/2020/01/30/world/30china-virus02/merlin_168078396_b037dbc1-ea40-4166-8d3f-5f4e02a30df3-master1050.jpg"/></div><figcaption><span>周四，在中国武汉，一名病人从家中转移到医院。这里有许多人感染了这种危险的新型冠状病毒。</span> <cite>Hector Retamal/Agence France-Presse — Getty Images</cite></figcaption></figure></div>
+<div class="article-paragraph">周四晚上，省领导在新闻发布会上说，黄冈卫健委主任被免职。</div>
+<div class="article-paragraph">对于许多中国人来说，这种果断的政府公告来得太少、太迟。周四，冠状病毒死亡人数增加了38人，使总数达到170（截至1月30日24时，死亡人数已上升至213人——编注），随着死亡人数迅速增加，人们的担忧与日俱增。近期的死亡病例中，除了一例在西南省份四川，其余都在湖北。</div>
+<div class="article-paragraph">中国疾病预防控制中心和湖北省疾控中心等单位的研究人员本周<a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2001316?query=featured_coronavirus" rel="noopener noreferrer" target="_blank" title="Link: https://www.nejm.org/doi/full/10.1056/NEJMoa2001316?query=featured_coronavirus">在《新英格兰医学杂志》(The New England Journal of Medicine)发表的有关冠状病毒论文</a>，在周四加剧了人们的愤怒。</div>
+<div class="article-paragraph">根据武汉市首批425例确诊病例的数据，该论文指出：“有证据表明，自2019年12月中以来，亲密接触者之间已发生人际传播。”</div>
+<div class="article-paragraph">中国网民被激怒了，质问政府为什么要等到1月20日才告知公众，病毒会人传人。到周四晚上，许多人抓住这篇论文作为证据，证明作者出于学术上的个人利益有意隐瞒有价值的信息。</div>
+<div class="article-paragraph">“我已经快爆炸了，我需要论文的作者们给我一个解释！！！！”浙江大学教授王立铭在广泛共享的社交媒体帖子中写道，该帖子被迅速删除。“作为掌握第一手信息的研究者，你们比公众早三个星期知道了病毒人传人的确凿信息，你们有没有做到你们该做的事情？”</div>
+<div class="article-paragraph">随着中国匆忙遏制疫情的暴发，各国都在努力解决<a href="https://www.nytimes.com/2020/01/29/world/asia/wuhan-china-coronavirus-evacuations.html">从武汉撤侨</a>，以及如何阻止病毒传播的问题。</div>
+<div class="article-paragraph">澳大利亚宣布了将它在武汉的侨民撤离至圣诞岛的计划后，一些人质疑将该岛作为隔离区可能造成的影响。澳大利亚一直利用偏远地区收容难民和其他移民，圣诞岛在其中发挥了重要但毁誉参半的作用。</div>
+<div class="article-paragraph">澳大利亚医学会主席托尼·巴顿(Tony Bartone)博士在<a href="https://www.youtube.com/watch?v=5rFUZcKrz1M" rel="noopener noreferrer" target="_blank">电视新闻采访</a>中说，将人们转移到圣诞岛并不是“适当的解决方案”。他说，政府还有其他更合适的设施，例如军事基地。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="武汉，一家治疗冠状病毒感染患者的医院正在建设中。" data-src="https://static01.nyt.com/images/2020/01/30/world/30china-virus03/merlin_167977167_8ac4ff92-eb5d-4767-9cc9-e63d58bdef17-master1050.jpg" src="https://static01.nyt.com/images/2020/01/30/world/30china-virus03/merlin_167977167_8ac4ff92-eb5d-4767-9cc9-e63d58bdef17-master1050.jpg"/></div><figcaption><span>武汉，一家治疗冠状病毒感染患者的医院正在建设中。</span> <cite>Getty Images</cite></figcaption></figure></div>
+<div class="article-paragraph">在日本，有撤离者在回国后拒绝进行医学检查，引发轩然大波。</div>
+<div class="article-paragraph">从武汉撤离的两名日本公民拒绝接受冠状病毒检测，首相为此解释，无法强迫公民接受身体检查。</div>
+<div class="article-paragraph">日本社交媒体上有用户表示，这些周三抵达东京的侨民将日本置于危险之中。有人称他们是恐怖分子。</div>
+<div class="article-paragraph">周四，日本首相安倍晋三在国会被问及政府将如何处理回国公民时表示，“我们花了很多时间劝说这两名从武汉回国的人”接受检查，“但是非常遗憾，这是没有法律约束力的，”安倍晋三说。</div>
+<div class="article-paragraph">随着莫斯科担心暴发冠状病毒疫情的担忧加剧，俄罗斯下令从当地时间午夜开始，关闭2600英里的中俄边境上约25个过境点中的16个。</div>
+<div class="article-paragraph">“我们必须尽一切努力保护我们的人民，”俄罗斯总理米哈伊尔·米舒斯京(Mikhail Mishustin)周四在内阁会议上发表<a href="http://government.ru/news/38878/" rel="noopener noreferrer" target="_blank">电视讲话</a>时说。</div>
+<div class="article-paragraph">周四，因为担心船上可能有人感染病毒，意大利阻止数千人离开一艘在意大利港口停靠的邮轮。</div>
+<div class="article-paragraph">据意大利国家通讯社<a href="https://www.ansa.it/english/news/2020/01/30/chinese-woman-with-fever-on-cruise-ship-6000-blocked_349d2ea0-4dc0-4d7d-8862-f0af22458d6b.html" rel="noopener noreferrer" target="_blank">安莎社</a>报道，一名来自香港的女子在歌诗达邮轮公司(Costa Cruises)的歌诗达翡翠号邮轮上发烧，并出现呼吸困难的症状。与该女子同行的男子没有出现任何症状，二人目前被隔离在船上的医院病房，由罗马一家医院的传染病专家进行检查。</div>
+<div class="article-paragraph">在美国，卫生官员于周四报告了该国首例新型冠状病毒人传人病例。官员在新闻发布会上说，这名患者的妻子从病毒的中心武汉返回，是芝加哥报告的首个病例。</div>
+<div class="article-paragraph">美国商务部长威尔伯·罗斯(Wilbur Ross)表示，中国的困境可能给美国带来一线希望，因为冠状病毒的爆发可能促使雇主将工作岗位转移到美国。</div>
+<div class="article-paragraph">“我不想谈论伴随一种非常不幸、非常恶性的疾病而来的胜利，”罗斯在接受福克斯商业频道采访时表示。他说：“我认为这将有助于加快工作机会回流北美。一些可能流向美国，也许还有一些会流向墨西哥。”</div>
+<div class="article-paragraph">他的言论可以被视为对一个危机中的国家麻木不仁，他过去也曾面临过这样的批评。在2019年初政府关闭期间，罗斯建议暂时休假的员工在一个多月没有工资的情况下去申请贷款。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="周三，在北京购买食品。一些人担忧长期的封锁可能会切断食物供给。" data-src="https://static01.nyt.com/images/2020/01/30/world/30china-virus04/merlin_168030993_31650d4f-d03b-4714-a2c4-75d58bf5476e-master1050.jpg" src="https://static01.nyt.com/images/2020/01/30/world/30china-virus04/merlin_168030993_31650d4f-d03b-4714-a2c4-75d58bf5476e-master1050.jpg"/></div><figcaption><span>周三，在北京购买食品。一些人担忧长期的封锁可能会切断食物供给。</span> <cite>Nicolas Asfouri/Agence France-Presse — Getty Images</cite></figcaption></figure></div>
+<div class="article-paragraph">由于疏散和封锁，武汉这个典型的繁华都市变成了一座鬼城。自从上周封城以来，大多数商店都关门了。市政府限制了交通。由于缺乏交通工具，医护人员和患病居民很难前往医院。</div>
+<div class="article-paragraph">但是大多数武汉居民太害怕感染病毒，所以没有离开家。</div>
+<div class="article-paragraph">“不是很担心自己生病的武汉本地人根本就不去医院，”北京律师、公民记者陈秋实在周四发布的一个<a href="https://www.youtube.com/watch?v=iXozpbomAns" rel="noopener noreferrer" target="_blank">视频博客</a>中说。“当地人很害怕，”他补充说。“我开始害怕了。”</div>
+<div class="article-paragraph">武汉市民出门主要是去仍在营业的超市、食品店和药店，这是政府维持城市运转努力的一部分。有高层官员承诺，居民不必为蔬菜、水果及其他主食担心。</div>
+<div class="article-paragraph">虽然武汉居民能够买到食品，但一些人抱怨价格上涨，或表示担心长期的封闭可能会切断食品供应。几位居民说，如果封闭时间再延长几周，中国其他地区食品供应也出现紧张，情况可能会变得更加严重。</div>
+<div class="article-paragraph">“如果我们收不到货，东西就会更贵，甚至可能要关门，”卖黄瓜、萝卜和西红柿的左启超(音)说。在他说话的同时，一个女人指责他胡来，提高萝卜的价格。</div>
+<div class="article-paragraph">“这里所有的县和村都在设路障，担心这个病，”左启超说。“就算政府保证食品供应也很难——所有路上都有检查。”</div>
+*
+香港书商桂民海在中国被判处10年监禁
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">香港——中国一家法院判处拥有瑞典国籍的香港书商入狱10年，这名书商在中国的秘密拘禁引发了国际争议。判决宣布后迅速遭到其支持者的谴责，他们称这是中国政府决心<a href="https://cn.nytimes.com/business/20160205/c05hongkong/">遏制国外批评</a>的最新例证。</div>
+<div class="article-paragraph">书商桂民海（又名桂敏海）一位中国出生的瑞典公民，他于2015年被秘密从泰国家中带走。中国共产党力图在中国大陆以外也要让异见者噤声，桂民海一直是这项运动的主要目标之一。<br/></div>
+<div class="article-paragraph">宁波市中级人民法院在宣布裁决的一则<a href="http://www.nbcourt.gov.cn/art/2020/2/24/art_3380_553030.html" rel="noopener noreferrer" target="_blank">简短通知</a>中说，现年55岁的桂民海于1月被控为境外非法提供情报罪。消息指出，他已于2018年恢复中国国籍，这意味着他将放弃瑞典国籍，消息还称其表示不上诉。这些详细信息无法被独立核实。<br/></div>
+<div class="article-paragraph">这一判决是一项旨在打击香港出版市场的隐秘而长久的努力中的一个最新的转折，香港有时会出版有关中国领导人的淫秽书籍。这些作品无法在中国大陆出版，但在大陆访客中发展成蓬勃的市场。香港是中国的一个半自治地区，拥有很强的新闻自由。<br/></div>
+<div class="article-paragraph">桂民海是香港出版商巨流传媒的共同所有人，该公司的五名员工在大陆被拘留，其中李波显然是在香港街头被带走的。 除了桂民海以外，其余几人在中国官方媒体上公开认罪后被释放。<br/></div>
+<div class="article-paragraph">他们中的多数人保持了沉默，但其中一位林荣基于2016年返回香港后公开露面。他描述了当局为让其透露作家和购书者的姓名而对其施加的长时间的孤立和恐吓。 他说，他的供词是当局写的，他别无选择，只能照读。 后来，他因担心中国对香港的影响力和控制日益增强而搬到台湾。<br/></div>
+<div class="article-paragraph">林荣基表示，对桂民海的判决“荒谬透顶”。</div>
+<div class="article-paragraph">“怎么可能仅仅为了出某些书，将几个人绑走审判？”他在采访中说。</div>
+<div class="article-paragraph">林荣基还表示，这一判决是一个警告，表明中国政府将严厉惩罚反抗的行为。<br/></div>
+<div class="article-paragraph">“我的几个同事没有判刑，”他说。“大约是冲着他们，杀一儆百。”</div>
+<div class="article-paragraph">桂民海曾在2016年作过<a href="https://www.nytimes.com/2016/01/18/world/asia/missing-man-back-in-china-confessing-to-fatal-crime.html" title="Link: https://www.nytimes.com/2016/01/18/world/asia/missing-man-back-in-china-confessing-to-fatal-crime.html">一次声泪俱下的认罪</a>，他自称在一起致命酒后驾车事故后违反了保释条例，自愿回到中国接受审判。一年后，中国当局称他<a href="https://cn.nytimes.com/china/20171025/gui-minhai-hong-kong-bookseller/">已被释放</a>，但他不被允许离开中国，并被迫定期向警方报告。</div>
+<div class="article-paragraph">他所享有的自由很短暂。2018年初，他在与两名瑞典外交官乘火车前往北京时，被便衣警察抓住。</div>
+<div class="article-paragraph">去年，瑞典前驻华大使林戴安(Anna Lindstedt)被控<a href="https://cn.nytimes.com/world/20191210/sweden-ambassador-china/">“与外国势力谈判时恣意妄为”</a>，此前她曾安排桂民海的女儿安吉拉·桂(Angela Gui)与两名中国男子会谈，他们表示能为释放她父亲提供帮助。但安吉拉·桂表示，这些人利用这次会面向她施压，要求她不要再谈论父亲的案件。</div>
+*
+香港要求入境者佩戴手环隔离，它真的有用吗？
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph"><span>香港——这些<a href="https://www.reddit.com/r/HongKong/comments/fmcare/a_student_who_came_back_from_uk_defied_hong_kongs/" rel="noopener noreferrer" target="_blank">照片</a>看上去</span>平淡无奇：一碗汤边有一只拿着筷子的手，一个年轻人竖起大拇指，一个女人斜靠在宜家的床上。</div>
+<div class="article-paragraph">但最近几周，这些照片在香港引起了愤怒，因为其中似乎显示了有人违反强制隔离令。在其中两张图片里，可以看到当局为使被隔离者待在家中而发放的蓝色轻薄追踪腕带；第三张图中的女人据说把自己的腕带剪掉了。</div>
+<div class="article-paragraph">在世界各地，地方领导人为阻止冠状病毒传播正采取截然不同的隔离方法。在北京，从外国入境的人<span>必须自费在隔离设施中度过14天。在莫斯科，有<a href="https://www.reuters.com/article/us-china-health-moscow-technology/moscow-deploys-facial-recognition-technology-for-coronavirus-quarantine-idUSKBN20F1RZ" rel="noopener noreferrer" target="_blank">近20万个摄像头</a>在搜寻违反隔离规定的人。</span></div>
+<div class="article-paragraph">香港在某些方面比其他地方做得更过分。通过发放腕带，这个中国半自治地区成了第一个既追踪人、又在他们身上做标记的地方。所有从外国入境的人都必须戴上这种腕带，并隔离两周。</div>
+<div class="article-paragraph">这种对个人自由的侵犯是否合理引发了一场辩论。“有趣的是，这迫使我们直面自由与幸福、自由与健康之间可能存在的紧张关系，”牛津大学(University of Oxford)哲学家朱利安·萨乌勒斯库(Julian Savulescu)表示。</div>
+<div class="article-paragraph">对手环佩戴者的采访显示，在这两周内，佩戴者的看法是变化不定的。但许多人最终关注的是同一个问题：这个高科技手环是否仅仅是一张纸片而已？</div>
+<div class="article-paragraph"><span><b>腕带隔离</b></span><b>第</b><b>1-2天</b></div>
+<div class="article-paragraph">这很奇怪。但是现在有什么事不奇怪呢？</div>
+<div class="article-paragraph"><figure class="article-inline-photo"><div class="img-box"><img alt="拉尔瓦尼和一个朋友在飞往香港的航班上穿着防护服。
+
+" data-src="https://static01.nyt.com/images/2020/04/07/world/00virus-wristband-7/merlin_171350544_4ea61c88-c70f-4e90-bb6c-68097b4f139b-jumbo.jpg" src="https://static01.nyt.com/images/2020/04/07/world/00virus-wristband-7/merlin_171350544_4ea61c88-c70f-4e90-bb6c-68097b4f139b-jumbo.jpg"/></div><figcaption><span>拉尔瓦尼和一个朋友在飞往香港的航班上穿着防护服。 </span><cite></cite></figcaption></figure></div>
+<div class="article-paragraph">当一位卫生官员将带有二维码的闪亮蓝色手环戴在西姆兰·拉尔瓦尼(Simran Lalwani)的手腕上时，她觉得跟近来的许多事相比，这件事并没有格外怪诞。</div>
+<div class="article-paragraph">在英国埃克塞特大学(University of Exeter)的课程被取消后，她穿着防护服、戴着护目镜和口罩，在飞机上待了12个小时，不吃东西，也不上厕所，为的是把自己被其他乘客感染的风险降到最低。</div>
+<div class="article-paragraph">在机场的两个处置点——在一个点佩戴腕带，另一个点签署隔离协议——确认了她已知的情况。最近几周，香港的冠状病毒病例出现激增，主要涉及从海外回来的人。</div>
+<div class="article-paragraph">这些被隔离者可以在城市的任何地方隔离两周，只要他们戴上腕带，待在随附的一款应用上注册的范围之内。</div>
+<div class="article-paragraph">“我不介意，”19岁的拉尔瓦尼在酒店安顿下来后通过WhatsApp说，“如果这意味着能让我和其他人都更安全。”</div>
+<div class="article-paragraph">如果违反了这些条款，她可能会被送往政府的隔离设施，还可能面临约645美元的罚款、六个月的监禁和社交媒体的惩罚。最让她担心的是网络暴民。她很清楚那些人并不是太在意事实。</div>
+<div class="article-paragraph">那位据社交媒体和几家新闻媒体称“剪掉”了腕带，躺在宜家床上的新冠大恶人，是她的一个朋友。拉尔瓦尼说她也是留学海外的香港人，其实根本就没有得到腕带。对这位19岁的设计专业学生的采访证实了这一点；她说，她是在腕带计划被用于美国来者之前就从纽约飞回香港的。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="宋柏萱和丈夫约瑟夫·瓦林，以及他们的两个女儿——6岁的卡米和琳娜，在结束了为期14天的隔离后不久，他们剪掉了腕带。" data-src="https://static01.nyt.com/images/2020/04/06/world/00virus-hkwristband-2/merlin_171239421_95b3e251-6032-466e-9fe7-e891af5f3a58-master1050.jpg" src="https://static01.nyt.com/images/2020/04/06/world/00virus-hkwristband-2/merlin_171239421_95b3e251-6032-466e-9fe7-e891af5f3a58-master1050.jpg"/></div><figcaption><span>宋柏萱和丈夫约瑟夫·瓦林，以及他们的两个女儿——6岁的卡米和琳娜，在结束了为期14天的隔离后不久，他们剪掉了腕带。</span> <cite>Christina Simons for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">香港大学医学人类学家、教授宋柏萱说，她和丈夫及两个孩子从圣路易斯抵达香港机场，并被分配了腕带，这令她感到“如释重负”。</div>
+<div class="article-paragraph">“是的，作为一个美国人，这相当令人不快，”宋柏萱说起这个追踪系统。但她又说，她终归认为这是“公共卫生系统运转良好的证据”。</div>
+<div class="article-paragraph">然而，到了第二天，怀疑开始悄然而至。在机场，宋柏萱和其他抵达的人被告知，他们的短信会收到一个密码。只有输入这个密码，他们才能为自己的数字牢笼登记边界。但是没有人收到密码。</div>
+<div class="article-paragraph">他们越是盯着手腕上的这个东西，就越怀疑它是否真的有用。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="北卡罗来纳州罗利的莫莉·戴维斯正在父亲的公寓里隔离。“我很想把它摘下来，但摘下来会让我感到有点内疚，因为我知道我应该戴着它，”她说。" data-src="https://static01.nyt.com/images/2020/04/06/world/00virus-wristband-4sub/merlin_171239379_55bc788b-efce-43f6-8096-aafdf8dc47a6-master1050.jpg" src="https://static01.nyt.com/images/2020/04/06/world/00virus-wristband-4sub/merlin_171239379_55bc788b-efce-43f6-8096-aafdf8dc47a6-master1050.jpg"/></div><figcaption><span>北卡罗来纳州罗利的莫莉·戴维斯正在父亲的公寓里隔离。“我很想把它摘下来，但摘下来会让我感到有点内疚，因为我知道我应该戴着它，”她说。</span> <cite>Christina Simons for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">“它们就像防水的纸条，”宋柏萱说。“我不知道里面到底有没有嵌入数字产品。”</div>
+<div class="article-paragraph"><span>刘伯伦（音）也有同样的想法，他被隔离在父母的公寓里。他说，奇怪的是，围绕这么“没用”的东西，居然会有这么多的<a href="https://gizmodo.com/hong-kong-introduces-invasive-location-tracking-bracele-1842414923" rel="noopener noreferrer" target="_blank">大惊小怪</a>。</span></div>
+<div class="article-paragraph">等到宋柏萱的密码终于送达时，这款应用提示她绕着自己的公寓走一圈。</div>
+<div class="article-paragraph">大约30秒后，应用判断她已经走完了。从那以后，只要她的手机在一个未注册的地方，腕带就会发出可怕的哔哔声。要想阻止它，需要扫描每个家庭成员的腕带二维码。</div>
+<div class="article-paragraph">但如果你把手机留在公寓里的规定范围内，然后走出去呢？当局会知道你违反了隔离禁令吗？</div>
+<div class="article-paragraph"><b>第3-6天</b></div>
+<div class="article-paragraph">假装它有效。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="阿尔汗·查布拉与母亲索努·格维尔。查布拉的父亲没有到过美国，为了安全，他在隔离期间搬到了另一个房间。" data-src="https://static01.nyt.com/images/2020/04/06/world/00virus-hkwristband-3/merlin_171239520_32916ce8-957e-4312-ab15-ccdec6308e5c-jumbo.jpg" src="https://static01.nyt.com/images/2020/04/06/world/00virus-hkwristband-3/merlin_171239520_32916ce8-957e-4312-ab15-ccdec6308e5c-jumbo.jpg"/></div><figcaption><span>阿尔汗·查布拉与母亲索努·格维尔。查布拉的父亲没有到过美国，为了安全，他在隔离期间搬到了另一个房间。</span> <cite>Christina Simons for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">宋柏萱至少收到了密码。到第四天，大多数接受采访的人仍然没有收到。</div>
+<div class="article-paragraph">他们开始感到焦虑，不是因为被政府追踪，而是因为没有被追踪而受到指责。</div>
+<div class="article-paragraph">15岁的阿尔汗·查布拉(Arhan Chhabra)和母亲一起被隔离，几天后，他终于打通了求助热线，“他们告诉我们用不着担心腕带和自我隔离的事，”他说。</div>
+<div class="article-paragraph">但他担心，如果把手环取下来，“会让人觉得我们想逃跑，”他说。</div>
+<div class="article-paragraph">香港卫生署和创新及科技局表示，追踪系统还在改进中，计划发放的6万个手环里，有一些更为先进。他们说，大多数人都拿到了密码。</div>
+<div class="article-paragraph">在声明中，这些机构还表示，只有一些腕带可以显示人们的位置，另外一些必须与手机配合使用。但许多接受采访的人表示，他们在机场听取手环的介绍时，以为手环本身就可以实现追踪。</div>
+<div class="article-paragraph">最近几天，当局开始向一些旅客发放<a href="https://twitter.com/ArtefactLCC/status/1246467111779696641" rel="noopener noreferrer" target="_blank">更大的腕带</a>，它们似乎不必依赖手机就能报告被隔离人员的位置。</div>
+<div class="article-paragraph">法拉赫·西迪基(Farah Siddiqui)是香港一个隔离人群支持<a href="https://www.facebook.com/groups/2788738214495345/?ref=group_header" rel="noopener noreferrer" target="_blank">组织</a>的联合创始人，她说，她听到有人利用这个系统逃避隔离，但大多数人都接受了它。</div>
+<div class="article-paragraph">不过，恐惧可能也在其中起了作用。“政府可以对我们说谎，告诉我们这东西一直在追踪你，我想如果你相信的话，可能就不会出门了，”她说。</div>
+<div class="article-paragraph">对于15岁的特里斯坦·吴（Tristan Ng，音）的家人来说，还有其他的原因让他们留在室内。他们的酒店不向被隔离的客人提供钥匙。如果你把自己锁在外面，工作人员就会叫警察。“我们几乎是被关在牢房里，”他说。</div>
+<div class="article-paragraph"><b>第14天</b></div>
+<div class="article-paragraph">自由，但不是每个人都能拥有。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="在检测出冠状病毒呈阳性后，拉尔瓦尼住进了香港一家医院的低风险病房。" data-src="https://static01.nyt.com/images/2020/04/06/world/00virus-hkwristband-2/merlin_171239550_5dc9774f-fac9-4528-8f07-e94c78618aa6-master1050.jpg" src="https://static01.nyt.com/images/2020/04/06/world/00virus-hkwristband-2/merlin_171239550_5dc9774f-fac9-4528-8f07-e94c78618aa6-master1050.jpg"/></div><figcaption><span>在检测出冠状病毒呈阳性后，拉尔瓦尼住进了香港一家医院的低风险病房。</span> <cite>Christina Simons for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">在隔离倒计时结束那一刻，宋柏萱删除了这款应用。女儿们都睡着了，所以要等到第二天早上再剪掉手环——包括她们戴在毛绒玩具熊上的手环。</div>
+<div class="article-paragraph">在城市的另一端，拉尔瓦尼收到一条短信，说她的隔离期已经结束。但这已经没关系了——她现在和其他四名冠状病毒患者一起住在医院病房里。</div>
+<div class="article-paragraph">隔离第三天，她接到了电话，提醒她飞机上坐在她旁边的乘客——一位穿了同样防护服的朋友——检测结果呈阳性。几天后，拉瓦尼开始咳嗽。</div>
+<div class="article-paragraph">她拨打应用程序中的号码后，一辆救护车把她送到一个新冠病毒检测点。后来，她被安置在一处低风险医院病房，她必须在那里待到两次连续测试结果呈阴性。</div>
+<div class="article-paragraph">“一定是在我们穿防护服的时候，”她说。“我一定碰过她碰过的东西。这表明传染性有多强。”</div>
+<div class="article-paragraph">因此，最终，香港严格的检疫制度似乎奏效了。但让拉尔瓦尼实现彻底隔离的是她的本能。她本可以回家隔离，但在到达的前一天晚上，她突然决定住酒店。</div>
+<div class="article-paragraph">“我只是有一种预感，觉得会出问题，”她说。“我是对的。”</div>
+*
+香港媒体大亨黎智英因参与“反送中”集会被捕
+<div class="article-paragraph"> <i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">香港——警方称，周五，香港一名媒体大亨因在去年的亲民主抗议中所起的作用而被捕，他因对中国的激烈反对而为人所知，其被捕是对香港独立媒体的又一个打击。</div>
+<div class="article-paragraph">这名大亨黎智英是香港精英阶层中的罕见人物，他愿意与北京对抗，旗下的壹传媒集团发行《苹果日报》——一份受欢迎的亲民主报纸和网站。黎智英的被捕正值香港应对抗议运动和如今冠状病毒暴发的双重冲击之际。</div>
+<div class="article-paragraph">作为一名公开支持民主运动和反政府抗议的香港著名商人，黎智英的独特地位使之成为受北京支持的人士时常攻击的目标。</div>
+<div class="article-paragraph">警方发言人周五称，黎智英因涉嫌参加8月31日未经授权的集会而被捕，这名发言人没有具体指出他的名字。当日，大量示威者无视警察的游行禁令，与防暴警察发生冲突。周五，另外两名资深民主活动人士也因在抗议活动中的作用而被捕。</div>
+<div class="article-paragraph">这一出人意料的高调逮捕发生在这些活动人士的家中，正值香港努力控制<a href="https://www.nytimes.com/news-event/coronavirus">新冠病毒</a>暴发之际，此举加剧了人们的恐慌和对当局进一步的不信任。去年持续数月的<a href="https://cn.nytimes.com/china/20200121/hong-kong-protests-yellow-blue/">抗议活动</a>已经震动了这个城市。</div>
+<div class="article-paragraph">据警方发言人表示，黎智英被捕还因其涉嫌一起三年前发生的“刑事恐嚇”案件。亲北京的刊物《东方日报》发布了记录2017年6月4日当天情况的视频片段，视频显示，黎智英在纪念天安门大屠杀的烛光纪念活动中，对该报的一名记者大骂脏话，并发出威胁。</div>
+<div class="article-paragraph">“事隔逾两年半后终被捕，”该报纸网站的标题写道。目前还不清楚此次对话之前发生了什么。<br/></div>
+<div class="article-paragraph">黎智英的高级助理马克·西蒙(Mark Simon)证实了他被捕的消息。</div>
+<div class="article-paragraph">就在黎智英被捕的同一周，<a href="https://cn.nytimes.com/china/20200225/china-hong-kong-swedish-bookseller/">香港书商桂民海</a>被中国法院判处10年监禁。桂民海曾出售有关中国领导人的八卦书籍，于2015年在泰国神秘消失，后来成为中国压制异见行动的目标。</div>
+<div class="article-paragraph">在周五上午的逮捕行动前，自6月至今，在香港政府对抗议活动的压制行动中，已有7000多名示威者被逮捕。</div>
+<div class="article-paragraph">中国一直在不遗余力地诋毁黎智英，他为香港那些大多年轻而群龙无首的抗议者提供了一个强大且广阔的平台。</div>
+<div class="article-paragraph">周五，香港工党在Facebook上发帖证实，该党副主席、长期的民主倡导者李卓人因在8月31日集会中发挥的作用而被警方逮捕。该党谴责警察“滥捕”和“打压示威自由”。</div>
+<div class="article-paragraph">该党表示，另一名活动人士、民主党前主席杨森也在周五被捕。</div>
+*
+在中俄边境，对一场反华大屠杀的选择性记忆
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">俄罗斯上布拉戈维申斯克——罪行发生在一条河边，120年前，俄罗斯哥萨克人在这里把成千上万的中国人淹死在阿穆尔河中。附近的山上矗立着一座青铜纪念雕像和一个混凝土的东正教十字架。</div>
+<div class="article-paragraph">这些纪念碑不是用来悼念遇难者的。相反，它们是在颂扬哥萨克人保卫土地的功绩，这些土地曾经是中国的，但自19世纪中叶以来就一直属于俄罗斯远东地区。</div>
+<div class="article-paragraph">两国都沉浸在受外国入侵者支配的痛苦记忆之中，然而对它们来说，1900年阿穆尔河上的可怕事件是一个棘手的问题。如今，俄罗斯和中国有着密切的经济和政治联系，由于对西方的共同警惕，以及对两国困扰丛生的过去的高度选择性记忆，两国紧密联系在了一起。</div>
+<div class="article-paragraph">“我们需要他们，他们也需要我们，”中国问题专家、在布拉戈维申斯克国立师范大学(Blagoveshchensk State Pedagogical University)任院长的奥尔加·扎勒斯卡亚(Olga Zalesskaia)说。“现在我们正在合作，挑起过去那些痛苦的篇章是没有意义的。”</div>
+<div class="article-paragraph">近来，两国一直试图回避这段历史。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="一座横跨冰冻的阿穆尔河的临时桥梁将布拉戈维申斯克与中国黑河连接起来。" data-src="https://static01.nyt.com/images/2020/02/25/world/00russia-china-dispatch/merlin_169134414_e0ae2d0d-e94a-46ca-9c1f-f8d6f4ce9389-master1050.jpg" src="https://static01.nyt.com/images/2020/02/25/world/00russia-china-dispatch/merlin_169134414_e0ae2d0d-e94a-46ca-9c1f-f8d6f4ce9389-master1050.jpg"/></div><figcaption><span>一座横跨冰冻的阿穆尔河的临时桥梁将布拉戈维申斯克与中国黑河连接起来。</span> <cite>Davide Monteleone for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">同样被回避的是如今由<span>在中国武汉暴发的<a href="https://cn.nytimes.com/world/20200225/coronavirus-russia-china-commerce/" title="Link: https://cn.nytimes.com/world/20200225/coronavirus-russia-china-commerce/">冠状病毒大流行引发的更多争论</a>。</span></div>
+<div class="article-paragraph"><span><a href="https://cn.nytimes.com/usa/20200319/china-virus/" title="Link: https://cn.nytimes.com/usa/20200319/china-virus/">与特朗普总统不同</a>，俄罗斯官员刻意避免将其称为“中国病毒”；中国对美国总统实施的旅行禁令做出了愤怒回应，但俄罗斯同时也全面限制</span>来自中国的旅行者，中方却并无怨言。</div>
+<div class="article-paragraph">然而，透过棱镜看去，历史却显得更加模糊。</div>
+<div class="article-paragraph">位于俄罗斯阿穆尔区首府布拉戈维申斯克的一家当地历史文化博物馆没有提及河中丧生的成千上万中国人，只是小心翼翼地提到了“1900年6月至7月在阿穆尔河上发生的军事事件”。</div>
+<div class="article-paragraph">博物馆的很大一部分展览空间被用来展示俄罗斯人在卫国战争，也就是第二次世界大战中遭受的苦难。这是5月9日全国庆祝活动的一部分，当天是苏联1945年战胜法西斯的75周年纪念日。</div>
+<div class="article-paragraph">河对岸的一家中国博物馆展示了一幅巨大的油画，画面上俄罗斯人把中国人赶下河去。但与此同时，中国煞费苦心地不去惹恼俄罗斯人：该博物馆不对外国人开放。</div>
+<div class="article-paragraph">康涅狄格大学(University of Connecticut)研究中国现代史的历史学家维克托·扎采平(Victor Zatsepine)研究过这起事件，他说，“肯定发生过大屠杀。”</div>
+<div class="article-paragraph">但是，他说，“中国国内看到的样子和外国人看到的样子有很大的不同。”他指出，中国共产党有着根据当前政治、外交和经济需要操纵记忆的悠久传统。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="在布拉戈维申斯克国立师范大学的俄罗斯和中国学生。“我们需要他们，他们也需要我们，”该大学的一位中国专家表示。" data-src="https://static01.nyt.com/images/2020/03/18/world/00russia-china-dispatch5/merlin_169134420_478ce4a6-94f4-486c-a5d6-bdc55df35504-master1050.jpg" src="https://static01.nyt.com/images/2020/03/18/world/00russia-china-dispatch5/merlin_169134420_478ce4a6-94f4-486c-a5d6-bdc55df35504-master1050.jpg"/></div><figcaption><span>在布拉戈维申斯克国立师范大学的俄罗斯和中国学生。“我们需要他们，他们也需要我们，”该大学的一位中国专家表示。</span> <cite>Davide Monteleone for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">扎采平在一份大屠杀研究报告中写道，这一事件不是意外，也不是战时混乱的结果——后者是俄罗斯对这场悲剧倾向采取的看法——而是“精心策划的帝国力量展示”，由俄罗斯人在“文化和种族优势”时期的态度所塑造。</div>
+<div class="article-paragraph">如今，拥有明显的优势的是中国，至少在经济上是如此，在黑龙江的中国一侧，灯火通明的高楼鳞次栉比，仿佛在嘲笑俄罗斯一侧破旧的河畔，那里许多建筑都可以追溯到19世纪。</div>
+<div class="article-paragraph">但北京不再像1960年代两国关系恶化、引发边境武装冲突时那样，把历史当作对付莫斯科的武器。</div>
+<div class="article-paragraph">当人们将俄罗斯与过去的不良行为联系起来时，通常会称之为沙俄，与弗拉基米尔·V·普京(Vladimir V. Putin)统治的国家保持安全距离。</div>
+<div class="article-paragraph">中国共产党把注意力集中在与美国及其盟友的竞争上，仍然时不时谴责日本和西方国家过去的殖民侵略行为。例如，英国因曾经占据香港而不断受到攻击，如今香港已经回到中国手中。</div>
+<div class="article-paragraph">但与俄罗斯夺取并依然持有的大片领土相比，香港岛不足挂齿。2015年，中国国家民族事务委员会发布了一份关于俄罗斯在黑龙江沿岸扩张的报告，指责俄罗斯侵占了超过38.6万平方英里的“我国领土”。</div>
+<div class="article-paragraph"><figure class="article-inline-photo"><div class="img-box"><img alt="代表阿穆尔地区哥萨克人组织的负责人亚历山大·尤里科。" data-src="https://static01.nyt.com/images/2020/03/18/world/00russia-china-dispatch2/merlin_169134375_c233ad8f-46e1-42fa-bc12-97b0ac19baeb-jumbo.jpg" src="https://static01.nyt.com/images/2020/03/18/world/00russia-china-dispatch2/merlin_169134375_c233ad8f-46e1-42fa-bc12-97b0ac19baeb-jumbo.jpg"/></div><figcaption><span>代表阿穆尔地区哥萨克人组织的负责人亚历山大·尤里科。</span> <cite>Davide Monteleone for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">俄罗斯近年修改宪法，禁止对关于“为捍卫祖国”而采取行动的“历史真相”进行任何歪曲。为了迎接第二次世界大战纪念日，全国各地都挂起了“我们都记得”的宣传条幅。</div>
+<div class="article-paragraph">然而1900年的事件属于莫斯科宁愿忘记的那一类历史，就像俄罗斯与阿道夫·希特勒(Adolf Hitler)于1939年签署的秘密协议那样。该协议使得波兰和波罗的海三国被莫斯科和柏林瓜分。</div>
+<div class="article-paragraph">在阿穆尔河的两岸，记忆大都被失忆所取代。</div>
+<div class="article-paragraph">布拉戈维申斯克国立师范大学历史助理教授安德烈·德鲁扎卡(Andrey V. Druzyaka)说：“这里没有人记得1900年发生了什么。”</div>
+<div class="article-paragraph">他将溺水屠杀描述为一个“可怕且可耻的错误”，但这个错误不应该被深入探讨，因为那只会打开一个装满爆炸性历史冤情的潘多拉盒子。</div>
+<div class="article-paragraph">在俄国人到达之前，中国对这片辽阔领土的掌握也从来谈不上多稳固。大多数居民是原住民、满族人或其他不属于中国主要种族汉族的人。直到1644年满人主导的清朝建立后，他们才被纳入中华帝国。</div>
+<div class="article-paragraph">清政府于1858年签署了《瑷珲条约》，正式将阿穆尔河北岸的领土割让给了俄罗斯。</div>
+<div class="article-paragraph">该条约就像1842年与英国割让香港的条约一样，曾经被北京谴责为“不平等”，继而是非法的。</div>
+<div class="article-paragraph">由于一些1895年被吞并的小岛，中国会抓住一切机会对日本发出威吓，然而，对于割让给俄罗斯的巨大领土，它没有发出任何正式的伸张。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="布拉戈维申斯克中央市场的小贩。" data-src="https://static01.nyt.com/images/2020/03/18/world/00russia-china-dispatch7/merlin_169134318_b06249d5-6f2d-4b3c-9d71-2ae2d263b609-master1050.jpg" src="https://static01.nyt.com/images/2020/03/18/world/00russia-china-dispatch7/merlin_169134318_b06249d5-6f2d-4b3c-9d71-2ae2d263b609-master1050.jpg"/></div><figcaption><span>布拉戈维申斯克中央市场的小贩。</span> <cite>Davide Monteleone for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">代表阿穆尔地区哥萨克人组织的负责人亚历山大·尤里科(Aleksandr Tyurik)表示，最好不要专注于过去，因为这“对未来没有任何帮助”。</div>
+<div class="article-paragraph">他说，将中国居民赶入阿穆尔河的哥萨克人并没有想要杀死他们，只不过是在反外国的义和团在中国肆虐的动荡时期试图确保俄罗斯边界安全。</div>
+<div class="article-paragraph">在1900年事件中有多少中国人被杀已不得而知，历史学家估计这一数字在3000到9000之间。但是有一个共识，成千上万的人在被哥萨克人强迫逼入阿穆尔河并要求他们游回中国后淹死，实际上就是一场反华大屠杀。</div>
+<div class="article-paragraph">扎特谢平对大屠杀的研究发现，哥萨克人还烧毁了许多满族村庄，而且“许多中国人在被扔进水里之前已被残酷杀害。”</div>
+<div class="article-paragraph"><figure class="article-inline-photo"><div class="img-box"><img alt="在城中一座由中国捐赠的公园边矗立着一座苏联建筑。" data-src="https://static01.nyt.com/images/2020/03/18/world/00russia-china-dispatch8/merlin_169134315_9987ac28-1a3d-4c81-a893-60056345148a-jumbo.jpg" src="https://static01.nyt.com/images/2020/03/18/world/00russia-china-dispatch8/merlin_169134315_9987ac28-1a3d-4c81-a893-60056345148a-jumbo.jpg"/></div><figcaption><span>在城中一座由中国捐赠的公园边矗立着一座苏联建筑。</span> <cite>Davide Monteleone for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">布拉戈维申斯克博物馆的策展人安吉莉卡·兹维列娃(Angelika Zvereva)承认在1900年发生了“不好的事情”，但她说她不知道细节。她还说，更重要的是要记住，暴力行径一消退，许多中国人就回到了布拉戈维申斯克生活和工作。</div>
+<div class="article-paragraph">“战斗结束一个月后，一切恢复了以前的样子。”她说，将这桩屠杀看作是一场短暂而不幸的插曲，在其他方面的关系还是和谐的。</div>
+<div class="article-paragraph">中国也时不时重写阿穆尔河发生的事件，以及俄罗斯向原中国领土扩张的叙述。</div>
+<div class="article-paragraph">当中国在1950年代接纳苏联为亲密盟友和共产党“老大哥”时，几乎从未提及1900年的事件。当两国在1960年代变得形同陌路时，情况发生了变化；那时，中共委托研究人员采访了大屠杀的幸存者，并谴责俄国的行动。</div>
+<div class="article-paragraph">后来，随着与俄罗斯的关系开始改善，那些常常带有尖刻批评的说法被淡化了。1991年边界协议的签署以及普京与中国领导人习近平之间建立的密切关系，让这些说法被进一步淹灭。</div>
+<div class="article-paragraph">兹维列娃说：“历史真是说不清的东西。”</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="黑龙江的中国一侧，黑河的高楼大厦。" data-src="https://static01.nyt.com/images/2020/03/04/world/00russia-china-dispatch6/merlin_169134438_0f5e91e5-64cb-4c2d-8e83-effef0e99ecb-master1050.jpg" src="https://static01.nyt.com/images/2020/03/04/world/00russia-china-dispatch6/merlin_169134438_0f5e91e5-64cb-4c2d-8e83-effef0e99ecb-master1050.jpg"/></div><figcaption><span>黑龙江的中国一侧，黑河的高楼大厦。</span> <cite>Davide Monteleone for The New York Times</cite></figcaption></figure></div>
+*
+汤姆·汉克斯夫妇感染新冠病毒
+<div class="article-paragraph">汤姆·汉克斯(Tom Hanks)周三表示，他和妻子丽塔·威尔逊(Rita Wilson)确认感染新冠病毒。这位现年63岁的奥斯卡金像奖得主现在正在澳大利亚，原计划拍摄一部关于猫王(Elvis Presley)生活的电影。</div>
+<div class="article-paragraph">“大家好。我和丽塔来澳大利亚了，”汉克斯在一份声明中说， “我们感到有点疲劳，像是得了感冒，身体也有一些疼痛。丽塔时不时感到体寒，也有些轻微发烧。为了进行正确的处理——这是当今世界所需要的，我们已经进行了新冠病毒检测，检测结果呈阳性。”</div>
+<div class="article-paragraph">他补充道，他和威尔逊女士“将在公共卫生和安全要求的范围内接受检查，观察和隔离。”<br/></div>
+<div class="article-paragraph">“也只能走一步算一步了，不是吗？我们会及时发布和更新我们的最新状况。”他说。</div>
+<div class="article-paragraph">这部由巴兹·卢曼(Baz Luhrmann)执导的电影定于周一开始制作，汉克斯在片中将扮演猫王性格古怪的经纪人汤姆·帕克(Tom Parker)上校，后者在1950年代将这位著名歌手培养为明星。</div>
+<div class="article-paragraph">“公司成员的健康和安全始终是我们的头等大事，我们正在采取预防措施，保护在我们遍布全球的作品中工作的每个人，”投资这部电影的华纳兄弟公司(Warner Bros.)在一份声明中说。</div>
+<div class="article-paragraph">澳大利亚目前已确诊冠状病毒病例120多例。</div>
+<div class="article-paragraph">汉克斯是迄今为止宣布自己感染这种病毒的最著名的娱乐圈人士，公开这一信息后，他立即成为了全球疫情暴发的标志性人物。<br/></div>
+<div class="article-paragraph">鉴于少部分媒体仍在就这一全球大流行疾病的严峻程度进行争论，对于一些美国人来说，得知汉克斯感染病毒也许更能让他们认清现实。汉克斯曾主演《拯救大兵瑞恩》和《阿波罗13号》等电影。</div>
+<div class="article-paragraph">在美国，新冠病例已超过1200例，有关大型集会安全的警告已开始在娱乐界产生明确的影响。像《观点》(The View)和《凯利与瑞安真情对话》(Live with Kelly and Ryan)这样白天播出的脱口秀节目通常是在演播室观众现场观看下拍摄的，但是周三的录制没有观众在场。而在纽约进行录制的深夜节目，例如“史蒂芬·科尔伯特的晚场秀( The Late Show With Stephen Colbert)和《<span>吉米今夜秀</span>》，均已宣布从周一开始就在没有观众的情况下拍摄。</div>
+*
+油价暴跌、美股熔断：全球经济进入下行周期？
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">周一，迅速传播的冠状病毒和油价暴跌引发了金融市场的连锁反应，这种自我延续的下行周期可能对全球经济造成严重损害。</div>
+<div class="article-paragraph">上个月开始的对中国经济可能放缓的不安情绪，已经演变成一种边缘恐慌，标准普尔500指数周一大跌近8％。这场混乱可能从整体上扰乱全球金融体系，以及大小企业度过潜在的经济季风——这些破坏性力量助长和加剧的螺旋式下降——的生存能力。</div>
+<div class="article-paragraph">俄罗斯与沙特阿拉伯之间出乎意料的石油价格战也增加了这种风暴发生的可能性。两国未能就在国际市场上生产和销售多少石油达成共识，沙特阿拉伯宣布将迅速提高产量。<br/></div>
+<div class="article-paragraph">由于投资者担心可能发生经济衰退，油价一直在下跌。周一，它们暴跌了20％以上——这是自第一次海湾战争以来的最大跌幅。</div>
+<div class="article-paragraph">标普500指数在过去几周下跌了19％，周一是10年来最大的单日跌幅。这种自由落体式下跌使超过5万亿美元的市值蒸发。</div>
+<div class="article-paragraph">周一上午美国市场开盘不到10分钟，大量抛售触发了自动“熔断”机制，导致交易暂停。这是目前的熔断机制于2013年设定以来的首次触发。标准普尔跌幅为7.6％，它发生在这一轮牛市开始11周年之际——这是有史以来最久的一次。如果从最高点下跌20％，则意味着所谓的熊市，标准普尔500指数目前勉强避开了该指标。</div>
+<div class="article-paragraph">公共卫生危机现在有可能要演变成一场金融危机，这又可能加剧该病毒导致的经济影响。</div>
+<div class="article-paragraph">蒙特利尔银行资本市场公司(BMO Capital Markets)的分析师丹·克里特(Dan Krieter)说：“市场弥漫着恐慌情绪，看上去我们正在步入全球性衰退，包括美国。”</div>
+<div class="article-paragraph">特朗普总统在周一晚间举行的白宫冠状病毒简报会上对记者说：“我们将照顾好并一直照顾美国公众。”他说，他将在周二与参议院会面，讨论削减工资税和为时薪者提供帮助的问题。</div>
+<div class="article-paragraph">下行周期——有迹象表明正在进行中——有可能会像这样发展：随着病毒扰乱制造供应链以及旅行，消费者支出将下降，企业运转困难，股价暴跌。对企业利润的威胁将促使投资者寻找政府债券等避风港，从而导致其价格上涨、收益率下降，给银行业造成压力。银行将限制企业融资，企业就会减产或裁员以囤积资本。</div>
+<div class="article-paragraph">投资者竞相避险，躲开公司债券，这使许多公司的融资成本提高。随着他们大量购入美国政府债券，长期利率跌至历史低点；基准的10年期美国国债利率截止上周从未跌破1％，而最近只有这个数字的一半。</div>
+<div class="article-paragraph">为抢在螺旋式下降前，美联储周一表示，将增加银行可获得的短期贷款数量，便于它们继续放贷。在上周二紧急降息之后，这是一周来美联储第二次采取行动，遏制因冠状病毒导致市场震动的潜在后果。</div>
+<div class="article-paragraph">即使未做投资的人，事态发展也是被不看好的。大小企业根据自身的财务实力和对未来的经济预期，来雇用或解雇工人以及购买设备和原材料。随着公司缩紧开支，它影响到工人和供应商——到那时他们不得不勒紧裤腰带。</div>
+<div class="article-paragraph">裁员增加，工资下降。消费者支出减少。</div>
+<div class="article-paragraph">需要现金的企业在这样的时刻通常会向银行寻求帮助。但是，随着银行受到利率下滑的挤压，它们向陷入困境的公司提供贷款的能力和意愿减弱了——这正是美联储试图通过增加短期贷款来缓解的情况。同时，恐慌的投资者不想购买高风险的公司债务，从而切断了许多公司的另一条可能的生命线。投资者还从投资于杠杆贷款的共同基金撤资，这种杠杆贷款是一种高风险类型的公司债务，近年来已成为许多公司进行业务融资的常见方式。</div>
+<div class="article-paragraph">其结果可能是，随着企业——尤其是许多钻探企业深陷债务的页岩油行业——从财务悬崖上跌落，破产数量激增。更多工人失去工作。家庭取消假期，推迟大宗采购。</div>
+<div class="article-paragraph">这种循环周而复始，会进一步削弱经济。</div>
+<div class="article-paragraph">“市场希望听到全球经济照常运作的消息，但问题是，以后这话可不容易说，”投资咨询公司银冠资产管理(Silvercrest)的首席策略师帕特里克·霍瓦内茨(Patrick Chovanec)说。</div>
+<div class="article-paragraph">当然，事实可能会证明投资者的悲观情绪被夸大了。</div>
+<div class="article-paragraph">例如，冠状病毒到了某个时刻可能会停止传播；中国和韩国的疫情似乎已经在放缓。如果这种情况很快发生，工厂关闭、会议取消和旅行限制造成的任何经济损失都可能是短暂的。</div>
+<div class="article-paragraph">或许俄罗斯和沙特阿拉伯将很快达成协议。在此之前，油价触底的困境还会带来一线希望：由此带来的廉价燃料将给消费者、卡车运输和航空等行业带来福音。</div>
+<div class="article-paragraph">并非一切都是坏消息。即使在周一下跌之后，标普500指数过去10年仍上涨了140%。而债券市场的火热反弹——债券价格随着收益率下降而上升——为许多个人投资者带来了巨大的回报。据晨星公司(Morningstar)的数据，截至上周五，共同基金和ETF持有的长期美国政府债券价格今年以来上涨了22%。</div>
+<div class="article-paragraph">此外，低利率对拥有房产或打算买房的人来说是件好事。抵押贷款再融资热潮正在兴起，许多借款人每月将会节省大量资金。</div>
+<div class="article-paragraph">“这对经济来说是暂时的逆风，”贝莱德(BlackRock)全球固定收益部门首席投资官里克·里德(Rick Rieder)表示。“这是暂时的，但这是一场类似龙卷风的逆风，所以它在一段时间内会很强劲。”</div>
+<div class="article-paragraph">他还说，目前市场的不确定性比金融危机最严重时还要高。“我甚至不记得2009年的不确定性有这么高，”他说。</div>
+<div class="article-paragraph">各国政府和央行都在忙着缓和不稳定的金融形势。除了美联储降息、让银行更容易借贷之外，特朗普政府和国会还在讨论刺激经济的方法。</div>
+<div class="article-paragraph">但这不大可能提供多少立竿见影的帮助。</div>
+<div class="article-paragraph">“许多投资者预计几天内就会出台财政刺激措施，但这不是华盛顿的典型做法——即使在紧急情况下也是如此，”位于马里兰州贝塞斯达的投资咨询公司——韦达合伙公司(Veda Partners)的经济政策主管亨丽埃塔·特雷兹(Henrietta Treyz)周一在给客户的报告中说。“即使是最紧急的立法也需要数周时间才能通过，目前在国会山流传的想法也很少。”</div>
+<div class="article-paragraph">与此同时，压力的迹象正在成倍增加，尤其是在金融市场通常平淡无奇的角落。</div>
+<div class="article-paragraph">例如，最近几天，购买企业发行的超短期债（包括一种被称为商业票据的流行品种）的投资者开始变得紧张不安。像货币市场共同基金这样的投资者要求更高的利率。</div>
+<div class="article-paragraph">这推高了许多企业的借贷成本，使它们的运营成本更加昂贵。它还表明，机构投资者担心企业违约可能很快就会增加。</div>
+<div class="article-paragraph">好消息是，总体而言，美国银行业比2008年金融危机席卷全球时要强大得多。</div>
+<div class="article-paragraph">不过，能源行业正逐渐成为美国经济受冲击最严重的行业之一。随着经济放缓，能源需求已经开始下降。然后沙特阿拉伯和俄罗斯开始了价格战。</div>
+<div class="article-paragraph">马拉松石油(Marathon Oil)和阿帕奇(Apache Corporation)等公司的股价星期一下跌了40%以上，埃克森美孚公司(Exxon Mobil)的股价下跌了12%，雪佛龙公司(Chevron)的股价下跌了15%。</div>
+<div class="article-paragraph">切萨皮克能源公司(Chesapeake Energy)和山脉资源(Range Resources)等引领页岩气热潮的公司已经陷入困境，而且它们的问题可能还会加剧。切萨皮克公司的股价分文不值，其债券交易水平反映了投资者对违约的预期。山脉资源是一家位于宾夕法尼亚州的早期天然气钻探公司，和它的许多同行一样正在削减资本支出。</div>
+<div class="article-paragraph">这很可能会损害这些天然气公司所在地的经济——这再次提醒人们，经济正面临陷入陡峭、下沉螺旋的危险。</div>
+*

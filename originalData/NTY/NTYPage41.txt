@@ -1,0 +1,168 @@
+研究发现部分儿童感染新冠病毒后患重症
+<div class="article-paragraph"><span><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></span></div>
+<div class="article-paragraph">肆虐全球的新冠病毒对儿童往往较为温和<span>，在目前已确认的数万例感染中，<a href="https://jamanetwork.com/journals/jama/fullarticle/2762130" rel="noopener noreferrer" target="_blank">儿童所占比例最小</a>。</span></div>
+<div class="article-paragraph">迄今为止对儿童和病毒进行的最大规模的研究发现，虽然大多数儿童出现轻度或中度症状，但有一小部分人——特别是婴儿和学龄前儿童——可能会患重病。</div>
+<div class="article-paragraph"><span><a href="https://pediatrics.aappublications.org/content/pediatrics/early/2020/03/16/peds.2020-0702.full.pdf" rel="noopener noreferrer" target="_blank">这项研究</a>发表在《儿科》(Pediatrics)杂志</span>网络版上，研究对象是这场大流行的起始点中国的2000多名患病儿童。研究更加清楚地描述了年幼的患者是如何被病毒感染的，专家们表示，这些知识可以在诸如停课、医院准备以及最终治疗和疫苗的部署等政策制定上提供帮助。</div>
+<div class="article-paragraph">研究人员分析了2月8日中国疾病预防控制中心报告的2143例18岁以下的患病儿童。只有三分之一多的病例通过实验室检测得到确诊。其余根据孩子的症状、胸片、验血以及是否接触过新冠病毒感染者，被归类为疑似病例。</div>
+<div class="article-paragraph">大约一半的儿童有轻微的症状，如发热、疲劳、咳嗽、鼻塞，可能还有恶心或腹泻。超过三分之一（约39%）的患者病情中等，CT扫描显示有肺炎或其他肺部症状，但没有明显的呼吸困难。大约4%的人没有任何症状。</div>
+<div class="article-paragraph">但是，该研究的资深作者、上海儿童医学中心临床流行病学和生物统计学系主任童世庐说，仍有125名儿童——将近6%——患上了严重疾病，并有一名14岁的确诊男孩死亡。这些病例中有13例处于呼吸或器官衰竭的边缘，被认为是“危重症”。其他则因为严重的呼吸系统疾病而被分类为“重症”。</div>
+<div class="article-paragraph">不列颠哥伦比亚大学(University of British Columbia)的儿科学助理教授、没有参与该研究的斯瑞尼瓦斯·穆尔蒂(Srinivas Murthy)博士说：“这实际上在告诉我们，医院应该如何为儿科患者做好准备，因为我们不能完全排除儿童患病。”</div>
+<div class="article-paragraph">穆尔蒂说：“主要结论是儿童的感染率与成人可能是相当的，严重程度要低得多，但是即使在儿童中，也存在多种病症，并且有少数病例需要更积极的治疗。”</div>
+<div class="article-paragraph">该研究报告说，在125名重症或危重症儿童中，有60％以上在5岁或5岁以下。其中有40例是不满12个月的婴儿。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="本月初，一名感染冠状病毒的婴儿在中国武汉儿童医院接受了治疗。" data-src="https://static01.nyt.com/images/2020/03/17/science/17VIRUS-CHILDREN1/merlin_170270898_19a46ae6-7975-47bb-a74a-0ec581b2a2a1-master1050.jpg" src="https://static01.nyt.com/images/2020/03/17/science/17VIRUS-CHILDREN1/merlin_170270898_19a46ae6-7975-47bb-a74a-0ec581b2a2a1-master1050.jpg"/></div><figcaption><span>本月初，一名感染冠状病毒的婴儿在中国武汉儿童医院接受了治疗。</span> <cite>China Daily/Reuters</cite></figcaption></figure></div>
+<div class="article-paragraph">童世庐说，他相信幼童更容易受到感染，因为他们的呼吸系统和其他身体机能正在迅速发育。</div>
+<div class="article-paragraph"><span>贝勒医学院(Baylor College of Medicine)的儿科助理教授安德烈·克鲁兹(Andrea Cruz)博士与他人合著了<a href="https://pediatrics.aappublications.org/content/pediatrics/early/2020/03/16/peds.2020-0834.full.pdf" rel="noopener noreferrer" target="_blank">对该研究的评论文章</a>。他说，学龄前儿童和婴儿的病情可能由于“免疫系统不成熟”而加重。</span></div>
+<div class="article-paragraph">她在一次采访中说：“他们以前还未接触过病毒，因此无法进行有效的免疫反应。”</div>
+<div class="article-paragraph">科学家们正在努力明确为什么如此多的儿童在感染病毒后似乎丝毫未受影响，这种特征也出现在关系相近的病毒的暴发中——曾经的中国SARS暴发和中东地区的MERS暴发。穆尔蒂说，在意大利、新加坡和韩国，感染新型冠状病毒的儿童病例看上去是相似的。</div>
+<div class="article-paragraph"><span>穆尔蒂说，一种越来越流行的理论是，病毒分子与人类细胞中称为<a href="https://www.ncbi.nlm.nih.gov/pubmed/32167747" rel="noopener noreferrer" target="_blank">ACE2</a>的受体或蛋白质相结合，这种受体在幼儿中的表达不突出，或者以不同的形式表达。</span></div>
+<div class="article-paragraph">他说：“它在儿童体内可能不像在成人体内那样发展。”这可能会使微小病毒颗粒的刺突难以结合并进入细胞以进行自我复制。</div>
+<div class="article-paragraph">克鲁兹说，另一个理论是“大多数孩子的肺比成年人更健康”。成年人很可能在多年的生活中更多地暴露于污染，而且患有严重冠状病毒疾病的成年人往往具有潜在的健康问题，或衰弱、老化的免疫系统。</div>
+<div class="article-paragraph">专家们说，儿童的免疫系统也可能不像成人免疫系统那样迅速启动以攻击病毒。医生发现，受感染的成年人遭受的一些严重损害不仅是由病毒本身引起的，而且还包括在人体器官中的剧烈免疫反应，导致破坏性的炎症。</div>
+<div class="article-paragraph">这项新研究虽然规模庞大，涉及不仅是武汉而且遍布中国各地的病例，但仍然留下了许多悬而未决的问题。例如，研究人员发现，更多的重症和危重儿童属于冠状病毒疑似病例——而不是确诊病例，这增加了除Covid-19之外还有其他感染导致身体器官遭受损害的可能性，甚至跟Covid-19无关。</div>
+<div class="article-paragraph">同样不清楚的是，美国是否可以使用中国报告的相对较少的儿童感染病例比例进行预测，还是应该为比这更多的病例做好准备。</div>
+<div class="article-paragraph">克鲁兹说：“中国的年龄结构确实与美国不同——他们的儿童比我们少得多。”克鲁兹相信，和其他专家一样，大量轻症或无症状病例未被记录，因为这些病例未进行病毒测试。“因为针对重点是成年人，所以对儿童的测试做的不够。我们可能一直低估了儿童的疾病负担。”</div>
+<div class="article-paragraph">解答有关感染冠状病毒的儿童的问题所引发的回应，很可能会超越儿科领域。这也许能解释为什么某些患者有极高的风险。穆尔蒂说，对受影响较小的人的生理状况进行研究，可能有助于诊疗和疫苗的开发。</div>
+*
+美司法部起诉四名中国军方人士，涉黑客攻击案
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠肺炎疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">华盛顿——司法部周一宣布对中国军方四名成员做出指控，这四人涉嫌在2017年侵入美国最大信用报告机构之一艾可飞(Equifax)的计算机系统，窃取商业机密以及大约1.45亿美国人的个人数据。</div>
+<div class="article-paragraph">“这是对美国人民私人信息的一次蓄意、大范围侵入，”司法部长威廉·巴尔(William Barr)说。</div>
+<div class="article-paragraph">这些指控突出显示了中国正寻求获取美国人的个人数据，并不惜违背2015年与美国达成的一项限制黑客和网络攻击的协议，这些都旨在扩展其经济实力与影响力。</div>
+<div class="article-paragraph">起诉书表示入侵是中国人民解放军和情报部门所组织的一系列重大大数据窃取的一部分。中国可以利用收集到的大量个人信息，将它们与人工智能结合起来，从而更好地采取针对美国情报机构官员和其他官员的行动，巴尔在宣布此次指控的新闻发布会上说道。</div>
+<div class="article-paragraph">从总部位于亚特兰大的艾可飞窃取到的这些信息，可以显露出是否有任何美国官员处于财务压力之下，因而容易受到贿赂或敲诈的影响。</div>
+<div class="article-paragraph">虽然此次艾可飞所受到攻击的规模不及其他几次重大的入侵，但是要严重得多。黑客窃取了几乎半数美国人的姓名、出生日期和社会保险号码，这些数据可以被用来获取诸如病史和银行账户这样的信息。</div>
+<div class="article-paragraph">“这种对美国产业的攻击与中国其他对敏感个人数据的非法获取如出一辙，”巴尔在司法部宣布上述指控时说道，他援引了中国近年来窃取美国联邦人事管理办公室(Office of Personnel Management)、万豪国际集团(Marriott International)和保险公司安森(Anthem)数据为据。</div>
+<div class="article-paragraph">其中最大的一次是2015年对政府人事机构大约2200万份安全许可文件的窃取，这些文件记录了联邦雇员和承包商的信息。</div>
+<div class="article-paragraph">此次包含九项内容的控告指控中国军方侵入艾可飞公司的计算机网络，并持续掌握着未获授权的读取能力，窃得涉及个人身份的美国人敏感信息。</div>
+<div class="article-paragraph">根据政府文件，在这次攻击几个月之前，政府曾警告艾可飞其网络包含一个漏洞，但该公司没有做出修补。</div>
+*
+特朗普还有人性吗？
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">你记得9·11恐怖袭击事件发生后，乔治·W·布什总统在曼哈顿世贸中心废墟发表的讲话吗？我现在还清楚地记得他提到国家的悲伤和民族自豪时的声音。这是在后来的所有糟糕判断和致命错误之前，这并不能为那些判断和错误开脱。但这个讲话很重要，因为它让我们确信，我们国家的领导人脑海里翻腾着一些与我们一样的情感思潮。</div>
+<div class="article-paragraph">你记得奥巴马总统在康涅狄格州纽敦校园枪击案发生后举行的记者会吗？那次枪击案导致了包括20名儿童在内的28人死亡。我记得。我记忆中最清晰的是他<a href="https://www.youtube.com/watch?v=qP1blMoveZY" rel="noopener noreferrer" target="_blank">强忍住眼泪</a>的情景。他伤心。他担忧。虽然我们不能指望用新法律来阻止下一次大屠杀，但我们至少可以继续保持希望。</div>
+<div class="article-paragraph">还有一个问题：你记得有这样的时刻吗——特朗普总统的言行表明，他不仅理解这场迅速蔓延的大流行病的规模，也领会我们在其面前的恐惧？</div>
+<div class="article-paragraph">我没有见到这个时刻，也许是因为它从未发生。<br/></div>
+<div class="article-paragraph">在特朗普前任们的身上，尽管他们有各种疵瑕，但我能感觉到一颗跳动的心，看到一个微微闪光的灵魂。在特朗普身上我什么都感觉不到，这让我充满悲伤，也充满了一种坦白讲我不知道该怎么处理的暴怒。</div>
+<div class="article-paragraph">成千的美国人正在死去，他却在洋洋得意地吹嘘自己有多么多全神贯注的电视观众。美国人面临着财务崩溃，不知道继续买食物、付房租的钱从哪里来，他却斥责州长们没有给予他足够的奉承。<br/></div>
+<div class="article-paragraph">他没有在挑战面前挺身而出，丝毫没有。他正在萎缩成一个不存在的东西。<br/></div>
+<div class="article-paragraph">上周五，在转达疾病控制和预防中心提出所有美国人在公共场所戴口罩的新建议时，特朗普格外努力地强调，戴口罩是自愿的，他本人就不会戴、身边也不会有人戴，这简直就等于给口罩贴上了“担惊受拍失败者才会戴”的标签。我终于为他想好了一个墓志铭：“唐纳德·J·特朗普，病毒面前仍耍酷”。</div>
+<div class="article-paragraph">这不仅仅是同理心的缺失，尽管许多观察者都用这来描述他的缺点。这更多地是行为准则的缺失，也是我一直以来在悲叹的。这是基本人性的缺失。<br/></div>
+<div class="article-paragraph">在几天前的《华盛顿邮报》上，曾在布什政府工作的保守派人士迈克尔·格尔森(Michael Gerson)写道，<a href="https://www.washingtonpost.com/opinions/america-needs-empathetic-leadership-now-more-than-ever/2020/04/02/1f6935f2-750c-11ea-87da-77a8136c1a6d_story.html" rel="noopener noreferrer" target="_blank">特朗普的精神世界</a>是“一个巨大、无迹的荒原”。准确地说不是无迹。那里的地平线上到处都是自负的花哨俗艳。</div>
+<div class="article-paragraph">这场全球健康危机的严重性开始显现出来时，我已经准备好面对那些谎言和虚假信息，它们都是特朗普的招牌。我对无能也有所准备，这种无能定义了一个如此蔑视正确做法和真正专业知识的政府。</div>
+<div class="article-paragraph">但出乎我意料并令我心碎的是特朗普持续的，甚至是旺盛的冷漠、傲慢、小气、刻薄、自恋和唯我，即使是在需要有更高尚表现的这种一生可能只有一次的紧急情况下。在正常情况下，这些特点令人恼火。而在眼下，这些特点让人彻底崩溃。<br/></div>
+<div class="article-paragraph">“<a href="https://www.politico.com/news/2020/03/13/trump-coronavirus-testing-128971" rel="noopener noreferrer" target="_blank" title="Link: https://www.politico.com/news/2020/03/13/trump-coronavirus-testing-128971">我完全不承担责任</a>。”“你知道我在Facebook上排名第一吗？”在一个国家因恐慌而颤抖时，有心思说出这两句话中的一句就够令人作呕了。像特朗普这样说出两句，是不通人事。<br/></div>
+<div class="article-paragraph">他继续抨击媒体，仿佛新冠病毒是在CNN的内部炮制出来的。他继续玩推卸责任的游戏，把自己凌驾于那些政治等级低的人之上，他想让<a href="https://www.nytimes.com/2020/03/30/opinion/trump-federal-aid-coronavirus.html" title="Link: https://www.nytimes.com/2020/03/30/opinion/trump-federal-aid-coronavirus.html">州长们对他卑躬屈膝</a>，并暗示他们是在联邦政府饲料槽前嗷嗷争食的猪仔儿。<br/></div>
+<div class="article-paragraph">他继续着他沾沾自喜的一人狂欢，所以会在最近一边推测美国将有10万人死于新冠病毒肺炎，一边扬扬自得地夸口自己正在做一份多么伟大的工作。<br/></div>
+<div class="article-paragraph">他继续奚落和诽谤他眼中的政治对手。上周，在福克斯新闻(Fox News)的节目上，他称南希·佩洛西(Nancy Pelosi)是“一只有病的小狗”。这就是他选择消磨时间和精力的方式吗？</div>
+<div class="article-paragraph">他在深受其青睐的每日简报会上说起话来没完没了，有时，他似乎并不把正在发生的事情当作一场毁灭性的灾难，而是一场明星荟萃的活动。看看简报会给每个参加者和所涉及的事情带来了多么精彩的出头露面机会吧！他曾大声的自言自语，感慨安东尼·福奇(Anthony Fauci)出了多大的名。他赞叹新冠病毒肺炎享有的名人形象。</div>
+<div class="article-paragraph">“成了一个非常有名的词儿——新-冠-病-毒-肺-炎，”他周四说道。从他语音里听出了嫉妒吗？</div>
+<div class="article-paragraph">他从无视现实转入一个感官和道德完全丧失的境地。<br/></div>
+<div class="article-paragraph">“我想要比模型低很多的数字，”他周五<a href="https://www.youtube.com/watch?v=kd2ArJSKXyM" rel="noopener noreferrer" target="_blank">说</a>，指的是病例和死亡人数的预测。“模型是专业人士做的。我从来没干过任何模型。”</div>
+<div class="article-paragraph">“至少没干过这种，”他补充道。没有比大流行病更好的黄色幽默背景了。</div>
+<div class="article-paragraph">做到这点真不容易：把这么多的厥词释放到空气中，却没有一个词承载任何真正的悲伤或打动人心的信念。<br/></div>
+<div class="article-paragraph">我可以听到他的崇拜者们发牢骚说，特朗普不会在相机前做完美的情感表演，奥巴马只不过是一个更好的演员而已，特朗普则是一个更真实的人。<br/></div>
+<div class="article-paragraph">我对此的回答是：如果让一个喜欢表演的人当总统，但他却演不出好戏的话，那还有什么意义呢？表演很重要，即使只是表演。特朗普显然不反对道具。看看他的头发就知道了。</div>
+<div class="article-paragraph">这种攻击低劣吗？我正在感到低劣。这么大规模地失去生命和生计将让你产生这种感觉。<br/></div>
+<div class="article-paragraph">我写这篇文章时，美国已至少有9600人死于新冠病毒。这是9·11恐怖袭击事件死亡人数的三倍多。仅纽约州在周六一天就通报了<a href="https://www.amny.com/coronavirus/coronavirus-wreaks-grimmest-toll-yet-in-new-york-state-630-dead-in-a-day/" rel="noopener noreferrer" target="_blank">630例死亡</a>。没有一起校园枪击案夺走的生命可以远远企及这个数字。<br/></div>
+<div class="article-paragraph">虽然我不指望特朗普能提供什么灵丹妙药，但是，想看到有点迹象表明，这么多将死的人触动了他，哭声已经穿透了他的外壳，他在想除了自己的收视率以外的事情，不算太过分吧？我观察。我等待。我觉得我会永远这样做下去。</div>
+*
+我是中国人，我没有病毒
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">洛杉矶——我上个月满24岁。生日前一天，我走进一家美甲沙龙做生日美甲。坐下之后，一位美甲师走过来。她是一位50多岁的亚裔女性。她坐下来，我对她笑了笑。我看不出她是否也对我微笑，因为她戴着口罩。</div>
+<div class="article-paragraph">美甲师看着我的手，似乎在考虑它们的形状，然后突然问：“你是中国人吗?”</div>
+<div class="article-paragraph">“是的，”我回答。“你呢？”</div>
+<div class="article-paragraph">“不，”她很快地说，“我是越南人。我们全沙龙的人都是。但是你是中国来的中国人吗？”她挑起眉毛，语气就像刀刃一样锐利冷酷。</div>
+<div class="article-paragraph">我在座位上不安地挪了一下身子，突然意识到她正握着我的手。“我来自中国大陆和台湾。”</div>
+<div class="article-paragraph">“你知道，我们害怕你们中国人，”她大声说，因为你们吃“奇怪”的食物，“然后把它带到这儿来。中国人，我不喜欢你们，你们太坏了，太坏了，太恶心了。”</div>
+<div class="article-paragraph">有那么一刻，我甚至听不到她在说什么。当她不住咆哮时，我只能注意到她口罩上的细微变化。</div>
+<div class="article-paragraph">终于，我发出了声音：“我一月份刚从中国回来。如果你怕我，站起来离开吧。”那个美甲师沉默了。一直在旁边偷听的经理跑过来干预。当我抬起头时，我意识到沙龙里的每个人都在听。我看看右边的那个女人，然后看看左边的工作人员。<span>我转头看向的每一个人都把目光移开</span>。房间里一片寂静。</div>
+<div class="article-paragraph">经理让我的美甲师离开，轻声道了歉，提出免费给我美甲。我咬着嘴唇不让自己颤抖。</div>
+<div class="article-paragraph">在过去一个月里，走在路上的时候，我很少和别人有眼神交流。如果我想咳嗽就咬着舌头忍住。在一次派对上和别人握手时，我本能地端详他们的手臂是否在微微往回缩，是否有片刻犹豫。去加州圣莫尼卡一家餐馆吃饭时，我意识到自己是唯一的中国人，这种感觉落入我的胃里，比午餐上的任何东西都要沉重。</div>
+<div class="article-paragraph">与此同时<span>，我看到类似的新闻标题像滚雪球一样越来越多，从对中国人及其所谓“<a href="https://www.dailymail.co.uk/news/article-7920573/Revolting-footage-shows-Chinese-woman-eating-bat-scientists-link-coronavirus-animal.html" rel="noopener noreferrer" target="_blank">卫生问题</a>”的无情指责，到亚裔美国人走在大街上的随机照片被当作有关非亚裔冠状病毒患者文章的</span>头图。</div>
+<div class="article-paragraph">我恍然大悟：耸人听闻的报道和社交媒体，让恐惧比病毒本身更具传染性。</div>
+<div class="article-paragraph">我意识到我在美国的朋友们只看到关于冠状病毒的新闻标题，却对背后的故事一无所知。我家一个朋友的母亲是医生，她从广东赶到武汉，与数万名医务人员一起做志愿者；连续几周戴口罩和护目镜，中国的医生和护士脸上留下沟沟壑壑。我的美国朋友们对这些都一无所知。</div>
+<div class="article-paragraph">在中国的城市，超市的货架空了，人们会小心翼翼地把食物分成几天份，我的非亚裔朋友们没有这样的中国朋友。在亚洲各地的城市，互联网活动让人们在隔离期间可以聚在一起互相安慰，即使他们彼此分开，心也能在一起，我的非亚裔朋友们看不到这一切。</div>
+<div class="article-paragraph">美国人没有分享太多这样的故事，因为他们真正想分享的是恐惧。就是我的朋友们每次吃饭时都在低声谈论的那些新闻标题所制造的恐惧。</div>
+<div class="article-paragraph">恐惧使我们更加兴奋。恐惧是病毒。当恐惧在每次群聊、每个Instagram故事、每个新闻标题中蔓延时，人们不会停下来问：我们让恐惧永无休止，这样是否在伤害别人？</div>
+<div class="article-paragraph">那天从美甲沙龙回家后，我和妈妈给店主打了电话。我们请她让我们去她的店里和她的员工谈谈。店主同意了。</div>
+<div class="article-paragraph">第二天上午，我和母亲、两个朋友以及沙龙里所有的亚裔女性员工围坐成一圈。起初没有人说话。但慢慢地，她们一个接一个地开始问问题，问题揭示了她们最担心的事情：冠状病毒的死亡率。</div>
+<div class="article-paragraph"><span>我提到了中国疾病预防控制中心的一份报告：它认为Covid-19的致死率为<a href="http://www.cidrap.umn.edu/news-perspective/2020/02/study-72000-covid-19-patients-finds-23-death-rate" rel="noopener noreferrer" target="_blank">2.3%</a>。世界卫生组织的最新报告称，全球的致死率为<a href="https://www.businessinsider.com/who-confirms-coronavirus-global-death-rate-rises-fatalities-numbers-2020-3" rel="noopener noreferrer" target="_blank">3.4%</a>，但各国的致死率各不相同。在韩国，数</span>万<span>人接受了检测，35人死亡，目前的致死率约为<a href="https://www.vox.com/2020/3/5/21165973/coronavirus-death-rate-explained" rel="noopener noreferrer" target="_blank">0.6%</a>。</span></div>
+<div class="article-paragraph"><span>考虑到由于症状轻微而未报告的病例数量可能很高，流行病学家认为，中国的死亡率可能低于1%，如果看看武汉以外的地区，死亡率<a href="https://www.npr.org/sections/goatsandsoda/2020/03/03/809904660/why-the-death-rate-from-coronavirus-is-plunging-in-china" rel="noopener noreferrer" target="_blank">甚至更低</a>。大约80%的Covid-19病例表现温和，不需要药物治疗，可以自愈。中国分析者发现，在Covid-19病例中，有1.2%<a href="https://www.nytimes.com/2020/02/29/health/coronavirus-flu.html">完全没有症状</a>。</span></div>
+<div class="article-paragraph">我们还谈到，中国人吃“奇怪”食物这种有害的刻板印象，不仅对中国人有害，也对所有亚裔都有害。毕竟，对许多美国人来说，我们看起来都一样。</div>
+<div class="article-paragraph">我的声音有点颤抖，我告诉那些女人，在沙龙里发生的事情让我一整天都在发抖。到了晚上，愤怒化为泪水，我只能瘫倒在沙发上。</div>
+<div class="article-paragraph">但比美甲师的咆哮更让我困扰的是：当时所有人都听见了她的话，房间里却一片寂静。</div>
+<div class="article-paragraph">沉默是震耳欲聋的。沉默是一种怂恿。我家里人都叫我斗牛犬，因为如果有人攻击我的同胞，我会第一个站出来反击。在那个时候，我想做保护自己的斗牛犬，但我失败了，然而没有人走上前来为我而战。</div>
+<div class="article-paragraph">谈话结束后，出现了短暂的沉默，然后一个女人走上前来平静地说：“这种事也发生在我身上。因为病毒，人们也对我说坏话。”经理一直不停地道歉，这时却停了下来。她的面孔因悲伤而变得柔和。</div>
+<div class="article-paragraph">“顾客们一遍又一遍地问我，我是中国人吗，我去过中国吗，我是不是感染了病毒，”她说。“以前人们说坏话的时候，我不知道该说什么。现在我知道了。”</div>
+<div class="article-paragraph">冠状病毒很严重，值得采取保护措施。我也非常警惕它。但在过去的几周里，我学会了去担心那些可能比Covid-19更具传染性的东西：种族主义和旁观者的沉默。</div>
+<div class="article-paragraph">如果你看到像我这样的人被骚扰或攻击，请介入。说点什么。如果你说不出什么话，至少事后去和对方谈谈。在社交媒体上分享关于Covid-19的事实，而不是恐惧。</div>
+<div class="article-paragraph">我有一个弟弟，我想保护他，我希望父母走进一家店时不会被人当成异类。写下每一个字的时候我都在想：就算面对恐惧，我们也不能放弃爱，因为那是我们最需要爱的时候。</div>
+*
+当新冠病毒入侵美国航母，该彻底疏散还是继续备战
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">华盛顿——美国军队的标志特点之一，就是有能力在世界各地施展力量，通常还打着让对手恐惧的旗号。驻韩美军有“准备今晚战斗”；海军陆战队的海上远征部队则有“美国的911”；这样的例子不胜枚举。</div>
+<div class="article-paragraph">但现在，敌人<span>是<a href="https://www.nytimes.com/news-event/coronavirus" title="Link: https://www.nytimes.com/news-event/coronavirus">一种新型冠状病毒</a></span>，而且已经深入后方。超过1200名军人及其家属受到影响，使美国军事力量的护身符——一艘核动力航母——瘫痪，导致国防部实际上是挣扎在两种相互冲突的本能之间：一方面要保护军队免受病毒感染，另一方面，如果得到命令，还要继续执行数十年来在全球巡逻和参战的使命。</div>
+<div class="article-paragraph">到目前为止，海军拒绝彻底疏散一艘已经有93名服役人员证实感染冠状病毒的航母（截至周五，“罗斯福号”航母上约有114人被感染，舰长已被解职。——编注）。国防部长马克·T·埃斯珀(Mark T. Esper)站在了维持备战状态的一边，但同时还表示保护军队乃重中之重。至于特朗普总统则威胁了一个熟悉的敌人，他在周三<a href="https://twitter.com/realDonaldTrump/status/1245396884040097792" rel="noopener noreferrer" target="_blank">发推</a>称如果伊朗的代理人攻击美国在伊拉克的军队或资产，他们将“付出非常沉重的代价”。国防部的其他官员坚持认为罗斯福号航母仍然做好了执行任务的准备。</div>
+<div class="article-paragraph">罗斯福号<span>舰长布雷特·E·克罗齐尔(Brett E. Crozier)上校在一封<a href="https://www.nytimes.com/2020/03/31/us/politics/coronavirus-aircraft-carrier-theodore-roosevelt.html">措辞强硬的信</a>中指出，“我们</span>并不处于战争状态。”他的声明引发了从太平洋到五角大楼的质疑，这艘航母在关岛海岸的存在到底有什么重要之处，以至于国防部都无法像克罗齐尔所建议的那样，疏散航母，并对其进行深度清理。</div>
+<div class="article-paragraph">“军队是用来行动的，但这与每个人都必须待在原地的命令背道而驰，”前国防部助理部长德里克·乔莱特(Derek Chollet)说。“Covid-19的威胁成了优先问题，但这不意味着其他威胁会消失或敌人会撤退。”</div>
+<div class="article-paragraph">美国军舰通常会在海上对敌方活动进行数月的监视。被派往南海、东海及其间区域巡逻的太平洋舰队船只有时会执行所谓的自由航行任务，从而接近该地区的争议岛屿。这些航行的目的是让中国明白，美国不承认北京的领土主张。</div>
+<div class="article-paragraph"><span>该地区的美国军舰还密切关注着来自朝鲜的核弹与导弹威胁。若出现与<a href="https://www.nytimes.com/2020/03/27/world/middleeast/pentagon-iran-iraq-militias-coronavirus.html">伊朗</a>类似的紧张局势升级，他们随时做好了部署</span>到阿拉伯海和波斯湾的准备。</div>
+<div class="article-paragraph">但就目前而言，与近年与传统对手的交锋相比，病毒的破坏性被证明要大得多，使这一常被称为世界警察的军事力量的弱点被暴露出来。尽管所有焦点都集中在阿富汗、伊拉克、叙利亚、也门的战争以及中俄的权力冲突，但没有哪场冲突能在几天之内重创美国航母。</div>
+<div class="article-paragraph">“没有健康的船员就不可能做好备战，所以船员的健康必须是第一位的，”退休海军上将和前北约指挥官詹姆斯·G·斯塔里蒂斯(James G. Stavridis)表示。但他补充说，海军不能简单地把航母开到港口，让所有人下船：“船上满载武器和价值数十亿美元的装备、火灾隐患和核反应堆。”</div>
+<div class="article-paragraph">截止周三，在约4800名船员中，约有1000人被调离罗斯福号，这个数字预计在未来几天将增加超过一倍。</div>
+<div class="article-paragraph">海军作战部长迈克尔·M·吉尔代(Michael M. Gilday)上将在周三表示，海军将不得不保留近1000名核心船员，以监控核反应堆、看管战机和武器，并维持航母的运转。</div>
+<div class="article-paragraph">但这可能会使航母停航数周甚至数月时间。</div>
+<div class="article-paragraph">“这不是未来几天内能解决的问题，”周三，海军代理部长托马斯·B·莫德利(Thomas B. Modly)和吉尔代上将一起告诉记者。“这需要一些时间。”</div>
+<div class="article-paragraph">目前的一个问题是，海军是否会向太平洋增派更多舰船，以弥补航母驻留关岛附近港口后留下的空缺。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="国防部长马克·T·埃斯珀强调了做好执行军事任务准备的重要性，同时也称保护军队乃重中之重。" data-src="https://static01.nyt.com/images/2020/04/01/us/politics/01dc-virus-military2/merlin_170072202_00105cf0-c814-4e4a-9256-39b515db59d9-master1050.jpg" src="https://static01.nyt.com/images/2020/04/01/us/politics/01dc-virus-military2/merlin_170072202_00105cf0-c814-4e4a-9256-39b515db59d9-master1050.jpg"/></div><figcaption><span>国防部长马克·T·埃斯珀强调了做好执行军事任务准备的重要性，同时也称保护军队乃重中之重。</span> <cite>Olivier Douliery/Agence France-Presse — Getty Images</cite></figcaption></figure></div>
+<div class="article-paragraph">罗斯福号是美国海军的11艘航母之一。但这些巨型船舰和它们的战机中只有三分之一能够随时部署作战；还有三分之一正在为六到八个月的海上航行做准备，而最后三分之一则在进行部署完成后的维护工作。</div>
+<div class="article-paragraph">目前海军部署了四艘航母。“艾森豪威尔号”和“杜鲁门号”都在波斯湾，这是美国在与伊朗及其在伊拉克的什叶派代理人关系日益紧张之际，显示决心的象征。这些代理人曾对驻伊拉克的美军发动了致命的火箭袭击。</div>
+<div class="article-paragraph">和罗斯福号一起在西太平洋的，是以日本横须贺为基地的“罗纳德·里根号”。</div>
+<div class="article-paragraph">对军方来说，关键问题是随着病毒传播，继续训练和执行任务变得愈发艰难。在美军位于世界各地的军事据点，指挥官们停止与当地部队一起训练，并采取了其他措施将他们的部队与威胁隔离开来。即便如此，这些举措最终也只是权宜之计，因为军队，尤其是那些被部署的军队，都住在公共空间里。</div>
+<div class="article-paragraph">而这个问题在海军中只会被放大。每艘船都有封闭的起居区域、食堂、公共浴室，船员去不了别的地方，这里就是间拥挤的牢房，几乎不可能保持社交距离。</div>
+<div class="article-paragraph">“一旦病毒来到那样的船上，就会出现扩散，”莫德利说。他还说，目前已部署的大约90艘舰艇中，罗斯福号是唯一面临病毒困扰的一艘。他说，目前正在讨论未来是否需要对舰艇运作进行更多调整。</div>
+<div class="article-paragraph">现任和前任海军官员对领导层的罗斯福号危机处置褒贬不一。一些人指出，这艘航母迅速驶进港口，以便开展更广泛的检测项目，并建立更安全的机制，将受感染的船员转移离船。</div>
+<div class="article-paragraph">“军事行动中固有的风险评估系统正按照设计发挥作用，”前太平洋舰队司令斯科特·H·斯威夫特(Scott H. Swift)上将说。“我们共同面临的挑战是这种病毒的影响范围和规模。”</div>
+<div class="article-paragraph">但也有人警告说，这个反应不够，并威胁到许多海军战舰的战备状态。</div>
+<div class="article-paragraph"><span>“想想钻石公主号吧，”前海军部长肖恩·奥基夫(Sean O’keefe)说，他指的是那艘<a href="https://cn.nytimes.com/asia-pacific/20200224/coronavirus-japan-cruise-ship/" title="Link: https://cn.nytimes.com/asia-pacific/20200224/coronavirus-japan-cruise-ship/">载有数百名染病乘客的商业游轮</a>。“病毒在整艘船上传播之前，没有办法有效隔离大量的船员。不难想象，如果美国海军不能制定出有效的遏制战略，其部署的舰队可能在六周内陷入瘫痪。”</span></div>
+<div class="article-paragraph">还有指挥官担心，在五角大楼和特朗普政府忙于应对新冠病毒之际，对手可能会把受疾病打击的航母视为损害美国或美国利益的机会。</div>
+<div class="article-paragraph">“我担心的是中国、朝鲜或俄罗斯从中得到的信号，并将其视为趁火打劫的机会，”第七舰队退役指挥官、前海军作战副司令威廉·道格拉斯·克劳德(William Douglas Crowder)中将说。“他们会错误地估计我们的反应能力。”</div>
+<div class="article-paragraph">其他军种也有问题。周三，空军参谋长戴维·L·戈德费恩上将(David L. Goldfein)在与记者的电话会议上承认，“这对战备状态产生了影响。”</div>
+<div class="article-paragraph">空军战机执行的任务越来越少，训练也越来越少，为了限制人员接触病毒的机会，军方采取了轮班轮岗的方式。空军首席发言人小爱德华·W·托马斯准将(Edward W. Thomas Jr.)说，空军的核武器任务没有受到影响。他说，导弹部队被分割、隔离和保护起来，这些部队各自都是在运转的。</div>
+<div class="article-paragraph">“如果有对手认为我们的防御被削弱了，”托马斯说，“那将是严重的误判。”</div>
+*
+治疗新冠病毒，中国政府将传统中药纳入考量
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>、或发送邮件至cn.letters@nytimes.com订阅《纽约时报》</i><a href="https://cn.nytimes.com/morning-brief/"><i>中文简报</i></a><i>。]</i> </div>
+<div class="article-paragraph">在努力治疗新型冠状病毒感染者的过程中，中国政府注意到一系列抗病毒药物的潜力。同时它还推荐安宫牛黄丸，一种以牛的胆结石、水牛角、茉莉和珍珠制成的传统中药。</div>
+<div class="article-paragraph"><span>在中国，冠状病毒<a href="https://cn.nytimes.com/morning-brief/20200206/coronavirus-wuhan-china-briefing/?action=click&amp;module=RelatedLinks&amp;pgtype=Article">已使24324人患病，490死亡</a></span>（本文中文版发布时，中国官方通报显示，截至2月5日24时，中国累计确诊28018宗感染病例，死亡563例——编注），尚无已知的治疗方法。该国国家卫生健康委员会表示，医生应根据疾病的严重程度尝试治疗患者，主要使用用于治疗艾滋病和抗病毒的西药。</div>
+<div class="article-paragraph">但是，政府也在考虑使用作为民族身份认同一部分的传统中药辅助治疗。这种做法有其支持者。</div>
+<div class="article-paragraph">“我认为这是正确的思路，”耶鲁大学医学院药理学教授郑永齐说。“证据会有的，我们有怀疑的先不盲目否定。”</div>
+<div class="article-paragraph">没有临床证据表明各种植物的根茎、甘草和安宫牛黄丸可以帮助对抗这种致命的疾病。中医从业者说，该疗法可以帮助缓解肺气肿等症状，且副作用更少。批评人士说，使用这种药物可能会引发患者安全方面的担忧。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="周三，北京的同仁堂中药店。" data-src="https://static01.nyt.com/images/2020/02/05/world/05traditional-medicine-2/merlin_168416742_b81bc0cc-4bdb-45bf-b5b6-dbcf326cda2b-master1050.jpg" src="https://static01.nyt.com/images/2020/02/05/world/05traditional-medicine-2/merlin_168416742_b81bc0cc-4bdb-45bf-b5b6-dbcf326cda2b-master1050.jpg"/></div><figcaption><span>周三，北京的同仁堂中药店。</span> <cite>Andrea Verdelli for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">使用古老的中药治疗，契合了中国最高领导人习近平将之引为民族自豪感之源的呼吁。他说，官员们应该把中医和西医放在同等重要的位置上。他的政府呼吁在“一带一路”贸易路线上推广中医，也就是中国在全球范围内建设港口、铁路和其他基础设施的计划。</div>
+<div class="article-paragraph">中国诉诸于传统医学的选择依据的是过往的经验。2002、2003年严重急性呼吸系统综合症——即SARS——暴发期间，医生发现用于消炎的类固醇会导致骨质破坏等有害的副作用。他们说，中药会缓和其中的一些不良反应。</div>
+<div class="article-paragraph">在周三发布的冠状病毒治疗方案中，国家卫健委推荐了可与艾滋病抗逆转录病毒药物洛匹那韦和利托那韦一起使用的传统中药。国家卫生部门建议针对严重症状，例如呼吸啰音和呼吸窘迫，尝试使用“安宫牛黄丸”。</div>
+<div class="article-paragraph">一些医院已经在使用中西医结合疗法。最近几周，北京卫生部门报告说，有两名接受了中药和其他未指明的药物治疗的患者出院。在南方大城市广州，卫生官员说，有50名患者报告不再发烧，其中一半表示，他们的咳嗽在使用中药和其他药物后消失了。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="周三，香港一家药店的药师在配中药。" data-src="https://static01.nyt.com/images/2020/02/05/world/05traditional-medicine-3/merlin_168414024_258da29f-466d-4d2d-8912-e1291d281570-master1050.jpg" src="https://static01.nyt.com/images/2020/02/05/world/05traditional-medicine-3/merlin_168414024_258da29f-466d-4d2d-8912-e1291d281570-master1050.jpg"/></div><figcaption><span>周三，香港一家药店的药师在配中药。</span> <cite>Billy H.C. Kwok for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">耶鲁大学专家郑永齐说，医生正在冠状病毒疫情中心武汉进行临床试验，以检验中药的疗效。郑永齐也是一个中药领域组织中药全球化联盟(Consortium for the Globalization of Chinese Medicine)的主席。</div>
+<div class="article-paragraph">北京面向富人的高端医院和睦家的中医蒋险峰表示，这些药物安全有效且易获取。</div>
+<div class="article-paragraph">“西方医学对这种病毒没有更好的答案，”蒋险峰说。“中华民族在过去几千年中这种瘟疫经历过好多次。如果中医没有效果的话，中华民族早就被这些瘟疫消灭掉了。”</div>
+<div class="article-paragraph">SARS暴发后，世界卫生组织研究了那段时间的<span>中药使用，<a href="https://apps.who.int/medicinedocs/pdf/s6170e/s6170e.pdf" rel="noopener noreferrer" target="_blank">确定它们是安全的，并且在缓解疲劳和呼吸急促等症状方面显示出一定的潜力</a>。美国和台湾的研究人员发现，如果以特定的浓度给药，<a href="https://www.sciencedirect.com/science/article/pii/S2225411016300554" rel="noopener noreferrer" target="_blank">某些草药也许可以抑制病毒</a>，</span>但也有一些研究认为这些发现并不是决定性的。</div>
+<div class="article-paragraph">科学上的不确定性并没有阻止中国政府。卫健委从第二版治疗方案开始将更多传统中药加入其中。国有媒体《新京报》报道说，武汉当局表示，轻度或中度症状的冠状病毒患者应使用传统中药治疗。</div>
+<div class="article-paragraph">湖北一家中药生产商的代表朱茂表示，他应政府要求每天要生产超过两万服药。1月25日，国家中医药管理局派出25支中医医疗队前往武汉。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="香港商店出售的中药。" data-src="https://static01.nyt.com/images/2020/02/05/world/05traditional-medicine-4/merlin_168414027_b4fb2055-0b28-4af3-adbd-42958c641648-master1050.jpg" src="https://static01.nyt.com/images/2020/02/05/world/05traditional-medicine-4/merlin_168414027_b4fb2055-0b28-4af3-adbd-42958c641648-master1050.jpg"/></div><figcaption><span>香港商店出售的中药。</span> <cite>Billy H.C. Kwok for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">传统中医认为，疾病源于身体失衡，有些人体质“热”，因此容易发烧和发炎。当有人发烧或患上呼吸道疾病时，中国人常说：“你上火了”。</div>
+<div class="article-paragraph">中医认为冠状病毒是一种“热”病，因此应该开“清热”的药物。</div>
+<div class="article-paragraph">目前这些药物背后的科学原理还不清楚。使问题更加复杂的是：这些草药没有经过标准化，也缺乏监管。</div>
+<div class="article-paragraph">传统中医还与野味食用存在关联，尽管目前还不清楚食用这些肉类是否真的是基于中医实践。但一些人——尤其是在南方——认为食用某些肉类有助于达到身体平衡。由于对这些肉类的需求，野生动物市场激增，包括据信是冠状病毒源头的武汉华南海鲜市场。</div>
+<div class="article-paragraph">世界经济论坛(World Economic Forum)全球卫生安全顾问委员会成员、曾经报道中国SARS暴发的劳丽·加勒特(Laurie Garrett)表示，在新的冠状病毒疫情中使用中药可能有风险，因为这种方法没有严格的研究支持。</div>
+<div class="article-paragraph">“它没有剂量的概念，”她说。“就像厨房里的厨子一样。”</div>
+<div class="article-paragraph">著名科学杂志《自然》(Nature)指出，上世纪90年代，数十名女性为减肥而服用中草药，结果导致肾衰竭。中药的支持者说这是对草药的误用<span>。然而，《自然》杂志在<a href="https://www.nature.com/articles/d41586-017-07650-6" rel="noopener noreferrer" target="_blank">2017年的一篇社论</a>中</span>说：“没有对临床数据进行标准化或分析的情况下，千百年的临床应用，和双盲受控研究是无法相提并论的。”</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="中国江苏省连云港的一个中药研究实验室，摄于去年。" data-src="https://static01.nyt.com/images/2020/02/05/world/05traditional-medicine-7/merlin_155248719_e0df7043-048e-4c91-a5a2-4c27cbc0bbb3-master1050.jpg" src="https://static01.nyt.com/images/2020/02/05/world/05traditional-medicine-7/merlin_155248719_e0df7043-048e-4c91-a5a2-4c27cbc0bbb3-master1050.jpg"/></div><figcaption><span>中国江苏省连云港的一个中药研究实验室，摄于去年。</span> <cite>Aleksandar Plavevski/EPA, via Shutterstock</cite></figcaption></figure></div>
+<div class="article-paragraph">在毗邻的半自治地区香港，医生们不相信传统中医有助于治疗。“我不想贬低他们的治疗，但那不是我们的做法，”香港公共医疗医生协会会长马仲仪说。</div>
+<div class="article-paragraph">在中国，人们急切地寻找保护自己的方法。在中国许多城市，有人排了几个小时的队购买“双黄连”——一种混合金银花、连翘等草药以及其他成分的中成药。此前，两家由政府支持的研究机构发表了一份研究报告，称其能有效预防冠状病毒。</div>
+<div class="article-paragraph">耶鲁大学公共卫生学院卫生政策与经济学助理教授陈曦敦促中国新闻媒体在报道时更加谨慎，他表示，中药抑制病毒的可能性并不等同于预防或治疗手段。</div>
+<div class="article-paragraph">“如果像双黄连这样的事件一再发生，就会失去公众信任，造成更多恐慌，也违背了当局避免人群聚集的建议，”陈曦写道。</div>
+<div class="article-paragraph">北京一家药店的经理秦曦说，他店里的“双黄连”等中药销量都破了纪录。“具体好不好用，那谁知道啊？”他说。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="北京的同仁堂中药房。" data-src="https://static01.nyt.com/images/2020/02/05/world/05traditional-medicine-6/merlin_168416745_1df6eb84-4a14-4ce1-afd7-b60f67685afe-master1050.jpg" src="https://static01.nyt.com/images/2020/02/05/world/05traditional-medicine-6/merlin_168416745_1df6eb84-4a14-4ce1-afd7-b60f67685afe-master1050.jpg"/></div><figcaption><span>北京的同仁堂中药房。</span> <cite>Andrea Verdelli for The New York Times</cite></figcaption></figure></div>
+*

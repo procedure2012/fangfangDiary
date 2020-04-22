@@ -1,0 +1,156 @@
+实时追踪丨张文宏：节后返工和气溶胶传播是否会打破当前来之 ...
+<p style="text-align:center;"><img alt="去5.png" src="http://www.whb.cn/u/cms/www/202002/11121432pd7r.png" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p style="text-align:left;display:block;"><span style="color: rgb(127, 127, 127);">近日，新冠肺炎的疫情举世瞩目，朋友圈的新闻轰炸牵动着每个人的心。为了帮助大家了解疫情的动态变化，更好的做好自我防护，华山感染微信公众号每天都更新疫情相关数据，上海市医疗救治专家组组长，华山医院感染科主任张文宏教授特地撰文对疫情的变化趋势、热点问题及相关注意事项进行解读，文章版权归复旦大学附属华山医院感染科所有。本报获得授权全文转载。以下为张文宏教授全文——</span></p>
+<p style="text-align:left;display:block;"><strong>前言：元宵过后顾虑多</strong></p>
+<p style="text-align:left;display:block;">过完元宵，除了武汉抗新冠激战正酣外，全国其他各地的新增病例都出现了明显的拐点。但各大城市将迎来返工潮和返学潮。近期笔者在网络上看到一段话，说上海是目前风险最高的城市。这段话是笔者在武汉封城的时候，在东方电视接受电话采访时候说的。然而正因为上海全体民众团结一致，打了一次漂亮的阻击战，目前的风险已经降到很低的水平，传播系数R0数据处于全国最低行列。<br/></p>
+<p style="text-align:left;display:block;">就在这个当口，又有媒体爆出：<strong>确认了新冠病毒的传播途径除了已知的接触传播、飞沫传播，还明确包括了气溶胶传播。</strong>这真是屋漏偏逢连夜雨，很多朋友又开始失眠，比较关心笔者的朋友直接就问，你们复旦大学华山医院把医生都派到武汉去了，上海节后出现新高峰怎么办？关于这些，且待笔者和大家慢慢道来，你就能明白新冠时期我们应该怎么过后面的日子了。</p>
+<p style="text-align:left;display:block;"><strong>01</strong></p>
+<p style="text-align:left;display:block;"><strong>首先要明白飞沫传播的道理</strong></p>
+<p style="text-align:left;display:block;">首先，国家第五版新冠肺炎的诊疗方案中，比较含蓄地提了这么一句话：“经呼吸道飞沫和接触传播是主要的传播途径。气溶胶和消化道等传播途径尚待明确。”这也就是说，国家专家组还是不能确定新冠病毒有没有气溶胶传播。</p>
+<p style="text-align:left;display:block;">那么到底有没有呢？我们还是得从飞沫传播开始说起。</p>
+<p style="text-align:left;display:block;">飞沫传播（droplet transmission）是指携带传染性病原体的呼吸道飞沫通常在<strong>短距离</strong>内直接从传染性个体的呼吸道（通过咳嗽、打喷嚏、说话等方式）传播到接受者的易感粘膜表面，从而传播感染的过程。飞沫传播也可以理解为是一种特殊形式的接触传播，因为飞沫一定是直接或者通过手间接接触到了人体的易感粘膜。</p>
+<p style="text-align:left;display:block;">因此对于飞沫传播，我们需要进行面部保护。这里提到的易感粘膜表面主要是指鼻粘膜、结膜和口腔，其中鼻粘膜是最主要的。这也就是我们为啥强调预防新冠肺炎一定要戴口罩。因为可以保护来自可能新冠感染者飞沫的袭击，也是为啥我们强调被污染的口罩一定不能重复使用的道理（因为口罩的外层可能已经沾上了含有病原体的飞沫）。</p>
+<p style="text-align:left;display:block;">通过飞沫途径的病原体在空气中并不会长距离的传播。这个距离到底有多长？从以往的经验来看，确定的风险区域以往一直是<strong>患者周围≤1米的距离</strong>，在这个距离内戴上口罩可有效防止传染源通过飞沫传播。但是，对2003年全球SARS（非典）暴发期间的研究表明，患有SARS的患者的飞沫可以到达距其来源2米或以上的人群。这个是已知飞沫传播途径经研究证实的最远距离了。</p>
+<p style="text-align:left;display:block;">当然飞沫传播的有效距离从实际上来看，不但取决于<strong>飞沫离开人体时的速度</strong>（打喷嚏通常比咳嗽喷射的距离远），还取决于<strong>病原体在呼吸道分泌物中的密度</strong>（呼吸道中病原体的密度越高，传播的距离就越远），<strong>温度和湿度等环境因素</strong>，以及病原体在该距离上<strong>保持传染性的能力</strong>等多种因素。</p>
+<p style="text-align:left;display:block;">以往的研究明确证实通过飞沫途径传播的病原体包括百日咳杆菌、流感病毒、腺病毒、鼻病毒、肺炎支原体、SARS冠状病毒、A组链球菌和脑膜炎球菌。</p>
+<p style="text-align:left;display:block;">也就是说本来我们认为的新冠传播主要是飞沫，或者是通过和飞沫的接触获得感染，这样的话，就是说如果和感染者在一起不戴口罩，又不洗手，那么就会感染了。反之，我又不大和人家（别人，不是你家里人）近距离接触，又戴口罩，和人接触后就经常洗手（酒精类免洗液也可以），那么感染的风险就很低了。</p>
+<p style="text-align:left;display:block;"><strong>02</strong></p>
+<p style="text-align:left;display:block;"><strong>到底什么是气溶胶和气溶胶传播？</strong></p>
+<p style="text-align:left;display:block;">“气溶胶，是指固体或液体微粒稳定地悬浮于气体介质中形成的分散体系，其中颗粒物质则被称作悬浮粒子，其粒径大小多在0.01-10微米之间。”</p>
+<p style="text-align:left;display:block;">我们翻看气溶胶的定义，其实就知道了，气溶胶是非常微小的液滴或固体颗粒，可以较长时间悬浮在空气中。当微粒中含有微生物或生物大分子等生物物质的称为生物气溶胶，当其中含有微生物的称为微生物气溶胶。</p>
+<p style="text-align:left;display:block;">较小的气溶胶可能会在气流中停留很长时间，从而传播相当长的距离。因此气溶胶传播可能跨越很远的距离，并且不一定要求感染者和易感人群同时在一个地方呆过。 <strong>某些病原体（例如天花，SARS，流感，诺如病毒），在特定情况下（例如，在抢救病人时进行气管内插管期间）产生的小颗粒气溶胶向患者附近区域的人近距离传播，形成特定场合下的气溶胶传播。</strong></p>
+<p style="text-align:left;display:block;">但是，<strong>气溶胶传播只有在特定的、病毒浓度很高的环境下才会发生。</strong>首先，气溶胶会被流动的空气不断稀释，空气中含有病毒的气溶胶的浓度越低，那么感染的概率也就越低。 当年关于SARS的研究发现，在病房中，如果窗户紧闭，空气中的病毒浓度就会增加，在这种环境下，医护人员就相对容易感染SARS冠状病毒。与之相反，如果打开窗户自然通风，病房中的空气流动和空气交换率很高，可以大大降低空气中的病毒（气溶胶）的浓度，也降低了医护人员感染病毒的可能。</p>
+<p style="text-align:left;display:block;">正因为这样，我们除了洗手和戴口罩，还需要勤开窗通风。勤开窗通风，特别是在公众场所，例如办公室，医疗机构等，可以降低可能存在空气中的病毒（气溶胶）浓度，降低通过空气吸入，造成感染的风险。</p>
+<p style="text-align:left;display:block;">说到这里大家应该知道以下事实，在特殊场合，例如抢救病人进行气管插管等操作时，近距离可以产生含有病毒浓度很高的气溶胶，发生气溶胶传播的概率就很高；<strong>反之，如果是在普通室内场所，并且能够保持开窗通风，发生气溶胶传播的概率就会低得多得多；到了户外开放的空间，气溶胶的浓度立即被空气所稀释了，就几乎不存在气溶胶传播的可能性。</strong></p>
+<p style="text-align:left;display:block;">各位是不是也是近距离给病人做治疗呢？如果不是，那么只要尽可能避免到人员密集场所，保持开窗通风，通过气溶胶感染新冠病毒的可能性就一定非常非常小。</p>
+<p style="text-align:left;display:block;"><strong>03</strong></p>
+<p style="text-align:left;display:block;"><strong>最终决定传播的不是传播的方式，而是传播效率</strong></p>
+<p style="text-align:left;display:block;">传播效率要从基本传播数（又称R0值，指一个带毒者可以传播几个人）来看就知道了。凡是咳嗽厉害喷得远（百日咳），以及病毒量大（麻疹、水痘）且经空气传播的都有很强的传播性。流感是以飞沫传播为主，其传播力事实上弱于麻疹。在麻疹疫苗诞生之前，我们都知道，每个孩子（记住，是每个人）几乎都要生一次麻疹的！</p>
+<p style="text-align: center; display: block;"><img alt="在.png" border="0" height="796" src="/u/cms/www/202002/1112154225zr.png" style="width: 645px; height: 796px;" title="在.png" vspace="0" width="645"/></p>
+<p style="text-align:left;display:block;">那么我们今天知道，冠状病毒，无论是SARS还是新冠，传播力都和流感差不多。按照我们团队对中国新冠传播力的计算，武汉在展开全面防控之前的传播力是3.5，现在是2.3。上海、杭州、重庆目前均为1.45左右，而且在未来的1-2周内还会迅速下降。</p>
+<p style="text-align:left;display:block;">从这点意义上来讲，新冠和常见的一些呼吸道传染病，例如麻疹、百日咳、水痘相比较，传播效率要低很多。新冠病毒从目前的数据来看，虽然“气溶胶传播途径尚待明确”，但目前在传播效率上仍然处于和流感相似的等级，不需要过分渲染，更不需要恐惧。</p>
+<p style="text-align:left;display:block;"><strong>04</strong></p>
+<p style="text-align:left;display:block;"><strong>关于气溶胶传播的结论：不需要过度解读，还是照老的套路去预防</strong></p>
+<p style="text-align:left;display:block;">最后我们总结一下，对于新型冠状病毒，可以确认的是，主要的传播途径就是接触传播和飞沫传播，因此勤洗手，在人群密集场所以及和人近距离接触时佩戴口罩，一定是明确有效的预防措施，在疫情流行时所有人员都必须严格遵守。</p>
+<p style="text-align:left;display:block;">对于尚未确定的气溶胶传播途径，谨慎而有效的做法是尽可能避免到人员密集场所，保持开窗通风。做到这两点，通过气溶胶吸入感染新冠病毒的可能性是非常小的。但如果是和疑似病人或者确诊病人同处一室，近距离接触，提高防范措施（戴N95口罩，戴眼罩，穿防护服等）能够有效降低感染的风险，这也是为什么发热门诊和隔离疑似患者病房工作的医护人员需要更高级别防护措施而一般群众不那么必要的原因。</p>
+<p style="text-align:left;display:block;"><strong>05</strong></p>
+<p style="text-align:left;display:block;"><strong>关于元宵节后的返工和后面的疫情</strong></p>
+<p style="text-align:left;display:block;">目前来看，全国湖北外地区的新增病例拐点似乎已经出现，由于返工潮导致新增病例数量即便在过段时间后出现第二峰，但是只要按照既定的防控策略，坚决执行不放松，只要武汉战役能打下来，全国各地防控工作从现在的拐点开始，即使有一个小高峰，也能引来第二次拐点，直至在人间消灭这个病毒。</p>
+<p style="text-align:left;display:block;"><strong>从哪里来回哪里去，趁这个病毒还没有进化到可以在人间长期居住（像流感那样）的能力的时候，让我们一鼓作气把它赶回山林深洞之中。</strong></p>
+<p style="text-align: left; display: block;">最后祝大家节后身体健康，工作顺利，早日回归正常生活！</p>
+<p><br/><span style="color: rgb(127, 127, 127);font-size:16px">作者：王新宇  张文宏</span><br/><span style="color: rgb(127, 127, 127);font-size:16px">编辑：沈湫莎</span><br/><span style="color: rgb(127, 127, 127);font-size:16px">责任编辑：顾军</span></p>
+<p><span style="color: rgb(127, 127, 127);font-size:16px">*文汇独家稿件，转载请注明出处。</span></p>
+*
+6架运20飞抵武汉后，境外媒体“不淡定”了，外国网友：干得漂亮！
+<p style="text-align:center;"><img alt="图片" src="http://wenhui.whb.cn/u/cms/www/202002/16111341lo8g.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p style="text-align: justify; display: block;">“‘胖妞’到武汉了，加油啊！”当“运20首次出征、支援湖北”的消息发布后，有网友激动地写下这句留言。</p>
+<p style="text-align: justify; display: block;">按照中央军委命令，2月13日凌晨，空军出动运20、伊尔76、运9共3型11架运输机，分别从乌鲁木齐、沈阳、西宁、天津、张家口、成都、重庆等7地机场起飞，向武汉空运军队支援湖北医疗队队员和物资。2月13日，一批增援武汉的军队医护人员乘坐国产运20运输机抵达武汉天河机场。</p>
+<p style="text-align:center;"><img alt="u=1571309644,910997117&amp;fm=175&amp;app=25&amp;f=JPEG.jpg" src="http://wenhui.whb.cn/u/cms/www/202002/16111620rrjn.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p style="text-align: justify; display: block;">至此，军队已派出3批次4000余名医护人员支援武汉抗击新冠肺炎疫情。解放军的高效行动，给关注“主战场”湖北的网友们吃了颗“定心丸”。</p>
+<p style="text-align:center;"><img alt="图片" src="http://wenhui.whb.cn/u/cms/www/202002/16111341irrw.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p style="text-align: justify; display: block;">在疫情防控最吃劲的关键时刻，中国军人们冲锋在前。他们所表现出的忠诚与担当，也赢得了密切关注疫情的境外媒体和外国网友的赞赏。</p>
+<p style="text-align: justify; display: block;">2月13日是运20大型运输机首次参加非战争军事行动，也是空军首次成体系大规模出动现役大中型运输机执行紧急空运任务。</p>
+<p style="text-align:center;"><img alt="图片" src="http://wenhui.whb.cn/u/cms/www/202002/16111341k73l.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p style="text-align: justify; display: block;">中国军队的“战疫”行动，也被外界视为观察中国军事实力的一个窗口。</p>
+<p style="text-align: justify; display: block;">印度亚洲新闻国际通讯社（ANI）2月5日在报道解放军驰援武汉时便指出，此次疫情是解放军联勤保障部队于2016年成立后需应对的规模最大的紧急事件之一，借此机会也可以检验解放军在高效、现代化和联合作战方面是否取得了切实进展。</p>
+<p style="text-align:center;"><img alt="u=1480277424,3247458874&amp;fm=175&amp;app=25&amp;f=JPEG.jpg" src="http://wenhui.whb.cn/u/cms/www/202002/161118055ab4.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p style="text-align: justify; display: block;">当第三批次军队医护人员抵达武汉时，美国《华盛顿邮报》和俄罗斯通讯社等外媒纷纷报道了此事，并指出中国现在正在针对此次疫情打一场“人民战争”。</p>
+<p style="text-align: justify; display: block;">香港《南华早报》2月13日引述军事观察家的观点报道称，这场危机可能是对解放军应对非常规战争能力的一次“很好的考验”。</p>
+<p style="text-align: justify; display: block;">在海外社交媒体上，外国网友也由衷地为解放军“点赞”：</p>
+<p style="text-align:center;"><img alt="图片" src="http://wenhui.whb.cn/u/cms/www/202002/1611134102ll.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p style="text-align: justify; display: block;">除此以外，中部战区2月12日紧急调动空降兵某部两架运输直升机，从武汉向襄阳、宜昌地区吊运投送医疗急需药品和紧缺物资、驻鄂部队成立抗击疫情运力支援队，担负疫情防控期间武汉市生活物资的网点运输保障任务……相比货运量更大，但是极度依赖机场设施的大型战略运输机，直升机可以将医疗物资运送到疫区内需要支援的每一个点，而可以悬停的特性也使得直升机甚至不需要降落场，也可以卸载搭载的物资。</p>
+<p style="text-align:center;"><img alt="微信截图_20200216112554.png" src="http://wenhui.whb.cn/u/cms/www/202002/16112617rne0.png" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p style="text-align: justify; display: block;"><span style="color: rgb(127, 127, 127);">编辑：施薇</span></p>
+<p style="text-align: justify; display: block;"><span style="color: rgb(127, 127, 127);">责任编辑：叶松亭</span></p>
+*
+Lancet在线发表金银潭医院和瑞金医院联合研究成果，指导新冠 ...
+<p><strong>编者按：</strong></p>
+<p style="text-align:left;display:block;"><span style="color: rgb(127, 127, 127);">生命重于泰山，疫情就是命令，防控就是责任。上海交通大学医学院各附属医院近50名医护人员冲锋在武汉抗疫第一线，全力以赴抢救病患。与此同时，交大医学院充分发挥临床研究优势，在上海与武汉前方医院开展科研协同攻关，以指导治疗实践。</span></p>
+<p style="text-align:left;display:block;"><span style="color: rgb(127, 127, 127);">近日，附属瑞金医院医护人员与武汉金银潭医院团队合作，在The Lancet在线发表了《武汉99例新型冠状病毒性肺炎的流行病学和临床特征的分析总结》一文。该文回顾总结新型冠状病毒性肺炎的流行病学特征和临床特点，揭示其中的一些规律，为广大医务人员更好地诊断和治疗相关疾病，达到早识别、早隔离、早诊断、早治疗的目的，以期通过全国各界的努力尽早结束疫情。</span></p>
+<p style="text-align:left;display:block;"><span style="color: rgb(127, 127, 127);">论文由武汉金银潭医院和上海交通大学医学院附属瑞金医院共同参与完成。第一作者和通讯作者分别是金银潭医院的陈南山和张丽、瑞金医院周敏等和张欣欣分别为共同一作和并列通讯作者。该论文由科技部关于糖尿病合并肺部感染规范化诊治适宜技术研究（2017YFC1309700）的支持。</span></p>
+<p><strong>01</strong></p>
+<p><strong>背景</strong></p>
+<p style="text-align:left;display:block;">2019年12月，在中国武汉出现了新型冠状病毒性肺炎的病例，发现此次病毒是不同于SARS和MERS病毒的一种新型病毒。但关于这种新型冠状病毒导致肺炎的流行病学和临床特征并不明确。</p>
+<p style="text-align:left;display:block;">本文收集了2020年1.1-1.20确诊新型冠状病毒性肺炎收治在金银潭医院的99例患者的临床资料和流行病学病史进行了分析，预后观察数据在1月25日进行了更新。</p>
+<p><strong>02</strong></p>
+<p><strong>研究结果</strong></p>
+<p style="text-align:left;display:block;">本次研究为回顾性分析，研究对象均为在今年1月1日至1月20日以病毒核酸RT-PCR方法或NGS确诊后在武汉金银潭医院接受治疗的患者。分析表明，有49名患者曾有华南海鲜市场的暴露史。其中，有47名患者具有长期暴露史（大部分为市场销售相关人员），2名患者只有短期暴露史（顾客）；这一结果表明最早期的患者与武汉华南海鲜市场的暴露史有关。</p>
+<p style="text-align:left;display:block;">对患者特征的总结分析表明，99例患者中男性占了多数，共67名（68%），这一比例与曹彬教授等报道的41例病例的数据（73%）很一致；此次99例患者年龄最小的21岁，最大的82岁，平均年龄为55.5岁，较先前的49.0岁有所上升；在这99名患者中，有50名患者具有心血管疾病、内分泌系统疾病或消化系统疾病等慢性基础疾病，占比约为51%。这些基础疾病可能导致宿主免疫系统的缺损；上周的《柳叶刀》文章中，具有慢性基础疾病的比例为32%；通过新增病例的分析提示各年龄段都可发病，既往有合并症的中老年患者更易感新型冠状病毒。</p>
+<p style="text-align:left;display:block;">对患者的临床症状和相关检查表明，有83%的患者出现了发热，82%的患者有咳嗽症状，31%的患者出现了气短，这三者是最为常见的临床特征。相比之下，其他的一些疾病特征则相对比较少见占比不超过10%，包括肌肉痛、头痛、眩晕、胸痛和腹泻。在胸部影像学上，75%的患者出现了双肺的炎症性改变，表现为多叶段的高密度小斑片影和磨玻璃阴影，17%的患者出现急性呼吸窘迫症状，1例患者病程中出现气胸。在实验室检查方面，一方面绝大部分患者的感染相关指标升高，另一方面机体呈现消耗性状态，98%的患者出现血清白蛋白降低，35%的患者的淋巴细胞绝对数降低，外周血淋巴细胞降低的患者往往病情重预后差。淋巴细胞损伤可能是导致患者病情恶化的重要因素，尤为值得关注。</p>
+<p style="text-align:center;"><img alt="微信图片_20200205100241.jpg" src="http://www.whb.cn/u/cms/www/202002/0510072298i7.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p style="text-align:left;display:block;">在治疗方面，大约四分之三的患者（76%）接受了抗病毒疗法。患者使用的药物包括奥司他韦（oseltamivir）、更昔洛韦（ganciclovir）、以及最近引起广泛关注的抗HIV感染疗法洛匹那韦/利托那韦（lopinavir/ ritonavir）。与此同时，有70%的患者接受了抗生素治疗，有15%的患者接受了抗真菌治疗。总体治疗方案仍为抗病毒同时预防继发细菌或真菌感染，丙种球蛋白增加免疫力，对于发生ARDS的激素控制炎症风暴以及对症支持治疗，重症患者还使用的机械通气、血液净化以及体外膜肺氧和治疗，但11例患者经过综合治疗病情仍恶化导致多脏器功能衰竭死亡。</p>
+<p style="text-align:center;"><img alt="微信图片_20200205100249.jpg" src="http://www.whb.cn/u/cms/www/202002/05100737x41q.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p style="text-align:left;display:block;">我们对死亡病例进行分析后发现，非常符合我们团队发表的评估病毒性肺炎死亡的预测模型——MuLBSTA评分系统（包括肺炎多叶段受累、淋巴细胞减少、继发细菌感染、吸烟史、高血压和年龄大于60岁）。MuLBSTA评分系统具体如下：年龄≥60岁（2分）、吸烟状态（3分）/戒烟史（2分）、高血压史（2分）、影像学多肺叶浸润（5分）、淋巴细胞计数≤0.8*109/L（4分）以及合并细菌感染（4分），以12分为切点，分为死亡风险高危组和低危组。在对既往病毒性肺炎死亡风险评估中，MuLBSTA评分系统的敏感性为0.776，特异性为0.778，该评分较CURB-65具适合评估病毒性肺炎的严重程度，该评分系统可用于此次新型冠状病毒性肺炎的病情评估。</p>
+<p style="text-align:center;"><img alt="在3.png" src="http://www.whb.cn/u/cms/www/202002/05100914a7ty.png" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p><strong>03</strong></p>
+<p><strong>总结</strong></p>
+<p style="text-align: left; display: block;">此次武汉新型冠状病毒性肺炎（2019-nCoV）感染呈聚集性起病，更易感染有合并症的老年男性，可以导致严重甚至致命的急性呼吸窘迫综合征和多脏器功能衰竭，及早发现并及时诊断、治疗危重病例具有重要意义。</p>
+<p><br/><span style="color: rgb(127, 127, 127);font-size:16px">作者：周敏  瞿介明</span><br/><span style="color: rgb(127, 127, 127);font-size:16px">编辑：张鹏</span><br/><span style="color: rgb(127, 127, 127);font-size:16px">责任编辑：唐闻佳 顾军</span></p>
+<p><span style="color: rgb(127, 127, 127);font-size:16px">来源：呼吸界、上海交大医学院</span></p>
+<p><span style="color: rgb(127, 127, 127);font-size:16px">声明：转载此文是出于传递更多信息之目的。若有来源标注错误或侵犯了您的合法权益，请作者持权属证明与本网联系，我们将及时更正、删除，谢谢。</span></p>
+*
+老乡送你野鸭，你还很开心？复旦教授疾呼：全民对野味的危险远 ...
+<p style="text-align:center;"><img alt="屏幕快照 2020-02-02 下午5.21.44.png" src="http://wenhui.whb.cn/u/cms/www/202002/02172217u2v6.png" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p style="text-align:left;display:block;">“17年过去了，从当年的果子狸、蝙蝠，到如今武汉华南海鲜市场里的野味贩卖，全民对食用野味的危险认识似乎一点没有提高，远远不够！”疫情当前，“自觉把自己宅在家”的复旦大学公共卫生学院教授、食品安全专家厉曙光每天除了与学生通过视频指导博士论文、研究课题，就是密切关注新型冠状病毒肺炎的疫情进展。</p>
+<p style="text-align:left;display:block;">针对疫情形势，这名食品安全专家与记者谈起食品安全防控要点，期间反复强调——<strong>食用野味，危险，害己害人害社会！</strong></p>
+<p style="text-align:left;display:block;"><strong>不要食用野生动物，不要食用野生动物！</strong></p>
+<p style="text-align:left;display:block;">蝙蝠、穿山甲、果子狸……你不吃，所以你认为你距离野味很遥远？那么，试想一下，乡下来人了，给你捎来一只野鸭，你会不会很开心？认为很鲜美？丝毫不会认为这是野味吧？</p>
+<p style="text-align:left;display:block;">“所以，其实我们每个人并没有对这个问题认识到一定高度，别认为我们已经进入高度文明了，我们对食品安全的认识可能还很原始。要知道，食用野生动物，是有高度风险的，是会传播传染病的！”厉曙光教授称。</p>
+<p style="text-align:left;display:block;">据报道，此次新型冠状病毒肺炎感染人群与武汉海鲜市场销售的野生动物关系密切，如竹鼠、果子狸、蝙蝠、旱獭、貉、獾、活蝎子、狐狸肉、活狼崽、刺猬、斑鸠、野兔、野鸭等。</p>
+<p style="text-align:center;"><img alt="屏幕快照 2020-02-02 下午5.20.32.png" src="http://wenhui.whb.cn/u/cms/www/202002/02172250c4fg.png" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p style="text-align:left;display:block;">厉曙光教授告诉记者，野生动物在被捕杀、运输、销售、屠宰和加工等过程中，所有与野生动物接触的人都有可能被感染其携带的病毒，然后将这种病毒传给他人。</p>
+<p style="text-align:left;display:block;">此前，研究人员已在果子狸和蝙蝠等的体内发现2003年SARS（“非典”）疫情的元凶——SARS冠状病毒。</p>
+<p style="text-align:left;display:block;">你依然认为果子狸、蝙蝠距离你很遥远？那么，说说旱獭，它有一个更广为人知的俗名——土拨鼠。</p>
+<p style="text-align:left;display:block;">“很多人认为土拨鼠萌萌哒，确实，土拨鼠胆子很小，远离人类，但就有人好这口，有人出高价想吃，就有人会去捕杀。殊不知，土拨鼠的身上携带鼠疫杆菌，会通过跳蚤叮咬感染人类。如果有人在捕猎、剥食旱獭的过程中被感染，就可能引起肺鼠疫在人群中的爆发。”厉曙光教授称，我国研究人员已在武汉华南海鲜市场采集的585份环境样本中，检测到33份样品含有新型冠状病毒，是时候再次向大众强调：对野生动物做到“不碰、不买、不吃”，更不要去有野生动物的集贸市场等有风险的场所，做到自我保护，远离危害。</p>
+<p style="text-align:left;display:block;">他建议有关职能部门要严格监管有野生动物销售的集贸市场，严禁任何野生动物的买卖，严防野生动物及其制品流入餐桌。</p>
+<p style="text-align:left;display:block;"><strong>野味根本不滋补，完全烧熟也未必烧灭野味身上的细菌病毒</strong></p>
+<p style="text-align:left;display:block;">有人吃野生动物，是认为野味“非常滋补”，这是真的吗？</p>
+<p style="text-align:left;display:block;">“真是非常荒谬！野味或许口感好些，但它绝不营养，更不健康，还很危险。”厉曙光教授称，野生动物与现代养殖的畜禽类动物完全不同，其是在抵抗外敌、预防疾病和生存繁衍中进化发展的，不仅皮厚肉糙，还很容易成为各种病毒、细菌、寄生虫、真菌等病原体寄生的宿主，“野生动物恐怕只是在我们的祖先生活的时期，以及人类万不得已之际食用的东西，人类历经千百年的进化，我们的消化道、免疫系统早已不能适应或抵御其所包含的致命健康风险。”</p>
+<p style="text-align:center;"><img alt="屏幕快照 2020-02-02 下午5.20.49.png" src="http://wenhui.whb.cn/u/cms/www/202002/021723057uok.png" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p style="text-align:left;display:block;">厉曙光教授也注意到，不少人吃野生动物也并非为了口感，为了营养，而纯粹是为了“炫耀、尝鲜、摆阔、从众”，“我只能说，无知无畏，那些给食用野味贴上所谓‘营养滋补、延年益寿、长生不老’标签的人更是无良。”</p>
+<p style="text-align:left;display:block;">也有人认为，食用野味完全煮熟、避免生食即可，厉曙光教授对此也予以否认。他表示，尽管已发现新型冠状病毒不耐高温，它在56℃加热30分钟，即会被灭活，但这不代表野味身上带的病毒细菌只有新型冠状病毒这一种。</p>
+<p style="text-align:left;display:block;">“要知道有一些病毒细菌真的是‘杀不死的小强’，100℃都杀不死它，还有一些嗜热菌，天生就喜欢热，300℃、500℃都杀不死它们，更何况还有全球超级细菌。”厉曙光分析，如今抗生素滥用问题依旧严峻，遇到人体感染超级细菌，再好的抗生素也难以“压制”它们在人体内的肆虐，最终将夺人性命。</p>
+<p style="text-align:left;display:block;"><strong>千万别闲在家没事自己宰鸡宰鸭，禽流感等活的动物引发的传染病风险并未消失</strong></p>
+<p style="text-align:left;display:block;">在不吃野生动物的前提下，厉曙光提醒，非常时期，一定要将各类食物充分加热，煮熟、煮透，这样可以确保食物安全。</p>
+<p style="text-align:left;display:block;">他同时提醒，社会上尤其是自媒体平台不时会出现一些诸如“喝酒、抽烟能预防新冠肺炎病毒感染”“感冒药、板蓝根、盐水可杀灭病毒”等不实传言，这些既没有科学依据，也有悖医学常识，更达不到预防和治疗新型冠状病毒肺炎的效果。</p>
+<p style="text-align:left;display:block;">以喝酒为例，他谈到，酒类饮品中的乙醇最高含量为65%左右，但是摄入的酒是进入人体消化道的，与进入呼吸道的病毒毫不相干。从专业角度来解读，只有使用达到含75%乙醇浓度的医用酒精通过擦洗或涂抹，才可以杀灭病毒。</p>
+<p style="text-align:left;display:block;">他谈到，目前对新型冠状病毒还没有特效药，基本上是对症治疗，所以<span style="color: rgb(127, 127, 127);"><strong>增强人体的抵抗力非常重要。日常饮食要荤素搭配，谷豆混吃，蛋奶兼并，果蔬充足</strong></span>，换言之就是要杂食、混食、不挑食，保证蛋白质、脂肪、碳水化合物、矿物质和维生素等营养素的充分供给。同时，还要保证每天至少摄入1200毫升的饮用水，以促进机体的新陈代谢，增强机体的抵抗力。</p>
+<p style="text-align:left;display:block;">从公开报道看，老、弱、病、孕产妇和免疫力低下者尤应加强防范。他提醒，这类高危人群必须外出时，一定要戴口罩，避免去人群扎堆的地方，尽量不要触摸公共场所的楼梯扶手、门把手等可能会被患者飞沫污染的物体表面，以降低接触感染的风险。平时要勤洗手，居室要多通风。</p>
+<p style="text-align:left;display:block;">他尤其提醒，如今假期延长，大部分人都“家里蹲”，千万也不要闲来无事在家自己宰杀鸡鸭活禽等活的动物，“且不说这次疫情，上海当年之所以季节性关闭活禽市场，就是为了应对禽流感。”厉曙光反复强调：一定要从正规渠道购买肉禽，不要认为自己距离野生动物好像很遥远，人们思想上的麻痹、不重视可能引来惨痛后果。</p>
+<p style="text-align: left; display: block;">“这次疫情是坏事，但如果通过这次疫情让大众认识到野生动物食用的风险，让全民食品安全意识上一个台阶，或许是这次疫情留给我们的一个重要成果。”厉曙光感慨：2003年的“非典”已过去17年了，相关教训不应被忘记。</p>
+<p style="text-align: left; display: block;"><br/></p>
+<p><span style="color: rgb(127, 127, 127);font-size:16px">作者：唐闻佳</span><br/><span style="color: rgb(127, 127, 127);font-size:16px">编辑：王星</span><br/><span style="color: rgb(127, 127, 127);font-size:16px">责任编辑：许琦敏</span></p>
+<p><span style="color: rgb(127, 127, 127);font-size:16px">*文汇独家稿件，转载请注明出处。</span></p>
+*
+视频| 朱一龙李现合唱《武汉，你好吗》 - 文汇网
+<p style="text-align: left; display: block;">我们心中的武汉，曾是樱花烂漫的文化历史名城，而如今的武汉，更是一座英雄的城市。为了抗击疫情，武汉做出了巨大的牺牲与奉献，病毒虽然隔离了彼此之间的距离，却让心更加紧密相连。由王平久作词，常石磊作曲，湖北籍电影人朱一龙、李现及音乐人常石磊、黄嘉琪、豆豆共同演唱的歌曲《武汉，你好吗》歌曲及MV即将上线！未能相见的每一天，音乐能给你力量和鼓舞。武汉，你好吗？武汉，我们和你在一起！待樱花盛开时，我们约好再相见！</p>
+<p style="text-align: left; display: block;"><span style="color: rgb(127, 127, 127);">作者：宋和</span></p>
+<p style="text-align: left; display: block;"><span style="color: rgb(127, 127, 127);">编辑：许旸</span></p>
+<p style="text-align: left; display: block;"><span style="color: rgb(127, 127, 127);">责任编辑：卫中</span></p>
+<p><span style="color: rgb(127, 127, 127);font-size:16px">*文汇独家稿件，转载请注明出处。</span></p>
+*
+理直气壮，世界应该感谢中国 - 文汇网 - 文汇报
+<p style="text-align: justify; display: block;"><span style="text-align: left;">今天，美国又一个州宣布紧急状态，美国佛罗里达州宣布进入公共卫生紧急状态，佛州州长办公室对外宣称，该州已经发现了两人为新冠肺炎推断确诊病例，需要等待美国疾控中心进一步确认，目前这两人正在接受隔离治疗。这是美国继加利福尼亚州、华盛顿州之后，美国第三个宣布紧急状态的州，可见新冠肺炎疫情在美国已经出现了星火燎原的迹象，而且继昨天美国公布第一例新冠肺炎死亡病例后，今天又发生了一起新冠肺炎死亡病例，总共已经有了两名死亡病例。然而荒唐的是，美国现在要确诊一名新冠肺炎病例，还需要美国疾控中心最终审核，这也就是佛罗里达州对此表示很不满的原因，虽然美国疾控中心还没有最终确认，佛州自己就宣布进入紧急状态了。</span><br/></p>
+<p style="text-align:left;display:block;">很显然，美国真实的新冠肺炎疫情被严重的低估了，原因就是上面说的，所有的确诊病例，必须由美国疾控中心来最终认定，这使得美国的数据一直让人全世界怀疑。</p>
+<p style="text-align:left;display:block;">随着美国新冠肺炎疫情越来越严重，特朗普也不断出来吹风，让美国民众不要恐慌，但实际情况是特朗普内心也非常着急，负责新冠肺炎疫情防控的美国副总统彭斯更是大为紧张，在白宫办公室祈祷新冠肺炎疫情尽快过去。</p>
+<p style="text-align:center;"><img alt="微信图片_20200304133834.png" border="0" height="430" src="/u/cms/www/202003/04133856z37n.png" style="width: 645px; height: 430px;" title="微信图片_20200304133834.png" vspace="0" width="645"/></p>
+<p style="text-align:left;display:block;">这个时候，特朗普发生了一个很大的转变，开始对中国赞扬有加。在前天的一场记者招待会上，有美国记者问特朗普：“如果美国的新冠肺炎疫情恶化，美国政府是否会考虑采取和中国类似的措施呢？”</p>
+<p style="text-align:left;display:block;">特朗普当即表示，会采取部分中国的措施来控制新冠肺炎，并表示现在中国取得了很大的进展，可以看到星巴克在中国重新开业了，苹果公司在中国已经全面恢复了生产，中国的新冠肺炎防控确实取得了很大的进展。</p>
+<p style="text-align:left;display:block;">很显然，特朗普的这番话是发自内心的，也是因为现在角色发生了转换，中国控制新冠肺炎取得了重大的进展，而美国却陷于疾风骤雨之中，越来越多的州宣布紧急状态，美国的医疗物资极度紧缺，一场失控的新冠肺炎疫情几乎无法避免。</p>
+<p style="text-align:left;display:block;">美国的股市连续大暴跌，短短一周的时间跌幅超过12%，直追美国次贷危机期间的大崩盘，这让特朗普如坐针毡，一旦美国股市继续暴跌，不仅仅影响美国经济，也影响特朗普的总统连任，一旦新冠肺炎疫情继续蔓延，特朗普的总统宝座面临的挑战就越来越大。</p>
+<p style="text-align:left;display:block;">如果这个时候，中国宣布限制美国人或者去过美国的人进入中国，宣布禁止中国人前往美国，实际上就是对美国实施旅行禁止，那么美国的经济将会遭受巨大的打击，美国的股市更会暴跌，但是中国并没有这样做。</p>
+<p style="text-align:left;display:block;">而大家要知道，当中国湖北武汉爆发新冠肺炎疫情后，特朗普的美国政府第一个宣布从中国武汉接回美国人，导致了其它国家纷纷跟进，使得中国当时非常被动。</p>
+<p style="text-align:left;display:block;">不仅仅如此，美国政府还宣布限制中国人和到过中国的外国人进入美国，实际上就是对中国间接宣布旅行禁止，让世界上其它国家变相对中国形成孤立，对中国的经济冲击是很大的。</p>
+<p style="text-align:left;display:block;">美国这些做法非常不厚道，可谓在落井下石，趁人病要人命，而如今中国的新冠肺炎疫情已经得到了控制，除了武汉外，其它地方新增确诊病例为个位数，而美国的新冠肺炎疫情却越来越严重。</p>
+<p style="text-align:left;display:block;">如果这个时候中国对美国进行报复，除了宣布对美国旅行禁令外，还宣布对医疗产品进行战略管控，禁止出口美国，那么美国将会陷入新冠病毒的汪洋大海之中。</p>
+<p style="text-align:left;display:block;">根据美国疾控中心官员的公开表示，美国的口罩大部分是中国生产，并从中国进口的，如果中国禁止将口罩出口到美国，那么美国就会陷入口罩荒，防范新冠病毒最基本的措施都无法做到。</p>
+<p style="text-align:left;display:block;">同样根据美国疾控中心官员的公开表示，美国的药物绝大部分也是依靠进口，有些药物是从欧洲进口，但是欧洲又将这些药物的生产基地放在中国，因此90%以上的美国进口药物都和中国有关。言下之意，这个时候只要中国宣布药品尽量满足国内而禁止出口，美国将会陷入新冠肺炎疫情的地狱。</p>
+<p style="text-align:left;display:block;">然而，人间有大爱，中国人民和中国政府从来没有这样做，没有对美国落井下石，更没有禁止口罩和药品出口美国，随着中国的新冠肺炎疫情逐渐受到控制，中国的口罩、药品的出口能力将极大的提升，而美国正是需求方之一。美国政府的官员，比如商务部长罗斯，美国国务卿蓬佩奥，美国白宫经济顾问纳瓦罗等，公开对中国的新冠肺炎疫情幸灾乐祸，表示中国爆发新冠肺炎疫情对美国有利，有利于企业回流美国，还呼吁世界上的企业考虑中国供应链的风险。甚至臭名昭著的《华尔街日报》还发表了一篇遗臭万年的文章《中国是亚洲真正的病人》，美国的《纽约时报》当时也公开发文，谴责中国武汉封城，说是侵犯人 权。美国这种落井下石的文化，实在让人不齿，而如今风水轮流转，美国成为了新冠肺炎疫情的受难国，这个时候中国没有落井下石，没有谴责美国，这个时候的美国，更应该为之前种种的错误行为向中国道歉。</p>
+<p style="text-align:left;display:block;">这段时间，有一种声音故意在炒作，说中国欠世界一个道歉，这是非常荒谬的，中国为了抗击新冠肺炎疫情，做出了巨大的牺牲，付出了巨大的经济成本，切断了新冠病毒的传播途径，没有哪个国家在这次新冠肺炎疫情中做出了如此大的牺牲和付出。</p>
+<p style="text-align:left;display:block;">而且，根据钟南山院士的研究，新冠肺炎疫情虽然在中国爆发，但是源头并不一定在中国。现在很多研究也指向新冠病毒的源头可能来自其它国家，美国、意大利、伊朗等国家的很多没有亚洲接触史的新冠肺炎确诊病例就说明了这一点，因此中国更没有理由道歉。</p>
+<p style="text-align:left;display:block;">现在我们应该理直气壮的表示，美国欠中国一个道歉，世界欠中国一声感谢，没有中国的巨大牺牲和付出，就不可能为全世界赢得宝贵的抗击新冠肺炎疫情的时间窗口，可以说中国一己之力，硬生生的将新冠肺炎疫情挡住了很长一段时间，真的是惊天地、泣鬼神！</p>
+<p style="text-align: left; display: block;"><br/></p>
+<p><span style="color: rgb(127, 127, 127);font-size:16px">来源：黄生看金融微信公号</span></p>
+<p><span style="color: rgb(127, 127, 127);font-size:16px">编辑：施薇</span></p>
+<p><span style="color: rgb(127, 127, 127);font-size:16px">声明：转载此文是出于传递更多信息之目的。若有来源标注错误或侵犯了您的合法权益，请作者持权属证明与本网联系，我们将及时更正、删除，谢谢。</span></p>
+*

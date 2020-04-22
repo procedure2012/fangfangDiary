@@ -1,0 +1,337 @@
+民主国家版“健康码”？英国开发数据应用追踪病毒
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">英国的卫生官员和科学家希望尽快开始测试第一个能够向接触了冠状病毒感染者的人发出提醒的智能手机应用。</div>
+<div class="article-paragraph">该项目是英国当局的一项紧急工作，旨在将中国为抗击疫情而部署的监控手段转换为西方民主国家能够接受的工具。官员说，正在开发中的该应用是为了在英国使用，但经过调整后也可以被其他国家采用，尤其是那些具有类似中心化医疗系统的国家。</div>
+<div class="article-paragraph">与中国政府使用的智能手机跟踪系统不同，英国的项目将完全凭靠人们自愿参与，指望人们出于公民义务分享信息。也许仅在几周前这种合作是不可想象的，但预计随着死亡越来越多并遭受经济灾难时，这种合作将受到关注。</div>
+<div class="article-paragraph">牛津大学的研究人员表示，这项工作将包含开发一个与该国国家卫生系统(National Health System)相关联的官方应用。人们将参加该项目，并同意在大流行期间或继续保留该应用期间共享其位置数据。研究人员说，政府可以保证删除数据，并且不会像韩国那样完全公开被感染者的活动。</div>
+<div class="article-paragraph">各国政府在试图利用技术力量抗击冠状病毒，同时避免人们担心的长期被监控的可能性，这一方案是其中的最新尝试。</div>
+<div class="article-paragraph">上个月，正奋力应对冠状病毒肆虐的中国，在一定程度上依赖了智能手机跟踪系统来隔离可能接触过感染者的人。该系统因向中国执法部门发送数据而受到批评，因为公众还不清楚该算法是如何工作的。</div>
+<div class="article-paragraph">“在欧洲和美国，我们的方式不会像中国所做的那样，”牛津大学生物伦理学教授迈克尔·帕克(Michael Parker)表示。“但是这些技术有合理的使用方法。仅仅因为我们生活在民主国家，并不意味着我们不在乎他人，或者不采取负责任的行动。”</div>
+<div class="article-paragraph">在美国，科技公司和白宫之间的讨论聚焦在使用大量匿名的、汇总的位置数据来进行大致的公共卫生监视，也许是在预测哪里会更有可能发生更多严重的疫情。但是英国拥有一个中心化的、受信任的国家卫生系统，并且数据隐私保护较为有力，官员们相信人们会同意协助所谓的接触者追踪技术，该技术在对抗以往的大流行时起到了关键作用。</div>
+<div class="article-paragraph">在过去，接触者追踪是人工完成的，方法是让患者回忆自己的行迹并追踪可能感染的人。但是，牛津大数据研究所传染病动态和控制专家克里斯托夫·弗雷泽(Christophe Fraser)表示，冠状病毒的情况有所不同。弗雷泽致力于应对包括SARS在内的早期流行病，也参与了该英国项目。他说：“这种病毒传播得更快一些，尤其是在症状发作之前就已经传播了。”因此，典型的干预措施很容易“赶不上变化”。</div>
+<div class="article-paragraph">科学家警告说，应用不能替代世界范围内已经在进行的保持社交距离的措施。然而，它可能使某些人在第一轮冠状病毒消退后走出隔离。</div>
+<div class="article-paragraph">该应用与美国正在讨论的潜在工具将有所不同，在美国，技术公司一直在与白宫讨论使用位置数据进行公共卫生监视，也许用来预测哪里会可能发生严重疫情。该讨论最早由《华盛顿邮报》报道。</div>
+<div class="article-paragraph">除此之外，一位知情人士说，Facebook的科学家正在用位置数据分析各国人对于保持社交距离建议的遵守程度。这位知情人士说，这些信息来自Facebook公司各应用收集的位置数据的私有数据库。</div>
+<div class="article-paragraph">例如，分析显示意大利过去一个月的餐馆访问量下降了80％，在西班牙下降了超过70％。美国同期下降了31％。一位数据科学家在3月15日的分析中指出，在美国、法国和英国看到的习惯上的变化“非常有限”，而西班牙对于保持社交距离的接受程度要高得多。</div>
+<div class="article-paragraph">谷歌一位发言人说，谷歌正在从数百万美国人使用的安卓手机和一些谷歌应用中收集详细位置数据，目前正在评估能够如何使用匿名汇总信息来帮助公共卫生专家更多地了解与大流行有关的人口趋势。</div>
+<div class="article-paragraph">这样一来，可以向你展示一个门店在某个时段是否拥挤的同类型谷歌工具，也可以用来向流行病学家显示人们是否遵循了保持社交距离的规定。</div>
+<div class="article-paragraph">苹果公司使用匿名位置数据进行其地图上的交通流量警告等功能，但其系统不会允许将个人信息——包括是否有人测试呈阳性——与该功能相关联。一位发言人说，苹果公司参与了与白宫的会议，但该公司关注的是远程医疗和网络课程项目。</div>
+<div class="article-paragraph">英国研究人员表示，他们已经与主要科技公司就其应用进行了谈话，但苹果和谷歌公司拒绝了对此事的置评请求。</div>
+*
+疫情、封锁与阴谋论：中国小镇里的美国人见闻
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">在冠状病毒成为中国的全民健康危机几周前<span>，当局对<a href="https://cn.nytimes.com/china/20200207/li-wenliang-coronavirus/">以早期病例警告他人</a>的医生李文亮进行了威胁。官方媒体报道说李文亮在非法散布谣言。</span></div>
+<div class="article-paragraph">对于鲍勃·黄(Bob Huang)来说，这是一个危险的信号。</div>
+<div class="article-paragraph">“这里的人倾向于相信政府。而我不是，”今年50岁的鲍勃·黄说，他与母亲<span>张婉荣</span>和她的护工同住于浙江省北部30万人口的小镇雉城。“我看过太多《X档案》。”</div>
+<div class="article-paragraph">鲍勃·黄和雉城的其他人不同。他是华裔美国人，正如他所说，他的想法和他的邻居不同。随着雉城将自己与世隔绝，他以外人的困惑眼光观察着，尽管他听得懂邻居关于当下境况的冷笑话。</div>
+<div class="article-paragraph">在一个将自己与全世界隔离的小镇上，难有人际互动。鲍勃·黄只能尽可能找机会。</div>
+<div class="article-paragraph">首先是出门买东西时能见到小区外面的志愿保安。许多人穿着背后印有醒目的“志愿者”字样的红马甲。有些是他的邻居。其中一位是他的牙医。</div>
+<div class="article-paragraph">有时，这些形形色色的保安队员会叫来增援——穿着防护服、配备电击枪的警察。鲍勃·黄称他们是“特警战队”。</div>
+<div class="article-paragraph">鲍勃·黄说，他们没有太多有用的信息，但阴谋论倒是不少。</div>
+<div class="article-paragraph"><i>[</i><a href="https://www.nytimes.com/zh-hans/2020/02/11/world/asia/corona-virus-student-stories-chinese.html"><i>征文：新冠病毒给你带来什么影响</i></a><i>？]</i></div>
+<div class="article-paragraph">一天，一个保安停下来查看鲍勃·黄的护照，然后抬起头皱着眉头。“这种传染病肯定是由你们美帝造成的！”保安告诉鲍勃·黄。他推断这种病毒显然是一种新的生化武器。他并不完全是在开玩笑。<br/></div>
+<div class="article-paragraph">鲍勃·黄说：“他不喜欢美国或美国人。”</div>
+<div class="article-paragraph">第二天，保安向他道歉。他的信息是错误的。保安说，在疫情的中心武汉一个戒备森严的生化实验室，才是始作俑者。他们将感染病毒的实验猴卖给了活鲜市场，也就是当局所判断的病毒发源地。鲍勃·黄能看出来，保安相信了这个说法。</div>
+<div class="article-paragraph">另一名保安告诉鲍勃·黄，他看到了来自同一实验室的一份已经发到网上的备忘录。这名保安还认为这个武汉实验室有治愈方法，科学家计划靠它卖大钱。</div>
+<div class="article-paragraph">（世界各地的科学家普遍否定了冠状病毒为人造的观点。）</div>
+<div class="article-paragraph">鲍勃·黄必须还要再经过几个临时检查站才能进入市场。在每个检查站，他都必须写下个人信息并检查体温。他回家的路上要把同样的程序再走一遍。曾经是10分钟的路程，现在要花三倍的时间。</div>
+<div class="article-paragraph">保安虽然是临时的，但对自己的工作认真。有一天，一个喝醉的邻居回到鲍勃·黄的小区，并且拒绝解释为什么他在外超过了一天。保安叫来了八名警察制服该男子。</div>
+<div class="article-paragraph">“是的，我当时在看热闹，”鲍勃·黄说。“但是不准我拍照。可惜。”</div>
+<div class="article-paragraph">鲍勃·黄说，检查站和封锁的确看上去很极端，但并不是滴水不漏。他有一个朋友在附近的一个城镇，每天都偷偷溜出去到河里游泳。</div>
+<div class="article-paragraph">上周的一天，来自邻近省份的一名男子沿着小路徒步跋涉了四天进城，因为小路上没有道路检查。他说：“有很多空子可以钻。”</div>
+<div class="article-paragraph">鲍勃·黄说，最大的问题是整个镇子深陷于倦怠和孤独之中。随着地方官员为了遏制病毒而改变规则，人与人之间的互动越来越少。现在，每个家庭每两天只能派出一名成员购买食物。</div>
+<div class="article-paragraph">“这里人人都很无聊，”鲍勃·黄叹了口气。</div>
+<div class="article-paragraph">鲍勃·黄毕业于美国加州大学伯克利分校，在美国结婚并入籍。当父亲于2003年去世时，他和妻子回到了中国照顾母亲，并选择了雉城作为他们的家。</div>
+<div class="article-paragraph">2012年，他的母亲因脑溢血瘫痪，一名护工搬了进来。自从黄的妻子两年前死于结肠癌后，现在家里只有他、他的母亲和母亲的护工。</div>
+<div class="article-paragraph">鲍勃·黄希望此刻不是在中国。他已经告诉在上海和北京等城市的外国朋友，尽量离开中国。</div>
+<div class="article-paragraph">鲍勃·黄的父亲是共产党员和地方官员，曾经描述过他目睹的腐败。他说：“父亲很久以前就告诉我，在中国，没有社会主义或共产主义。他称其为‘权贵控制的资本主义’。”</div>
+<div class="article-paragraph">鲍勃·黄暂时还会留在母亲身边。他说：“但是最终，等我退休后，我不想生活在这样的国家。”</div>
+*
+按下中国经济的暂停键很痛苦，重启这台机器更难
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">上海——中国正在开始恢复经济生活。工厂开工，办公室里的人多了起来。中国领导人为了阻止<a href="https://www.nytimes.com/2020/03/10/world/coronavirus-news.html">持续不断的新型冠状病毒的暴发</a>，已让<a href="https://www.nytimes.com/2020/01/29/business/china-coronavirus-economy.html">世界的第二大经济体停摆</a>了六周多。<br/></div>
+<div class="article-paragraph">但这并没有给张旭带来多少安慰。他在上海的一个蓝领社区经营一家汽车修理店，成堆的挡风玻璃——有些是坏了，有些是新的，随时可以安装——原封不动地放在店里。他的两名员工中有一人仍困在一个遥远的村子里。但这无关紧要，因为张先生没有客户。</div>
+<div class="article-paragraph">“我们卖不出去，经销商就没法向工厂订货，工厂就生产不出来，”张先生说。<br/></div>
+<div class="article-paragraph">停止中国工业机器的运转对中国和世界来说都很痛苦——重新启动这个机器也许更困难。工厂远未达到满负荷生产。即使那些恢复日常生活最成功的城市，也只恢复到了以前的一半。千百万的劳动者仍不能回到工作岗位上。</div>
+<div class="article-paragraph">专家们警告说，北京需要警惕假复工：为了获得政府补贴，一些企业重启了工厂，但由于缺乏工人或供应，生产不出多少产品、或什么也不生产。</div>
+<div class="article-paragraph">中国面临的困难也许能为其他寻找疫情解决之道的国家提供借鉴。为了找到一种既能减缓病毒蔓延、又不损害经济的方法，美国周三对欧洲旅客下达禁令，特朗普总统则表示，他希望让消费者<a href="https://www.nytimes.com/2020/03/10/us/politics/trump-coronavirus-relief-package.html">扩大支出</a>。意大利政府周一对全国<a href="https://www.nytimes.com/2020/03/09/world/europe/italy-lockdown-coronavirus.html">实施旅行限制</a>，扩大了一周前在其工业中心米兰附近采取的封闭措施。其他地方，比如韩国，在保持工业引擎运转的情况下，加强测试和监控。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="张旭在上海的店铺最近门可罗雀。" data-src="https://static01.nyt.com/images/2020/03/11/business/c12china-econ-virus-inline1/merlin_170288694_e238d72e-8404-4218-8005-9907e77664b6-master1050.jpg" src="https://static01.nyt.com/images/2020/03/11/business/c12china-econ-virus-inline1/merlin_170288694_e238d72e-8404-4218-8005-9907e77664b6-master1050.jpg"/></div><figcaption><span>张旭在上海的店铺最近门可罗雀。</span> <cite>Henri Shi for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="张旭说，他看不到从供货商那里订更多挡风玻璃的意义。" data-src="https://static01.nyt.com/images/2020/03/11/business/c12china-econ-virus-inline2/merlin_170288652_b2759539-0c7d-4d35-b89e-c04d1f6ee201-master1050.jpg" src="https://static01.nyt.com/images/2020/03/11/business/c12china-econ-virus-inline2/merlin_170288652_b2759539-0c7d-4d35-b89e-c04d1f6ee201-master1050.jpg"/></div><figcaption><span>张旭说，他看不到从供货商那里订更多挡风玻璃的意义。</span> <cite>Henri Shi for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">中国正在把自己抗击疫情的做法作为对共产党威权统治的认可来加以宣传。周二，中国最高领导人<a href="https://cn.nytimes.com/china/20200311/coronavirus-china-xi-jinping/">习近平在疫情中心武汉现身</a>，并通过官方媒体宣布疫情防控“取得阶段性重要成果”，但警告不要过快放松防控措施。<br/></div>
+<div class="article-paragraph">毫无疑问，中国在复工上已经取得了一些进展。据香港的一家航空货运价格数据公司TAC Index的数据，随着西方国家的供应链开始枯竭，上周来自中国的空运价格迅速上涨。<br/></div>
+<div class="article-paragraph">“供应链现在需要补充，”该公司总经理约翰·佩顿·伯内特(John Peyton Burnett)说。<br/></div>
+<div class="article-paragraph">但他说，中国的工厂目前仅以50%至60%的产能运转，其他指标显示，许多地方的经济活动甚至更少。<br/></div>
+<div class="article-paragraph">为了让办公室和工厂重新活跃起来，中国政府出台了一系列自上而下的措施。银行家称，他们差不多每天都接到监管机构的电话，叫他们在债务偿还上放宽，尤其是对中小型企业。保险公司被要求延长保单，即使没有按时交付保险费的话。</div>
+<div class="article-paragraph">国有铁路部门已将大范围的货运费减少了一半。中国教育部为今年春季毕业，但几乎没有希望找到工作的大学生多准备了18万个今秋入学的研究生招生名额。上海方面表示，仅该市就已向居民和企业提供了1000亿元的贷款和其他信贷帮助，主要是通过国有银行部门。</div>
+<div class="article-paragraph">恢复经济活动的措施面临着巨大障碍。地方官员在减少新感染病例上面临巨大压力，这让他们对允许工人重返工作岗位十分紧张。</div>
+<div class="article-paragraph">现金拮据的家庭可能也不愿意花钱。在国家控制的银行部门大量发放贷款十年之后，家庭和企业都担负着巨额的债务。工人们不知道他们的雇主是否发得出工资。企业不知道其他企业是否会拖欠商品和服务的付款。</div>
+<div class="article-paragraph">一周前，中国南方一个省的政府出手救助海航集团，这家<a href="https://www.nytimes.com/2018/03/02/business/hna-china-deals-debt.html">负债累累的私营企业集团</a>陷入债务危机。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="2月，上海延锋安道拓工厂的汽车座椅组装线。" data-src="https://static01.nyt.com/images/2020/03/11/business/c12china-econ-virus-inline3/merlin_169431294_9745b4ca-edbf-4f4f-961d-12a78992c257-master1050.jpg" src="https://static01.nyt.com/images/2020/03/11/business/c12china-econ-virus-inline3/merlin_169431294_9745b4ca-edbf-4f4f-961d-12a78992c257-master1050.jpg"/></div><figcaption><span>2月，上海延锋安道拓工厂的汽车座椅组装线。</span> <cite>Noel Celis/Agence France-Presse — Getty Images</cite></figcaption></figure></div>
+<div class="article-paragraph">“等着发生违约吧——他们需要现金流，但现在这已经断了，”专门研究中国市场的美奇金投资咨询公司(J Capital Research)的研究主管杨思安(Anne Stevenson-Yang)说。“这么多的杠杆，这么少的现金。”</div>
+<div class="article-paragraph">官方数据显示，逾5000万农民工尚未返回工作岗位。有些人仍在隔离中。有些人被困在农村地区，因为那里的长途汽车还没有恢复运行。有些是因为雇主尚不需要他们，因为消费者和企业几乎都没有支出。<br/></div>
+<div class="article-paragraph">欺诈的迹象已经出现，这让北京的官员们更难弄清楚全国的情况。北京大学经济学家曹和平说，一种骗局是，企业打开空调，让机器运转起来，却没有产出。这样做的目的是耗掉足够多的电力，以达到领取复工补贴的资格。</div>
+<div class="article-paragraph">“他们需要警告各地，‘不要拼数字，要看真实的经济生产，’”曹和平说。<br/></div>
+<div class="article-paragraph">商家一直承受着来自房东要求他们重新开业的巨大压力，房东有时还会以减免租金为诱饵。每天的房租通常比每天的工资开支高得多，这让公司在没有顾客的情况下开店，比让店铺关门同时要支付租金更省钱。</div>
+<div class="article-paragraph">大多数汽车经销商已在2月下旬重新开业，但店里基本上没有顾客。中国2月份的汽车销量比去年同期下降了80%。<br/></div>
+<div class="article-paragraph">全国乘用车市场信息联席会秘书长崔东树说，“以前4S店一个月能有一千多人，现在一个月可能只能来十拨人。”他还说，经销商们已有五个月的未售出汽车库存。</div>
+<div class="article-paragraph">通用汽车(General Motors)只是在需求和当地法规允许的情况下，逐渐重启在中国的十几家装配厂。一些城市已将工厂恢复生产的时间推迟到本周，而湖北省的企业才刚刚开始复工。中国大多数新冠病毒感染和死亡病例都发生在湖北省。<br/></div>
+<div class="article-paragraph">工厂老板们还面临着另一个问题：全球对中国制造的商品的需求正在放缓。新冠疫情的暴发对全球增长构成威胁，这可能会在工厂重新开工之际拖累它们。“如果需求冲击得不到迅速解决，那么它可能会成为一个问题，”北京大学的曹和平说。</div>
+<div class="article-paragraph">在中国恢复全速发展之前，许多人都在努力节省现金。上海南部一个工业园区的经理卓雪丽说，该园区过去要求各个厂家提前支付三个月的租金。现在，园区只要求一个月的。<br/></div>
+<div class="article-paragraph"> “因为疫情原因单子全部被退了，”她说，“单子被退了就生产不了，项目就终止了，场地也就退了。”<br/></div>
+<div class="article-paragraph">在附近的一条街上，戴姜莱担心自己的锅盔店很快就要倒闭。她去年年底开业前，房东强迫她预付了两年的房租。<br/></div>
+<div class="article-paragraph"> “本来今天要去工厂面试的，但我觉得还是再试一次，”她站在店里鲜橙色的柜台前说。这是午餐时间，但她店前的街道上几乎空无一人。她没多久就关了店门，但希望下周重新开张时，生意也许会好一点儿。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="戴姜莱希望她的生意能好起来。" data-src="https://static01.nyt.com/images/2020/03/11/business/c12china-econ-virus-inline4/merlin_170288640_12bbc86c-204d-477d-abf5-ee26b7bd667a-master1050.jpg" src="https://static01.nyt.com/images/2020/03/11/business/c12china-econ-virus-inline4/merlin_170288640_12bbc86c-204d-477d-abf5-ee26b7bd667a-master1050.jpg"/></div><figcaption><span>戴姜莱希望她的生意能好起来。</span> <cite>Henri Shi for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">许多工人还没有回到上海。据官方数据，大型企业现有不到三分之二的员工。小型企业只有不到一半的员工。</div>
+<div class="article-paragraph">提供在线地图和实时交通信息服务的高德在周三估计，沿海大城市的劳动力前往工作场所的通勤交通量已恢复了一半。此外，许多白领仍在家中工作。</div>
+<div class="article-paragraph">但有些地方，很少有人去上班或外出购物。徐仁中在离戴女士的锅盔店不远的地方经营着一家修理厂。他没有顾客，也没有机械师。</div>
+<div class="article-paragraph"> “他们都在村里的，巴士都停了，”他说。<br/></div>
+<div class="article-paragraph">较大企业的老板们，尤其是那些利润微薄的出口工厂的老板们担心，如果有员工感染的话，当地政府可能会强迫他们将数十名甚至上百名员工隔离起来，还要支付这些人两周的费用。政府几乎没有对这些企业应该承担的责任提供指导方针。<br/></div>
+<div class="article-paragraph">“我们不能确定说每个地方政府都会以同样的方式对待疫情，”德汇律师事务所(Dorsey and Whitney)北京办事处合伙人刘思锐说。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="沈阳的一个物流中心。今年前两个月，中国出口下降了两位数。" data-src="https://static01.nyt.com/images/2020/03/11/business/c12china-econ-virus-inline5/merlin_170135403_c300ab31-e068-4320-9432-1b4928fd2520-master1050.jpg" src="https://static01.nyt.com/images/2020/03/11/business/c12china-econ-virus-inline5/merlin_170135403_c300ab31-e068-4320-9432-1b4928fd2520-master1050.jpg"/></div><figcaption><span>沈阳的一个物流中心。今年前两个月，中国出口下降了两位数。</span> <cite>Pan Yulong/Xinhua, via Associated Press</cite></figcaption></figure></div>
+<div class="article-paragraph">生意这么不景气，张先生每天都坐在一堆卖不出去的挡风玻璃中间，后悔一个月前从距离上海几个小时车程的老家回到上海，他的老家。</div>
+<div class="article-paragraph"> “早知道是这个情况，”他说，“我就不回来了。”<br/></div>
+*
+白宫疫情发布会上，一个自相矛盾的特朗普
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i> </div>
+<div class="article-paragraph">华盛顿——特朗普总统的态度几乎不容置疑。“我们将暂停给WHO的钱，”他在提到世界卫生组织时表示。“我们将作出一次强有力的暂停。”</div>
+<div class="article-paragraph"><span>但后来被问及在大流行期间<a href="https://www.nytimes.com/2020/04/07/us/politics/coronavirus-trump-who.html">延缓向该卫生机构拨款</a></span>是否妥当时，他又否认了自己声称会这么做。“我不是说我会这么做，”他在周二的新闻发布会上说。“但我们要考虑一下。”</div>
+<div class="article-paragraph">“你刚说了要这么做，”一位记者向他指出。</div>
+<div class="article-paragraph">“不，我没说，”他说。“我说的是我们要考虑一下。”</div>
+<div class="article-paragraph">特朗普的言论无需对手来驳斥——他自己已经这么做了。在为冠状病毒大流行召开的每日发布会上，总统经常自相矛盾，却从不承认这一点。在这个过程中，他发出了令人困惑的信号，其他政治人物、卫生官员和全体人民只能自行解读。</div>
+<div class="article-paragraph">特朗普一直是个充满矛盾的总统：他是一个喜欢炫耀财富的纽约大亨，却能吸引农村地区劳动阶层的选票。他是一个民粹主义者，主要消遣却是在他的会员制<span>俱乐部里打高尔夫球。他热衷抛头露面，对媒体欲罢不能，却谴责媒体是<a href="https://www.nytimes.com/2017/02/17/business/trump-calls-the-news-media-the-enemy-of-the-people.html">“人民公敌”</a>。</span></div>
+<div class="article-paragraph">当然，这并不是从他三年前入主白宫时才开始的。</div>
+<div class="article-paragraph">几十年来，特朗普一直是公众关注的焦点，什么都沾点<span>，就看他在当下一刻觉得自己需要变成什么。他至少五次更换政党，宣称自己<a href="https://www.nbcnews.com/meet-the-press/video/trump-in-1999-i-am-very-pro-choice-480297539914" rel="noopener noreferrer" target="_blank">“完全捍卫选择权”</a>后又<a href="https://www.nytimes.com/2020/01/24/us/politics/trump-abortion-march-life.html">激烈反对堕胎</a>；他曾<a href="https://www.nytimes.com/2018/03/12/us/politics/trump-evolving-positions-gun-issues.html">支持一项突击步枪禁令</a>，后又宣称自己是宪法第二修正案的坚定拥护者；他曾提议对</span>富人<span>加税，后又对富人减税；他<a href="https://www.nytimes.com/2016/10/08/us/politics/donald-trump-women.html?_r=0">吹嘘自己对女性的猥亵行为</a>，后又去争取福音派教徒的选票。</span></div>
+<div class="article-paragraph">但在过去一个月里，这些持续一个小时、90分钟乃至两个小时的每日发布会特别突出地呈现了这种矛盾。似乎发布会耗时越久，总统在一种态度到下一种态度之间摇摆不定的可能性就越大。等到下一场发布会，态度可能会再次完全不同，但他的摇摆总被摄像机记录下来，因此他很难否认或辩解。</div>
+<div class="article-paragraph"><span>发布会耗时越来越久，特朗普占据讲台的时间也变长了。根据专门收集和分析特朗普政府数据的组织<a href="https://factba.se/" rel="noopener noreferrer" target="_blank">Factba.se</a>统计，自3月中旬以来，发布会的平均时长从61分钟增加到了105分钟，总统的发言时间从从20分钟增加到53分钟。在28场关于冠状病毒的发布会中，特朗普的讲话时长达到18.5小时。</span></div>
+<div class="article-paragraph"><span>总统的言论很重要，因为正如他自己乐于指出的那样，<a href="https://www.nytimes.com/2020/03/25/business/media/trump-coronavirus-briefings-ratings.html">他的发布会收视率很高</a>，对许多美国人来说，这就是他们了解疫情的主要消息来源。</span></div>
+<div class="article-paragraph"><span>近几个月来，他对病毒严重性不断变化的评估已被如实记载。起初，他将病毒比作一种会“奇迹般”消失的普通流感，后来他称它是<a href="https://www.nytimes.com/2020/04/01/us/politics/coronavirus-trump.html">“这个国家可能面临的最糟糕的事情</a>”，并向病毒宣“战”。然后他打算让全国在复活节</span>前复工，随后又收回这一结论，称“艰难的日子”即将来临。</div>
+<div class="article-paragraph">然而，停止资助世卫组织的混淆信号表明，他的自相矛盾可以在几天之内、甚至是在同一场发布会中发生。就在五天前，他才发誓要调查该卫生组织对大流行的应对措施，抨击了专门成立小组调查自家政府应对的国会，称这种调查“在大流行期间进行是对重要资源、时间和注意力的巨大浪费”。</div>
+<div class="article-paragraph">在周二的发布会上，他对邮寄投票的弊端进行了长时间抨击，称这“对国家来说是一件非常危险的事情”。直到一位记者指出，他才承认自己也曾经邮寄选票——最近一次是在上个月的佛罗里达初选。</div>
+<div class="article-paragraph">他要怎么自圆其说？“因为我这么做是得到允许的，”他说。“这叫做‘州外投票’。你知道我为什么投票吗？因为我恰好人在白宫，没法去佛罗里达投票。”</div>
+<div class="article-paragraph">这跟那些不能亲自前往或不想拿自己健康冒险的人有什么不同？对此他说，“这会导致成千上万的人坐在某个人的客厅，到处在选票上签名。”</div>
+<div class="article-paragraph">总统对州长和记者的态度也发生了巨大转变，今天称赞他们，明天就大加批判。“我真觉得媒体挺公正的，”他在上个月的发布会上说。等到周一，他又不这么想了。“我希望这个国家能有公正的媒体，现在是真的没有，”他一边说一边谴责一位记者是“三流货色”，称另一位记者的问题“可憎”，还要求CBS新闻的一名亚裔记者说明自己是否“在为中国工作”。</div>
+<div class="article-paragraph"><span>尚不清楚特朗普是否记得自己说过那些后来又被他否认的话，还是他试图把自己认为的现实强加于人。上个月，在接受<a href="https://www.foxnews.com/media/trump-worst-case-coronavirus-scenarios-ventilators" rel="noopener noreferrer" target="_blank">福克斯新闻(Fox News)肖恩·汉尼提(Sean Hannity)的电话采访</a>时，特朗普攻击了纽约州州长安德鲁·M·库默(Andrew M. Cuomo)，称他需要三到四万台呼吸机是夸大其词。</span></div>
+<div class="article-paragraph">“我感觉有些地方报上来的很多数字比实际数字要大，”总统说。“我不相信你需要四万或三万台呼吸机。”</div>
+<div class="article-paragraph"><span>当一位记者在<a href="https://www.whitehouse.gov/briefings-statements/remarks-president-trump-vice-president-pence-members-coronavirus-task-force-press-briefing-14/" rel="noopener noreferrer" target="_blank">三天后的新闻发布会</a>上提问指出，“你曾多次表示，你认为要求一些设备的州长们实际上并没有这个需求，”特朗普打断了她。</span></div>
+<div class="article-paragraph">“我没那么说，”他坚称。“我没那么说。”</div>
+<div class="article-paragraph">他还在对中国处理病毒的观点上前后摇摆，疫情在中国暴发，而后传播<span>到美国。起初，他称赞了北京。“中国一直非常努力地控制冠状病毒，”<a href="https://twitter.com/realDonaldTrump/status/1220818115354923009" rel="noopener noreferrer" target="_blank">1月24日他在Twitter上写道</a>。“美国非常赞赏他们的努力和透明。”</span></div>
+<div class="article-paragraph">几周后，在与中国国家<span>主席习近平通话后，<a href="https://twitter.com/realDonaldTrump/status/1225728755248828416" rel="noopener noreferrer" target="_blank">他称赞习近平</a>“坚强、敏锐，专注于有力地领导对冠状病毒的抗击”。</span></div>
+<div class="article-paragraph">但到了三月中，当一名中国官员散布阴谋论称“可能是美国军队把这种传染病”带到中国，特朗普大发雷霆，用上了“中国病毒”的说法，并指责北京信息不透明，尽管他此前才说相反的话。</div>
+<div class="article-paragraph">“病毒本可以第一时间阻断的，”特朗普在3月19日的白宫发布会上说。“不幸的是，他们不肯公开。而全世界都因此遭殃。”</div>
+<div class="article-paragraph">包括他的国务卿和家人在内的一群人附和了这一要点。“任何赞扬中国‘领导’抗击病毒的人，都应被当作专制/共产党的传道者来鄙视<span>，”总统的长子小唐纳德·特朗普(Donald Trump Jr.)<a href="https://twitter.com/DonaldJTrumpJr/status/1243229785423306752" rel="noopener noreferrer" target="_blank">3月26日在Twitter上写道</a>。</span></div>
+<div class="article-paragraph">可就在当晚，他的父亲与习近平通了电话，然后赞扬了中国的领导。</div>
+<div class="article-paragraph">“刚刚和中国的习近平主席进行了一次非常棒的谈话，”特朗普<a href="https://twitter.com/realDonaldTrump/status/1243407157321560071" rel="noopener noreferrer" target="_blank">凌晨一点在Twitter上写道</a>。“我们详细讨论了肆虐全球大部分地区的冠状病毒。中国经历了很多，并且对这种病毒有深刻的理解。我们正在密切合作。充满敬意！”</div>
+<div class="article-paragraph">但到了周二，特朗普抨击世卫组织对大流行的处理时，中国再次成为陪衬，这是他在所有冠状病毒新闻发布会中第一次单独提及世卫组织问题。在他看来，世卫组织的主要罪过，就是它太“以中国为中心”。</div>
+<div class="article-paragraph">“（他们做的）一切似乎都非常偏向中国，”特朗普说。”这是不对的。”</div>
+<div class="article-paragraph">至少到周二的时候还是如此。</div>
+*
+活动人士许志永被拘，曾指责习近平试图掩盖疫情
+<div class="article-paragraph"> <i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">他将中国领导人习近平描绘为嗜好权力者。他指责习近平试图掩盖中国中部的<a href="https://cn.nytimes.com/morning-brief/20200217/coronavirus-china-briefing/" title="Link: https://cn.nytimes.com/morning-brief/20200217/coronavirus-china-briefing/">冠状病毒暴发</a>。他最大胆的文章之一敦促习近平辞职，他说：“您只是不够聪明。”</div>
+<div class="article-paragraph">然后，在周末，中国著名的法律活动人士许志永消失了。据许志永的朋友说，南部城市广州当局在周六拘留了他，此前他已经躲藏了近两个月。许志永的朋友说，他的女友，社会活动人士李翘楚于周日失踪。</div>
+<div class="article-paragraph">这是最新一位因习近平为<a href="https://www.nytimes.com/2020/02/05/world/asia/china-coronavirus-censorship.html" title="Link: https://www.nytimes.com/2020/02/05/world/asia/china-coronavirus-censorship.html">压制异见</a>所做的影响深远的努力而受牵连的批评人士。这种镇压已经使数十名活动人士、律师、新闻工作者和知识分子陷入困境，随着执政的共产党<a href="https://cn.nytimes.com/china/20200217/xi-china-coronavirus/" title="Link: https://cn.nytimes.com/china/20200217/xi-china-coronavirus/">对冠状病毒疫情的应对</a>受到广泛的批评，这种镇压将很可能会加剧。此次疫情是中共多年来最大的政治挑战之一。</div>
+<div class="article-paragraph"><figure class="article-inline-photo"><div class="img-box"><img alt="2009年，许志永在北京。" data-src="https://static01.nyt.com/images/2020/02/17/world/17china-dissident01/merlin_76795097_5c5e6a6c-02ef-4574-bf66-1958eb823258-jumbo.jpg" src="https://static01.nyt.com/images/2020/02/17/world/17china-dissident01/merlin_76795097_5c5e6a6c-02ef-4574-bf66-1958eb823258-jumbo.jpg"/></div><figcaption><span>2009年，许志永在北京。</span> <cite>Greg Baker/Associated Press</cite></figcaption></figure></div>
+<div class="article-paragraph">许志永现年46岁，曾任大学讲师，他长期以来一直反对中国的政府腐败和社会不公。当警察开始围捕在东部城市厦门与他会面的人权活动人士时，他于12月躲藏起来。</div>
+<div class="article-paragraph">在隐藏期间，许志永继续在社交媒体上发表对习近平直言不讳的批评，指责他领导独裁统治。</div>
+<div class="article-paragraph">他还批评习近平对中部省份湖北暴发的疫情的处理方式。该疫情已在中国造成至少1770人死亡，超过7万人患病。许志永在被拘留前的最后一篇文章中，对<a href="https://cn.nytimes.com/china/20200208/china-coronavirus-doctor-death/">武汉一名医生</a>的死亡表示哀悼，这名医生在警告人们关注这种病毒后被警察噤声。</div>
+<div class="article-paragraph">许志永谈到党的领导人时说：“他们心中，没有是非，没有良心，没有底线，没有人性。”</div>
+<div class="article-paragraph"> <i>[</i><a href="https://www.nytimes.com/zh-hans/2020/02/11/world/asia/corona-virus-student-stories-chinese.html"><i>征文：新冠病毒给你带来什么影响</i></a><i>？]</i></div>
+<div class="article-paragraph">许志永是一个火力十足的人物，他花了数十年的时间推动政治改革，与中国政府长期对抗。</div>
+<div class="article-paragraph">2014年，他因“聚众扰乱公共场所秩序罪”而<a href="https://www.nytimes.com/2014/01/27/world/asia/china-sentences-xu-zhiyong-to-4-years-for-role-in-protests.html">被判处四年徒刑</a>，这一指控源于他在组织新公民运动中担当的角色，该运动是中国社会反对腐败和社会不公正现象的基层努力。</div>
+<div class="article-paragraph">目前尚不清楚当局会对许志永提出何种指控。他的女友李翘楚失踪的情况也不甚清楚。广州警方没有立即回应置评请求。</div>
+<div class="article-paragraph">许志永的朋友们为他的行为辩护。</div>
+<div class="article-paragraph">他的朋友、驻新泽西的活动人士华泽证实了许志永被拘留，并说：“这是在中国宪法中的言论自由范畴之内的。”</div>
+<div class="article-paragraph">面对公众对冠状病毒疫情暴发日益增长的愤怒，中国领导人提到有必要“加强舆论引导”，该用语通常指阻止独立新闻报道，以及审查中国社交媒体上的批评言论。</div>
+<div class="article-paragraph">许多倡导言论自由的活动人士担忧，共产党担忧对掌控权的维持，正在加紧控制公众言论，尽管越来越多的人认为对试图拉响警报的医生和其他人的噤声已使病毒更广泛地传播。</div>
+<div class="article-paragraph">两名因在疫情中心武汉的报道而受到广泛关注的视频博主<a href="https://cn.nytimes.com/business/20200217/wuhan-coronavirus-journalists/">已经失踪</a>。</div>
+<div class="article-paragraph">倡导组织人权观察的中国研究员王亚秋说，对许志永的拘留表明当局无意放宽言论限制。</div>
+<div class="article-paragraph">她说：“中国政府坚持老方法：压制批评家，而不是听取那些倡导切实解决问题的、尊重人权的政策的人。”</div>
+*
+疫情在继续，你还去星巴克喝咖啡吗？
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">对于数以百万计的人来说，去星巴克是每天的例行公事。但对于这个世界上最受欢迎的品牌之一来说，此刻是一个非常时期。</div>
+<div class="article-paragraph">随着病毒在中国感染数万人，该公司<a href="https://www.nytimes.com/2020/01/29/business/china-coronavirus-economy.html">关闭了2000多家门店</a>。当病毒到达美国时，第一波严重的疫情发生在这家咖啡连锁店的老家华盛顿州。上周五，星巴克成为首批有员工<a href="https://www.nytimes.com/2020/03/07/us/starbucks-seattle-coronavirus.html">在病毒检测中呈阳性</a>的美国大公司之一。</div>
+<div class="article-paragraph">过去几周，“对我们所有人来说，都是非常具有挑战性的时期，”负责管理公司美国20万名员工的高管罗森·威廉姆斯(Rossann Williams)说。“我们边走边学。”</div>
+<div class="article-paragraph">一直以来，星巴克把自己定位为一个社交聚会场所——介于工作和家庭之间的“<a href="https://www.nytimes.com/2007/03/03/business/03nocera.html">第三个地方</a>”，是数百万每天购买咖啡者正常生活的象征。它那些熙熙攘攘的咖啡馆旨在打造社区，促进顾客和咖啡师之间的互动。</div>
+<div class="article-paragraph">然而，最近几天，迅速蔓延的疫情让人们对聚集在公共场所感到焦虑，并给全球经济带来了冲击，星巴克的这种理念也遇到了冲击。</div>
+<div class="article-paragraph">现在，随着公共卫生部门敦促人们在家工作，避开人群，咖啡馆可能会无人问津。对于像星巴克咖啡师这样的服务人员来说，感染的威胁尤其严重。</div>
+<div class="article-paragraph">为了让公众放心，星巴克禁止顾客使用自己的杯子，并制定了严格的清洁制度，要求员工每半小时洗手并对“高接触”表面消毒。威廉姆斯说，如果情况进一步恶化，未来可能还会出台更严格的规定，比如强制员工戴手套和口罩，或移除桌椅。她说，在极端情况下，美国的店面可能会暂时关闭。</div>
+<div class="article-paragraph">疫情已经损害了星巴克的利润。虽然<a href="https://stories.starbucks.com/stories/2020/letter-to-customers-our-role-and-responsibility-in-navigating-covid-19/" rel="noopener noreferrer" target="_blank">该公司在中国超过90%的门店</a>已经恢复营业，但该公司上周对投资者表示，它预计本季度在中国的销售额将较上年同期下降约50%，至4.3亿美元。该公司表示，现在就说这种病毒将如何影响其在中国以外的业务还为时过早。在过去一个月里，星巴克的股价下跌了超过25%。</div>
+<div class="article-paragraph">该病毒对该公司员工造成的损失可能也是巨大的。</div>
+<div class="article-paragraph">“他们是更有可能暴露在病毒之下的人，因为他们面对公众，而且也更有可能把病毒再次传播出去，”经济政策研究所(Economic Policy Institute)高级经济学家伊莉斯·古尔德(Elise Gould)表示。</div>
+<div class="article-paragraph">整个行业也不太可能有医疗保险或带薪病假。“它暴露了已有的经济不平等，”古尔德说。</div>
+<div class="article-paragraph">3月5日，在一名员工的检测结果呈阳性后，星巴克暂时关闭了西雅图美术馆附近的一家店面。消息在晚上9点传到了高层领导那里。到第二天早上9点，这家店已经彻底消毒，并于周一重新开张。所有与那名检测结果呈阳性者有密切接触的员工都被告知在家休两周带薪假。</div>
+<div class="article-paragraph">在市场营销中，星巴克长期以来一直强调其致力于促进员工的福利，例如向兼职员工提供健康保险。该公司将员工称为“合作伙伴”。</div>
+<div class="article-paragraph">根据<a href="https://www.sec.gov/Archives/edgar/data/829224/000082922420000023/sbux-03052020ex991.htm" rel="noopener noreferrer" target="_blank">最近的一份证券备案</a>文件，即使星巴克在中国的商店关门，星巴克仍继续向包括许多咖啡师在内的大部分付薪员工支付工资。</div>
+<div class="article-paragraph">周三，星巴克对美国员工表示，它将为感染病毒或与检测结果呈阳性的同事或家属密切接触的员工提供长达两周的带薪休假。（根据先前制定的政策，星巴克允许员工每工作30个小时就可以累积一小时的病假时间：每周工作23个小时的咖啡师一年可以休5天左右的病假。）</div>
+<div class="article-paragraph">尽管如此，在采访中，星巴克员工仍对加强后的安全措施不适于实际情况表示担忧。尽管很少有人质疑新协议的合理性，但一些人表示，该政策正给已经超负荷工作的员工带来更大压力。</div>
+<div class="article-paragraph">一位要求匿名的西雅图地区员工说，在咖啡馆繁忙时，员工每30分钟执行一次完整的消毒过程是不现实的。一位不愿透露姓名的亚特兰大地区员工说，清洁工作使员工暂停服务，造成了更多的顾客排更长的队，即使公司试图消杀病毒，也可能无意中增加了传染的风险。</div>
+<div class="article-paragraph">该公司所谓的精益人员配置模式是造成星巴克压力的根本原因，该模式常见于零售和快餐店，管理人员通常借助可预测客户流量的软件，设法最大程度地减少分配给每家店铺的员工数量。其目标通常是计算出刚好能满足需求的员工数量，从而不再多雇人，误差幅度很小。</div>
+<div class="article-paragraph">与许多公司一样，星巴克为经理们提供了严格的“劳动力预算”，多年来，<a href="https://www.nytimes.com/2015/09/24/business/starbucks-falls-short-after-pledging-better-labor-practices.html">总有人说</a>他们因超出预算而受到处分。</div>
+<div class="article-paragraph">“精益模式可能会过于严格，”北卡罗莱纳大学的零售专家萨拉瓦南·科萨万(Saravanan Kesavan)表示：“相比其他门店，那些采用精益人员配置的门店经理在缺勤管理上面临更多困难。”</div>
+<div class="article-paragraph">长期以来，快餐和零售行业深知它们易受流行病影响。但是他们有时也会淡化威胁。</div>
+<div class="article-paragraph">在<a href="https://www.who.int/ith/diseases/sars/en/" rel="noopener noreferrer" target="_blank" title="Link: https://www.who.int/ith/diseases/sars/en/">2003年SARS暴发</a>后不久，星巴克在其<a href="https://s22.q4cdn.com/869488222/files/doc_financials/annual/2005/Annual_Report_2005_part2.pdf" rel="noopener noreferrer" target="_blank">2005年度报告</a>的“风险因素”部分，排在首位的威胁是发生大流行病的可能。然而，该公司<a href="https://s22.q4cdn.com/869488222/files/doc_financials/2019/2019-Annual-Report.pdf" rel="noopener noreferrer" target="_blank" title="Link: https://s22.q4cdn.com/869488222/files/doc_financials/2019/2019-Annual-Report.pdf">在其最新的年度报告中</a>，将大流行风险放在了靠后的位置，排在经济状况疲软、消费者口味改变、房地产成本上涨以及自然或人为灾难之后。</div>
+<div class="article-paragraph">在整个服务行业，许多员工即使生病也面临工作压力。<a href="https://www.bls.gov/ncs/ebs/benefits/2019/ownership/private/table31a.pdf" rel="noopener noreferrer" target="_blank">劳工部</a>称，超过一半的在旅馆和餐饮服务业的员工没有带薪病假。零售业中，约三分之一的员工也是如此。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="在杜勒斯国际机场星巴克工作的米歇尔·斯蒂琴斯基说，她和其他员工经常带病工作。" data-src="https://static01.nyt.com/images/2020/03/13/reader-center/11JPSTARBUCKS2-print/merlin_170361756_9a50f351-a3a5-4389-a41f-40cbb1264e1f-master1050.jpg" src="https://static01.nyt.com/images/2020/03/13/reader-center/11JPSTARBUCKS2-print/merlin_170361756_9a50f351-a3a5-4389-a41f-40cbb1264e1f-master1050.jpg"/></div><figcaption><span>在杜勒斯国际机场星巴克工作的米歇尔·斯蒂琴斯基说，她和其他员工经常带病工作。</span> <cite>Ting Shen for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">麦当劳的两名员工在接受采访时说，他们生病时也几乎总是工作，因为担心没有工资。“我们别无选择，”位于密苏里州堪萨斯城的麦当劳员工弗兰·马里昂(Fran Marion)说，“如果我生了病，请了假，这意味着我不得不失去一半的房租钱，无法将食物摆上孩子的餐桌。”</div>
+*
+因疫情停课，美国大学生的无助、担忧与混乱
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">全国大学院校因新冠病毒担忧停课的第二天，来自圣安东尼奥的大一学生阿比盖尔·洛哈特-卡皮托(Abigail Lockhart-Calpito)在哈佛校园里四处奔走寻找答案。</div>
+<div class="article-paragraph"><span>她的课换成了<a href="https://www.nytimes.com/interactive/2020/03/10/us/covid-19-seattle-washington-home-schooling-remote.html">在线教学</a></span>。她的宿舍要腾空。现在，她和其他几万名面临同样处境的学生一样，脑中有无数疑问：助学金怎么办？搬到哪里去？学分呢？</div>
+<div class="article-paragraph">在全国范围内，学期被突然打断，担忧和一种陷入混乱的感觉在校园里蔓延。管理者认为，春假是开始抗击新冠病毒疫情的好时机，于是，如多米诺骨牌一般，他们一个接一个地宣布停课，并让学生打包离开。</div>
+<div class="article-paragraph">低收入的学生不知道能否回得起家。国际学生也有疑问，他们的签证一般不允许在线学习。研究生和博士生则担心耗费数年的研究课题受到影响。</div>
+<div class="article-paragraph">让舞蹈、戏剧和音乐专业的学生苦恼的是，他们排练了好几个月，但演出可能要没了。大四学生已经开始哀叹：他们猜测毕业典礼也要被取消了，2020届可能要就此各奔东西。</div>
+<div class="article-paragraph">有一些为他人着想的学生担心，如果学校已经发现病毒，回家会无意中感染更易感的父母和祖父母等长辈。</div>
+<div class="article-paragraph">星期三，更多学校关闭。纽约州州长安德鲁·M·科莫(Andrew M. Cuomo)宣布，所有州属、市属大学都改为远程教学。采取同样措施的，还有宾夕法尼亚大学、加利福尼亚州立大学的几所分校、克莱蒙特学院、爱荷华州立大学、乔治城大学、佩珀代因大学、维拉诺瓦大学、圣母大学、密歇根州立大学和圣路易斯华盛顿大学等等。</div>
+<div class="article-paragraph">传染病专家说，学生宿舍里有公共浴室和提供自助餐的食堂，学生被圈挤在一起，与邮轮一样面临高感染风险。他们说，把宿舍清空，即使只是一部分，也是必要的。</div>
+<div class="article-paragraph">即便那些秋季才入学的学生，也在周三感受到了影响。周三，18个国家和超过120所学校取消了原定在周六举行的SAT测试。很多地方没有公布替补考点或改期时间。</div>
+<div class="article-paragraph">19岁的洛哈特-卡皮托领着全额助学金，包括学费、住宿费和餐费。她父母是个体经营者，她自己勉强凑够了春假回家的机票，为此她要打两份零工，一份是家教，一份是领位兼售票员。她打算住在父母的一个朋友家中，而不是住父母那里，但是她担心，那家人可能会不太欢迎她。</div>
+<div class="article-paragraph">搬进宿舍的时候，她很享受拥有独立房间的奢侈，她说，她在学校用餐也是免费的。</div>
+<div class="article-paragraph">然而现在，她发觉如此欢迎像她这样的学生的学校，在就疫情做决策时，没有考虑这会给没有资源的学生带来什么样的后果。她说，感觉就像是“收到了一张驱逐令”。</div>
+<div class="article-paragraph">“哈佛希望我们回家，”她在周三说，“但是对我们很多人来说，学校就是家。”</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="来自新泽西的哈佛大一学生米切尔·萨龙在宿舍打包。" data-src="https://static01.nyt.com/images/2020/03/11/us/11virus-collegechaos2/merlin_170364774_84e7ee67-9e38-4e0f-ba27-229a4dc74966-master1050.jpg" src="https://static01.nyt.com/images/2020/03/11/us/11virus-collegechaos2/merlin_170364774_84e7ee67-9e38-4e0f-ba27-229a4dc74966-master1050.jpg"/></div><figcaption><span>来自新泽西的哈佛大一学生米切尔·萨龙在宿舍打包。</span> <cite>Katherine Taylor for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">她跑了许多办公室询问，官员们很抱歉地告诉她，他们是与学生同时收到指令，得知校园的正常生活要被关停的，所以无法回答她的问题。她说有私人慈善机构和个人对此做出回应，向学生提供临时住处和资金帮助。</div>
+<div class="article-paragraph">来自俄亥俄的18岁大一学生塔比瑟·艾斯卡兰特(Tabitha Escalante)说，离开学校的紧急命令已经给她和家人造成了一笔额外开销。她原计划周四搭飞机回家过春假，但周二收到通知后，不得不取消机票，并因此损失250美元。她根本不可能在两天内找到地方存放所有的个人物品。她说，目前的计划是她做服务员的妈妈请假，开11个小时车到马萨诸塞州的剑桥市来接她，并带走所有的东西。</div>
+<div class="article-paragraph">“我们靠妈妈的小费过日子，”她谈到家庭情况时说，“这是个艰难的决定，但说实话我们没有选择的余地。”</div>
+<div class="article-paragraph">哈佛校方表示，他们现在被资金和后勤方面的协助要求淹没，没有时间深入谈论具体情况。他们提到，马萨诸塞州州长查理·贝克(Charlie Baker)在周二宣布了公共卫生紧急状态，学校也被迫要以类似的举措进行回应。但他们表示，他们会照顾那些依赖助学金并“经证明有需求”的学生。</div>
+<div class="article-paragraph">到周三中午，迫于压力，学校公布了给受领助学金学生的书面指南，并支付他们储存和邮寄个人物品的开销。学校说，他们在食堂派驻了工作人员，帮助学生订车票机票，而学校报销的路费金额将由学生受领的助学金金额来决定。</div>
+<div class="article-paragraph">在超过一千英里之外的爱荷华州立大学，周二晚上的流体力学课上，19岁的大二学生埃里克斯·斯坦(Alex Stein)看到老师和助教戴着手套分发试卷，顿时大为惊恐。“他们害怕发卷子的时候被传染，”他说。</div>
+<div class="article-paragraph">朋友发给他一个讲座的视频，教授戴着紫色的外科手套，拿着一瓶消毒液在喷桌子。</div>
+<div class="article-paragraph">“我并不害怕自己得病，因为我知道这个病毒对我不致命，”学土木工程的斯坦说，“但我害怕自己传染给祖父母和父母，对他们来说可能就更严重了。”</div>
+<div class="article-paragraph">由于之前的物理和微积分网课体验不佳，他对在线上课没什么期待。网课要比面授简单，他说，因此他在网课中学到的不如面授多。</div>
+<div class="article-paragraph">学校关闭也为持F签证在美国大学学习的外国留学生带来挑战。要在这个国家合法居留，他们每个学期只允许选一门网课。而持M签证接受职业培训的学生，则通常不能选任何网课。</div>
+<div class="article-paragraph">“我不太明白这对我们的签证状态来说意味着什么，因为我们必须选上实体课，”21岁的东北大学大四学生阿迪蒂亚·贾恩(Aditya Jain)说。他这学期在学校的旧金山分校学习，而旧金山绝大部分课程都改为在线教授。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="与全美许多大学一样，俄亥俄州立大学将课程全部移到了线上。" data-src="https://static01.nyt.com/images/2020/03/11/us/11virus-collegechaos3/merlin_170320734_7622c465-f66d-473f-8036-52e13fa2b025-master1050.jpg" src="https://static01.nyt.com/images/2020/03/11/us/11virus-collegechaos3/merlin_170320734_7622c465-f66d-473f-8036-52e13fa2b025-master1050.jpg"/></div><figcaption><span>与全美许多大学一样，俄亥俄州立大学将课程全部移到了线上。</span> <cite>Andrew Spear for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">“整个局势绝对让我的很多朋友感到非常焦虑,”他说。</div>
+<div class="article-paragraph">周一，移民和海关执法局颁布指导意见，说在学校调整应对当前危机时，该部门针对外国学生会有“临时的应变灵活处理”。</div>
+<div class="article-paragraph">执法局发言人卡丽莎·卡瑞尔(Carissa Cutrell)说，目的是要确保学生“能够保持正常的学习进度，以完成联邦法规所要求的全部课程”。</div>
+<div class="article-paragraph">尽管同学被强制离校，个别情况下有一些学生仍然得以留下来。宾夕法尼亚大学在周三宣布改为在线上课并将春假延长一周时说，医护专业的学生将继续临床轮班。</div>
+<div class="article-paragraph">纽约大学18岁的大一学生梅根·洛博(Megan Lobo)在周三上了头两节网课，很快将搬回新泽西利奥尼亚市的家中。她说有一节两个半小时的音乐课并不适合在线学习。他们用了视频应用Zoom。</div>
+<div class="article-paragraph">“在大学里，很多关系的建立，其实就是大家在一块儿，”她说，“尤其对于音乐来说——就是要与人见面，建立人际网络。很多人我都是在走廊或课上认识的。没了这样的小事是很遗憾的。”</div>
+<div class="article-paragraph">哥伦比亚大学的大四学生胡安·迭戈·哈拉米约(Juan Diego Jaramillo)正在为取消毕业典礼做准备，他一直在等待这一消息，因为典礼上家庭聚集，有传播病毒的危险。“我们宁愿他们直接把创可贴撕了，”现在就宣布坏消息，他说。</div>
+<div class="article-paragraph">哥伦比亚大学的春假下周开始，而与此同时，校园里一派离奇的景象，22岁的哈拉米约说。“周一天气特别好，而因为病毒课都取消了，”他说，“但校园草坪都是人，就像有春季音乐会的周末那么满。所有人都出来享受这个假日。”</div>
+*
+疫情简报：世卫宣布全球大流行；美国对欧洲实施旅行禁令
+<div class="article-paragraph"><i>（</i><i>欢迎</i><i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank" title="Link: https://sso.nytcn.me/email/?source=top-right">点击此处</a>订阅<a href="https://cn.nytimes.com/morning-brief/" title="Link: https://cn.nytimes.com/morning-brief/">新冠病毒疫情中文简报</a></i><i>。</i><i>更多关于疫情的最新消息，欢迎关注时报英文版<a href="https://www.nytimes.com/2020/03/12/world/coronavirus-news.html" title="Link: https://www.nytimes.com/2020/02/13/world/asia/china-coronavirus.html">实时更新报道</a>。）</i></div>
+<div class="article-paragraph"><b>最新消息：</b>美国总统特朗普在周三晚间的全国电视讲话中宣布，美国将自周五开始对欧洲实施旅行禁令，为期30天。英国将不受该禁令影响。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="周三，工作人员准备对华盛顿州柯克兰的生命护理中心进行清洁和消毒。该疗养院已成为美国新冠病毒暴发的中心。" data-src="https://static01.nyt.com/images/2020/03/11/world/11virus-briefing5/merlin_170353896_47b24f87-e86e-4d6f-899e-f2f307e46e22-master1050.jpg" src="https://static01.nyt.com/images/2020/03/11/world/11virus-briefing5/merlin_170353896_47b24f87-e86e-4d6f-899e-f2f307e46e22-master1050.jpg"/></div><figcaption><span>周三，工作人员准备对华盛顿州柯克兰的生命护理中心进行清洁和消毒。该疗养院已成为美国新冠病毒暴发的中心。</span> <cite>Ted S. Warren/Associated Press</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>世卫组织宣布新冠疫情构成全球大流行</b></div>
+<div class="article-paragraph">世界卫生组织官员周三宣布，新冠病毒在全球100多个国家的传播已满足<a href="https://www.nytimes.com/2020/03/11/health/coronavirus-pandemic-who.html">全球大流行</a>疾病的条件，这证实了许多流行病学家数周以来的言论。</div>
+<div class="article-paragraph">此前，世卫组织一直避免使用该词来形容这一流行病，害怕它给人留下这种疾病是不可阻挡的、各国会放弃试图遏制它的印象。该组织在疫情暴发初期曾表示，当疫情达到大流行程度时，它将不再正式宣布，而是更倾向于宣布国际关注的公共卫生紧急事件。</div>
+<div class="article-paragraph">世卫组织总干事谭德赛在日内瓦的一次新闻发布会上说，“大流行不是一个可以随意或轻率使用的词语。”</div>
+<div class="article-paragraph">但是，如今该病毒在六大洲持续传播，并已感染了超过12万人，造成4300余人死亡，这些证据和科学标准证明疫情已达到了大流行的程度。名称本身在很大程度上是象征性的，但公共卫生官员知道，公众将在其中听到危险和风险的信号。</div>
+<div class="article-paragraph">根据世界卫生组织的说法，大流行病被定义为一种意外传播的疾病的区域性暴发。2010年，它把大流行定义为一种影响到很多人的“新疾病的全球传播”。美国疾病预防控制中心说，大流行病是“一种蔓延到几个国家或大洲，通常会影响很多人的传染病。”</div>
+<div class="article-paragraph">自2009年将H1N1流感认定为大流行病以来，世卫组织从未宣布过大流行病。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="周，工作人员在威尼斯的里亚托桥附近进行消毒工作。" data-src="https://static01.nyt.com/images/2020/03/11/world/11virus-briefing-italy/merlin_170337153_4250048b-99ab-4122-aa3f-dd840d14069e-master1050.jpg" src="https://static01.nyt.com/images/2020/03/11/world/11virus-briefing-italy/merlin_170337153_4250048b-99ab-4122-aa3f-dd840d14069e-master1050.jpg"/></div><figcaption><span>周，工作人员在威尼斯的里亚托桥附近进行消毒工作。</span> <cite>Marco Sabadin/Agence France-Presse — Getty Images</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>意大利进一步加强封锁，下令关闭店铺</b></div>
+<div class="article-paragraph">由于新冠病毒感染病例和死亡病例飙升，在宣布严格的旅行限制两天后，意大利总理朱塞佩·孔特周三下令关闭全国几乎所有的店铺。</div>
+<div class="article-paragraph">孔特在全国讲话中说，将允许药房、杂货店、银行和公共交通运营，但任何其他不必要的商户，比如餐厅、酒吧、大多数商店、咖啡馆、美容院等，必须关闭以限制传染。</div>
+<div class="article-paragraph">意大利已经实行了在现代民主制国家很难见到的的控制措施，禁止公共集会，并告诉全国6000万人停止除工作和紧急情况以外的旅行。但在意大利和整个欧洲，这种流行病的传播速度让各国只能仓促提出遏制计划。</div>
+<div class="article-paragraph">孔特没有透露新指令何时生效，但是基于自己的判断或对政府命令的预判，许多商户已经关闭。孔特警告说，意大利这一牺牲的好处要在几周后才会显现。</div>
+<div class="article-paragraph">该国周三报告了2300多个新病例，使其总数增加到至少1.2万，目前该国已有827例死亡病例，是仅次于中国的世界第二大疫情暴发地。意大利的病例占欧洲的一半以上。</div>
+<div class="article-paragraph">在整个欧洲，从周二到周三，确诊病例的数量猛增了近四分之一，达到至少2.2万例。法国确诊病例近2300例，西班牙约2200例，德国约1600例。英国、荷兰、瑞典、挪威和瑞士各有至少400例确诊病例。丹麦和比利时则报告了300多例。甚至冰岛这个岛国也未能幸免，约36.4万的人口中有超过80例确诊病例，是全世界人均感染病例数最高的国家之一。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="周三的纽约证券交易所。" data-src="https://static01.nyt.com/images/2020/03/11/world/11virus-briefing12/merlin_170367687_fa675b5f-e6a4-48cf-a7e6-eff915e1cdff-master1050.jpg" src="https://static01.nyt.com/images/2020/03/11/world/11virus-briefing12/merlin_170367687_fa675b5f-e6a4-48cf-a7e6-eff915e1cdff-master1050.jpg"/></div><figcaption><span>周三的纽约证券交易所。</span> <cite>Richard Drew/Associated Press</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>全球股市再次暴跌，道指进入熊市</b></div>
+<div class="article-paragraph">随着疫情暴发带来的经济威胁日益突出，而大西洋两岸的决策者未能做出积极回应，金融市场<a href="https://www.nytimes.com/2020/03/11/business/economy/markets-plunge-coronavirus.html">周三再次大幅下坠</a>。</div>
+<div class="article-paragraph">标普500指数下跌近5％，抵消了周二的涨幅。该指数现在已从2月19日的高点下跌了19％<b>。</b>道琼斯指数收盘下跌近6％，结束了长达11年的牛市，<a href="https://www.nytimes.com/2020/03/11/business/bear-market-stocks-dow.html">进入熊市</a>。</div>
+<div class="article-paragraph">穆迪分析首席经济学家Mark Zandi表示：“如果特朗普政府和国会无法迅速达成共识，并制定出规模庞大且负责任的一揽子计划，那么衰退似乎是一种现实的可能。”</div>
+<div class="article-paragraph">在欧洲，法兰克福、伦敦和巴黎的主要指数均有下跌，结束了英格兰银行表示将降低利率以帮助英国企业后的早期增长。亚洲股市也呈跌势。</div>
+<div class="article-paragraph">供应链、旅行和娱乐业的中断损害了经济，而石油行业的价格战则加剧了这一情况。</div>
+<div class="article-paragraph">英国政府公布了390亿美元的刺激经济计划，其中包括将65亿美元用于英国脆弱的国民医疗服务体系和其他公共机构。</div>
+<div class="article-paragraph">意大利总理朱塞佩·孔特宣布，意大利政府正在制定一项计划，将斥资约280亿美元应对新冠病毒的紧急情况。意大利是中国以外疫情最严重的国家。但是，最近中国的新增病例减少了，而意大利却在增加。</div>
+<div class="article-paragraph">以色列总理本杰明·内塔尼亚胡宣布支出约28亿美元以应对经济影响。以色列对进入该国的任何人施加了14天的强制隔离，这对旅游业造成严重影响。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="周一，西雅图市中心。" data-src="https://static01.nyt.com/images/2020/03/11/us/11virus-briefing02/merlin_170296455_f1d879c0-354d-42fa-982a-62736048f6c4-master1050.jpg" src="https://static01.nyt.com/images/2020/03/11/us/11virus-briefing02/merlin_170296455_f1d879c0-354d-42fa-982a-62736048f6c4-master1050.jpg"/></div><figcaption><span>周一，西雅图市中心。</span> <cite>Grant Hindsley for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>美国确诊病例超过1200例，多州加强抗疫举措</b></div>
+<div class="article-paragraph">截至周三，美国新冠病毒感染病例已蔓延至40个州和华盛顿特区，累计确诊病例超过1200例，至少31人死亡。全国各地的官员已开始采取越来越严厉的措施，试图抑制该病毒的传播。</div>
+<div class="article-paragraph">纽约州长周三表示，纽约州和纽约市的大学和学院将从3月19日起转而网络授课，影响波及约70万名学生。其他州的一些学校也已取消了实体授课。</div>
+<div class="article-paragraph">在一名百老汇领位员被测试出新冠病毒呈阳性后，纽约市正试图对前往剧院的公众发出警告，并对剧院进行清洁和消毒工作。</div>
+<div class="article-paragraph">华盛顿州州长颁布禁令，禁止在西雅图地区举行游行、音乐会，节日活动和其他超过250的集会。禁令将生效至3月底。西雅图官员随后决定从周四开始，关闭公立学校两周。华盛顿州已有24人死于新冠病毒。</div>
+<div class="article-paragraph">肯塔基州州长敦促各教会在本周末取消礼拜活动，这在一个宗教氛围浓厚的州是一项重大举措。</div>
+<div class="article-paragraph">“至尊公主号”上的旅客仍在继续下船，这艘邮轮上已有20余人病毒检测呈阳性。截至周二晚间，约有1406人离开了邮轮，进入了为期两周的强制性隔离检疫。</div>
+<div class="article-paragraph">在美国最近宣布的确诊病例中，包括三名在加州圣何塞国际机场工作的运输安全管理局特工。</div>
+<div class="article-paragraph">此外，好莱坞著名影星<a href="https://www.nytimes.com/2020/03/11/business/media/tom-hanks-coronavirus.html"><b>汤姆·汉克斯</b></a>周三表示，他和妻子丽塔·威尔森新冠病毒检测呈阳性。63岁的汉克斯是在澳大利亚准备拍摄一部关于猫王生平的电影时被确诊的。</div>
+<div class="article-paragraph">同样在周三，<b>NBA</b>宣布，将在当日晚间的比赛结束后<a href="https://www.nytimes.com/2020/03/11/sports/basketball/nba-season-postponed-coronavirus.html">暂停本赛季比赛</a>。此前，犹他爵士队一名队员病毒检测呈阳性。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="上周，纽约上下班高峰时间的通勤者。" data-src="https://static01.nyt.com/images/2020/03/11/us/09VIRUS-TESTING7/merlin_170077725_29f785e3-608e-431a-b625-8a7d27e54f4f-master1050.jpg" src="https://static01.nyt.com/images/2020/03/11/us/09VIRUS-TESTING7/merlin_170077725_29f785e3-608e-431a-b625-8a7d27e54f4f-master1050.jpg"/></div><figcaption><span>上周，纽约上下班高峰时间的通勤者。</span> <cite>Hiroko Masuike/The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>美国如何错失了遏制新冠病毒的良机？ </b></div>
+<div class="article-paragraph">在被官员们一次次拒绝之后，西雅图的传染病专家海伦·朱和她同事再也等不下去了，他们未经政府批准就开始进行冠状病毒测试。结果证实了他们最大的恐惧。一个没有近期旅行史的当地青少年的测试中得到了阳性结果。新冠病毒已经神不知鬼不觉地在美国领土立足。<br/></div>
+<div class="article-paragraph">在疫情相对容易控制的暴发初期，由于现行的监管和繁琐程序，联邦政府屡屡错失快速进行大范围病毒测试的机会，海伦·朱的经历就是其中的一例。面对可能是百年一遇的公共卫生突发事件，美国未能做出灵活反应。持续的延误更使官员们无法了解真实的疫情规模，危机急剧恶化。时报记者试图还原了从病毒传播早期到暴发中政府应对失误的全过程，欢迎阅读<a href="https://cn.nytimes.com/usa/20200311/coronavirus-testing-delays/">本文中文版</a>，或收听时报音频节目<a href="https://www.nytimes.com/2020/03/11/podcasts/the-daily/coronavirus-us-testing.html">The Daily</a>对这一话题的报道。</div>
+<div class="article-paragraph"><b>→ “情况会变得越来越糟”</b>：联邦高级卫生官员安东尼·S·福西博士在周三向议员们发出了严厉的警告，称新冠病毒将继续在美国传播，并表示应禁止球迷参加NBA比赛之类的大型集会。他还驳斥了特朗普总统经常重复的说法：新冠病毒并不比流感或以往的H1N1流感暴发更严重。</div>
+<div class="article-paragraph"><b>→ “检测难”问题迫在眉睫：</b>数周以来，医生和实验室一直抱怨没有足够的检测试剂盒来以对出现症状的患者进行检测。这种短缺正在缓解，但实验室警告说，它们用于从鼻拭子提取病毒RNA的耗材——这一耗材并不被包括在试剂盒中——正在减少，这也可能导致检测需求难以被满足。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="周三，工人在德国曼海姆大学医院外组装新冠病毒诊断和测试中心。" data-src="https://static01.nyt.com/images/2020/03/11/world/11virus-briefing3/merlin_170345874_1ff14418-7b6b-4f56-8356-ba8eea784da7-master1050.jpg" src="https://static01.nyt.com/images/2020/03/11/world/11virus-briefing3/merlin_170345874_1ff14418-7b6b-4f56-8356-ba8eea784da7-master1050.jpg"/></div><figcaption><span>周三，工人在德国曼海姆大学医院外组装新冠病毒诊断和测试中心。</span> <cite>Uwe Anspach/DPA, via Associated Press</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>德国警告最坏情况或将发生</b></div>
+<div class="article-paragraph">德国总理默克尔周三表示，新冠病毒很可能会感染德国<a href="https://www.nytimes.com/2020/03/11/world/europe/coronavirus-merkel-germany.html">三分之二的人口</a>。</div>
+<div class="article-paragraph">不过，与她一起出席发布会的政府首席医学顾问Lothar Weiler补充说：“我们不知道这种情况多快会发生。”该国一位著名病毒学家最近表示，可能要花一两年甚至更长的时间，才能感染这么多人。</div>
+<div class="article-paragraph">默克尔传达的信息的核心是，德国人应采取预防措施，以确保卫生系统能够处理大量可能重病的人。她敦促人们尽可能留在家里。</div>
+<div class="article-paragraph">“我们如何应对至关重要，”默克尔说。 “我们在与时间赛跑。”</div>
+<div class="article-paragraph">目前，柏林、慕尼黑和其他地方的所有文艺演出等大型活动都已被取消，或将在没有观众的情况下举行。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="周三，印度班加罗尔火车站外面的旅客。" data-src="https://static01.nyt.com/images/2020/03/11/world/11virus-briefing8/merlin_170335332_b9291e49-73de-4284-8da4-7374d32cb43d-master1050.jpg" src="https://static01.nyt.com/images/2020/03/11/world/11virus-briefing8/merlin_170335332_b9291e49-73de-4284-8da4-7374d32cb43d-master1050.jpg"/></div><figcaption><span>周三，印度班加罗尔火车站外面的旅客。</span> <cite>Aijaz Rahi/Associated Press</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>印度宣布关闭边境，暂停颁发签证</b></div>
+<div class="article-paragraph">印度政府周三采取行动关闭了该国的边境，几乎暂停了进入该国的所有签证，直到4月15日。</div>
+<div class="article-paragraph">这是目前各国政府中采取的最强有力的国际旅行限制措施之一。本周，以色列称将要求所有从入境者进行14天的隔离。危地马拉周三表示，将从周四起禁止欧洲、中国、伊朗、韩国和朝鲜公民入境。俄罗斯暂停大多数飞往意大利、德国、西班牙和法国的定期航班，并停飞往返中国的航班。从周五开始，将停止对意大利公民签发旅游签证。</div>
+<div class="article-paragraph">印度关闭边境的决定是在该国确诊病例数上升至60例时作出的。根据新规定，针对游客和商务旅客的签证将暂停至4月15日。此外，超过300万持有特殊终身签证的外国人要到4月15日后才能入境。新规定不适用于外交官、在联合国等国际组织工作的人，以及持有现有工作签证的外国劳工。</div>
+<div class="article-paragraph">该国还宣布对所有来自中国、意大利、伊朗、韩国、法国、西班牙和德国的旅客（包括印度公民）强制隔离14天。政府劝阻该国民众停止非必要的出国旅行，警告称，他们可能会在回国时被隔离。</div>
+<div class="article-paragraph"><figure class="article-inline-photo"><div class="img-box"><img alt="" data-src="https://static01.nyt.com/images/2020/03/11/business/11roose/11roose-master1050.jpg" src="https://static01.nyt.com/images/2020/03/11/business/11roose/11roose-master1050.jpg"/></div><figcaption><span></span> <cite>Julian Glander</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>更多消息</b></div>
+<div class="article-paragraph">• 中国新增病例数持续下降。据<a href="http://www.nhc.gov.cn/xcs/yqfkdt/202003/37c1536b6655473f8c2120ebdc475731.shtml" rel="noopener noreferrer" target="_blank">中国卫健委</a>，周三，该国报告新增确诊病例15例，其中八例来自武汉，六例为境外输入。新增死亡病例11例，其中湖北10例（武汉七例），陕西一例。截至目前，中国累计确诊病例为80793例，3169人死亡。</div>
+<div class="article-paragraph"><b>• 在家办公没有你想象的那么好。</b>研究表明，虽然远程工作者效率更高，但他们也错失了创造力和创新思维这些难以衡量的收益。大多数人应该在办公室或在其他人周围工作，并尽量避免独自在家工作。欢迎阅读<a href="https://cn.nytimes.com/technology/20200311/working-from-home/">本文中文版</a>。</div>
+<div class="article-paragraph"><b>• 《纽约时报》对新冠病毒报道移除付费墙</b>，欢迎查看时报关于本次疫情的<a href="https://www.nytimes.com/news-event/coronavirus?action=click&amp;module=Spotlight&amp;pgtype=Homepage">详细报道</a>。</div>
+<div class="article-paragraph"><i>感谢阅读今天的新冠病毒疫情简报</i><i>，新读者请</i><i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank">点击此处订阅</a>。点击<a href="https://cn.nytimes.com/morning-brief/">这里</a>查看往日更新</i><i>。</i><i>欢迎在Twitter(</i><a href="https://twitter.com/nytchinese" rel="noopener noreferrer" target="_blank"><i>@nytchinese</i></a><i>)、</i><a href="https://www.instagram.com/cn.nytimes/?hl=zh-tw" rel="noopener noreferrer" target="_blank"><i>Instagram</i></a><i>和</i><a href="https://www.facebook.com/nytimeschinese.t/" rel="noopener noreferrer" target="_blank"><i>Facebook</i></a><i>上关注我们，了解更多中文资讯。也欢迎访问中文网</i><a href="https://cn.nytimes.com/"><i>首页</i></a><i>阅读更多新闻。如有任何建议和想法，请来信与我们分享：cn.letters@nytimes.com。</i></div>
+*
+一条守护抗疫一线医护人员的热线
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">一位护士拨打了这个24小时热线电话，说自己一直头疼。一位医生说，虽然他一直努力把病人从疫情中拯救出来，但仍觉得自己受民众排斥。一位打电话的人说她想自杀。</div>
+<div class="article-paragraph"><span>“<a href="https://mp.weixin.qq.com/s/bo8hd_G32Zy7d9D0waHwpQ" rel="noopener noreferrer" target="_blank" title="Link: https://mp.weixin.qq.com/s/bo8hd_G32Zy7d9D0waHwpQ">用心抗疫</a>”是为在中国冠状病毒疫情第一线工作的</span>极度劳累、压力过大的医护人员设立的一条危机热线，它的志愿者们聆听着这一切。</div>
+<div class="article-paragraph">“我们的原则是为他们提供情感方面的帮助，”28岁的热线志愿者、现居西雅图的心理医师崔尔静（音）说。“我们最重要的就是提供空间和倾听，并且对他们的话表示同情。”</div>
+<div class="article-paragraph">许多心理健康专家都在努力解决疫情带来的情感负担，崔尔静也是其中之一。疫情让医护人员遭受了极大的考验，也让世界各地的普通人感到不安。仅在中国，大学、地方政府和心理健康组织就设立了数百条热线，帮助人们应对这一问题。</div>
+<div class="article-paragraph"><span>但中国缺乏高质量的精神卫生服务——<a href="https://www.who.int/mental_health/evidence/atlas/profiles-2017/CHN.pdf?ua=1" rel="noopener noreferrer" target="_blank">根据世界卫生组织的数据</a>，每10万人仅有2.2名精神科医生，约为美国的五分之一。崔尔静在中国广州长大，她并不是“用心抗疫”中唯一一个来自北美的心理医师。</span></div>
+<div class="article-paragraph">“我认为这肯定说明中国缺乏训练有素的精神科医生和心理健康专家，”崔尔静说。她还说，中国的许多热线并没有为志愿者提供危机干预培训。</div>
+<div class="article-paragraph">1月下旬，中国武汉一家医院的医生朱波（音）和北京的心理学教授曹辉（音）开始关注医务人员的心理健康，之后“用心抗疫”成立了。该组织目前约有300名志愿者，包括心理医师、技术人员和参与公众宣传的人士。</div>
+<div class="article-paragraph">拨打号码可以让使用者随时联系心理医师。该服务还有由微信平台支持的消息功能。在拥有数百名参与者的聊天小组中，心理医师分享录音，包括冥想、讲故事和舒缓的音乐，比如贝多芬的《月光奏鸣曲》。</div>
+<div class="article-paragraph">每天大约有15到20个电话打进来，其中大约40%是医务工作者。电话大多数都很短，起初来得更频繁，通常来自对病毒感到焦虑的人。</div>
+<div class="article-paragraph">现在，几周后，心理医师开始更多地听到医生和护士谈论压力、疲惫和徒劳无功的感觉。</div>
+<div class="article-paragraph">长时间的工作、与家人的分隔<span>以及<a href="https://www.nytimes.com/2020/02/14/world/asia/china-coronavirus-doctors.html">医疗用品的短缺</a>都对他们造成了影响。甚至穿上防护装备（包括</span>紧绷的口罩和全身防护服）也开始成了负担。医务人员说，病人有时会对他们大发脾气，还有人会避开他们，可能是担心他们携带病毒。</div>
+<div class="article-paragraph">“我们注意到他们在心理上越来越疲惫，”崔尔静说。“他们做了那么多工作，但又感受不到尊重。”</div>
+<div class="article-paragraph">崔尔静接听电话时，会让打电话的人表达自己的想法。如果对方愿意的话，她可以提出具体的建议。</div>
+<div class="article-paragraph">但是这些谈话并不能代替治疗过程，她说。医生、护士和他们的家人可能要到很久以后才能完全处理这些经历造成的影响，其中可能包括创伤后应激障碍。</div>
+<div class="article-paragraph">心理医生每接听一次电话都会提交一份报告。定期的视频会议让他们有机会与同事交流。</div>
+<div class="article-paragraph">对于在美国生活了十多年的崔尔静来说，这份工作是一种安慰。当疫情开始暴发时，她立刻有帮忙的冲动，当她在微信上看到精神健康专家的呼吁时，她正在考虑捐赠口罩。</div>
+<div class="article-paragraph">在一些特别痛苦的时刻，比如试图就冠状病毒疫情发出警示<span>的<a href="https://cn.nytimes.com/china/20200208/li-wenliang-china-coronavirus/">李文亮医生去世</a>时，志愿者们聚集在网上互相支持。</span></div>
+<div class="article-paragraph">“如果我不在这个组里，我很难独自应付，”崔尔静说。“我觉得这是我应该做的。”</div>
+*
+污名与禁忌不再：当欧洲人开始戴上口罩
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">巴黎——直到几周前，巴黎还只有亚洲游客戴口罩，随着新冠病毒开始席卷欧洲，这引起了法国当地人的困惑、怀疑，甚至敌意。</div>
+<div class="article-paragraph">为控制疫情而举国封锁四天后，法国政府发言人茜贝特·恩迪亚耶(Sibeth Ndiaye)警告，人们对口罩太不熟悉，从技术上说，戴口罩难度太大，甚至可能会“适得其反”。甚至在周四上午，当被问及她有没有戴口罩，或者有没有让孩子戴口罩时，她还说，“哦，没有，根本没有。”</div>
+<div class="article-paragraph">口罩禁忌正在迅速消失，不仅是在法国，在西方各国都是如此，因为越来越多的专家表示，这种做法在控制新冠病毒大流行方面是有效的。</div>
+<div class="article-paragraph">对西方国家来说，这种转变意义深远，不仅需要克服后勤挑战，确保足够的口罩供应（这个挑战已经够大了），还需要克服一种根深蒂固的文化阻力，甚至是与戴口罩有关的污名——一些西方领导人直接把戴口罩的人说成“异类”。</div>
+<div class="article-paragraph">看起来，这种情况不会持续太久。法国和美国一样，先是劝阻人们不要戴口罩，现在开始敦促本国民众在室外戴普通的或是自制的口罩。欧洲一些地区比美国动作更快，他们不是简单地建议戴口罩，而是要求人们戴上口罩。</div>
+<div class="article-paragraph">本周，奥地利成为继捷克、斯洛伐克和土耳其之后，第四个要求在公共场合戴口罩的欧洲国家。</div>
+<div class="article-paragraph">本周三，位于巴黎南部的小城索镇(Sceaux)成为法国第一个要求在公共场合佩戴口罩的城市。违反者将面临38欧元（合41美元）的罚款。法国南部城市尼斯宣布，将在下周强制人们使用口罩。巴黎市长周二表示，将在该市分发200万个可重复使用的布口罩。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="周二早间，东京的上班人群。" data-src="https://static01.nyt.com/images/2020/04/07/world/virus-france-masks03/merlin_171348084_73011776-c31e-4784-b9bd-1fcf998ce7ce-master1050.jpg" src="https://static01.nyt.com/images/2020/04/07/world/virus-france-masks03/merlin_171348084_73011776-c31e-4784-b9bd-1fcf998ce7ce-master1050.jpg"/></div><figcaption><span>周二早间，东京的上班人群。</span> <cite>Noriko Hayashi for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">意大利是世界上疫情最严重的国家，而伦巴第是意大利疫情最严重的地区，周日，该市强制要求人们在户外佩戴口罩。</div>
+<div class="article-paragraph">在法国，很多人坚信人们会从文化上抵制这种做法，并且相信必要时可以迅速进口口罩，这样的想法导致了口罩严重短缺。在过去十年，法国口罩的国家储备从惊人的17亿个减少到这个大流行病开始时的1.5亿个。</div>
+<div class="article-paragraph">有关口罩本身的讨论，有时演变成关于个人在社会中的角色的更大讨论，将西方的个人主义与亚洲的集体主义对立起来。</div>
+<div class="article-paragraph">特朗普总统宣布美国疾控中心现在支持广泛佩戴口罩时，却表示自己不会戴口罩，似乎就体现了这种矛盾心态。</div>
+<div class="article-paragraph">专门研究流行病的法国人类学家弗雷德里克·凯克(Frédéric Keck)说，在西方，人们以个人主义角度看待戴口罩的问题。</div>
+<div class="article-paragraph">“‘外面有病毒，所以我戴口罩只是为了保护自己，’”凯克说，“而在亚洲社会，集体主义理性说，‘我戴口罩是为了保护别人。’”</div>
+<div class="article-paragraph">这种心态上的差异至关重要，因为除了最高防护级别的口罩外，其他所有口罩都具有同样的性质：人们认为，口罩在保护佩戴者方面具有一定效果，尤其是在拥挤的空间里，但它在降低病毒通过咳嗽或说话传播的风险方面，效果才是最好的。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="纽约东村，克里斯蒂安·蒙哥马利戴着医用口罩在ATM机上取款。" data-src="https://static01.nyt.com/images/2020/04/09/world/xxvirus-france-masks15/merlin_171394992_929384e2-bdf0-40ef-9b23-3cd66828af70-master1050.jpg" src="https://static01.nyt.com/images/2020/04/09/world/xxvirus-france-masks15/merlin_171394992_929384e2-bdf0-40ef-9b23-3cd66828af70-master1050.jpg"/></div><figcaption><span>纽约东村，克里斯蒂安·蒙哥马利戴着医用口罩在ATM机上取款。</span> <cite>Brittainy Newman/The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">法国政府最初表示，绝大多数人不需要戴口罩，因为它们并不能保证佩戴者的安全。而亚洲和几个欧洲国家的逻辑从根本上是不同的：如果所有人都戴上口罩，社会就会得到保护。</div>
+<div class="article-paragraph">周一，奥地利在超市和药店强制实施口罩令，下周起乘坐公共交通工具的乘客也必须佩戴口罩。总理塞巴斯蒂安·库尔茨(Sebastian Kurz)表示，这一变化是一个“重大适应过程”，因为“在我们的文化里，口罩是陌生的东西”。</div>
+<div class="article-paragraph">然而，直到2003年SARS之前，口罩对于亚洲也是陌生的。</div>
+<div class="article-paragraph">在日本，当人们习惯了戴口罩后，会继续用它防御季节性过敏或保护彼此免受细菌侵害。与其他亚洲国家的人戴口罩抵挡空气污染不同，尽管没有面临直接威胁，在日本戴口罩仍是很常见的事情。</div>
+<div class="article-paragraph">位于东京的环境咨询公司环境控制中心(Environmental Control Center)的口罩专家饭田幸子(Yukiko Iida)说，戴口罩已经成为大家日常生活中的一部分，现在它在维持日本社会总体的“安心”感觉中发挥着作用。</div>
+<div class="article-paragraph">“戴上口罩，咳嗽起来不会给其他人带来不便，”饭田说。“你在向别人表明你是遵守社交礼仪的，这样人们就会放心。”</div>
+<div class="article-paragraph">关于口罩的辩论聚焦在西方和亚洲之间的文化鸿沟上。但是即使是西方国家之间，也出现了尖锐的分歧。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="巴塞罗那，移民在生产口罩。" data-src="https://static01.nyt.com/images/2020/04/09/world/xxvirus-france-masks14/merlin_171114897_3b5aa87a-2360-443a-9297-73b089bad180-master1050.jpg" src="https://static01.nyt.com/images/2020/04/09/world/xxvirus-france-masks14/merlin_171114897_3b5aa87a-2360-443a-9297-73b089bad180-master1050.jpg"/></div><figcaption><span>巴塞罗那，移民在生产口罩。</span> <cite>Samuel Aranda for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">3月18日，捷克成为欧洲第一个强制要求戴口罩的国家，随后是3月25日的斯洛伐克。尽管这两个国家都没有戴口罩的习惯，但两国民众都在家动手缝制口罩，而且还经常把口罩送给医生、护士和售货员，或者将口罩放在门口供路人使用。</div>
+<div class="article-paragraph">专家说，斯洛伐克和捷克能比较迅速地接受口罩，部分原因是他们有着强调集体主义的共产主义遗产。</div>
+<div class="article-paragraph">布拉迪斯拉发政策研究所(Bratislava Policy Institute)的社会学家米哈尔·瓦薛兹卡(Michal Vasecka)说：“人们学会了在关键时刻服从。”</div>
+<div class="article-paragraph">相比之下，在个人主义意识更强的法国，即使是政府官员，一直以来也对戴口罩防御潜在流行病持悲观态度。实际上，法国对口罩的文化抵抗是如此根深蒂固，以至于在2011年成为第一个出于安全考虑禁止在公共场合遮面——包括穆斯林面纱——的欧洲国家。</div>
+<div class="article-paragraph">法国参议院在2010年的一份报告中指出，遮面的做法遭遇了“短期内无法克服的文化阻力”。它还说：“戴口罩更多被视为污名，而非个人或利他的保护做法。”</div>
+<div class="article-paragraph">前卫生部长、法国国家医学科学院(National Academy of Medicine)现任主席让-弗朗索瓦·马太(Jean-François Mattéi)表示，由于文化上的阻力和预算问题，维持口罩的国家储备不再是政府的优先事项。</div>
+<div class="article-paragraph">尽管法国政府尚未强制规定戴口罩，但像医学科学院这样的强大组织还是建议必须戴口罩。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="周五，米兰的一处杂货店。" data-src="https://static01.nyt.com/images/2020/04/07/world/virus-france-masks10/merlin_171253710_aa0d9ed8-235f-4bb0-b76d-88343e2c646c-master1050.jpg" src="https://static01.nyt.com/images/2020/04/07/world/virus-france-masks10/merlin_171253710_aa0d9ed8-235f-4bb0-b76d-88343e2c646c-master1050.jpg"/></div><figcaption><span>周五，米兰的一处杂货店。</span> <cite>Alessandro Grassani for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">马太说，这次疫情结束后，流行病期间戴口罩很可能在西方国家成为“常态”，他还说：“我坚信，每个家庭成员很快就会常备两到三个可重复使用的口罩。”</div>
+*

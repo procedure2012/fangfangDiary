@@ -1,0 +1,264 @@
+关于新冠病毒，科学家迫切想知道的几个问题
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠肺炎疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">日内瓦——全球各地的科学家正在日以继夜寻找办法，以求<span>终结由新型<a href="https://www.nytimes.com/2020/02/10/world/europe/coronavirus-europe.html">冠状病毒</a>引发的国际卫生突发事件。随着疫情的暴发和蔓延，20多个国家已采取了越来越严格的措施来遏制该流行病。在此同时，数据和湿实验室的研究人员组成的国际网络在</span>奋力收集和分析数据，以揭开这种新疾病的神秘面纱，并解除它的危害。</div>
+<div class="article-paragraph">就数量、规模和速度而言，这种被称为2019-nCoV的冠状病毒并不是某一个单独的团队可以解决的问题<span>。周一，中国报告了最高的单日死亡人数97人，使<a href="https://www.chp.gov.hk/files/pdf/statistics_of_the_cases_novel_coronavirus_infection_en.pdf" rel="noopener noreferrer" target="_blank">全世界报告的死亡总数</a>达到910人，四大洲有超过4.05万人被感染。</span></div>
+<div class="article-paragraph"><span>周二，我将与同行科学家们<a href="https://www.who.int/news-room/detail/06-02-2020-who-to-accelerate-research-and-innovation-for-new-coronavirus" rel="noopener noreferrer" target="_blank">在世界卫生组织总部参加一个紧急会议</a>，将我们迄今为止的发现像拼一个巨大拼图一样串连在一起。我们需要对传染病有一个清晰的认识，并完善我们认识中的不足，以便为影响亿万生命的公共卫生决策提供依据。科学对于恢复冷静起着至关重要的作用。</span></div>
+<div class="article-paragraph">让我们从我们已知的开始。新型冠状病毒是感染了<span>蝙蝠的病毒的近亲。它从一种未经证实的野生来源（很可能是蝙蝠）转移到<a href="https://www.nature.com/articles/d41586-020-00364-2" rel="noopener noreferrer" target="_blank">中间宿主，可能是穿山甲</a>或其他小型哺乳动物，这种动物在中国中部的交通和商业枢纽武汉的一个市场上以食品的形式出售。受感染的人</span>无意中将其传染给其他人，从而造成致命疫情的暴发。我们现在估计一个人从被感染后到显现症状大约需要五到六天，有可能长达14天。</div>
+<div class="article-paragraph">什么是我们接下来最需要知道的？对于追踪传染病的流行病学家而言，最紧迫的问题是如何估算疾病的致死性以及谁是易感人群；获得有关其传播方式的详细信息；并评估到目前为止控制措施的有效程度。</div>
+<div class="article-paragraph">首先是“临床冰山”问题：有多少疫情隐藏在表层之下？由于疫情仍在发展，我们仍无法看到所有受感染者。未进入视野的是一定比例的轻度感染者，他们有轻微症状或没有症状，他们的感染不为人知。</div>
+<div class="article-paragraph">一个隐藏的携带病毒者的军团听起来令人不安；但是实际上，巨大的隐藏数量将意味着死亡的被感染者相对更少了。通常，简单的计算就可以确定这种“病死率”的比率：将死亡总人数除以感染总人数。但是，在新出现的流行病中，这两个数字都在不断变化，有时以不同的速度变化。这导致无法用简单的除法得到答案；你总是算错。</div>
+<div class="article-paragraph">2003年，在SARS暴发的初期，医学界用了错误的计算。首先，我们认为病死率在2％至3％之间徘徊。在英国牛津完整手写的两页代数计算，在伦敦的一台电脑里被写成代码，再应用于香港的数据，这才得到了正确的数字。香港的实际病死率惊人：17％。</div>
+<div class="article-paragraph">这并不是说我们现在正面临着危急的情况。包括我的小组在内的几个小组都在使用各自的方法来计算对新型病毒致死性的初步估计。预计我们在本周内可以拿出我们的发现，如果对一些发现能接近达成共识，我们将更有信心去描述新型冠状病毒。它到底更像季节性流感、SARS，还是<a href="https://www.nytimes.com/2018/10/22/well/family/a-centennial-of-death-the-great-influenza-pandemic-of-1918.html">人类历史上最大的瘟疫之一：1918-19年的“西班牙流感”大流行</a>？</div>
+<div class="article-paragraph">了解可能会死亡、或病情危重，或没有症状者的人数，将有助于卫生当局确定所需应对措施的强度。他们可以更好地估算需要多少隔离病床、心肺机、药品，和其他用品。</div>
+<div class="article-paragraph"><span>上个月，为了解这种疾病的严重程度，我的团队协助中国专家<a href="https://www.nejm.org/doi/10.1056/NEJMoa2001316" rel="noopener noreferrer" target="_blank">分析了最初的425例确诊感染病例</a>。我们了解到，65%的人既没有去过市场，也没有接触过其他出现类似肺炎症状的人，这表明一些受感染者可能没有明显症状，意味着这种疾病</span>的病情不见得都很严重。</div>
+<div class="article-paragraph">了解疾病严重程度之外，还要弄清其易感性，或者说什么样的人感染风险最大。迄今为止的数据表明，易感人群包括老年人、肥胖者，和有潜在健康问题者。很少有儿童感染的报告。但他们是没有症状，还是对病毒具有免疫力？他们能作为无症状携带者感染他人吗？我们必须研究18岁以下的人来找出答案；这些答案可能有助于我们调整公共卫生措施，例如中国大陆和香港的学校是否应该继续关闭。</div>
+<div class="article-paragraph">回到大局方面，我们还必须继续完善关于新冠病毒如何在人与人之间传播的认识。尽管疫情似乎在不断升级，但我们相信，各国政府和卫生当局的迅速反应——时有不得已的残酷<span>——已在阻止传播方面取得了进展。在最近的另一项研究中，我们估计了在缺乏强力公共卫生干预情况下的感染人数。<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30260-9/fulltext" rel="noopener noreferrer" target="_blank" title="Link: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30260-9/fulltext">我们写这篇报告的目的是对可能的情况作出预警</a>，</span>以避免发生。</div>
+<div class="article-paragraph">科学家正在努力量化这种反应的有效性。我们需要查明病毒的基本传染数即R0是否下降。虽然我们最初的估计显示，通常每个感染新冠病毒的人会传染2至2.5人，但现在就判断各种措施是否已将受传染人数降至临界阈值1以下还为时过早。</div>
+<div class="article-paragraph">与此同时，我们正在密切关注世界其他地区是否会出现类似于疫情起始点武汉这样大规模、持续的暴发。我们希望在几天或几周内情况会更加明朗。截至周一，在中国大陆以外的地方，单一地点出现最多感染者的是一艘名为“钻石公主号”(Diamond Princess)的邮轮，有130多被感染病患。该邮轮已在日本横滨港被隔离。</div>
+<div class="article-paragraph">最后，科学家需要评估疫情暴发以来所采取的控制措施或社会隔离措施。挑战包括对通过戴口罩、关闭学校和封锁城市等措施得到预防的感染人数进行量化。在中国，手机定位服务数据可能被用于这种评估。</div>
+<div class="article-paragraph">本周，在日内瓦世界卫生组织总部确定研究重点时，我们希望，正在紧急协调中的科学也能在其他方面对抗危机。它可能有助于对抗正在出现的“信息传染病”，即真实新闻、假新闻和伪科学交织混杂的声音，它们助长了不确定性和恐慌。</div>
+<div class="article-paragraph">而且，这可能有助于逆转一些似乎由民粹主义和本土主义推动的措施。旅行警告、彻底的旅行禁令、移民控制以及对来自不同地域者的仇外对待都造成了重大损害。</div>
+<div class="article-paragraph">我们的目标是至少领先于流行曲线几步。科学家们必须让卫生当局做好准备，应对任何随后的感染浪潮，并为这种特殊病毒出现季节性重现的可能做好准备——也许有一天，它的危害性可能只和普通感冒一样。</div>
+<div class="article-paragraph"><span>我曾见过史无前例的疫情暴发，也曾见证世界的团结。如果我们都各司其职，保持警惕，那么我们同样有可能战胜新冠病毒。<a href="https://cn.nytimes.com/china/20200208/li-wenliang-china-coronavirus/">这是纪念李文亮医生的最好方式</a>，他是武汉第一批警告世界警惕这种疾病的医生之一——上周</span>，他正是因为这种疾病去世，终年34岁。</div>
+*
+新冠逝者：菲律宾著名汉学家艾琳·巴维耶拉
+<div class="article-paragraph">  <i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph"><i>这篇讣告是为在新冠病毒大流行期间逝世的人撰写的系列文章之一。点击</i><i><a href="https://www.nytimes.com/series/people-who-have-died-of-the-coronavirus">这里</a>阅读本系列</i><i>其他文章。</i></div>
+<div class="article-paragraph">作为一名菲律宾的年轻大学毕业生，艾琳·巴维耶拉(Aileen Baviera)是首批获得中国政府奖学金去北京留学的外国人之一。她在1981年抵达中国，那时文化大革命刚结束五年，这个国家正开始对外开放。</div>
+<div class="article-paragraph">她40年学术生涯由此开始。她成为了一位令人敬畏的中国问题专家，也是菲律宾著名学者之一。她成为菲律宾大学的教授，在那里担任亚洲中心主任数年。<br/></div>
+<div class="article-paragraph"><a href="https://upd.edu.ph/baviera-60/?fbclid=IwAR1_Z18-pGK5rS6yRhDe1fAzP622HsCN1fxHlQUU7GQKhttSGB26TKIvZ4s" rel="noopener noreferrer" target="_blank">菲律宾大学称</a>，3月21日，巴维耶拉博士因新冠病毒并发症在马尼拉的圣拉扎罗医院逝世，时年60岁。</div>
+<div class="article-paragraph">3月初，她在巴黎的一次会议上接触了这种病毒。3月12日回到马尼拉时，她意识到自己病了，直接从机场前往医院。<br/></div>
+<div class="article-paragraph"><span>菲律宾大学称赞她是“我国首屈一指的汉学家”，并称她因在中国问题和中菲在南中国海问题上存在的长期争端方面的专业知识而备受推崇。<br/></span></div>
+<div class="article-paragraph"><span>其他学者提及她对年轻学者的支持，以及她将持不同观点的人凝聚在一起的能力。<br/></span></div>
+<div class="article-paragraph"><span>作家和学者理查德·海德里安(Richard Heydarian)指出，她因一种病毒死亡，而这种病毒起源于她毕生研究的中国，这堪称一种“悲哀的讽刺”。<br/></span></div>
+<div class="article-paragraph">“她的逝世给我们圈子带来了冲击。”他说，“她是菲律宾最杰出的学者之一，即使在地缘政治最两极分化和分裂的时刻，她也有着可以和不同政治派别合作的非比寻常的能力。”</div>
+<div class="article-paragraph">艾琳于1959年出生，在马科斯独裁统治时期是一名被左翼思想吸引的年轻学生。但在中国的学习改变了她的看法。</div>
+<div class="article-paragraph">“‘炮打司令部！’，这是毛泽东对红卫兵的号召，呼吁他们挑战权威。”她在2019年为菲律宾的半月刊《桥》(Tulay)<a href="https://tulay.ph/2019/08/20/forty-years-of-china-watching-from-the-eyes-of-a-filipino/" rel="noopener noreferrer" target="_blank">撰写的一篇文章</a>中这样写道。“这虽然听起来让我很激动，但我天生就是个书呆子、一个沉默寡言的独行者，无法做出任何真正的炮轰，因此，我找到了其他更无聊的方式来‘为人民服务’，可以这么说。”</div>
+<div class="article-paragraph">“没过多久，我就学会了在看到政治宣传时，如何认识到它的浅薄，以及怎样回避那些东西，无论是毛泽东的还是马科斯的，”她写道。<br/></div>
+<div class="article-paragraph">在北京，获取新闻的渠道是有限的，她欣然接受了在《芝加哥论坛报》(Chicago Tribune)新闻分社兼职的机会，在那里，她从西方报纸上剪下有关中国的文章并保存起来。她说，阅读《纽约时报》(The New York Times)、《国际先驱论坛报》（International Herald Tribune）和其他报纸对中国的报道，有助于激发自己的研究灵感。</div>
+<div class="article-paragraph">她写道：“我读得越多，对正在展开的非凡历史就越着迷。”</div>
+<div class="article-paragraph">她在北京学会了说普通话，随后在菲律宾大学获得政治学博士学位。2003年至2009年，她在该校担任亚洲中心的主任。</div>
+<div class="article-paragraph">除担任教授一职外，她还是亚太进步之路基金会(Asia Pacific Pathways to Progress Foundation)的主席，该基金会致力于通过国际对话与合作实现和平与文化理解。</div>
+<div class="article-paragraph">“对于菲律宾乃至东南亚的下一代社会科学家和战略思想家来说，她是一个严格但慷慨的导师，”该基金会在网上发表的<a href="https://appfi.ph/news-events/2938-farewell-dr-aileen-baviera" rel="noopener noreferrer" target="_blank">一份声明</a>中说。</div>
+<div class="article-paragraph">她还担任《亚洲政治与政策》(Asian Politics and Policy)的主编，这是一份拥有同行评议的学术季刊。</div>
+<div class="article-paragraph">她是一名孀妇，有三个孩子。</div>
+<div class="article-paragraph">菲律宾大学赞扬了她在返回马尼拉后立即自我隔离的行为，称“她的行为使校园得以继续保持无人感染Covid-19”。<br/></div>
+<div class="article-paragraph">在新加坡《海峡时报》(Straits Times)<a href="https://www.straitstimes.com/asia/can-anyone-really-rule-the-south-china-sea" rel="noopener noreferrer" target="_blank" title="Link: https://www.straitstimes.com/asia/can-anyone-really-rule-the-south-china-sea">2016年发布的一篇文章</a>中，巴维耶拉博士审视了各国政府在连接六个国家的南中国海域划定边界的愚蠢之举。</div>
+<div class="article-paragraph">“我羡慕海洋中的自由生物，”她写道，“因为我们陆地上的生物已经成为我们自己征服和控制的幻觉的俘虏。”</div>
+*
+中国渔船闯入南海印尼水域，争夺海洋资源
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">印度尼西亚纳土纳群岛——德迪知道纳土纳群岛附近的印尼水域里什么地方鱼最多。中国人也知道。</div>
+<div class="article-paragraph">在中国海警武装船只的保护下，中国渔船队一直在南中国海国际公认的印尼专属水域掠劫丰富的水产。</div>
+<div class="article-paragraph">德迪用的是渔网和鱼线这些传统捕捞方式，中国的钢质拖网渔船沿着海底打捞，破坏了其他海洋生物。中国的拖网捕鱼不仅侵犯了海上边界，而且在其经过的水域留下了一种毫无生气的海景。</div>
+<div class="article-paragraph">“他们进入我们的水域，杀死了所有的东西，”德迪说。和许多印尼人一样，他只有一个单名。“我不明白为什么我们的政府不保护我们。”<br/></div>
+<div class="article-paragraph">由于担心冒犯最大的贸易伙伴，印尼官员淡化了中国渔船的入侵，试图避免与北京方面就它在这片海域的广泛主权主张发生冲突。但随着中国人越来越咄咄逼人地出现在这片水域，纳土纳群岛的渔民们感觉到了脆弱。</div>
+<div class="article-paragraph">“有段时间没人来，然后中国回来了，”纳土纳群岛县的副县长额斯蒂·尤尼·苏普拉蒂(Ngesti Yuni Suprapti)说。“我们的渔民感到害怕。”</div>
+<div class="article-paragraph">渔民们说，最近的事件发生在2月份，在中国海警船的护卫下，中国渔船再次来这个海域拖网捕捞。中国的新型冠状病毒疫情看来似乎并未减弱它的全球野心。<br/></div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="渔民准备出海。" data-src="https://static01.nyt.com/images/2020/03/28/world/00indonesia-sea-2/merlin_168587889_a1f455bf-b2da-4142-9338-868a5c960a60-master1050.jpg" src="https://static01.nyt.com/images/2020/03/28/world/00indonesia-sea-2/merlin_168587889_a1f455bf-b2da-4142-9338-868a5c960a60-master1050.jpg"/></div><figcaption><span>渔民准备出海。</span> <cite></cite></figcaption></figure></div>
+<div class="article-paragraph">然而，印尼渔业部否认了中国人有入侵行为。印尼政府不提供外国渔船入侵的数据。<br/></div>
+<div class="article-paragraph">中国在纳土纳群岛附近的非法捕鱼活动具有全球性的后果，它提醒了地区政府，北京对这片水域不断扩大的主权主张，而全球三分之一的海上贸易要经过这里的航道。但纳土纳群岛的地方领导人无法控制他们的海岸附近发生的事情。<br/></div>
+<div class="article-paragraph">“我们只有对我们岛屿的陆地部份行使权力，”纳土纳群岛议会主席安德斯·普特拉(Andes Putra)说。“省级和中央政府负责海洋事务。”<br/></div>
+<div class="article-paragraph">然而，分析人士说，由于好几个机构有保护海洋的责任，包括海军、海岸警卫队、海警和渔业部——这里仅举几例，决策权非常分散。</div>
+<div class="article-paragraph">“在海上安全方面缺乏一个统一的牵头机构或统一的政策，”位于印尼首都雅加达的战略与国际研究中心(Center for Strategic and International Studies)高级研究员埃文·拉克斯马纳(Evan Laksmana)说。“中国人可以利用这一点。”</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="伊迪尔·巴斯里是纳土纳群岛一艘渔船的船长。" data-src="https://static01.nyt.com/images/2020/03/28/world/00indonesia-sea-3/merlin_168587817_d4209ed3-b851-4c29-a659-dace42772c16-master1050.jpg" src="https://static01.nyt.com/images/2020/03/28/world/00indonesia-sea-3/merlin_168587817_d4209ed3-b851-4c29-a659-dace42772c16-master1050.jpg"/></div><figcaption><span>伊迪尔·巴斯里是纳土纳群岛一艘渔船的船长。</span> <cite></cite></figcaption></figure></div>
+<div class="article-paragraph">今年1月，印尼总统佐科·维多多(Joko Widodo)视察纳土纳群岛时，中国人的肆无忌惮表现得淋漓尽致。<br/></div>
+<div class="article-paragraph">“在涉及主权的问题上没有讨价还价的余地，”佐科说。他讲此番话之前，印尼战斗机轰隆隆地从空中飞过，军舰在海上巡逻。</div>
+<div class="article-paragraph">但就在佐科离开纳土纳群岛的第二天，中国人又出现了。当地官员和渔民说，在中国海警的保护下，中国渔船在该水域捕捞了好几天后才离开。</div>
+<div class="article-paragraph">印尼渔业部否认发生过此类事件。</div>
+<div class="article-paragraph">在中国地图上，一条所谓的“九段线”把南中国海的大部分划归了中国，其中一段就划在纳土纳群岛以北海域。<br/></div>
+<div class="article-paragraph">虽然北京承认印尼对纳土纳群岛拥有主权，但中国外交部将附近海域描述为中国的“传统渔场”。<br/></div>
+<div class="article-paragraph">“无论印尼方面接受与否，都无法改变中方在相关海域拥有权益的客观事实，”中国外交部发言人耿爽今年1月说。</div>
+<div class="article-paragraph">2016年，国际仲裁法庭裁定九段线没有法律依据。中国政府对这一裁决不予理会。<br/></div>
+<div class="article-paragraph">北京反而继续把有争议的环礁和小岛变成军事基地，让中国可以从这里向南中国海投射力量。<br/></div>
+<div class="article-paragraph">“我认为中国人会逐步占有印度尼西亚海、菲律宾海和越南海，”纳土纳斯群岛的渔民万达尔曼(Wandarman)说。“他们的胃口很大：石油、天然气，以及许多许多的鱼。”</div>
+<div class="article-paragraph">中国渔民正在南中国海拖网捕鱼，帮助满足中国日益增长的海鲜需求。<br/></div>
+<div class="article-paragraph">但中国渔民也在为一个更广泛的目的服务。</div>
+<div class="article-paragraph">“北京希望中国渔民在这里捕捞，”美国海军军事学院(United States Naval War College)中国海事研究所(China Maritime Studies Institute)助理教授瑞安·马丁森(Ryan Martinson)说，“因为渔民的出现有助于体现中国的海洋主张。”<br/></div>
+<div class="article-paragraph">在佐科的第一个任期里，他的<a href="https://www.nytimes.com/2018/06/08/world/asia/indonesia-fishing-boats-china-poaching.html">渔业部长苏茜·普吉亚斯图蒂(Susi Pudjiastuti)</a>曾反对中国和其他在印尼海域非法捕捞的国家。<br/></div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="纳土纳的一个渔市。" data-src="https://static01.nyt.com/images/2020/03/28/world/00indonesia-sea-4/merlin_168587772_a38ed035-cb58-4729-b8ea-0fe628306283-master1050.jpg" src="https://static01.nyt.com/images/2020/03/28/world/00indonesia-sea-4/merlin_168587772_a38ed035-cb58-4729-b8ea-0fe628306283-master1050.jpg"/></div><figcaption><span>纳土纳的一个渔市。</span> <cite></cite></figcaption></figure></div>
+<div class="article-paragraph">印尼海军曾向中国渔船鸣枪示警。苏茜曾下令扣押外国渔船，还炸掉了几十艘。<br/></div>
+<div class="article-paragraph">其中一艘是越南的拖网渔船，现在还半沉在纳土纳的一个港口。<br/></div>
+<div class="article-paragraph">纳土纳群岛的渔民说，苏茜沉船政策的一个后果是，中国渔船不再敢大批入侵。<br/></div>
+<div class="article-paragraph">“她保护了我们，保护了印度尼西亚，”纳土纳群岛一艘渔船的船长伊迪尔·巴斯里(Idil Basri)说。</div>
+<div class="article-paragraph">但政治分析人士说，苏茜的立场虽然受到公众欢迎，但也惹恼了政府中的一些人，他们认为她太爱挑事。去年10月，佐科连任后挑选部长时，身为渔业大亨的苏茜不再担任部长，取而代之的是一位被认为对中国更温和的人。<br/></div>
+<div class="article-paragraph">渔民说，这种变化对纳土纳群岛的影响几乎是立竿见影的。<br/></div>
+<div class="article-paragraph">“中国的船只回来了，”德迪说。<br/></div>
+<div class="article-paragraph">在去年10月下旬佐科新内阁就任的第二天，德迪的船正在远离200海里专属经济区界限的地方捕鱼。根据国际法，只有印尼人才有在专属经济区捕鱼的许可。<br/></div>
+<div class="article-paragraph">一艘中国海警船出现了，另一艘也接着出现了。德迪赶紧把自己船的位置用录像记录下来：船在纳土纳群岛以北72海里处。</div>
+<div class="article-paragraph">虽然外国军用船只从这些水域通过并不非法，但这些海警船是在保护中国的拖网渔船。<br/></div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="一名渔夫骑着小摩托车从一个渔船码头上下来。" data-src="https://static01.nyt.com/images/2020/03/28/world/00indonesia-sea-7/merlin_168587712_328056da-9662-49c8-a451-fafffc5b5e07-master1050.jpg" src="https://static01.nyt.com/images/2020/03/28/world/00indonesia-sea-7/merlin_168587712_328056da-9662-49c8-a451-fafffc5b5e07-master1050.jpg"/></div><figcaption><span>一名渔夫骑着小摩托车从一个渔船码头上下来。</span> <cite></cite></figcaption></figure></div>
+<div class="article-paragraph">把录像交给当地海事部门后，德迪等待行动。什么都没发生，所以他把视频发到了Facebook上。他说，印尼安全部门给他打了电话，听起来有点威胁的味道。<br/></div>
+<div class="article-paragraph">在整个2月份，德迪不断在该水域碰到中国渔船。有一次，他与中国人僵持了一个小时，后来因为缺少印尼方面的支援，他只好掉头离开。<br/></div>
+<div class="article-paragraph">“我们离开了，但他们仍在印尼海域，”德迪说。<br/></div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="这艘沉在纳土纳海岸附近的越南渔船因在印尼海域捕鱼被抓获。" data-src="https://static01.nyt.com/images/2020/03/28/world/00indonesia-sea-5/merlin_168588042_26c4dda1-e493-48da-bd97-33136dd30481-master1050.jpg" src="https://static01.nyt.com/images/2020/03/28/world/00indonesia-sea-5/merlin_168588042_26c4dda1-e493-48da-bd97-33136dd30481-master1050.jpg"/></div><figcaption><span>这艘沉在纳土纳海岸附近的越南渔船因在印尼海域捕鱼被抓获。</span> <cite></cite></figcaption></figure></div>
+<div class="article-paragraph">中国在南中国海有争议的礁石上修建的设施，提高了中国海警在纳土纳群岛附近海域巡逻的能力。中国的渔船也可以在风暴期间在这些人工岛上避难。</div>
+<div class="article-paragraph">2016年，当印尼当局试图将一艘在纳土纳斯群岛附近作业的中国渔船拖走时，一艘中国海警船直插进来，切断了拖缆，让中国渔民得以逃离。<br/></div>
+<div class="article-paragraph">为了对抗中国人的出现，印尼在四年前开始在纳土纳群岛建立军事基地。如今，这里变得破烂不堪，除了几名士兵外，里面空无一人。<br/></div>
+<div class="article-paragraph">雅加达的最新策略是将数百名渔民从人口稠密的爪哇岛转移到纳土纳群岛充当海上哨兵。<br/></div>
+<div class="article-paragraph">但纳土纳群岛的渔民反对这个想法，因为爪哇渔民拿了国家的补贴，而且他们跟中国人一样进行破坏性的海底拖网捕捞。<br/></div>
+<div class="article-paragraph">万达尔曼说，由于近几个月来外国船只的大量涌入，他的捕获量已经少了一半。<br/></div>
+<div class="article-paragraph">但捕鱼是他的谋生手段，万达尔曼说。他居住的岛上只有两个红绿灯，除了大海，没有多少支持当地经济的东西。</div>
+<div class="article-paragraph">“我们的船很小，而且是木制的。中国海警配备了武器，很现代化，”万达尔曼说。“我在海上捕鱼时的恐惧比海还大。”<br/></div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="一艘印尼渔船的船员准备出海。" data-src="https://static01.nyt.com/images/2020/03/28/world/00indonesia-sea-6/merlin_168587964_793e8f22-8161-4dc6-a1ac-c40a535974b5-master1050.jpg" src="https://static01.nyt.com/images/2020/03/28/world/00indonesia-sea-6/merlin_168587964_793e8f22-8161-4dc6-a1ac-c40a535974b5-master1050.jpg"/></div><figcaption><span>一艘印尼渔船的船员准备出海。</span> <cite></cite></figcaption></figure></div>
+*
+“我是被无辜卷进来的”：疫情中被孤立的武汉人
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠肺炎疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">中国广州——对于朱莉·钟（Julie Zhong，音）来说，这个春节本应是个过渡时期。</div>
+<div class="article-paragraph">这个24岁的<a href="https://cn.nytimes.com/china/20200206/china-wuhan-coronavirus/">武汉</a>姑娘和家人一起去海南岛过春节。她打算先旅行三周，然后搬到上海，她在那里的加拿大领事馆找到一份新工作。</div>
+<div class="article-paragraph">然后疫情暴发了。</div>
+<div class="article-paragraph">海南当地官员为她全家量了体温，之后他们开始了为期14天的自我隔离。他们在海滩附近的一间公寓里等待隔离时期过去，生活也放慢了脚步，每天就是做饭、打麻将。</div>
+<div class="article-paragraph">海南是一个快速发展的度假岛屿，位于中国南海南岸，有时被称为中国的夏威夷。朱莉·钟的家人经常去那里，希望温暖的气候对她祖父母的身体有好处。</div>
+<div class="article-paragraph">每天晚上，她的祖父母都要看电视，了解<a href="https://www.nytimes.com/2020/02/06/world/asia/coronavirus-china.html?action=click&amp;module=Top%20Stories&amp;pgtype=Homepage">疫情的最新情况</a>。一家人还用流行的即时通讯应用微信分享消息。自我隔离结束后，朱莉·钟带着全家到海滩上去锻炼。天气很冷，海水灰蒙蒙的。他们仍然戴着口罩，只在外面呆了15分钟就回了公寓。</div>
+<div class="article-paragraph">她说，如果天气好转，还是会去海滩呼吸新鲜空气。她对自己的处境很乐观。武汉是这次新冠病毒的暴发中心，全国已经各地都在对最近去过武汉的人加以识别和隔离，许多来自武汉的人<a href="https://cn.nytimes.com/china/20200204/china-coronavirus-wuhan-surveillance/">境况更糟</a>。这里的官员只是打电话给她的家人，询问情况。</div>
+<div class="article-paragraph">疫情迹象从武汉一直跟随着他们。附近生鲜市场的两起事件导致该市场关闭。当地政府将蔬菜和鸡鸭鱼肉送到她所在的社区以弥补短缺，不过这样的供应很快就消失了。现在他们在所住大楼旁边的一家小超市购物。</div>
+<div class="article-paragraph">随着严厉的措施在全国范围内蔓延，一些城市处于封锁状态，父母担心上海可能会对外界关闭，建议她早点过去。她应该在2月17日开始工作。</div>
+<div class="article-paragraph">她很快就遇到了一个问题：上海的酒店都要她隔离后才能入住。她打了两个电话，对方都简短地回绝了她。尽管她已经过了隔离期，她还是被告知不欢迎来自湖北的人。一家酒店表示，来自武汉的旅客只有重新进行14天的隔离才能得到房间。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="朱莉·钟（右）和家人在海南度假。" data-src="https://static01.nyt.com/images/2020/02/06/world/00life-wuhannative-2/merlin_168410649_d13c5ee3-4c7f-4ec7-9060-010ca79cd833-master1050.jpg" src="https://static01.nyt.com/images/2020/02/06/world/00life-wuhannative-2/merlin_168410649_d13c5ee3-4c7f-4ec7-9060-010ca79cd833-master1050.jpg"/></div><figcaption><span>朱莉·钟（右）和家人在海南度假。</span> <cite></cite></figcaption></figure></div>
+<div class="article-paragraph">“我是被无辜卷进来的，”她说。“这让我很生气。”</div>
+<div class="article-paragraph">“为什么别人做错的事，却要我们来当替罪羊？”她还说。“刀没割到自己就不知道疼。”</div>
+<div class="article-paragraph">她表示，更广泛地说，这种针对武汉人的偏见和愤怒是错误的。愤怒的对象应该是政策及其执行，而不是人民。</div>
+<div class="article-paragraph">“这是武汉人的错吗？不是。如果问题是因为吃野味，那问题就是政府没有控制好，”她说，她是指该疾病被认为起源于生鲜市场。“不能把什么都推到武汉人头上。”</div>
+<div class="article-paragraph">“大家应该试着站在我们的角度想想，大家都应该多点同理心，”她说。</div>
+<div class="article-paragraph">朱莉·钟的解决办法来自一位熟人的好意。她在微信上浏览Facebook式的消息推送时，看到一个她在中国参加LSAT考试时认识的一个男子发的帖子。他发出公开邀请，可以接收一两个可能很难在上海找到住所的武汉人。</div>
+<div class="article-paragraph">“太幸运了，”她说。</div>
+<div class="article-paragraph">虽然朱莉·钟现在有地方住，但她仍然不确定一切是否一切顺利。有消息称，各地对来自武汉的人的政策仍不一致，她知道，一旦抵达上海，她可能仍要接受隔离。</div>
+<div class="article-paragraph">为了帮助她，海南当地政府给她开具了一份证明，证明她已经通过了检疫。不过，她说自己已经听天由命了。</div>
+<div class="article-paragraph">“政策执行没有意义，”她说。“如果你不听话，你就会被踢出去，禁止入内。人民和政府之间没什么平等可言。你还能怎么办？”</div>
+<div class="article-paragraph">“我现在觉得无所谓，”她还说。“他们要隔离就隔离吧。”</div>
+*
+我从未想过，亚裔在2020年会面对这样的种族主义
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">2月初，我看到一个无凭无据的猜测，说一种病毒正在肆虐一个叫做武汉的遥远城市，这是由于中国人爱吃一种叫穿山甲的动物，它是一种奇特的长着鳞甲的哺乳动物，样子像食蚁兽，但比起有笨拙的管状鼻子的食蚁兽，它更可爱。大约那个时候，在一次晚宴上，当一个朋友打趣说“穿山甲能怎么吃呢？难道鳞片蘸黄油，像吃洋蓟那样？”我笑了起来。第二天当我把同一个笑话发在Twitter上时，我认识的一位作家回答说：“是医疗用途。”他只是在陈述事实，但我突然意识到，我的行为可能是在传播关于中国人的刻板印象。我删除了那条推，并提醒自己：只有在亚裔人群中间才能开亚裔的玩笑。</div>
+<div class="article-paragraph">当病毒传播到韩国时，我变得担忧起来。我在首尔有家人，其中许多是年长的阿姨和叔叔，他们面临的风险最大。</div>
+<div class="article-paragraph">“他们很好，”我母亲说。“反正他们也从来不出门。”</div>
+<div class="article-paragraph">我责骂她，告诉她不能这么不当回事。但是如果我这么担忧，为什么不打电话问候他们一下呢？我确实在Instagram上关注了一个住在首尔的表亲。每隔几天，她会发布自制插花的照片。从首尔疫情顶峰到最终的下降，她一直顽固地坚持发Instagram，除了精心布置的芬芳白玫瑰、粉红牡丹和穗边郁金香花束外，看不到别的。</div>
+<div class="article-paragraph">当我最终给她打电话时，她告诉我，她是从一家仍然营业的批发商那里买的花。她步行10分钟到这个商店，每一两周买一次花，戴着空气过滤口罩，而后喷洒消毒剂并在阳光下晒干。每天早晨，她收到有关检测阳性人员去过的地点的短信，并避免去那些地方。她说，她担心我。她听说了在欧洲和美国有戴着口罩的亚洲人被骚扰。“在韩国，”她告诉我，“如果你在公共场合不戴口罩，我们会用异样的眼光看你。我们会认为你很自私。”</div>
+<div class="article-paragraph">3月13日，那是一个周五，晚上7点的曼哈顿华埠宰也街异常空旷，弯曲的街道上没有游客，霓虹闪烁的餐厅空空荡荡，里面只有望眼欲穿的服务员的影子。我和我女儿，还有我丈夫和朋友都在这一带，因为我们想帮衬华人的生意。走入茶馆的店面，我看到一个年轻的女服务员反复在每张桌子上喷洒消毒剂。她擦拭着桌子，好像在向路人证明这个店已经消过毒，可以随时接待客人。</div>
+<div class="article-paragraph">那天我过得恍恍惚惚。那周，我的巡回售书和课程都取消了。一下多出这么多时间，我一直泡在网上，吸收着让人恐慌的资讯，周遭变得陌生起来。从我关注的新闻源中，我开始注意到针对亚洲人的事件出现了令人不安的增加，一开始大多发生在国外：在伦敦，一名来自新加坡的年轻人遭到一群青少年的袭击，他们对他拳打脚踢，还大喊着跟新冠病毒有关的话；在意大利，一家银行拒绝向一名中国女子<span>提供服务。然后是在得克萨斯州，一名男子<a href="https://www.cbs7.com/content/news/FIRST-ON-CBS7-Suspect-admitted-to-trying-to-kill-family-at-Midland-Sams-Club-affidavit-says-568837371.html" rel="noopener noreferrer" target="_blank">持刀对一家缅甸裔美国人行凶</a>，伤者包括两个年幼的孩子，联邦调查局称</span>这是仇恨犯罪。</div>
+<div class="article-paragraph">3月13日，疾控中心尚未建议民众佩戴口罩。不光是在华埠，整座城市的马路上，戴口罩的基本上都是来自亚洲的移民，他们可能知道戴口罩更安全，因为你可能并没有症状。但从仇外者的角度看，口罩意味着外国人是传播疾病的祸患。口罩让他们的脸失去了个性，加深了亚洲人面貌“模糊”的刻板印象，甚至模糊了他们的年龄和性别，同时也暗示戴口罩的亚洲人不能言语，所以在受到侵犯的时候，就无法反驳。我很替那些马路上遇到的华人移民担心。我很想把他们拉到一边，告诉他们不戴口罩更安全，因为这个保护他们——以及他人——的护具，只会让他们变得更容易受到攻击。</div>
+<div class="article-paragraph">我开始为有关种族主义事件的推文和新闻报道添加书签。比如：</div>
+<div class="article-paragraph"><span><a href="https://twitter.com/RealElizabethHo/status/1238304263467446272" rel="noopener noreferrer" target="_blank">一名亚裔女子</a>用胳膊肘按电梯按钮。电梯里的一名男子问：“呃，</span>冠状病毒？”她说，“没有，但要做好准备。”在他下电梯时，他说，“不要把那个眯眼病毒带到这里来。”</div>
+<div class="article-paragraph"><span><a href="https://twitter.com/erinrose_mager/status/1237939575986716672" rel="noopener noreferrer" target="_blank">一名亚裔女子</a>走进公园，一群妈妈大声告诉自己的孩子要离她远远的。</span></div>
+<div class="article-paragraph">一名戴着口罩的亚裔中年女子在散步，一名女子大声要她离远点。</div>
+<div class="article-paragraph"><span><a href="https://nypost.com/2020/03/25/asian-man-spat-on-in-latest-coronavirus-hate-crime-in-brooklyn-station/" rel="noopener noreferrer" target="_blank">一名男子</a>冲着一名等地铁的</span>亚裔男子吐口水。</div>
+<div class="article-paragraph"><span><a href="https://www.nytimes.com/2020/03/23/us/chinese-coronavirus-racist-attacks.html">一名男子</a>向一名去健身房的</span>亚裔女子吐口水。</div>
+<div class="article-paragraph"><span>咖啡馆里，一名女子<a href="https://twitter.com/EugeneLeeYang/status/1238575560856498176" rel="noopener noreferrer" target="_blank">拒绝咖啡师递上的咖啡</a>，</span>因为她认为对方是中国人。当她身后的亚裔男子告诉她这个要求有多荒唐时，她咆哮道：“你是中国人吗？”他回击道，“我不是，你那个丑不啦叽的山寨手袋是。”</div>
+<div class="article-paragraph">我从未想过“Chink”这个词会在2020年卷土重来。照理说，它应该像我在旧货店里看到的那些阴险的中国小人盐瓶一样被淘汰了。它仍然在互联网底食者群体中盛行，但我从20多岁起就再也没有听过有人用这个词针对我。然而，现在每当我读到有关反亚裔事件的报道时，总会见到这个词，也会从朋友们那里听说它被使用。我无法接受这样一个事实，即美国人如此公开地、以如此不加掩饰的仇恨向我们抛出这样的诽谤。在过去，我习惯将反亚裔的种族主义大事化小，因为我很早就被灌输，针对亚裔的种族主义并不存在。每当我对种族问题提出质疑，他们都会告诉我这不是种族问题。每当我提到一个反亚裔事件时，总会有一个白人插话说，这是在转移人们对更重要问题的注意力（而且总是有更重要的问题）。我一直习惯性地认为，我作为二等公民的受压迫程度很低，因此不值一提，尽管我认识的每一个亚裔美国人都曾有过因种族身份而遭弱化、物化、羞辱、被付低薪、被解雇或降职的经历。</div>
+<div class="article-paragraph">今年3月，在特朗普总统称新冠病毒是“中国病毒”之后，亚太政策与规划委员会(Asian Pacific Policy and Planning Council)表示，它参与维护的一个网站一周内就报告了650多起针对亚裔美国人的歧视事件。即使在看到这个数字之后，我仍然怀疑亚裔歧视是否会被认真对待。在Twitter上，小说家R·O·权(R.O. Kwon)在谈论歧视事件激增时，一位姻亲满腹狐疑地问道，“真有这种事吗？”歧视报告数必须增加到每周1000宗才够吗？2000？到底有多少，才足以让憎恨被人们看见？</div>
+<div class="article-paragraph">冠状病毒疫情以来出现的亚裔歧视并不是我所熟悉的那种。不是那种将我们视为隐形人或高效赛博人的类型。种族主义从未消失，而是在适应新形势，而古老的毒株又从美国历史的黑暗地窖中重新崛起。最近的种族主义抬头带着19世纪晚期排外主义的恶臭。1882年，政府通过了一项联邦法律，禁止华工进入美国，因为他们担心华工会抢走白人的工作。他们被描绘成一个“堕落的”种族，一种会玷污美国白人道德的传染病。如果黑人和美洲原住民是被系统地奴役、杀害和剥夺财产，那么中国人则是被完全排除在美国之外，这一移民禁令实质上是一种全球种族隔离。留在城市里的中国移民被隔离在肮脏的宿舍里。学者琼·B·特劳纳(Joan B. Trauner)写道，旧金山的华埠发出“令人作呕的臭气”，令白人退避三舍，卫生官员指责这块聚集地传播各种流行病。一位医生当时说：“中国人是白种人仇恨的焦点，他们要为所有的不幸负责。一场灾难性的地震，可能也要算在他们头上。”</div>
+<div class="article-paragraph">反华运动的范围很广，也波及到人口密度较低的地区。在那些地方，中国移民不敢离开自己的家，因为他们会遭到攻击甚至是枪击。1885年，在如今华盛顿州的塔科马市，白人放火烧掉华人的商铺，恐吓华人社区。仇外情绪在一场骚乱中达到顶峰，一群白人暴徒将300名中国移民赶出自己的家园。“用棍棒和手枪，”历史学家贝斯·洛-威廉姆斯(Beth Lew-Williams)写道。</div>
+<div class="article-paragraph">“我不敢出门不是因为感染了冠状病毒，而是不想成为仇恨犯罪的受害者，”我的亚裔朋友们半开玩笑地说。不管我们的祖籍是泰国、缅甸还是菲律宾。种族主义不分青红皂白、地毯式轰炸的各个团体之间只有一点相似之处。我们不是携带冠状病毒。我们就是冠状病毒本身。</div>
+<div class="article-paragraph"><figure class="article-inline-photo"><div class="img-box"><img alt="" data-src="https://static01.nyt.com/images/2020/04/09/magazine/9asianamerican-2/9asianamerican-2-jumbo.jpg" src="https://static01.nyt.com/images/2020/04/09/magazine/9asianamerican-2/9asianamerican-2-jumbo.jpg"/></div><figcaption><span></span> <cite>Illustration by Jon Han</cite></figcaption></figure></div>
+<div class="article-paragraph">3月26日，也就是纽约州州长安德鲁·科莫(Andrew Cuomo)下令所有非必需的企业停业、所有人居家近一周后，我去超市时戴了口罩。我丈夫在打扫他的工作室时找到了一盒防尘口罩。那天的新闻大标题是，美国成了世界上新冠病毒确诊病例最多的国家，但大多数美国人仍没有戴口罩。我在Instagram上发了一张我戴口罩的照片。“祝我好运，祝我不成为仇恨犯罪的目标！”我在照片配发的文字中写道。我的恐惧仍感觉只是放在嘴上，好像我没有权利感到恐惧——好像我反应过度——所以我必须不把恐惧当回事儿。</div>
+<div class="article-paragraph">但到了外面，我真的很害怕，就好像是在南布鲁克林的屋顶上有警卫通过他们狙击手的瞄准镜在观察我似的。突然变得如此显眼，真让人不舒服。作为一名东亚女性，我更习惯于被忽视和低估。我在我们街区的路上走着，在邦德街左转后，看见一名男子带着他的狗朝我走来，料想着他会让我看出他的恐惧，但他只是笑着绕我而过。</div>
+<div class="article-paragraph">将日常生活种族主义化，与其说是把人变成仇恨的目标，不如说是对这种经历的预见。我会因为我是亚洲人而被欺负吗？他会因为我是亚洲人而拒绝我吗？他们会因为我是亚洲人而忽视我吗？但这种经历也会在你最意想不到的时候发生。我13岁、我妹妹8岁的那年，有一次，我们正在走出洛杉矶的一家商场，一对白人夫妇走了进来。我以为他在为我们开门，所以我们赶紧跑了出去。“我不给中国佬开门！”他大喊道。那天晚上的时候，我把这件事告诉了父亲。他看上去既愤怒又伤心。但他没有咒骂那个白人，而是要求我们应该每次都“让他们先走”。当我反驳父亲时，他说：“你不能相信他们。你不知道他们会怎么说。每次都让他们先走。”</div>
+<div class="article-paragraph">我以前讲过这个故事。每讲一次，记忆犹新的感觉就会一点一点地退去，直到故事变成一个讲给那些只能从旁观者角度理解种族主义的人的陈年老调的轶事。顺便说一下，不信任并不导致不服从。我长大的过程中对白人的不信任表现为一种身体上的不安，我在白人面前不说话，或者“让他们先走”。这是一种生存本能，我把自己缩起来，这样似乎就不会有多少容易受欺负的表面积。我找到了我的城市和我的社区后，不再是这样。我放松了警惕。也许这种感觉一直都是我想象出来的。</div>
+<div class="article-paragraph">一名十几岁的男孩从背后<a href="https://nypost.com/2020/03/11/asian-man-is-victim-in-latest-coronavirus-fueled-hate-crime/" rel="noopener noreferrer" target="_blank">踢了一名59岁的亚洲男子</a>。</div>
+<div class="article-paragraph">一名男子手持普瑞来(Purell)消毒液，<a href="https://nextshark.com/purell-man-chases-elderly-asian/" rel="noopener noreferrer" target="_blank">在街上驱赶一名老年亚洲女性</a>。</div>
+<div class="article-paragraph"><a href="https://abc7ny.com/assault-hate-crime-bias-attack-coronavirus/6003396/" rel="noopener noreferrer" target="_blank">一名女子</a>在地铁上殴打一名年轻亚洲女子，可能导致了她的下巴脱臼。<br/></div>
+<div class="article-paragraph">医院里的那个缅甸裔美国男孩的照片公布了。他头上缝的线又宽又长，从后脑勺一直到眉毛下方。他没有正对镜头，而是把视线转向别处。</div>
+<div class="article-paragraph">当一件与新冠病毒有关的种族主义事件发生在我身上时，肇事者并不是白人。和许多纽约人一样，我横穿马路时，差点撞上一个骑着自行车飞驰而过的拉美裔送货员。“中国泼妇！”他骑着车破口大骂。我没有满腔怒火，也没有彻骨之痛的受伤害感。我只是吃了一惊，然后感到有点悲伤。<br/></div>
+<div class="article-paragraph">在新冠病毒肆虐期间，在美国身为亚裔是一种非常孤独的感觉。你可能认为，在大流行病期间每个人都很孤独。但亚裔感到的是一种不同形式的隔离，是被关进模范少数族裔神话潜在恶果之牢笼的感觉，这种神话让人认为，只要你努力工作，不伸手要施舍，就能克服种族不平等。像杨安泽(Andrew Yang)这样的亚裔美国人对这种神话深信不疑。他在最近发表在《华盛顿邮报》的一篇专栏文章中，呼吁亚裔有更多的美国化表现：“站出来，帮助我们的邻居，捐献物资，出来投票，穿红白蓝三色的衣服。”9·11事件后，南亚裔的出租车司机把挂着一串美国国旗的带子绑在他们的车上，但这对遏制恐伊斯兰症毫无帮助。“二战期间，日裔美国人自愿服兵役，以证明他们是美国人，”杨安泽写道。的确有日裔美国士兵入伍，他们帮助解救了达豪集中营(Dachau)的3万多名幸存者，但他们在海外的英勇行为并没有把自己的一些家人从这个国家的拘禁营中解救出来。</div>
+<div class="article-paragraph">亚裔美国人过的一直是一种有条件的存在，只要我们是努力工作的老好人，帮助我们的邻居时做得彬彬有礼，内化我们遇到的任何种族歧视，每次都让他们先走，我们的归属感就会得到保证。模范少数族裔神话是一个谎言，它掩盖了亚裔美国人忍受的结构性的、经济上的种族主义，掩盖了我们的家庭在长时间的西方殖民主义、战争和侵略中经历的影响了几代人的创伤。我讨厌谈论模范少数族裔的神话，因为这就像是陷入一种不断重复的循环。驳斥了这个神话之后，我又被拉回来反驳它。但当新冠病毒大流行发生时，我意识到这个神话不仅在白人的心中多么根深蒂固，在有色人种当中也是如此。</div>
+<div class="article-paragraph">新冠病毒至少消除了东亚人和白人差不多的幻想。自从美国的第一例病例确诊以来，我一直把新冠病毒想象成一道耀眼的紫色光芒，穿透了我们这个白人至上主义世界的裂缝。我们中的一些人以前从未注意到这些裂缝，但它们现在是我们能看到的唯一东西。纽约市的非洲裔和拉美裔美国人的死亡率比任何其他族裔都高，这可能是因为他们没有获得医疗保健的机会，也因为他们中的许多人是必不可少的劳动者，不能呆在家里。但系统性的种族主义将少数族裔分割开来。白人至上主义确保，一旦将施加于某个少数族群的迫害压力哪怕只是解除一点点，这个族群就会出于一种解脱感和一种错位的愤怒去攻击新的目标族群，少数族群的愤怒永远不会触及真正的敌人，更不用说将其推翻了。</div>
+<div class="article-paragraph">自从美国人被命令呆在家里后，这种仇恨并没有减少。亚太政策和计划委员会表示，其征集报告的网站每天仍收到大约80起事件的报告，自3月19日以来，已经发生了1600起这类事件。自“居家令”颁布以来，在超市等必不可少行业工作的亚裔工薪阶层不仅面临着更高的感染风险，还面临着针对亚裔的骚扰冲击。代表华埠和曼哈顿下城其他选区的纽约州议会议员牛毓琳(Yuh-Line Niou)说，她的一个亚裔美国人朋友给一名客户送餐时，客户冲着这个朋友的眼睛吐口水。牛毓琳的另一名当护士的朋友，被确诊感染了新冠病毒的病人骂为“肮脏的中国佬”。“这些人不会报告他们的经历，”牛毓琳说。“他们害怕失去工作。”</div>
+<div class="article-paragraph">4月5日，一名行凶者在布鲁克林<a href="https://nypost.com/2020/04/06/brooklyn-woman-burned-outside-home-in-possible-acid-attack/" rel="noopener noreferrer" target="_blank">向一名39岁的亚裔女子泼了据信是腐蚀性的液体</a>，严重灼伤了她的头部、颈部和背部，当时该女子正在倒垃圾。这让我异常愤怒。也让我害怕。除了担心感染病毒、担心失业或担心亲人死亡外，我们现在还得担心有人朝我们泼硫酸吗？这种事情到处都在发生。在离家太近的地方发生。在家里发生。一家亚裔美国人回到了他们在明尼苏达州的家后，发现门上贴着一张纸，上面写着：“我们在盯着你们。把那个中国病毒带回中国去。我们不想让你们把你们的病传染给我们。”下面的签名是：“你们的友好邻里”。</div>
+*
+北京“大跃退”
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">几年前，在北京一个特别热的房间里，我不得不忍受一名中国外交部官员的严厉训诫。我的罪过：身为《华尔街日报》(The Wall Street Journal)负责海外观点版块的编辑，我<a href="https://www.wsj.com/articles/SB124698273174806523" rel="noopener noreferrer" target="_blank">发表</a>了“著名恐怖分子”——勇敢的维吾尔人权活动家热比娅·卡德尔(Rebiya Kadeer)的文章，这显然是对全体中国人民的侮辱。<br/></div>
+<div class="article-paragraph">我不得不咬紧牙关，忍住自己的反驳：中国最著名的暴君毛泽东的画像，还在俯瞰着人称“天安门广场”的那片杀戮场。</div>
+<div class="article-paragraph"><span>这个星期，我再次想到这一幕，是因为在周三听到的消息：为报复沃尔特·拉塞尔·米德(Walter Russell Mead)观点专栏的标题《<a href="https://www.wsj.com/articles/china-is-the-real-sick-man-of-asia-11580773677" rel="noopener noreferrer" target="_blank">中国是真正的亚洲病夫</a>》(China Is the Real Sick Man of Asia)</span>，中国政府决定驱逐三名《华尔街日报》驻华记者——两名美国人和一名澳大利亚人。和我的经历类似，中国外交部发表声明称，“对于发表种族主义言论、恶意抹黑攻击中国的媒体，中国人民不欢迎。”</div>
+<div class="article-paragraph">任何读过米德专栏的读者，无论标题还是内容，都会注意到里面一点种族主义都没有，尽管文章做出了强有力的论述，那就是冠状病毒疫情如何暴露了中国体制整体上的弱点。熟悉《华尔街日报》的人都知道，和《纽约时报》一样，它将新闻和观点版块严格区分开来，这意味着被驱逐的记者与米德专栏文章的写作和发表毫无关系。</div>
+<div class="article-paragraph">但在寻找政治替罪羊的过程中，事实的准确性是无关紧要的，而这正是此次打击《华尔街日报》的意义所在。这样做对米德关于中国固有弱点的总体观点是一种强调，而非反驳。</div>
+<div class="article-paragraph"><span>这些弱点是什么？人口学家指出，是中国的<a href="https://cn.nytimes.com/business/20200120/china-birth-rate-2019/">出生率下降</a>、<a href="https://time.com/5523805/china-aging-population-working-age/" rel="noopener noreferrer" target="_blank">人口老龄化</a>和<a href="https://www.nytimes.com/2017/02/14/world/asia/china-men-marriage-gender-gap.html">性别差距</a>。经济学家列举了它的<a href="https://www.theglobeandmail.com/world/article-china-grappling-with-a-productivity-problem-professor-argues/" rel="noopener noreferrer" target="_blank">生产率下降</a>、<a href="https://www.wsj.com/articles/real-news-on-fake-data-in-china-1515573859" rel="noopener noreferrer" target="_blank">捏造的统计数据</a>和<a href="https://www.bloomberg.com/news/newsletters/2019-11-30/next-china-the-ticking-debt-bomb" rel="noopener noreferrer" target="_blank">巨大的债务炸弹</a>。政治分析人士指出，北京的镇压政策越来越多，导致从香港到新疆的不满情绪越来越强烈。</span></div>
+<div class="article-paragraph">但是冠状病毒危机暴露了一个更深层次的弱点：中国政府害怕信息。</div>
+<div class="article-paragraph"><span>就像<a href="https://cn.nytimes.com/opinion/20200130/coronavirus-china-government/">我的同事纪思道(Nick Kristof)指出的那样</a>，正是这种恐惧导致政府压制关于这种新病毒的新闻，并惩罚揭发病毒的医生。其结果是丧失了与这种疾病作斗争的关键时间</span>，导致全球卫生危机在所难免。</div>
+<div class="article-paragraph">这种行为对中国政府来说并不新鲜：它对2003年SARS疫情的处理方式并没有多少不同。这也不是中国特有的问题：任何依赖操纵或制造“真相”以求生存的政权，都必然会以类似的方式行事。这就是为什么唐纳德·特朗普无休止的谎言和对事实的错误陈述不仅是不道德的，而且是危险的。真相不会消失。它只会潜行。</div>
+<div class="article-paragraph">但中国人的问题要严重得多，原因很简单，他们没有真正独立的国内媒体。这意味着普通人无法获得及时、准确和全面的信息——中国的统治者也无法获得。其结果就是可能非常危险的谣言；可能带来致命后果的无知；还有可能是灾难性的误判。</div>
+<div class="article-paragraph">针对《华尔街日报》的行动只会加剧该政权的问题，因为外国新闻机构的报道往往在填补缺漏和纠正中国官方媒体的歪曲事实<span>方面起到关键作用。《华尔街日报》做了一些最具开创性的工作，它揭露了<a href="https://www.pulitzer.org/winners/staff-64" rel="noopener noreferrer" target="_blank">中国环境灾难的规模</a>，正如《纽约时报》揭露了<a href="https://www.pulitzer.org/winners/david-barboza" rel="noopener noreferrer" target="_blank">中国领导层金字塔顶端的腐败</a>。其他新闻媒体，<a href="https://www.reuters.com/article/us-china-stocks-regulation-analysis/chinese-firms-missing-6-billion-tests-regulators-resolve-idUSKCN1SN0OT" rel="noopener noreferrer" target="_blank">尤其是路透社(Reuters)</a>，对中国经济中普遍存在的欺骗和欺诈行为也做了极为重要的报道。</span></div>
+<div class="article-paragraph">如果压制这类报道，首先会出现信息盲点的就是中国领导人。每个独裁者都需要订阅《华尔街日报》和《纽约时报》，哪怕要像旧时的淫秽杂志一样，装在不起眼的棕色信封里。</div>
+<div class="article-paragraph">也许中共会收回这次驱逐记者的决定，或者至少在几周后悄悄让他们回来，这都是有可能的。面对由自己对信息的非理性怀疑所带来的巨大危机时，明智的领导者至少会从自己的愚蠢中吸取教训。但在中国可能有一个比冠状病毒更可怕的真相——愚蠢的统治者。</div>
+<div class="article-paragraph">对于这个问题，还没有发明出任何疫苗。</div>
+*
+新冠患者治愈后会再次被感染吗？
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">感染了新型冠状病毒的患者治愈后，有没有可能再次——甚至多次被感染？</div>
+<div class="article-paragraph">日本政府上周报道说，大阪的一名女性在康复<span>出院几周后<a href="https://www.nytimes.com/reuters/2020/02/26/world/asia/26reuters-china-health-japan.html">第二次检测冠状病毒呈阳性</a>。</span></div>
+<div class="article-paragraph"><span>结合<a href="https://www.reuters.com/article/us-china-health-chengdu/coronavirus-patient-re-hospitalized-in-chinas-chengdu-after-testing-positive-again-idUSKBN20F13C" rel="noopener noreferrer" target="_blank">中国类似病例的报道</a>，日本的</span>这个<span>病例引发了一些令人不安的问题。<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6037089/" rel="noopener noreferrer" target="_blank">冠状病毒</a>引起的普通感冒</span><span>的康复者中，<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1628163/" rel="noopener noreferrer" target="_blank">再次感染是常见的</a></span>。</div>
+<div class="article-paragraph">但是这些病原体与新型冠状病毒完全不同，专家们说，这些病例不太可能是二次感染。</div>
+<div class="article-paragraph">纽约西奈山伊坎医学院(Icahn School of Medicine at Mount Sinai)的病毒学家弗洛里安·克拉默(Florian Krammer)说：“我不是说再次感染不会发生，或永不发生，只是在这么短的时间内是不太可能的。”</div>
+<div class="article-paragraph">他说，在恢复中的患者，即使是最轻微的感染，也应留下至少在短期内抵抗病毒的免疫力。</div>
+<div class="article-paragraph">实际情况更可能是，“再次感染”的患者在出院时仍然携带了少量病毒，在测试中未能被查出。</div>
+<div class="article-paragraph">即使偶尔有再感染的病例，发生的频率似乎也不足以在目前的疫情中成为优先重点。</div>
+<div class="article-paragraph"><span><a href="https://jamanetwork.com/journals/jama/fullarticle/2762452" rel="noopener noreferrer" target="_blank">《美国医学会杂志》(JAMA)上周四发表的一份报告</a>支持这样的观点，即人们在康复之后很长时间有可能在病毒检测中呈阳性。</span></div>
+<div class="article-paragraph">在中国的疫情中心武汉，四名暴露于该病毒的医务人员在无症状5至13天后，病毒基因物质检测仍然呈阳性。</div>
+<div class="article-paragraph">但是，这不一定意味着他们仍然能够感染其他人。</div>
+<div class="article-paragraph">PCR诊断测试高度敏感，可以从单个病毒分子中放大遗传物质。因此，测试可能仅仅是找到了病毒的片段。</div>
+<div class="article-paragraph"><span>克拉默说，在麻疹病人停止散播传染性病毒几个月后，PCR检测<a href="https://www.ncbi.nlm.nih.gov/pubmed/22872860" rel="noopener noreferrer" target="_blank">可能仍会发现麻疹病毒的残留</a>。</span></div>
+<div class="article-paragraph">另一种可能性是阴性测试的操作不当，或者样本保存在不适当的温度下导致病毒变质。还有咽拭子可能根本检测不出藏在身体其他部位的病毒。</div>
+<div class="article-paragraph">哈佛大学陈曾熙公共卫生学院(Harvard T.H. Chan School of Public Health)流行病学教授马克·利普西奇(Marc Lipsitch)说：“当你为一个人提取咽拭子那一刻，拭子上需要有足够数量的病毒，测试才会呈阳性。”</div>
+<div class="article-paragraph">“测试呈阴性并不意味着这个人体内没有病毒。”</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="周五，在山东邹平的一家医院，一名痊愈的冠状病毒患者在献血。" data-src="https://static01.nyt.com/images/2020/02/29/science/29VIRUS-REINFECT2/29VIRUS-REINFECT2-master1050.jpg" src="https://static01.nyt.com/images/2020/02/29/science/29VIRUS-REINFECT2/29VIRUS-REINFECT2-master1050.jpg"/></div><figcaption><span>周五，在山东邹平的一家医院，一名痊愈的冠状病毒患者在献血。</span> <cite>Agence France-Presse — Getty Images</cite></figcaption></figure></div>
+<div class="article-paragraph">利普西奇打了一个比方：一罐顶部发霉的果酱。刮掉发霉的表面可能让人觉得这罐果酱没有霉菌了，但实际上罐子里可能仍然含有不断生长的霉菌。</div>
+<div class="article-paragraph">这位日本女性最初有轻度冠状病毒感染症状，在1月下旬测试呈阳性。她于2月1日出院。上周三，她因喉咙痛和胸痛入院后再次检测出阳性。</div>
+<div class="article-paragraph">“这听起来确实像是一种病毒以传染的形式复活了，”利普西奇说。但是他还说：“单一的零星事件真的很难解释。”</div>
+<div class="article-paragraph">一种令人担忧的可能性是，冠状病毒会发生所谓的二相性感染：病毒持续存在，并引起与最初发作不同的症状。</div>
+<div class="article-paragraph"><span>在感染埃博拉病毒的患者中，即使恢复后，这种病毒也可能在睾丸或眼睛中持续数月之久——并且<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6316729/" rel="noopener noreferrer" target="_blank">可以感染其他人</a></span>，使疾病继续流行。</div>
+<div class="article-paragraph">哥伦比亚大学(Columbia University)的病毒学家安吉拉·拉斯穆森(Angela Rasmussen)说，康复的人也会出现其他症状，包括失眠和神经系统问题。</div>
+<div class="article-paragraph">“我们不知道这种冠状病毒是否如此，”拉斯穆森说。“我们对这种病毒一无所知。”</div>
+<div class="article-paragraph">她说，人们总体上对冠状病毒的了解就很少。SARS流行之前并不知道冠状病毒会引起严重的疾病。</div>
+<div class="article-paragraph"><span>一些科学家表示，感染了新型冠状病毒的人会<a href="https://cn.nytimes.com/china/20200228/coronavirus-treament-recovery/" title="Link: https://cn.nytimes.com/china/20200228/coronavirus-treament-recovery/">产生抗体</a>，在将来保护他们。并且<a href="https://t.co/Ow16SNmKyS?amp=1" rel="noopener noreferrer" target="_blank" title="Link: https://t.co/Ow16SNmKyS?amp=1">有一个单例报告</a></span>显示该免疫力可持续至少七天。</div>
+<div class="article-paragraph">但是，艾奥瓦大学(University of Iowa)的冠状病毒专家斯坦利·珀尔曼(Stanley Perlman)博士说，这一发现并不意外，同时也令人担忧。“问题在于七个月或是一年后抗体是否还在，”他说。“你要关心的是这个。”</div>
+<div class="article-paragraph">新型冠状病毒和引起SARS的病毒非常相似，与MERS较为相似。珀尔曼说，没有关于SARS病毒再次感染的报告，他只听说过有一例MERS康复患者再次感染。</div>
+<div class="article-paragraph"><span>珀尔曼对MERS的研究表明，免疫反应的强度取决于感染的严重程度，但即使是那些重症疾病——应产生最强的免疫反应——<a href="https://wwwnc.cdc.gov/eid/article/22/6/16-0010_article" rel="noopener noreferrer" target="_blank">其免疫力似乎也会在一年内减弱</a>。</span></div>
+<div class="article-paragraph">在针对新型冠状病毒设计疫苗时，一个要解决的关键问题是免疫力能持续多长时间——尤其是如果该病毒像流感一样成为季节性威胁。</div>
+<div class="article-paragraph">“感染该病毒后产生的免疫力是什么性质？”利普西奇说。“这是一个紧迫的研究问题。”</div>
+*
+剃光头、穿纸尿裤，中国女性医护人员的艰困防疫战
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">27岁的章璺澹（音）和她的家人正在庆祝农历新年时，接到了医院的通知：回医院报道，参与抗击冠状病毒疫情的战斗。</div>
+<div class="article-paragraph">章璺澹住在湖北省黄冈市，该省是病毒的起源地。两天前，官员孤注一掷地封锁了她的城市以遏制病毒传播。章璺澹和未婚夫去房间收拾行装时，她的母亲默默地流下眼泪。</div>
+<div class="article-paragraph">章璺澹说，在医院的经历很难捱，特别是作为女性。</div>
+<div class="article-paragraph">像所有同事那样，章璺澹习惯了在防护服下被汗水浸湿的衣服。她接受了没有足够口罩供医护人员使用的事实。在了解到动作太大防护服会开线后，她会小心谨慎。不过，她还剪掉了全部头发，不得不与上级就生理期进行令人别扭的谈话。</div>
+<div class="article-paragraph">为了个人卫生和方便起见，在医院隔离区的30天，章璺澹保持短发。<a href="https://www.youtube.com/watch?v=4Htr2SdoP0k" rel="noopener noreferrer" target="_blank">中国官方媒体称，剃光头的女医护人员是与疫情作斗争的“最美战士”</a>。章璺澹说，在超市里，“人家喊我‘帅哥’”。理发费用由医院支付。</div>
+<div class="article-paragraph">对于章璺澹来说，最艰难的时刻是在她寻求帮助获取卫生巾和棉条后，她的上级——几乎都是男性——告诉她和她的女同事们，她们“缺乏奉献精神”和纪律。</div>
+<div class="article-paragraph"><figure class="article-inline-photo"><div class="img-box"><img alt="章璺澹穿着闷热的防护服，戴着充满雾气的护目镜给病人做检查。" data-src="https://static01.nyt.com/images/2020/02/26/world/26life-nurse-2/merlin_169543932_4725b9f8-46db-4c94-8556-1d5646bca6fd-jumbo.jpg" src="https://static01.nyt.com/images/2020/02/26/world/26life-nurse-2/merlin_169543932_4725b9f8-46db-4c94-8556-1d5646bca6fd-jumbo.jpg"/></div><figcaption><span>章璺澹穿着闷热的防护服，戴着充满雾气的护目镜给病人做检查。</span> <cite></cite></figcaption></figure></div>
+<div class="article-paragraph">只有当局批准的物资才能进入城市，因此，对许多女性来说，获得这些物品变得困难。随着日子一天天过去，她说，她感到自己的精神在“慢慢崩溃”。</div>
+<div class="article-paragraph">一群志愿者注意到了这个情况，向医院送去了约2000个成人纸尿裤，提供给500名女性医护人员。</div>
+<div class="article-paragraph">章璺澹说，医院对她最初诉求的回应，触到了她和许多女医护人员的痛处，她们表示一天中很难有时间去洗手间，更不用说在穿着质量差的连体防护服时处理生理期的问题。这并非一线医护人员第一次抱怨工作条件了。</div>
+<div class="article-paragraph">在湖北省，<a href="https://www.nytimes.com/2020/02/14/world/asia/china-coronavirus-doctors.html">护士和医生恳求增加口罩</a>的供应，最近确认的的感染病例中，有上千名是医务工作者，并有<a href="https://cn.nytimes.com/china/20200207/li-wenliang-coronavirus/">数例死亡</a>。周一，<a href="https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30065-6/fulltext" rel="noopener noreferrer" target="_blank">附近城市武汉的医护人员写信给医学期刊《柳叶刀》(The Lancet)寻求帮助</a>，并将医院的状况描述为“比我们能够想像的更加艰难和极端”。</div>
+<div class="article-paragraph">其中一些担忧引起了章璺澹的共鸣。她说：“我害怕被感染，想家。”现在，她在一线的任务已经结束，正在附近的一家酒店里进行为期14天的隔离，然后才能回到家人身边。</div>
+<div class="article-paragraph">一切都结束后，她说很期待再次与家人见面，慢慢地泡个舒服的澡，并吃到妈妈做的饭。母亲在她执行任务期间为她做过三顿饭，包括土豆、胡萝卜、羊肉串、辣椒炒鸡蛋，甚至排骨汤。章璺澹从家外面的便道上取走食物，而母亲则站在远处看着。</div>
+<div class="article-paragraph">她也很期待自己的婚礼，说打算在婚礼上戴假发。她已经为婚纱交了定金，但还没去挑选。她努力保持乐观，特别是在和未婚夫交谈的时候。他们的婚礼定在4月24日举行。</div>
+<div class="article-paragraph">她说：“希望不会延迟。”</div>
+*
+新冠疫情蔓延全球，酒店、赌场和游乐园怎么办？
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">本周，成千上万人将前往拉斯维加斯参加商务会议。得克萨斯州奥斯汀一年一度的西南偏南艺术节(South by Southwest)将于本月举行。</div>
+<div class="article-paragraph">之后是春假、暑假和日本的奥运会。</div>
+<div class="article-paragraph">今年1月，当冠状病毒首次在中国暴发时，对酒店业乃至整个旅游行业的冲击似乎仅限于来往中国的旅客。但随着疫情蔓延到欧洲和美国，影响已经扩大，依赖世界各地旅行者的商务和旅游活动公司很难准确预测疫情对他们的最终影响。</div>
+<div class="article-paragraph">例如，凯悦酒店(Hyatt Hotels)的总裁兼首席执行官马克·S·霍普拉马西安(Mark S. Hoplamazian)表示，由于“迅速变化的环境和不确定的消费者旅游需求”，该公司于周一收回了年度财务指导。</div>
+<div class="article-paragraph">越来越多的公司开始限制非必要的出差，民众停止外出，会议、酒店和其他机构正努力应付对冠状病毒不断加剧的恐惧。</div>
+<div class="article-paragraph">分析人士说，包括邮轮和游乐园在内的大多数住宿、赌博或休闲行业的公司都知道，它们的收入将在短期内受到冲击，但它们不知道今年夏天或以后会怎样。</div>
+<div class="article-paragraph">紧张的投资者正在为最坏的情况做准备，导致邮轮公司的股票下跌了三分之一。凯悦(Hyatt)、万豪国际(Marriott International)和洲际酒店集团(InterContinental Hotels Group)等连锁酒店的股价今年以来下跌了16%以上，而整体市场的跌幅仅为5%。</div>
+<div class="article-paragraph">“看到其他公司取消或收回它们在第四季财报季提供的指引，我并不感到意外，”雷蒙德·詹姆斯金融(Raymond James Financial)的酒店业分析师比尔·克劳(Bill Crow)表示。“之前的焦点主要集中在中国，以及中国的酒店会怎样。现在这已经成为一个重大的国内问题，我们看到一个个重要会议被取消。”</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="日本将主办定于7月开幕的夏季奥运会。" data-src="https://static01.nyt.com/images/2020/03/03/business/03virus-businesstravel-2/merlin_169936503_824a40dc-17d8-42a1-be1a-ab9e540175cb-master1050.jpg" src="https://static01.nyt.com/images/2020/03/03/business/03virus-businesstravel-2/merlin_169936503_824a40dc-17d8-42a1-be1a-ab9e540175cb-master1050.jpg"/></div><figcaption><span>日本将主办定于7月开幕的夏季奥运会。</span> <cite>Jae C. Hong/Associated Press</cite></figcaption></figure></div>
+<div class="article-paragraph">克劳指出，会议和其他团体活动是一项大生意，约占连锁酒店收入的三分之一，还有三分之一来自度假者。</div>
+<div class="article-paragraph">许多会议组织者似乎决心照原计划行事，但也在制定各种筛查措施和规则。</div>
+<div class="article-paragraph"><span>定于下周在加州圣何塞召开的商业软件会议SaaStr表示将<a href="https://www.saastr.com/additional-health-safety-rules-for-2020-saastr-annual/" rel="noopener noreferrer" target="_blank">禁止受影响最严重的国家</a>（中国、韩国、意大利和伊朗）的居民，以及过去60天内访问过这些国家的人参加。所有与会者都需要出示美国驾照或护照才能入场。组织者说，国籍是中国、韩国、意大利和伊朗的公民也将接受额外检查，包括护照检查，以确保他们最近没有访问过自己的祖国。</span></div>
+<div class="article-paragraph">组织者计划通过“被动扫描”来检查所有与会者的体温。他们还禁止握手，并要求与会者在出席每次会议前洗手。“这可能会导致排队，”组织者说。“我们很抱歉。”</div>
+<div class="article-paragraph">医疗信息和管理系统协会(Healthcare Information and Management Systems Society)将于下周在佛罗里达州奥兰多市举行会议，与会者被告知见面要轻拍手肘，而不是握手。参会者还可以在服务台购买医用口罩。</div>
+<div class="article-paragraph">Facebook、Twitter和英特尔(Intel)表示其员工不会参加西南偏南艺术节，但组织者于周二坚称活动将于下周如期举行。</div>
+<div class="article-paragraph"><span>下周将有一个国际建筑<a href="https://www.conexpoconagg.com/" rel="noopener noreferrer" target="_blank">贸易展</a>在拉斯维加斯举行，由于旅行限制，一些本打算参加该展会的中国、意大利、韩国和日本人取消了行程，但组织者说，报名人数仍高于三年前的上次展会。会议组织者说，为了保证13万多人参会者的健康，他们将分发写有“不握手”的徽章或贴纸。</span></div>
+<div class="article-paragraph">面对与会者的取消或紧张情绪，有些大型会议则打了退堂鼓。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="迪士尼公司上月表示，上海迪士尼等主题公园的关闭将使其今年损失约1.75亿美元的利润。" data-src="https://static01.nyt.com/images/2020/03/03/business/03virus-businesstravel-3/merlin_168726324_29f2bd60-4a58-4c3a-9a91-1baa2ad27c98-master1050.jpg" src="https://static01.nyt.com/images/2020/03/03/business/03virus-businesstravel-3/merlin_168726324_29f2bd60-4a58-4c3a-9a91-1baa2ad27c98-master1050.jpg"/></div><figcaption><span>迪士尼公司上月表示，上海迪士尼等主题公园的关闭将使其今年损失约1.75亿美元的利润。</span> <cite>Yuyang Liu for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">世界移动大会(Mobile World Congress)是一个重要的行业展会<span>，每年吸引成千上万来自技术、电信和广告公司的人参加。在参展公司出于健康和安全的考虑退出后，大会<a href="https://www.wired.com/story/mobile-world-congress-canceled-coronavirus-fears/" rel="noopener noreferrer" target="_blank">取消</a>了上个月在巴塞罗那举行的活动。Google和Facebook分别取消了原定于5月在加利福尼亚举行的重要开发者大会。软件公司Zendesk取消了原定于周二在迈阿密开始的Relate会议。</span></div>
+<div class="article-paragraph">Zendesk表示将向非营利组织捐赠食物和未使用的地毯，并与迈阿密的一位当地艺术家合作，“将一些纸板标牌重新用于艺术创作”。</div>
+<div class="article-paragraph">迪士尼公司上月初表示，由于中国的迪士尼乐园关闭，今年将损失约1.75亿美元的利润。此后迪士尼在日本的游乐园也关闭了。迪士尼尚未透露巴黎迪士尼乐园的游客将会受到怎样的影响，公司在那里有两个园区，每年的总参观人数为1500万，法国已开始禁止在巴黎周围某些地区举行公众聚会，以遏制该病毒的传播，这影响了迪士尼乐园的经营。游乐园隶属于迪士尼内部的一个业务单元，占其总收入的38％和利润的46％。</div>
+<div class="article-paragraph">拉斯维加斯正在焦虑不安地关注病毒传播。根据拉斯维加斯会议和游客管理局(Las Vegas Convention and Visitors Authority)的数据，去年，在拉斯维加斯的4250万访客中，有660万人是去参加会议的，占访客总数的15.5％。</div>
+<div class="article-paragraph">赌博公司永利度假村(Wynn Resorts)和拉斯维加斯金沙集团(Las Vegas Sands)的股票今年以来已经分别下跌超过20％，这主要是因为其在澳门的大型赌场业务关闭了两个星期。</div>
+<div class="article-paragraph">周一晚些时候，Adobe Systems取消了年度活动，这是拉斯维加斯失去的第一个大型会议，该活动将吸引两万名参观者，来听诸如演员和企业家格温妮丝·帕特洛(Gwyneth Paltrow)、新英格兰爱国者队(New England Patriots)的四分卫汤姆·布雷迪(Tom Brady)和喜剧演员切尔西·汉德勒(Chelsea Handler)等人以及众多公司首席执行官和高管的演讲。Adobe说，它计划将活动的一部分在线举行。</div>
+<div class="article-paragraph">“拉斯维加斯是目前最大的未知数，”金融服务公司Stifel Financial的赌博和休闲分析师史蒂芬·韦茨基(Steven Wieczynski)说。“如果冠状病毒继续徘徊并占据新闻，那么更多的会议和团体旅行将被取消。而现在的拉斯维加斯正是以此闻名。”</div>
+*

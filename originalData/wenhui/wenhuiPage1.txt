@@ -1,0 +1,365 @@
+实时追踪|上海医疗救治组组长：恐慌与激情过后，该如何冷静 ...
+<p style="text-align:center;"><img alt="31.jpg" src="http://wenhui.whb.cn/u/cms/www/202001/26101605taf1.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p><span style="color: rgb(127, 127, 127);">近日，新冠肺炎的疫情举世瞩目，朋友圈的新闻轰炸牵动着每个人的心。为了帮助大家了解疫情的动态变化，更好的做好自我防护，华山感染微信公众号每天都更新疫情相关数据，上海市医疗救治专家组组长，华山医院感染科主任张文宏教授特地撰文对疫情的变化趋势、热点问题及相关注意事项进行解读，文章</span><span style="color: rgb(127, 127, 127);">版权归复旦大学附属华山医院感染科所有。</span><span style="color: rgb(127, 127, 127);">本报获得授权全文转载。</span><span style="color: rgb(127, 127, 127);">以下为张文宏教授全文——</span></p>
+<p style="text-align:left;display:block;">全国各地的病例数每日在飙升，除了西藏，全国各省/地区都已经有了新冠病毒感染病例的报道。网络上流传着蜂拥的就医人群、哭泣的一线医生、被封的村庄道路、停运的城市交通等，仿佛有世界末日来临之势。除夕之夜，勇士逆行，不斩楼兰誓不还。</p>
+<p style="text-align:left;display:block;">但凡真的勇士有两种，一种是无畏的勇士，一种是理性的智者。昨天除夕我们谈无畏勇士，今天初一我们讲理性智者的思考。</p>
+<p style="text-align:left;display:block;"><span style="color: rgb(31, 73, 125);">今天下午，我国著名的病毒学家闻玉梅院士电话给我，谈到疫情，她说：</span><span style="color: rgb(31, 73, 125);">“现在全国一片恐慌，但防疫有其自身规律，目前需要的是理性科学对待。早期武汉疫情是盲目乐观，现在过度恐慌，反而不能科学对待眼前的疫情”。</span></p>
+<p style="text-align:left;display:block;">闻先生是中国著名的病毒学家，经历疫情无数，现今很多著名的病毒学家都是她的学生。她的一席话再次引发我们对当前全国疫情防控的深入思考。</p>
+<p style="text-align:left;display:block;">基于对当前的疫情的了解，和对病毒的生物学特性及患者临床表现转归的思考，笔者作为目前奋战在抗冠一线的临床医生，也作为长期从事新发传染病研究的科学工作者，提醒大家在发动武汉战役之后，对于疫情应该有长远细致的安排和思考。在外地的武汉人和在武汉的外地人总归要回家，停摆的武汉终归要重启。重启后的武汉和全国的抗冠之路应该怎样走？</p>
+<p style="text-align:left;display:block;"><strong>01、武汉战役需要动用大量人力物力，战役目标应能达到</strong></p>
+<p style="text-align:left;display:block;">启动全国级别的抗疫，在我国历史上不是第一次。典型的战役是大清王朝末年，1910年，宣统二年年底，东北鼠疫爆发。无双国士伍连德临危受命接管东北抗疫大权。采取的措施也是东北封城，断绝交通，逐户探访病人，隔离收治。</p>
+<p style="text-align:left;display:block;">从1911年1月开始，东北境内铁路陆续停驶。1月13日，帝国在山海关设立检验所，凡经过旅客，均需停留五天观察。1月15日，陆军部加派军队，阻止入关客货。1月21日，又下令断绝京津交通。所有医护和易感人群均带“伍氏口罩“。3月1日，哈尔滨首先实现了零死亡。到四月，鼠疫终于彻底扑灭。共四个月，扑灭东北鼠疫。</p>
+<p style="text-align: center; display: block;"><img alt="7.pic.jpg" border="0" height="571" src="/u/cms/www/202001/26101841is01.jpg" style="width: 645px; height: 571px;" title="7.pic.jpg" vspace="0" width="645"/></p>
+<p style="text-align:left;display:block;">鼠疫乃细菌所致。新冠乃病毒，但都离不开“逐宿主而居之”的特性，人类并非新冠状病毒的天然宿主。人体感染后需要启动免疫反应，免疫系统一般需要2-4周可清除病毒，但清除过程中可出现发热、肺炎等激烈的炎症反应。<strong><span style="color: rgb(31, 73, 125);">如果在这两周内对感染者予以隔离，保证在2-4周内病毒没有完成下一代病例的传播，则传染病传播链自然打断。</span></strong>所以在此试问，今日之武汉，相比昔日之东北如何？新冠状病毒猛烈，但比之鼠疫又如何？</p>
+<p style="text-align:left;display:block;">所以自全国勇士驰援武汉之时，武汉战役的结局已经没有疑问。今天在荆襄大地的百姓和全国处于惶恐中的大众，应对此疫有必胜之信心。</p>
+<p style="text-align:left;display:block;">困难的不是武汉，而是输入武汉病例的其他城市。</p>
+<p style="text-align:left;display:block;">对于武汉外的其他城市，卫生管理层和城市管理层面临一场大考。这场考试考的已经不是勇气，而是理性和科学。武汉以外其他城市管理层，目前面临的正是武汉2019年12月底同样的问题，如果可以重来，在疾病的初期应如何抗击这场新发传染病？</p>
+<p style="text-align:left;display:block;"><strong>02、武汉外的城市抗疫，还需老老实实按科学规律办事</strong></p>
+<p style="text-align:left;display:block;">当前的全国大部分地区发病数据出现激增。在武汉是原来堆积的病例和一代病例再传播派生出的二代与三代病例。疾病爆发之初，看到所有病例均来自华南海鲜市场之时，人们极易产生该病是有限传播的美好愿望。</p>
+<p style="text-align:left;display:block;">美好的愿望往往是一厢的，世界走的多是墨菲定律的路子。</p>
+<p style="text-align:left;display:block;">很快出现的一系列聚集性发病案例没有受到重视是武汉之殇的关键节点。<span style="color: rgb(31, 73, 125);">香港大学袁国勇教授，也是当年在香港鉴定SARS冠状病毒的科学家，通过对武汉家族聚集性病例的基因分析获得了人传人的铁证。只要出现人传人之后的二代病例和三代病例，疫情就标志着进入第二阶段。这个阶段时间越长，则残余病例数量越大。当前武汉和湖北出现病例数飙升属意料之中。</span></p>
+<p style="text-align:left;display:block;">但是再高的发病率，通过物理上的交通管制，必能切断实际上的传染病播散。2周的潜伏期不算太长。</p>
+<p style="text-align:left;display:block;">今天人民日报发布消息，<span style="color: rgb(31, 73, 125);">除了华中科技大学附属同济医院分院的1200张床位外，将再建一所1300张的定点新医院。通过对所有发病患者的收治，<strong>不出2周，武汉实报病例应该能出现拐点。</strong></span></p>
+<p style="text-align: center; display: block;"><img alt="33.jpg" border="0" height="274" src="/u/cms/www/202001/261020018zqa.jpg" style="width: 645px; height: 274px;" title="33.jpg" vspace="0" width="645"/></p>
+<p style="text-align:left;display:block;">现在的困难在于其他各省的输入性病例。随着诊断试剂的普及，未来两周会不断检测出从武汉交通封锁前流出的病例，输入性的病例随着23日的武汉封城，在2月7日左右应该会出现拐点。</p>
+<p style="text-align:left;display:block;">但是，不可预测的是，是否已经出现所在城市的二代病例？当前很多城市的诊断试剂虽然已经到位，但是诊断时间不及时，假阳性假阴性病例可能也不少，临床采样不规范也会影响检测结果。凡此种种，均有可能造成输入性病例的继续传播，继而产生二代病例和三代病例。</p>
+<p style="text-align:left;display:block;"><span style="color: rgb(31, 73, 125);">当某一个城市的不明原因肺炎中出现新冠病毒，而且源头不清的时候，预示着该城市已经失去了初期防控的黄金窗口，可能要进入二代病例传播的持久战阶段。</span>这个阶段可以在病例出现爆发时候发现，也可以通过主动监测来完成。准备采取何种方式进行防疫，纯属城市管理者的见仁见智了。</p>
+<p style="text-align:left;display:block;">因此，当前武汉外的防疫工作，必须老老实实地做好病例筛查，迅速确诊，精确分检，该隔离隔离，该回家回家。如果病例数较多，超出当地医院的承受能力，那么按照轻症病例可以居家隔离的策略也能达到阻止病例扩散的要求。</p>
+<p style="text-align:left;display:block;">这里的核心防治策略还是要当地政府严格按照流程去实施疫情管理。疫情的初期，在没有发现二代病例的阶段，应对所有潜在的输入性病例进行迅速有效的筛检，这个阶段怎么投入都不会白费。发现的病例轻者在院隔离观察或者居家隔离,均能实现阻止病例在社会上的滞留与传播，避免形成二代和三代病例。</p>
+<p style="text-align:left;display:block;">所在省市有条件者可以对武汉来源之外的不明原因肺炎进行病原学的监测，明确是否已经有武汉二代或者三代病例在本地形成传播循环。一旦发现，则标志抗疫时间要延长，所在城市进入持久抗疫阶段。</p>
+<p style="text-align:left;display:block;"><span style="color: rgb(31, 73, 125);">抗击新冠到了目前这个阶段，比的已经不是仅仅是勇气，而是理性、耐心与科学了。</span></p>
+<p style="text-align: center; display: block;"><span style="color: rgb(31, 73, 125);"><img alt="32.jpg" border="0" height="798" src="/u/cms/www/202001/26102107r14k.jpg" style="width: 645px; height: 798px;" title="32.jpg" vspace="0" width="645"/></span></p>
+<p style="text-align:left;display:block;"><strong>03、世卫组织和中国疾控的居家隔离策略应能发挥巨大作用</strong></p>
+<p style="text-align:left;display:block;">当前对于武汉新冠病毒的认识已经到了新的层面。</p>
+<p style="text-align:left;display:block;">最近国际著名的柳叶刀杂志和新英格兰医学杂志上公布了病毒的基因结构和潜在的宿主受体，也发表了本病的主要临床特征。这些研究发现，新冠病毒不是SARS病毒，症状总体上较轻，病毒受体主要分布于下呼吸道的肺泡细胞上。<span style="color: rgb(31, 73, 125);">这就注定了该病的显性发病以肺炎为主，而轻症或者隐性发病比例可能较多，极易在不知不觉中造成极大的传播。</span></p>
+<p style="text-align:left;display:block;">因此， 2003年的SARS和2012年的MERS，传染源多为重症患者，但新冠可能会有相当多的轻症甚至无症状感染者造成传播。这就注定了在筛查肺炎患者的同时必须关注轻症或者无症状的感染者。</p>
+<p style="text-align:left;display:block;">在此春节的关键节点，可以借助天赐的休假良机，彻底通过居家隔离，让病毒传播停摆。密切接触者和无症状的潜在感染者，可以选择与轻症流感同样的防控策略，居家隔离。</p>
+<p style="text-align:left;display:block;">居家隔离，或者社区隔离观察点，可以实现集中治疗点不能起到的效果。当传染病暴发之际，当存在大量无症状的密切接触者或者潜在病人的时候，居家隔离应该作为一个重要的选项，可以解决治疗点不能解决的问题。若出现任何症状则再次去医院就诊也非常重要。居家自行隔离期间，可以借刷朋友圈、煲剧、读书品茶之际，让新冠病毒自行失去传播能力而灰飞烟灭。</p>
+<p style="text-align:left;display:block;">人类非新冠状病毒之天然宿主，该病没有慢性阶段，轻症或者疑似感染者通过短期的休息隔离即可消灭病毒，肺炎患者通过住院隔离治疗亦能实现消除病毒于传播之目的。</p>
+<p style="text-align:left;display:block;">春节已经开始，元宵终归要来，我们做好武汉重启的准备了吗？</p>
+<p style="text-align: right; display: block;">张文宏</p>
+<p style="text-align: right; display: block;">写于2020庚子年大年初一</p>
+<p><br/><span style="color: rgb(127, 127, 127);">作者：张文宏<br/>编辑：张鹏<br/>责任编辑：姜澎</span></p>
+<p><span style="color: rgb(127, 127, 127);font-size:16px">*文汇独家稿件，转载请注明出处。</span></p>
+*
+加油武汉！加油中国！以“艺”战“疫”，沪高校师生这样向白衣天使 ...
+<p style="text-align:left;display:block;">突如其来的新冠肺炎疫情，让这个春节很不平凡。对高校学子而言，开学延迟了，寒假加长了，虽宅在家里，但战“疫”的热情十分高涨。</p>
+<p style="text-align:left;display:block;">眼下，很多大学生都不约而同地选择了用这种表达方式对白衣战士的崇敬——以“艺”战“疫”！</p>
+<p style="text-align:left;display:block;"><span style="color: rgb(31, 73, 125);"><strong>【上海理工大学】</strong></span></p>
+<p style="text-align:left;display:block;">难忘疫情突来，解放军、医护人员、警察、建筑工人等一线工作者并肩相守，守望相助，为更多人民群众垒砌防控疫情的健康之墙，留下了最美的抗疫者身影。</p>
+<p style="text-align:left;display:block;">日前，上海理工大学出版印刷与艺术设计学院师生发起了“众志成城，以‘艺’抗‘疫’——2020抗击‘新冠肺炎’公益宣传作品征集活动”，以绵薄之力感谢生命的守护者。学校沪江学院师生也积极行动起来，用一件件作品为武汉加油、为中国加油。活动发起仅1天时间就收到100余副（件）作品，涵盖海报、手绘、剪纸、篆刻、书法等类型，涌现出一批佳作。</p>
+<p style="text-align:center;"><img alt="上海理工1.jpg" src="http://wenhui.whb.cn/u/cms/www/202002/081926352hk2.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p><strong>《战胜疫情》</strong><strong>作者：蒋倩</strong><strong>指导老师：谢琼</strong></p>
+<p style="text-align:left;display:block;">基建队伍，是战胜疫情道路上的一股强大力量，他们是逆风而行的战斗狂魔。</p>
+<p style="text-align:left;display:block;">作品展现了基建队伍在这场战疫中的力量。灵感源于10天建成的火神山医院，挖掘机在土地上留下一道道与时间为敌的痕迹。挖掘机留下的痕迹形成战疫二字，表达了在这场战疫中，基建队逆行者奉献的巨大力量。战疫是战胜疫情的缩写，这场战疫终将胜利！</p>
+<p style="text-align:center;"><img alt="上海理工2.jpg" src="http://wenhui.whb.cn/u/cms/www/202002/08192839ysc7.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p><strong>《战“疫”之希望》作者：唐嘉蔚</strong></p>
+<p style="text-align:left;display:block;">日渐增长的治愈数据使人看到了希望，火神山医院的十日奇迹让人看到了希望，不断扩容的床位也使人看到了希望，相信在医护人员与全国人民的协同努力之下，医护人员加紧治疗研究新的治疗方案，市民减少发生交叉感染的情况，戴口罩、勤洗手、少出门，我们定会取得战“疫”的胜利。</p>
+<p style="text-align:center;"><img alt="上海理工3.jpg" src="http://wenhui.whb.cn/u/cms/www/202002/08192719h0s8.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p><strong>《加油最美逆行者》作者：耿一丹  指导老师：葛越</strong></p>
+<p style="text-align:left;display:block;">越来越多穿着白色大衣、带着口罩的天使们出现，一步一步走进病患身边，与新冠病毒作斗争，“最美逆行者”温暖疫情下的人世间。该海报主要体现了以医生、护士为代表的最美逆行者，底部用冠状病毒和野生动物蝙蝠背景衬托最美逆行者与疫情的对抗性，向最美逆行者致敬！</p>
+<p style="text-align:center;"><img alt="上海理工4.jpg" src="http://wenhui.whb.cn/u/cms/www/202002/08192756kj0r.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p><strong>《致敬逆行者》作者：官园  指导老师：葛越</strong></p>
+<p style="text-align:left;display:block;">“所谓白衣天使，不过是一群孩子，换了身衣服，学着前辈的样子，和死神抢人。真的辛苦了！向白衣天使致敬！”有感而画。主体是逆行的白衣天使，粉色字体和装饰源于武汉的樱花。</p>
+<p style="text-align:center;"><img alt="上海理工5.jpg" src="http://wenhui.whb.cn/u/cms/www/202002/08192907spzo.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p><strong>毛泽东诗《送瘟神》</strong><strong>作者：董剑戟</strong></p>
+<p style="text-align:left;display:block;">《左传》里说“或多难以固其国”，“多难兴邦”也正是这个意思。泱泱中华从来不畏惧任何艰难险阻，有党中央的坚强领导，有广大医务工作者的最美逆行，有全体同胞的携手努力，“新冠”疫情终将被战胜。同时我们有理由相信，经过这场疫情的重大考验，我们国家在治理体系和治理能力现代化建设方面一定会得到新的更大的提升。时值万物复苏的立春时节，希望借毛主席的这首诗，祈愿这场战“疫”早日取得最终胜利，祈愿新时代中华复兴伟业早日圆梦。</p>
+<p style="text-align:center;"><img alt="上海理工42.jpg" src="http://wenhui.whb.cn/u/cms/www/202002/08193120eatq.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p><strong>《武汉加油》作者：周楠屿</strong></p>
+<p style="text-align:left;display:block;">作者出生于非物质文化遗产——“卢龙剪纸”世家。在老家过年的他缺少创作原材料，但他依然拿起手边的工具，创作了剪纸作品“为武汉加油”</p>
+<p style="text-align:left;display:block;">新型肺炎疫情来势汹汹，在这场众志成城的防控疫情阻击战中，战斗在前线的“逆行者”们用生命守护生命。</p>
+<p style="text-align:left;display:block;"><strong><span style="color: rgb(31, 73, 125);">【上海商学院】</span></strong></p>
+<p style="text-align:left;display:block;">上海商学院艺术设计学院学生党支部的同学们也担当起了自己的社会责任。以艺术的力量和专业的能力，尽自己所能科普卫生防疫知识，传递正能量。向所有奋战在一线的武警官兵、医护人员以及广大干部群众致敬礼赞！</p>
+<p style="text-align:center;"><img alt="上海商学院1.jpg" src="http://wenhui.whb.cn/u/cms/www/202002/08193507hdmv.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p><strong>《最棒的你们》  作者：钟以言</strong></p>
+<p style="text-align:center;"><img alt="上海商学院3.jpg" src="http://wenhui.whb.cn/u/cms/www/202002/0819354737oe.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p><strong>《无坚不摧》 作者：范佳叶</strong></p>
+<p style="text-align:center;"><img alt="上海商学院5.jpg" src="http://wenhui.whb.cn/u/cms/www/202002/08193632eyvm.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p><strong>《加油白衣天使》 作者：徐婷</strong></p>
+<p style="text-align:left;display:block;"><span style="color: rgb(31, 73, 125);"><strong><br/></strong></span></p>
+<p style="text-align:left;display:block;"><span style="color: rgb(31, 73, 125);"><strong>【同济大学】</strong></span></p>
+<p style="text-align:left;display:block;">眼下，同济大学设计创意学院的学子们，宅在家里，也自发拿起“画笔”设计海报，给医务工作者们点赞，给师生们发出警示，为大家加油鼓劲。</p>
+<p style="text-align:center;"><img alt="同济1.jpg" src="http://wenhui.whb.cn/u/cms/www/202002/08193926c5sy.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p><strong>作者：邰易萱</strong></p>
+<p style="text-align:left;display:block;">海报主题词为疫情防范的六个主要措施：勤洗手、戴口罩、多通风、少出门、不信谣、不传谣。这些看似简单的日常举措能够搭建起稳固而坚实的安全屏障,有效抑制病毒的传播。在非常时期,注重每一个细节是对自己亦是对他人的生命安全负责。我们做好每一步安全措施，就是对疫情做出的最大贡献。</p>
+<p style="text-align:center;"><img alt="同济2.jpg" src="http://wenhui.whb.cn/u/cms/www/202002/08194012mvz1.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p><strong>作者：涂小涵</strong></p>
+<p style="text-align:left;display:block;">这张海报的灵感来源于在武汉封城之后，各省市的医疗骨干们相继前往灾区，提供支援的壮举。他们当中有在家中与亲人团聚被紧急召唤义不容辞的，也有自愿前往提供支援的。这些医护人员从祖国各个方向赶来，他们的决心能照亮疫情的黑暗。希望借这张海报向最美逆行者们致敬，也希望大家能铭记他们的奉献，更加尊重与爱护医护人员。</p>
+<p style="text-align:center"><img alt="同济3.jpg" border="0" height="911" src="/u/cms/www/202002/08194727fwfe.jpg" style="width: 645px; height: 911px;" title="同济3.jpg" vspace="0" width="645"/></p>
+<p><strong>作者：邰易萱</strong></p>
+<p style="text-align:left;display:block;">武汉疫情牵动着所有人的心，在物资紧张时期，武汉收到了来自社会各界捐赠的物资，无论大小，每一件包裹都是此刻最温暖、最珍贵的礼物。愿所有物资都能直达“战场”，将爱与守护源源不断地送到一线战士的手中。</p>
+<p style="text-align:center;"><img alt="同济4.jpg" src="http://wenhui.whb.cn/u/cms/www/202002/08194215bsna.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p><strong>作者：李静文</strong></p>
+<p style="text-align:left;display:block;">昔日的热闹隐匿了起来，很多人今年最大的心愿莫过于“平安健康”。一线的战士，前赴后继，只为控制疫情，挽救更多生命！我们能做的不多，心存善良与感恩，宅在家中。不擅自提前返校，不辜负每一位付出者的信任。我们共同努力，美好的事情终会发生！武汉加油！中国加油！<span style="color: rgb(127, 127, 127);">（其中插画来源：https://icons8.cn/ouch）</span></p>
+<p style="text-align: center;"><img alt="同济5.jpg" src="http://wenhui.whb.cn/u/cms/www/202002/08194318e1wo.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p>全民抗击新型冠状病毒的紧张时刻，更需要大家一起冷静下来，做好每一步预防举措，所以想到了以"三个不"为主题的海报——不信谣，不传谣，不聚会。2020年有一个艰难的开端，但是，鼎全国之力，齐全民之心，我们必定能够打败新型肺炎，共度难关！</p>
+<p><br/></p>
+<p><span style="color: rgb(127, 127, 127);">作者：樊丽萍</span></p>
+<p><span style="color: rgb(127, 127, 127);">编辑：张鹏</span></p>
+<p><span style="color: rgb(127, 127, 127);">责任编辑：姜澎</span></p>
+<p><span style="font-size: 16px; color: rgb(127, 127, 127);">*文汇独家稿件，转载请注明出处。</span></p>
+*
+疫情何时达到高峰？钟南山说到最后突然眼眶湿润 - 文汇网
+<p style="text-align: center; display: block;"><span style="color: rgb(36, 64, 97);"><strong>春运返程来临，疫情会不会大暴发？</strong></span></p>
+<p style="text-align: center; display: block;"><span style="color: rgb(36, 64, 97);"><strong>什么时候达到高峰？</strong></span></p>
+<p style="text-align: center; display: block;"><span style="color: rgb(36, 64, 97);"><strong>武汉能不能“过关”？</strong></span></p>
+<p style="text-align: center; display: block;"><span style="color: rgb(36, 64, 97);"><strong>一起听钟南山院士的解读。</strong></span></p>
+<p style="text-align:center;"><img alt="视频来了！钟南山接受新华社专访 - 新华社客户端.mp4_20200128_231348.905.jpg" src="http://www.whb.cn/u/cms/www/202001/28232050j6o6.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p style="text-align:center;"><img alt="视频来了！钟南山接受新华社专访 - 新华社客户端.mp4_20200128_231422.200.jpg" src="http://www.whb.cn/u/cms/www/202001/28232054quiw.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p style="text-align:center;"><img alt="视频来了！钟南山接受新华社专访 - 新华社客户端.mp4_20200128_231447.014.jpg" src="http://www.whb.cn/u/cms/www/202001/28232058xjzz.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p style="text-align:center;"><img alt="视频来了！钟南山接受新华社专访 - 新华社客户端.mp4_20200128_231517.148.jpg" src="http://www.whb.cn/u/cms/www/202001/28232101xm7d.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p style="text-align:center;"><img alt="视频来了！钟南山接受新华社专访 - 新华社客户端.mp4_20200128_231540.861.jpg" src="http://www.whb.cn/u/cms/www/202001/28232103qsg3.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p style="text-align:center;"><img alt="视频来了！钟南山接受新华社专访 - 新华社客户端.mp4_20200128_231604.204.jpg" src="http://www.whb.cn/u/cms/www/202001/28232108ih6j.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p style="text-align:center;"><img alt="视频来了！钟南山接受新华社专访 - 新华社客户端.mp4_20200128_231616.048.jpg" src="http://www.whb.cn/u/cms/www/202001/28232111hfjx.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p style="text-align:center;"><img alt="视频来了！钟南山接受新华社专访 - 新华社客户端.mp4_20200128_231717.081.jpg" src="http://www.whb.cn/u/cms/www/202001/282321152x9w.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p style="text-align:center;"><img alt="视频来了！钟南山接受新华社专访 - 新华社客户端.mp4_20200128_231755.478.jpg" src="http://www.whb.cn/u/cms/www/202001/28232117wbfw.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p style="text-align:center;"><img alt="视频来了！钟南山接受新华社专访 - 新华社客户端.mp4_20200128_231805.931.jpg" src="http://www.whb.cn/u/cms/www/202001/28232120nxd5.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p style="text-align:center;"><img alt="视频来了！钟南山接受新华社专访 - 新华社客户端.mp4_20200128_231935.710.jpg" src="http://www.whb.cn/u/cms/www/202001/28232124ay1w.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p style="text-align:center;"><img alt="视频来了！钟南山接受新华社专访 - 新华社客户端.mp4_20200128_232022.351.jpg" src="http://www.whb.cn/u/cms/www/202001/28232128pyuq.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p><br/></p>
+<p style="text-align: center; display: block;"><span style="color: rgb(36, 64, 97);">今日</span></p>
+<p style="text-align: center; display: block;"><span style="color: rgb(36, 64, 97);">钟南山院士为支援湖北医队的战友们</span></p>
+<p style="text-align: center; display: block;"><span style="color: rgb(36, 64, 97);">加油的视频</span></p>
+<p style="text-align: center; display: block;"><span style="color: rgb(36, 64, 97);">还登上了微博热搜榜榜首</span></p>
+<p style="display: block; text-align: center;"><video class="video-js edui-faked-video" controls="" data-setup="{}" height="280" preload="false" src="https://static.video.qq.com/TPout.swf?vid=j3058c45ml7" style="align: center" width="420"><source src="https://static.video.qq.com/TPout.swf?vid=j3058c45ml7" type="video/mp4"/></video></p>
+<p style="text-align: center; display: block;">钟南山院士在视频中</p>
+<p style="text-align: center; display: block;">鼓励支援湖北医队的战友们</p>
+<p style="text-align: center; display: block;">让他们要有坚强的斗志</p>
+<p style="text-align: center; display: block;">但也别忘了保护好自己</p>
+<p style="text-align: center; display: block;"><br/></p>
+<p style="text-align: center; display: block;"><span style="color: rgb(36, 64, 97);"><strong>你们是去最艰苦、最前线、</strong></span></p>
+<p style="text-align: center; display: block;"><span style="color: rgb(36, 64, 97);"><strong>最困难、最容易受感染的地方战斗，</strong></span></p>
+<p style="text-align: center; display: block;"><span style="color: rgb(36, 64, 97);">我向你们致敬！</span></p>
+<p style="text-align: center; display: block;"><span style="color: rgb(36, 64, 97);">应该相信，情况会慢慢好的，</span></p>
+<p style="text-align: center; display: block;"><span style="color: rgb(36, 64, 97);">特别是克强总理到了武汉。</span></p>
+<p style="text-align: center; display: block;"><span style="color: rgb(36, 64, 97);"><strong>我们必须要有一个坚强的斗志，</strong></span></p>
+<p style="text-align: center; display: block;"><span style="color: rgb(36, 64, 97);"><strong>克服各种困难，要尽我们的责任，</strong></span></p>
+<p style="text-align: center; display: block;"><span style="color: rgb(36, 64, 97);"><strong>更要保护好自己，才能够救治别人。</strong></span></p>
+<p style="text-align:center;"><img alt="微信图片_20200128231116.jpg" src="http://www.whb.cn/u/cms/www/202001/282312321uof.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p style="text-align: center; display: block;"><span style="color: rgb(36, 64, 97);">由于武汉新型冠状病毒形势严峻</span></p>
+<p style="text-align: center; display: block;"><span style="color: rgb(36, 64, 97);">84岁的钟南山院士临危受命</span></p>
+<p style="text-align: center; display: block;"><span style="color: rgb(36, 64, 97);">1月18日从广州出发赶往武汉</span></p>
+<p style="text-align: center; display: block;"><span style="color: rgb(36, 64, 97);">由于当天航班已买不到机票</span></p>
+<p style="text-align: center; display: block;"><span style="color: rgb(36, 64, 97);">他挤上了傍晚17点开往武汉的高铁列车</span></p>
+<p style="text-align: center; display: block;"><span style="color: rgb(36, 64, 97);">由于春运高铁票紧张</span></p>
+<p style="text-align: center; display: block;"><span style="color: rgb(36, 64, 97);">他当时被安顿在了餐车一角</span></p>
+<p style="text-align: center; display: block;"><span style="color: rgb(36, 64, 97);">刚一落座便拿出文件研究</span></p>
+<p style="text-align: center; display: block;"><span style="color: rgb(36, 64, 97);">到武汉开完会后</span></p>
+<p style="text-align: center; display: block;"><span style="color: rgb(36, 64, 97);">他又立刻赶往武汉金银潭医院</span></p>
+<p style="text-align: center; display: block;"><span style="color: rgb(36, 64, 97);">了解病人的收治情况</span></p>
+<p style="text-align:center;"><img alt="微信图片_20200128231130.jpg" src="http://www.whb.cn/u/cms/www/202001/28231245hzsh.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p style="text-align: center; display: block;">即使是在大家团圆的除夕</p>
+<p style="text-align: center; display: block;">奔波多日的钟南山院士也没有休息</p>
+<p style="text-align: center; display: block;">他一大早回到广州医科大学附属第一医院</p>
+<p style="text-align: center; display: block;">继续忙碌着</p>
+<p style="text-align: center; display: block;">这一次，钟南山院士录制视频</p>
+<p style="text-align: center; display: block;">让前往武汉支援的医护人员保护好自己</p>
+<p style="text-align: center; display: block;">无数网友们也留言</p>
+<p style="text-align: center; display: block;">让钟南山院士也要照顾好自己</p>
+<p style="text-align: center; display: block;"><span style="color: rgb(36, 64, 97);"><strong>并向所有在一线的医护人员致敬！</strong></span></p>
+<p style="text-align:center;"><img alt="微信图片_20200128231135.jpg" src="http://www.whb.cn/u/cms/www/202001/28231219j91z.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p style="text-align:center;"><img alt="微信图片_20200128231141.jpg" src="http://www.whb.cn/u/cms/www/202001/28231256jrrw.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p style="text-align: center; display: block;"><span style="color: rgb(36, 64, 97);">向所有奋战在一线的工作人员致敬！</span></p>
+<p style="text-align: center; display: block;"><span style="color: rgb(36, 64, 97);">也请你们一定要保护好自己！</span></p>
+<p style="text-align: center; display: block;"><span style="color: rgb(36, 64, 97);">加油！</span></p>
+<p><br/><span style="color: rgb(127, 127, 127);font-size:16px">编辑：陈云峰</span><br/><span style="color: rgb(127, 127, 127);font-size:16px">责任编辑：王蔚</span><br/><span style="color: rgb(127, 127, 127);font-size:16px">综合自新华社等</span></p>
+*
+为防控疫情、切断传播途径，武汉拼了！ - 文汇网 - 文汇报
+<p style="text-align:left;display:block;">新型冠状病毒肺炎感染情况的瞬息变化，牵动着全国人民的心。</p>
+<p style="text-align:left;display:block;">为防控疫情、切断病毒传播途径，湖北省武汉市更是自2020年1月23日10时起，全市城市公交、地铁、轮渡、长途客运暂停运营；无特殊原因，市民不得离开武汉，机场、火车站离汉通道暂时关闭。</p>
+<p style="text-align:left;display:block;">我们要让武汉人民知道，全国人民和你们在一起！感谢武汉人民作出的巨大付出和支持，你们不容易！咱们一起，打赢这场防疫战！</p>
+<p><span style="color: rgb(54, 96, 146);"><strong>湖北请求紧急支援！</strong></span></p>
+<p style="text-align:left;display:block;">1月22日下午，记者从湖北省政府获悉，湖北荆州已发现新型冠状病毒感染的肺炎确诊病例6例，襄阳、宜昌、十堰、荆门、咸宁、鄂州、恩施、仙桃、天门、潜江等多地发现疑似病例。</p>
+<p style="text-align:left;display:block;">各地严防死守、严阵以待，但均不同程度出现医用口罩、防护服、测温仪等防疫物资短缺现象。</p>
+<p style="text-align:left;display:block;">据有关部门测算，截至31日，湖北本省只能生产医用口罩800万个，防护服200万套，红外测温仪1200套，不能满足全省防疫需要。湖北省拟向国家请求紧急支援，调拨医用口罩4000万个、防护服500万套、红外测温仪5000套。</p>
+<p style="text-align:center;"><img alt="undefined" src="http://www.whb.cn/u/cms/www/202001/231112162ajm.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p><span style="color: rgb(54, 96, 146);"><strong>武汉对进出城车辆人员进行疫情排查</strong></span></p>
+<p style="text-align:left;display:block;">1月22日晚，汉洪高速武汉小军山收费站，武汉经济技术开发区公安分局汉洪检查站、区交通大队的民警，和区卫健局的工作人员一起，在对进出武汉车辆及人员实施疫情排查防控，对出城人员进行体温检测，并对进城车辆所搭载动物进行检查，严禁野生动物进入武汉。</p>
+<p style="text-align:center;"><img alt="undefined" src="http://www.whb.cn/u/cms/www/202001/23111458786m.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p style="text-align:center;"><img alt="undefined" src="http://www.whb.cn/u/cms/www/202001/231114583olk.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p><span style="color: rgb(54, 96, 146);"><strong>武汉要求戴口罩方可进入公共场所</strong></span></p>
+<p style="text-align:left;display:block;">1月22日，湖北省武汉市发布通告，要求国家机关、企事业单位工作人员在岗期间应当佩戴口罩。</p>
+<p style="text-align:left;display:block;">各公共场所经营者应当要求进入其场所的顾客佩戴口罩后方可进入其经营的公共场所，并在场所入口处设置醒目、清晰的佩戴口罩的提示；对未佩戴口罩进入场所者应当予以劝阻，对不听劝阻的人员依据《中华人民共和国传染病防治法》和《公共场所卫生管理条例》的规定向相关主管部门报告，由各相关主管部门按照各自职责依法处理。阻碍突发事件应急处理工作人员执行职务，触犯《中华人民共和国治安管理处罚法》，构成违反治安管理行为的，由公安机关依法予以处罚；构成犯罪的，依法追究刑事责任。</p>
+<p><strong>实施范围</strong></p>
+<p style="text-align:left;display:block;"><span style="color: rgb(127, 127, 127); font-size: 14px;">（一）宾馆、饭馆、旅店、酒店、招待所、咖啡馆、酒吧、茶座；</span></p>
+<p style="text-align:left;display:block;"><span style="color: rgb(127, 127, 127); font-size: 14px;">（二）公共浴室、理发店、美容店；</span></p>
+<p style="text-align:left;display:block;"><span style="color: rgb(127, 127, 127); font-size: 14px;">（三）影剧院、录像厅（室）、游艺厅（室）、舞厅、音乐厅；</span></p>
+<p style="text-align:left;display:block;"><span style="color: rgb(127, 127, 127); font-size: 14px;">（四）体育场（馆）、游泳场（馆）、公园；</span></p>
+<p style="text-align:left;display:block;"><span style="color: rgb(127, 127, 127); font-size: 14px;">（五）展览馆、博物馆、美术馆、图书馆；</span></p>
+<p style="text-align:left;display:block;"><span style="color: rgb(127, 127, 127); font-size: 14px;">（六）商场（店）、书店；</span></p>
+<p style="text-align:left;display:block;"><span style="color: rgb(127, 127, 127); font-size: 14px;">（七）候诊室、候车（机、船）室、公共交通工具；</span></p>
+<p style="text-align:left;display:block;"><span style="color: rgb(127, 127, 127); font-size: 14px;">（八）其他人群聚集的公共场所。</span></p>
+<p style="text-align:left;display:block;">此外，今天凌晨，武汉市新型冠状病毒感染的肺炎疫情防控指挥部发布消息：自2020年1月23日10时起，全市城市公交、地铁、轮渡、长途客运暂停运营；无特殊原因，市民不要离开武汉，机场、火车站离汉通道暂时关闭。恢复时间另行通告。</p>
+<p><span style="color: rgb(54, 96, 146);"><strong>湖北这些活动全部取消</strong></span></p>
+<p><strong>湖北省博物馆暂停编钟演奏，</strong><strong>除夕初一闭馆</strong></p>
+<p style="text-align:left;display:block;">1月22日，湖北省博物馆在官方网站发布春节期间开放时间。湖北省博物馆除夕、大年初一闭馆，即日起至大年初六编钟演奏暂停。</p>
+<p><strong>2020第六届武汉东湖灯会暂停开放</strong></p>
+<p style="text-align:left;display:block;">1月22日，武汉东湖绿道运营管理有限公司发布通告：2020年1月22日起，2020第六届武汉东湖灯会暂停开放。</p>
+<p><strong>湖北省图书馆原定所有大型活动延期举行</strong></p>
+<p style="text-align:left;display:block;">1月21日晚，湖北省图书馆发布2020年春节期间开馆应对措施。</p>
+<p style="text-align:left;display:block;">即日起，湖北省图书馆对进出的所有人员进行体温测量，凡体温超过37℃的人员将劝离该馆；该馆亲子玩具屋、电子阅览室、音乐欣赏室、影视观摩厅、24小时自助图书馆等区域，暂停对外开放；此期间读者因不便前来还书，而产生的超期滞纳金全额免除；此期间省图书馆原定的所有大型活动延期举行。</p>
+<p><strong>琴台大剧院、琴台音乐厅取消春节期间演出</strong></p>
+<p style="text-align:left;display:block;">1月21日傍晚，琴台大剧院、琴台音乐厅相继发布公告通知，取消春节期间的演出，两家剧院均表示，无偿为观众退票，并推出方便、快捷的退票方式。</p>
+<p style="text-align:left;display:block;">取消的演出，后续还会再安排吗？这位工作人员表示，会不会安排演出，要根据政府的倡议，如果解除了危机才会再考虑演出活动。</p>
+<p><strong>全省新华书店取消大型活动，</strong><strong>中心门店测温检测</strong></p>
+<p style="text-align:left;display:block;">1月22日上午，记者从湖北省新华书店集团获悉，全省新华书店启动应急预案，取消大型活动，中心门店每天消毒，设立医卫专柜，进行测温检测，落实属地管理。同时在各新华书店门店加大公益宣传力度。</p>
+<p><strong>武汉京剧院、楚剧院、汉剧院</strong><strong>新春演出活动取消</strong></p>
+<p style="text-align:left;display:block;">1月22日，记者获悉，春节期间，武汉京剧院、楚剧院、汉剧院周周演、进景区、送戏下乡等所有演出取消，2月初的演出活动也已取消。具体演出恢复时间，另行通知。</p>
+<p><strong>武汉植物园取消春节活动，</strong><strong>禁止有发热症状游客入园</strong></p>
+<p style="text-align:left;display:block;">1月22日，记者从武汉植物园获悉，武汉植物园取消2020年春节期间的系列活动，且在入园检票口对每一位游客进行体温检测，禁止有发热症状的游客入园。</p>
+<p style="text-align:left;display:block;">同时工作人员和游客做好新型冠状病毒肺炎防护工作：1、务必戴口罩，勤洗手；2、咳嗽或打喷嚏时捂住口鼻；3、避免与呼吸道患者密切接触；4、避免近距离接触野生动物或活牲畜；5、不要随地吐痰，不乱扔乱倒垃圾。</p>
+<p><span style="color: rgb(54, 96, 146);"><strong>来自武汉的快递需要拒收吗？</strong></span></p>
+<p style="text-align:left;display:block;">正常快递不用拒收。</p>
+<p style="text-align:left;display:block;">虽说病毒离开宿主后能存活一定时间，但有囊膜的病毒通常存活不超过数小时。而且“存活”不等于能达到感染条件，一个或少数几个病毒颗粒进入人体是无法构成感染的，需要感染活性和颗粒数的综合水平达到一定的量才行。</p>
+<p style="text-align:center;"><img alt="undefined" src="http://www.whb.cn/u/cms/www/202001/23111234x6l0.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p style="text-align: left; display: block;">开窗通风能预防流感，就是因为病毒的“浓度”被降低了。快递纸盒可以说是经过了彻底的通风，也就难以成为病毒的传播载体。</p>
+<p><br/><span style="color: rgb(127, 127, 127);font-size:16px">编辑：张夏</span><br/><span style="color: rgb(127, 127, 127);font-size:16px">责任编辑：王蔚</span></p>
+<p><span style="color: rgb(127, 127, 127);font-size:16px">来源：综合央视新闻、人民日报、湖北日报、长江日报</span></p>
+*
+疫情当前，心里慌想找人说说？武汉开通两部心理热线，这些 ...
+<p style="text-align: center;"><img alt="难受.png" src="/u/cms/www/202001/251326484wq9.png" title="难受.png"/></p>
+<p>各位亲爱的武汉市民，父老乡亲：</p>
+<p style="text-align:left;display:block;">谁也不会想到，那些以为只在电影里出现的情节，今时今日会发生在我们生活并热爱着的这座城市: 武汉。</p>
+<p style="text-align:left;display:block;">当灾难来临，疫情爆发，没有人能置身事外。但这个时候，恐慌、焦虑、懊悔都无济于事，武汉人民现在最需要的，是全国乃至世界各方的鼓励与支援。</p>
+<p style="text-align:left;display:block;">非常时期，专家提醒广大市民，要尽最大可能保持冷静与理智，千万不要“病毒未来，心态先崩”。</p>
+<p style="text-align:left;display:block;">日前</p>
+<p style="text-align:left;display:block;">武汉市精神卫生中心心理专家</p>
+<p style="text-align:left;display:block;">委托长江日报</p>
+<p style="text-align:left;display:block;">致信全体武汉市民</p>
+<p><strong>只有调整心态，勇敢面对，才能更好地抵抗病毒，才能保护好自己和深爱的家人们。</strong></p>
+<p style="text-align:center;"><img alt="undefined" src="http://wenhui.whb.cn/u/cms/www/202001/25132149pwnx.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p style="text-align:left;display:block;">在此特殊时期</p>
+<p style="text-align:left;display:block;">每天9:00-21:00</p>
+<p style="text-align:left;display:block;">两部免费心理热线</p>
+<p style="text-align:left;display:block;">可为市民解压，分别是</p>
+<p><strong>武汉市精神卫生中心：</strong><strong>027-85844666</strong></p>
+<p><strong>湖北省心理咨询协会 ：</strong><strong>15342296955</strong></p>
+<p style="text-align:left;display:block;">在此需要特别提醒广大市民：</p>
+<p style="text-align:left;display:block;"><span style="color: rgb(192, 80, 77);">因免费心理热线资源有限，请在自己和身边人出现严重心理危机（如有自杀倾向等消极行为）时再拨通这个电话，请务必把有限的资源让给最需要的人！</span></p>
+<p style="text-align:left;display:block;"><strong>面对</strong> 焦虑情绪我该怎么办</p>
+<p style="text-align:left;display:block;">· 专家您好，我这两天嗓子疼，但是不发烧，可还是不放心。医院里到处是人，又不敢去……</p>
+<p style="text-align:left;display:block;">· 我干咳好几天了，还浑身没劲……</p>
+<p style="text-align:left;display:block;">· 今天是除夕，我订了年饭不能吃，没有公交车，一家人分别在武昌和汉口都不能团聚，心理阴影越来越重……</p>
+<p style="text-align:left;display:block;">· 我天天被各种信息闹得头痛欲裂，已经失眠三天了！</p>
+<p style="text-align:left;display:block;">……</p>
+<p><strong>湖北省心理咨询师协会会长、高级心理咨询师、武汉大学中南医院神经科肖劲松教授：</strong></p>
+<p style="text-align:left;display:block;">过度焦虑、恐惧的情绪会引起身体的不适，甚至导致免疫力的下降，所以尽可能的保持一颗平常的心态，做好身体的防护，也做好心灵的防护。</p>
+<p style="text-align:center;"><img alt="undefined" src="http://wenhui.whb.cn/u/cms/www/202001/25132149xdp1.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p style="text-align:left;display:block;">对此，专家有四点专业意见</p>
+<p><strong>1.</strong><strong>要正视自己的焦虑和恐惧情绪。</strong></p>
+<p style="text-align:left;display:block;">面对未知的病毒，我们很难做到淡定，很多人会感到，病毒“无处不在”，难以预防。但要相信各级各部门发布的信息是真实有效的，要在正视自身恐惧和焦虑的同时，做好一切可能的防护措施。</p>
+<p><strong>2.</strong><strong>主动了解相关知识，同时学会判断和筛选信息来源。</strong></p>
+<p style="text-align:left;display:block;">疫情从发生到蔓延开来，网上各种信息不断，学会判断和筛选信息来源，是减少恐惧和焦虑的有效办法。谣言止于智者，在看到非官方的信息时，要学会自我判断，同时学习一定的专业知识，增加自己的知识储备，提高判断信息真伪的能力。</p>
+<p><strong>3.</strong><strong>避免频繁刷手机和新闻。</strong></p>
+<p style="text-align:left;display:block;">在科技高速发展的现今社会，和当年看电视听广播了解非典新闻的时代已经完全不同，但新媒体的发展，让我们太容易从手机上随时获取各种信息，轰炸式的消息层出不穷，各种群消息不断弹出，对我们的情绪健康都不太好。</p>
+<p style="text-align:left;display:block;">如果你感到看手机让你更容易焦虑，要学会“放一放”，可以每天定时查看手机新闻，而不是每分每秒都在“刷屏”。</p>
+<p><strong>4.</strong><strong>适度转移注意力。</strong></p>
+<p style="text-align:left;display:block;">在不外出的情况下，可以适度选择家中的娱乐活动，看电视、看书、听歌等，一旦转移注意力到自己平时喜欢的事物上，可以有效缓解焦虑情绪。</p>
+<p style="text-align:center;"><img alt="undefined" src="http://wenhui.whb.cn/u/cms/www/202001/25132149x5sy.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p><strong>写在最后：</strong></p>
+<p style="text-align:left;display:block;"><span style="color: rgb(79, 129, 189);">心理专家们还呼吁广大市民对坚守在一线的医护人员给予更多的支持、信任、鼓励和理解，在就医的时候多一点耐心，多一句关怀。对同样坚守在服务行业的快递员、服务员、环卫工人、的士司机、警察们表示支持和感谢。</span></p>
+<p style="text-align:left;display:block;"><span style="color: rgb(79, 129, 189);">每一个坚守岗位的人，都是一个个跟我们一样坚强又脆弱的生命，背后都有家人等着他们平安归来。不是一句简单的“众志成城”就能概括他们面临的危险与挑战，他们都是在用生命搭建诺亚方舟。</span></p>
+<p style="text-align:left;display:block;"><span style="color: rgb(79, 129, 189);">只有调整心态，勇敢面对，才能更好地抵抗病毒，才能保护好自己和深爱的家人们。</span></p>
+<p style="text-align:left;display:block;"><span style="color: rgb(127, 127, 127);">编辑：沈湫莎</span></p>
+<p style="text-align:left;display:block;"><span style="color: rgb(127, 127, 127);">责任编辑：顾军 樊丽萍</span></p>
+<p style="text-align: left; display: block;"><span style="color: rgb(127, 127, 127);">来源：武汉晚报、brainnews脑科学新闻</span></p>
+*
+实时追踪| 上海医疗救治专家组组长张文宏：武汉疫情拐点之际 ...
+<p style="text-align:center;"><img alt="微信图片_20200127102216.jpg" src="http://www.whb.cn/u/cms/www/202001/30110228h8a7.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p style="text-align:left;display:block;"><span style="color: rgb(127, 127, 127);">近日，新冠肺炎的疫情举世瞩目，朋友圈的新闻轰炸牵动着每个人的心。为了帮助大家了解疫情的动态变化，更好的做好自我防护，华山感染微信公众号每日更新疫情相关数据，并邀请上海市医疗救治专家组组长张文宏教授对疫情的变化趋势、热点问题及相关注意事项进行解读，文章版权归复旦大学附属华山医院感染科所有。本报获得授权全文转载。以下为张文宏教授全文——</span></p>
+<p><strong>每日战报：无症状感染者潜入我们的防控体系？</strong></p>
+<p style="text-align:left;display:block;">今日新冠病毒疫情：1月29日0-24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例1737例（西藏首例确诊病例），新增重症病例131例，新增死亡病例38例（湖北37例、四川1例），新增治愈出院病例21例，新增疑似病例4148例。</p>
+<p style="text-align:center;"><img alt="微信图片_20200130105818.jpg" src="http://www.whb.cn/u/cms/www/202001/30110316lx23.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p style="text-align:left;display:block;"><strong>国家卫健委：</strong>在散发病例密切接触者中，我们观察到有一些可能会出现无症状的感染者，虽然没有症状，但是做核酸检测是阳性的。</p>
+<p style="text-align:left;display:block;">还有一些病人有这样的症状，比如发热不明显，偶尔干咳或者乏力。这样的病人，从传染病规律来讲，也是有一定传播力的，给我们的防控工作带来一定的困难和复杂性。由于目前的筛查传染源技术主要是对有症状，甚至于仅对出现肺炎的患者进行筛查，那么无症状患者可能就会被遗漏，随后在社区、商场进行大范围的传播，出现二代、三代以至于N代感染者。</p>
+<p style="text-align:left;display:block;">无症状感染者在各地逐渐出现报告，引起了公众的担忧。所谓无症状，是指这些感染者缺乏典型新型冠状病毒感染者具有的发热以及呼吸道症状，但核酸检测却是阳性的，大家担心由于无症状感染者的出现会让疫情变得更加难以控制，因为有可能会出现更多没有和任何有症状人员接触后就被感染的情况，也使得我们之前的一些防控筛查标准失去了意义。那么无症状感染者到底会对疫情发展产生哪些影响呢？</p>
+<p style="text-align:left;display:block;">我们从以下几个方面来回答！</p>
+<p><strong>现在所谓的新冠病毒无症状感染者是否确切存在呢？</strong></p>
+<p style="text-align:left;display:block;">首先要说，完全是有可能出现这类所谓无症状的感染者的，从目前的临床资料来分析，和SARS以及MERS相比，轻症病人的比例要高，而轻症和无症状往往又没有一条绝对的分界线划分。<span style="color: rgb(31, 73, 125);">因此无症状也可能是非常轻的症状，让患者难以察觉的症状。</span></p>
+<p style="text-align:left;display:block;">从目前的流行病学数据看，至少从家庭聚集性病例看，都有源病例发病在先，<span style="color: rgb(31, 73, 125);">所谓源病例（在学术上又称指示病例）无症状时候感染人，是指还在潜伏期感染人，这不叫无症状感染者。</span></p>
+<p style="text-align:left;display:block;">目前比较像无症状感染者的是最近网络上报的河南安阳一家人，所谓的指示病例一直没有症状。<span style="color: rgb(31, 73, 125);">这种情况事实上还不好讲一定是无症状病例，也有可能该病例曾有过非常轻微的症状而不自知，很快就进入恢复期了。</span><span style="color: rgb(31, 73, 125);">是否无症状，还需对密切接触者不发病的人群中做一系列的病毒学和血清学研究才能得出结论。</span></p>
+<p style="text-align:center;"><img alt="微信图片_20200130105827.jpg" src="http://www.whb.cn/u/cms/www/202001/30110549xxlu.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p><strong>历史上的经典案例 告诉你什么叫无症状感染者</strong></p>
+<p style="text-align:left;display:block;">无症状感染者有没有可能是持续的无症状感染者呢？</p>
+<p style="text-align:left;display:block;">多了持续两个字，其流行病学意义就截然不同了。持续感染，说明这个被感染的人始终也是个传染源，他可以不断地造成接触者感染。上世纪初在美国纽约曾经出现过一个被称为“伤寒玛丽”的持续无症状感染者。这个叫做玛丽的家庭厨师，由于感染了伤寒杆菌（一种导致伤寒的细菌）却无伤寒的症状出现，而无意中先后感染了51人，其中3人死亡。她先后两次被纽约公共卫生当局强行隔离，总时长30年。</p>
+<p style="text-align:left;display:block;">那么2019新型冠状病毒有没有出现类似的情况呢？<span style="color: rgb(31, 73, 125);">我们要说，<strong>几乎没这个可能性</strong>。虽然目前对于已知患者中核酸核酸阳性最长时间的数据还不知晓，但是既往的从流感、副流感、鼻病毒、偏肺病毒、腺病毒等呼吸道病毒，到之前发现的6种冠状病毒中任意一种都没有出现过持续无症状感染的现象。</span></p>
+<p style="text-align:center;"><img alt="微信图片_20200130105830.jpg" src="http://www.whb.cn/u/cms/www/202001/30110622e7sl.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p><strong>无症状病例能否成为超级传播者，进而导致疫情失控？</strong></p>
+<p style="text-align:left;display:block;">大家更为担心的是会不会没有症状，却是一个超级传播者。所谓超级传播者，我们在SARS的时候称为毒王，也就是一个患者由于种种原因同时感染了多名患者，在新闻传播中，我们称为这些人是“大V”。</p>
+<p style="text-align:left;display:block;">为什么可能性更小？首先冠状病毒作为一种主要通过呼吸道传播的病毒，其传染的方式就是借助于患者咳嗽、打喷嚏等产生飞沫的过程将病毒扩散传播给周围的易感人群。<span style="color: rgb(31, 73, 125);">而如果一个感染者没有呼吸道症状，就很难产生有效的传播途径。</span>打个不恰当的比方，你很难要求一个网络“大V”从来默默无闻，却又能够同时将信息播散给大量的人群。</p>
+<p>其次，从以往SARS的经验来看，当时的毒王多是由于重症病例，有非常明显的呼吸道症状而传染给了很多近距离接触的人（比如密切照顾患者的家属，医护人员，或者在缺乏隔离措施的急诊诊室等环境中传播给近距离的其他就诊者），或者是由于插管等产生气溶胶的医疗过程中医务人员没有有效保护自己所造成的，<span style="color: rgb(31, 73, 125);">而无症状感染者这方面的风险几乎不存在，因此也不需要过多担心。</span></p>
+<p style="text-align:center;"><img alt="微信图片_20200130105835.jpg" src="http://www.whb.cn/u/cms/www/202001/30110641yp9v.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p><strong>无症状感染者的比例需要回顾性的血清学研究</strong></p>
+<p style="text-align:left;display:block;">那么人群中到底有多少人是无症状感染呢？这个对于2019新型冠状病毒来看，还有待进一步的研究。</p>
+<p style="text-align:left;display:block;">一般来讲，要了解人群中有多少人感染过某种传染病，检测抗体比检测核酸更有意义。因为我们之前提过，核酸在体内只会出现一段时间，随着病毒被人体免疫清除，核酸就测不到了。核酸测不到也就提示没有传染性了。但是体内会产生特异性的抗体（这个过程一般需要1-4周），并且持久存在。</p>
+<p style="text-align:left;display:block;">这样当我们要了解在人群中到底有多少人曾经感染过某种病毒时，最有效的方法就是检测血液中已经产生了抗体的人群的比例。这个数值大约可以推算出到底有多少人曾经感染过，这个数字再减去明确有症状的感染人数（包括已经康复和死亡人数之和），剩下的就是无症状感染者的比例。</p>
+<p style="text-align:left;display:block;">目前全国各地还都在不断出现新的病例，因此尚不能很好地计算出无症状感染者的比例，但如果有可能稍晚一些时间去检测第一代病例（比方说整个在2019年在华南海鲜市场有过暴露的人群）的抗体，或许能够大概了解到底有多少比例的无症状感染者。</p>
+<p style="text-align:center;"><img alt="微信图片_20200130105839.jpg" src="http://www.whb.cn/u/cms/www/202001/30110659c5xj.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p><strong>民众只要解决执行目前的防控措施足以防控无症状感染者的威胁</strong></p>
+<p style="text-align:left;display:block;">前面几个问题说清楚了，如何来防控无症状感染者也就变得比较明晰了。</p>
+<p style="text-align:left;display:block;"><span style="color: rgb(127, 127, 127);">首先，依然是我们反复强调的做好个人卫生，正确的洗手（肥皂和流水）和正确的咳嗽（用纸巾或胳膊肘）。</span></p>
+<p style="text-align:left;display:block;"><span style="color: rgb(127, 127, 127);">其次，在疫情高发期间，避免到人群集中的地方去，尽可能减少和陌生人近距离接触的机会，如果实在不得已，应该带好口罩。</span></p>
+<p style="text-align:left;display:block;"><span style="color: rgb(127, 127, 127);">最后，在疫情高发期间，对于不能完全排除感染新型冠状病毒，没有发热和呼吸道症状，但因为有其他原因就诊的患者（特别是有流行病学史），尽可能避免不必要的可能产生气溶胶的操作（比方说吸痰和插管等），如不得已要做，应该想办法进行核酸筛查，或按照二级防护进行医务人员的保护。</span></p>
+<p style="text-align:center;"><img alt="微信图片_20200130105844.jpg" src="http://www.whb.cn/u/cms/www/202001/30110720p3fy.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p style="text-align:left;display:block;">对于无症状感染者，总结一下就是，<span style="color: rgb(31, 73, 125);">有“无症状感染者”存在的可能，但其成为持续传染源和超级传播者的机会很小，无症状感染者的比例有待进一步的研究，现有的卫生习惯以及合理的医疗流程有助于避免被这些无症状感染者感染。</span></p>
+<p style="text-align:left;display:block;">美国麻省医学院，国际著名病毒学家，Eerging Mirobes  and Infections 执行主编卢山教授是笔者的朋友，他作为美国华裔，也作为比较客观的科学家，他的最新意见是：<span style="color: rgb(31, 73, 125);">目前这样把自己关起来、不活动，对病毒控制有巨大作用，接下来的疫情很可能变化，甚至通过一段时间完全消失，都是有可能的。</span></p>
+<p style="text-align: left; display: block;"><span style="color: rgb(31, 73, 125);">总之，当前防控的关键还是坚决执行2周的管控，坚决把潜在的无症状携带者也给关没了。</span>按照卢山教授的意见是，现在已经这样了，我们还不如乐观一些，现在全国人民在家里不出去，春节期间本来就不上班，还延迟上班时间，与在正常工作期间出现感染情况相比已经很幸运了。</p>
+<p><br/><span style="color: rgb(127, 127, 127);font-size:16px">作者：王新宇 张文宏</span><br/><span style="color: rgb(127, 127, 127);font-size:16px">编辑：储舒婷</span><br/><span style="color: rgb(127, 127, 127);font-size:16px">责任编辑：唐闻佳</span></p>
+<p><span style="color: rgb(127, 127, 127);font-size:16px">*文汇独家稿件，转载请注明出处。</span></p>
+*
+北京千余名医务人员冲在武汉抗击疫情第一线 - 文汇网 - 文汇报
+<p style="text-align: left; display: block;">疫情就是命令，责任重于泰山。新冠肺炎疫情发生后，北京市一批批医务人员逆向而行，前往湖北武汉，与来自全国各地的医务人员并肩作战，抗击疫情。在昨天（10日）举行的北京市新型冠状病毒感染的肺炎疫情防控工作新闻发布会上，北京市卫健委新闻发言人高小俊表示，为驰援武汉，北京各大医院都调集了精锐医疗队伍，目前，北京市有超过1000名医务人员在武汉抗击疫情一线参与救治工作。</p>
+<p style="text-align: center;"><img src="/u/cms/www/202002/11182459pthj.jpg" title="716241_w750.jpg"/></p>
+<p style="text-align: left; display: block;">2月7日，来自北京医院、北京大学第一医院、北京大学人民医院、北京大学第三医院、北京协和医院、中日友好医院等6家在京委属委管医院的664名医护人员奔赴武汉。6家医院都各自派出“百人团”医疗队，全部由医院领导带队奔赴武汉，这是北京最新一批支援武汉抗击疫情的医疗队，同时也是国家级医院驰援武汉单次规模最大的医疗队。</p>
+<p style="text-align: center; display: block;"><img src="http://wenhui.whb.cn/u/cms/www/202002/11182459tej6.jpg" title="716251_w750.jpg"/></p>
+<p style="text-align: left; display: block;">出发当日的清晨，在北京大学人民医院的门诊楼前，110名医务人员举行“出征仪式”。17年前，这里曾经举行过抗击非典复诊仪式，如今，这里有110名医务人员誓师出发，“武汉加油”“人民必胜”的声音响彻天空。这支队伍也是北京大学人民医院为增援武汉疫情防控派遣的第三支医疗队。</p>
+<p style="text-align: left; display: block;">北京大学人民医院重症医学科医生张柳是湖北人，大学是在武汉同济医学院读的，此次出征武汉保卫家乡，他临行前将仅7个月大的孩子托给妻子照顾。北京医院急诊科副主任医师文力，索性与父母撒了个谎。事后，他才带着歉意写下此生第一封家书：“这仗我不打，面对不了自己。”</p>
+<p style="text-align: center; display: block;"><img src="http://wenhui.whb.cn/u/cms/www/202002/111824592ny7.jpg" title="716248_w750.jpg"/></p>
+<p style="text-align: left; display: block;">随着北京医疗精英部队的到来，同济中法新城院区成为武汉救治危重症患者的主战场之一。2月4日，经过紧张忙碌的48小时改造，由北京协和医院牵头，联合北京医院、同济医院共同建设的抗击新冠肺炎重症加强病房(简称“联合ICU”)正式启用。“一例例成功的穿刺，一回回顺利的吸痰，一次次呼吸循环保持平稳状态……这一切都会带给我小小的成就感和满足感。”北京协和医院的周翔医生在日记里写道。</p>
+<p style="text-align: center; display: block;"><img src="http://wenhui.whb.cn/u/cms/www/202002/11182459rjb2.jpg" title="716244_w750.jpg"/></p>
+<p style="text-align: left; display: block;">为有效降低重症和危重症患者的死亡率，医护人员们高强度、超负荷地工作，挑战着极限。作为国家呼吸临床研究中心，中日友好医院先后派了5批医疗队，创造了24小时收治50例重症患者的纪录；北大人民医院、第一医院、第三医院数百名护理队员，冒着高危暴露风险，每天为近百位重症患者进行倾倒大小便等生活护理。一个个不眠之夜，医疗队员争分夺秒，用行动与疫魔竞速，为生命赢得主动权！</p>
+<p><br/><span style="color: rgb(127, 127, 127); font-size: 16px;">作者：李扬 </span></p>
+<p><span style="color: rgb(127, 127, 127); font-size: 16px;">图：新华社发</span><br/><span style="color: rgb(127, 127, 127); font-size: 16px;">编辑：江胜信</span><br/><span style="color: rgb(127, 127, 127); font-size: 16px;">责任编辑：刘栋<span style="color: rgb(127, 127, 127); font-size: 16px;"><br/></span></span></p>
+<p><span style="color: rgb(127, 127, 127); font-size: 16px;">*文汇独家稿件，转载请注明出处。</span></p>
+*
+实时追踪| 上海医疗救治专家组组长：为什么要封城：测算新冠状 ...
+<p style="text-align:center;"><img alt="微信图片_20200127102216.jpg" src="http://www.whb.cn/u/cms/www/202001/28125413kbr5.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p style="text-align:left;display:block;"><span style="color: rgb(127, 127, 127);">近日，新冠肺炎的疫情举世瞩目，朋友圈的新闻轰炸牵动着每个人的心。为了帮助大家了解疫情的动态变化，更好的做好自我防护，华山感染微信公众号每天都更新疫情相关数据，上海市医疗救治专家组组长，华山医院感染科主任张文宏教授特地撰文对疫情的变化趋势、热点问题及相关注意事项进行解读，文章版权归复旦大学附属华山医院感染科所有。本报获得授权全文转载。以下为张文宏教授全文——</span></p>
+<p style="text-align:left;display:block;">春节近半，不知道现在有多少人一早醒来第一件事就是翻阅微信或微博中置顶的“新型肺炎疫情最新数据汇总”。随着持续上升的红线和颜色不断加深的地图，大家内心逐渐充满惶恐和焦虑。甚至很难让大家相信距离钟南山院士宣布新型冠状病毒可以人传人这件事情才过去一周。</p>
+<p style="text-align:left;display:block;">原来说好的没有人传人，再到有限的人传人，再到1月23日开始的武汉封城。频道变化太快，困惑很多，没有超强的理解力和耐受力是无法接受的。<span style="color: rgb(31, 73, 125);">为此，笔者再次调阅既往传染病传播数据，并根据最新新冠状病毒传播数据，来测算如果政府不干预（武汉封城），现在我们是什么一个情况，干预了又是怎么一个情况。</span></p>
+<p><strong>01 </strong><strong>新冠的传播能力到底有多强？和SARS比如何呢？</strong></p>
+<p style="text-align:left;display:block;">笔者为这个问题特地请教了2003年SARS期间担任上海市传染性非典临床救治专家组组长的华山医院感染科终身教授翁心华老师。翁教授说，“2003年的SARS对上海来讲也是输入性的，现在的新冠状病毒肺炎对上海来讲也是输入性的。但当时上海抗非典半年，共筛查出8个病人，现在距1月20日上海发布首例确诊新冠肺炎才7天，新冠肺炎确诊达到53例。<span style="color: rgb(31, 73, 125);">所以第一个感觉就是传播力不一样，感觉是此次新型冠状病毒似乎传播力更强一些。</span>”</p>
+<p style="text-align:left;display:block;">更强一些，那有多强呢？值得兴师动众封城？中国上一次封城是1911年，东三省鼠疫大暴发，死亡数万人，伍连德国士总领中国抗鼠疫大权，首先就是封锁东北，停止一切交通运输和人员来往。<span style="color: rgb(31, 73, 125);">那这次的传播性达到了什么样的水平让我们再启动百年前的古老隔离方案？</span></p>
+<p style="text-align:left;display:block;">在传染病传播力判断方面，我们一般会通过计算传播指数（R0）来判断传染性的强弱，R0指在没有外力介入，同时所有人都没有免疫力的情况下，一个感染到某种传染病的人，会把疾病传染给其他多少个人的平均数，通俗地说，就是“一个患者能传染给几个人”，这个传播指数只要超过1（R0＞1），这个疾病就会在人群中蔓延。除非我们采取有效的措施来打断他。那么我们比较熟悉的几种传染病的传播力是多少呢？</p>
+<p style="text-align:center;"><img alt="传染力.JPG" src="http://www.whb.cn/u/cms/www/202001/281258504exg.JPG" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p style="text-align:left;display:block;"><span style="color: rgb(127, 127, 127);">▲图1：几大传染病传播指数R0比较，本图版权归华山感染所有。</span></p>
+<p style="text-align:left;display:block;">从在上图可以看到，<span style="color: rgb(31, 73, 125);">其实大家闻风丧胆的埃博拉和SARS的传播力都比不上流行性腮腺炎和麻疹。</span>所以大家就知道为什么到现在为止埃博拉和SARS并没有形成持续的全球性传播。而艾滋病的传播力也很强，接近4，那么如果我们人类不干预，不给艾滋病人进行抗病毒治疗，消除病毒，那么这个病是非常容易在人类中蔓延的，甚至于人类可能会被这种可怕的传染病消灭。一些生病后死亡率和重症率较低的传染病，如流行性腮腺炎和麻疹，传播力却超强，这种传染病如果没有疫苗的发现，那么每一个小孩都是要生一次的。</p>
+<p style="text-align:left;display:block;">谈到这么远，那么这次发现的2019新冠状病毒传播力现在可以根据目前的流行学数据获得了吗？还真有，早在1月17日，武汉疫情还没有引起广泛关注的时候，世界卫生组织传染病建模合作中心（WHO Collaborating Centre for Infectious Disease Modelling）、英国帝国理工学院MRC全球传染病分析中心（MRC Centre for Global Infectious Disease Analysis）发表报告称，他们推断，截止2020年1月12日，武汉新型冠状病毒感染患者预计达1723例（预测区间427-4471），数量远大于当时通报的病例数量。<span style="color: rgb(31, 73, 125);">但是今天（1月27日）公布的湖北病例数是1423，考虑到还有疑似病人未被筛查出来，增额数据还是有值得参考的价值的。这种推测病例数的数学模型至少有一定的实际估算作用。</span></p>
+<p style="text-align:left;display:block;">2020年1月24日，英国兰开斯特兰开斯特大学学者在medRxiV发布了基于最新流行数据所构建的新型冠状病毒传播预测模型结果。这种预测是基于考虑到新冠状病毒是在潜伏期和感染期均有传染性的疾病，我们现在已经证实了这种传染性的存在，同时，本次疫情还存在特殊性，也就是疫情初期就遇到一场宏大的人口迁徙（春运）。这样算起来新型冠状病毒R0值为3.8（95% CI：3.6-4.0）。</p>
+<p style="text-align:left;display:block;"><strong><span style="color: rgb(31, 73, 125);">这提示我们，基于目前数据来疫情仍处于快速增长期，必须通过强有力的防控措施阻止感染的传播。</span></strong>而就在该文章发布次日（大年初一），美国哈佛大学流行病学家埃里克·费格丁（Dr. Eric Feigl-Ding）在推特发文表示，此次武汉新型冠状病毒的基本再生数 R0 为 3.8 。</p>
+<p style="text-align:left;display:block;"><span style="color: rgb(31, 73, 125);">这两个数据的重合，再结合临床的实际观察，笔者认为新冠状病毒的传播力可能会超过SARS或者接近（2-5）。</span></p>
+<p><strong>02 </strong><strong>如果不给予任何干预，那么新冠病毒播散的速度将会成指数级上升。</strong></p>
+<p style="text-align:left;display:block;"><span style="color: rgb(31, 73, 125);">根据目前的临床观察，这次感染的另外一个特点是重症病例比例低，而且临床已经发现有大量轻症而不被诊断的患者，这种隐匿性的感染传播力非常强。</span>如果不采取一些防控措施，如戴口罩、勤洗手、避免聚集性活动等，那么人群受感染的风险将是惊人的。</p>
+<p style="text-align:center;"><img alt="微信图片_20200128125706.jpg" src="http://www.whb.cn/u/cms/www/202001/28125922sekh.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p style="text-align:left;display:block;"><span style="color: rgb(127, 127, 127);">▲图2，全国疫情地图，引用自丁香园，版权归丁香园所有。</span></p>
+<p style="text-align:left;display:block;">请大家观察1月21日后的病例增长速度，开始出现明显的增幅，预示着1月21日开始武汉疫情将进入第二阶段，就是一代病例和二代病例交叉暴发的阶段，二代病例扩散状况将在2月4日左右逐渐成形。<strong><span style="color: rgb(31, 73, 125);">为了避免这一恐怖情况的出现，我们必须加强对感染者的集中筛查、发现并隔离。</span></strong></p>
+<p style="text-align:left;display:block;">在21日左右，武汉已经出现了社会恐慌、大众普遍焦虑，发热病人不分轻重扎堆医院而可能引发交叉感染。<span style="color: rgb(31, 73, 125);">这种出现加速上升的趋势的结局是非常恐怖和难以预测的，如果不进行干预，国外学者预测的出现数十万人群感染可能会成为现实。</span></p>
+<p style="text-align:left;display:block;">1918年的欧洲就是这样。当时西班牙大流感进入了第二阶段，当时因为第一波流行带来的巨大心理阴影面积，第二次流行时恐惧情绪让大量发热患者涌向各级医院，交叉感染暴发，并且致使医疗机构功能瘫痪。100年前的大流感阴影至今还存在。</p>
+<p><strong>03 </strong><strong>封城是迫不得已的选项吗？</strong></p>
+<p style="text-align:left;display:block;"><span style="color: rgb(31, 73, 125);">在这个节点上，采取“封城”可能是最佳的也是不得不采取的策略了。只不过采取这样相对极端的控制疫情方案，会产生相关的后遗症，</span><strong><span style="color: rgb(31, 73, 125);">但是相信我们的国家与政府的能力，100年过去，我们有充分的理由相信党和国家能有序、稳步地带领我们走向胜利。</span></strong></p>
+<p style="text-align:left;display:block;">封城解决了病例输出的问题，同时在湖北全境进行交通管制，对已经感染的轻症患者和密切接触者实施居家隔离，政府做好了相应的支持工作。对于重症患者实施快速病原学筛查，通过建立大型传染病医院实施集中治疗。</p>
+<p style="text-align:left;display:block;"><span style="color: rgb(31, 73, 125);">如果所有的显性传染源得到筛查，隐性传染源（轻症或者无症状感染者）通过居家隔离两周，那么封城后的2周，应该可以看到病例数达到峰值，然后增速逐步下来的趋势，这样能够避免1918年大流感样暴发的发生。</span></p>
+<p style="text-align:left;display:block;">现在的问题再回到武汉外的其他城市，据报道武汉封城前有500万人向全国各地输出。国外学者研究根据往年同期武汉出行情况，按照航班人数预测中国其他暴发城市将是上海、北京、广州、重庆和成都（图3）。但笔者需要特别提醒的是，该模型所基于的“出行情况”仅仅考虑了航空旅行，而没有包括陆运。</p>
+<p style="text-align:left;display:block;"><strong><span style="color: rgb(31, 73, 125);">因此，湖北其他城市和周边省市同样是本次新冠防控的关键。</span></strong>近日笔者随国家卫计委抗冠督导团在河南督导，发现和湖北接壤的河南、湖南等省面临陆路病例输入的巨大风险。这些地区的风险不容低估，而且已经出现病例数的显著攀升。</p>
+<p style="text-align:center;"><img alt="微信图片_20200128125711.jpg" src="http://www.whb.cn/u/cms/www/202001/28125947q3su.jpg" style="width:645px;height:auto;display: block; margin-left: auto; margin-right: auto; "/></p>
+<p style="text-align:left;display:block;"><span style="color: rgb(127, 127, 127);">▲图3，全国几大城市患病人数预测图，引用自文献《Novel coronavirus 2019-nCoV: early estimation of epidemiological parameters and epidemic predictions》.</span></p>
+<p><strong>04 </strong><strong>封城之后，万事大吉了吗？</strong></p>
+<p style="text-align:left;display:block;">绝不要以为武汉封城，万事大吉。反之，全国各地正面临输入性病例的巨大挑战。</p>
+<p style="text-align:left;display:block;">目前这2周内，全国新冠疫情也进入新阶段，21日之前携带病毒患者已经扩散至全国各地，并将以感染者的面目陆续浮现，形成又一波压力。</p>
+<p style="text-align:left;display:block;"><strong><span style="color: rgb(31, 73, 125);">即使采取“封城”这一强硬措施，大家还远远不能高枕无忧。扎实做好个人防护，自觉采取主动“封街道”、“封社区”、“封家”、居家办公等隔离措施，努力将传播数值R0值控制在1以内，这样的话病例数就会逐日缩减。</span></strong></p>
+<p style="text-align:left;display:block;">国家目前已经延长春节假期、推迟学校开学，就是为了尽全力增加“控制传染源”的时间。<span style="color: rgb(31, 73, 125);">这段时间将成为武汉以外其他省市控制病情蔓延、防止当地二代病例出现的绝佳黄金时间段。</span></p>
+<p style="text-align:left;display:block;">希望今天的分析能够让大家理解国家采取封城，延长假期这样的强制措施的背后科学意义。在这样的重大公共卫生事件面前，采取科学防控，有的放矢地采取最高效的防控措施，使得“控制传染源”、“切断传播途径”、“保护易感人群”真正落地。</p>
+<p style="text-align:left;display:block;"><strong><span style="color: rgb(31, 73, 125);">通过流行病学的科学分析，我们更应该意识到，能早日实现这场传染病战役胜利的关键不是这些每天变化的数字，而是我们每一个人。</span></strong></p>
+<p><br/><span style="color: rgb(127, 127, 127);font-size:16px">作者：张文宏</span><br/><span style="color: rgb(127, 127, 127);font-size:16px">编辑：储舒婷</span><br/><span style="color: rgb(127, 127, 127);font-size:16px">责任编辑：樊丽萍</span></p>
+<p><span style="color: rgb(127, 127, 127);font-size:16px">*文汇独家稿件，转载请注明出处。</span></p>
+*

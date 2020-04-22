@@ -1,0 +1,470 @@
+中国工厂艰难复工，制造业缓慢重启
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">空中客车正在缓慢地重启在中国的装配线。通用汽车上周六开始逐步复工。丰田在周一上午紧随其后。</div>
+<div class="article-paragraph">在北京颇有些担忧的催促下，中国正在断断续续、艰难地尝试复工。</div>
+<div class="article-paragraph">由于一场病毒疫情暴发导致了数万人患病，并出乎意料地延长了中国的一个假期，这个全球第二大经济体三周前几乎完全停摆。停产<a href="https://www.nytimes.com/2020/01/27/business/coronavirus-china-economic-impact.html">引发了不少警告</a>，人们担心如果世界上这个最出色的制造业中心关闭的时间太长的话，全球经济可能会受到威胁。</div>
+<div class="article-paragraph">现在，随着一些工厂轰鸣着缓慢地重新开工，重启中国制造业这个任务的艰巨性正变得清晰起来。中国控制疫情的努力正在与让人们重返工作岗位的努力发生冲突，这就要求中国领导人在保障人民生命安全与让关键产业重回正轨之间找到平衡。</div>
+<div class="article-paragraph">在过去的一周里，中国领导人呼吁要加强对<a href="https://www.reuters.com/article/us-china-health-xi-economy/xi-warned-officials-that-efforts-to-stop-virus-could-hurt-economy-sources-idUSKBN2050JL" rel="noopener noreferrer" target="_blank">恢复经济活动</a>的重视。但公司和专家表示，许多已开工的工厂仍在以远低于产能的状态运行。隔离措施、道路封锁，以及各地设置的检查站使数百万工人无法重返工作岗位。供应线已被切断。</div>
+<div class="article-paragraph">就算重新开工了，中国官员也要求企业为工人提供口罩，记录他们的体温，追溯他们的行踪，以确保他们没有接触过导致名为COVID-19疾病的冠状病毒。<br/></div>
+<div class="article-paragraph">“就经济活动而言，这种恐惧和停产可能会持续下去，”牛津大学中国中心研究员乔治·马格努斯(George Magnus)说。“我真的看不到什么好结果。”</div>
+<div class="article-paragraph">据官方数字，截至周一，全球已有逾7万人感染新型冠状病毒，逾1700人死亡。新确诊病例仍在世界各地继续出现，其中包括一名周日在马来西亚<a href="https://www.nytimes.com/2020/02/16/world/asia/coronavirus-cruise-americans.html">确诊的美国人</a>，此人是从一艘邮轮上下来的乘客，引发了人们对中国大陆以外可能出现聚集性感染的担忧。</div>
+<div class="article-paragraph">台湾也在周日宣布了一名61岁男子死于冠状病毒，这是大陆以外的第五例死亡。虽然该男子有健康不佳的历史，但并没有去中国大陆旅行的记录。</div>
+<div class="article-paragraph">尽管如此，在位于疫情中心的中国大陆，官方的新确诊病例在过去三天里有所下降。</div>
+<div class="article-paragraph"><span><i>[</i><a href="https://www.nytimes.com/zh-hans/2020/02/11/world/asia/corona-virus-student-stories-chinese.html"><i>征文：新冠病毒给你带来什么影响</i></a><i>？]</i></span><br/></div>
+<div class="article-paragraph">新冠病毒的影响继续在世界各地蔓延。新加坡总理李显龙上周五警告，疫情爆发可能会让新加坡<a href="https://www.reuters.com/article/us-china-health-singapore-economy/singapore-pm-says-recession-possible-due-to-coronavirus-outbreak-idUSKBN2080MM" rel="noopener noreferrer" target="_blank">陷入经济衰退</a>。欧洲的经济大国德国上周五报告说，本国的<a href="https://www.nytimes.com/2020/02/14/business/germany-economy-coronavirus.html">经济增长</a>已在2019年底开始放缓，这让人们担心新冠病毒可能会推迟欧洲的经济复苏。<br/></div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="去年12月，一汽-大众天津工厂的一条装配线。" data-src="https://static01.nyt.com/images/2020/02/16/world/16china-work-sub/16china-work-sub-master1050.jpg" src="https://static01.nyt.com/images/2020/02/16/world/16china-work-sub/16china-work-sub-master1050.jpg"/></div><figcaption><span>去年12月，一汽-大众天津工厂的一条装配线。</span> <cite>VCG, via Getty Images</cite></figcaption></figure></div>
+<div class="article-paragraph">随着新一周的开始，中国巨大的制造业机器——占全球制造业25%的产出——显示出了再度快速运转起来的微弱曙光。</div>
+<div class="article-paragraph">欧洲飞机制造商空客说，公司已在上周开始重启位于天津的窄体客机组装线，但只会“逐步增加产量，同时采取所有必要的健康和安全措施”。空客需要天津工厂的生产：公司已在上周四承认<a href="https://www.nytimes.com/2020/02/13/business/airbus-boeing.html">无法满足全球对窄体客机的需求</a>，因为波音737 Max型号客机停飞后，航空公司正在大笔订货空客窄体客机。天津工厂的目标产量是每月六架飞机。</div>
+<div class="article-paragraph">大众汽车表示，公司已在上周四部分重启了在中国的15个组装厂中的一个，并计划逐步重启其余的工厂。通用汽车称，已于上周六开始逐步重启在中国的十几个装配厂。现代汽车说，公司在中国的大部分生产线已于周一复工。</div>
+<div class="article-paragraph">有些企业则更为谨慎。重型设备制造商卡特彼勒(Caterpillar)说，应政府主管部门的要求，公司已于上周一重启了在中国的多数工厂，但没有提供是否已恢复生产等具体细节。本田公司表示，正在尝试于2月24日恢复生产。</div>
+<div class="article-paragraph">除了生产医疗防护设备的工厂（中国政府已要求这些工厂24小时运转），几乎没有企业看来恢复了以前的生产速度。</div>
+<div class="article-paragraph">丰田表示，新冠病毒暴发前，公司的四个组装厂每天都是两班倒。公司目前的计划是，周一和周二重启其中的三个工厂，但都只上一班，公司位于中国西部城市成都的第四个也是最小的一个组装厂，继续停产。</div>
+<div class="article-paragraph">为苹果制造iPhone和其他小装置的全球电子设备企业——台湾的富士康拒绝提供自中国春节假期结束以来哪家工厂已重新开工的具体信息，但<a href="https://www.reuters.com/article/us-china-health-foxconn/foxconn-says-recent-reuters-reports-on-factory-resumption-in-china-were-not-factual-idUSKBN20704F?feedType=RSS&amp;feedName=technologyNews&amp;utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+reuters%2FtechnologyNews+%28Reuters+Technology+News%29" rel="noopener noreferrer" target="_blank">否认了媒体的一条报道</a>，报道称富士康的目标是在本月底前恢复50%的生产。富士康没有回复记者让公司进一步置评的请求。苹果公司也拒绝置评，但首席执行官蒂莫西·D·库克(Timothy D. Cook)上月曾说，公司的一些供应商可能会受干扰，但没有提供具体细节。</div>
+<div class="article-paragraph">为消费电子产品生产组件的中国工厂已在上周陆续重新开工，截止周一，除了那些位于疫情中心武汉的工厂，其余的几乎都已恢复生产，Instrumental公司的首席执行官安娜-卡特里娜·谢德列茨基(Anna-Katrina Shedletsky)说，该公司为全球品牌提供用于跟踪和管理电子制造业的远程质量监测系统。不过，她补充说，这些工厂中有许多尚未满负荷生产。</div>
+<div class="article-paragraph">上海美国商会(American Chamber of Commerce in Shanghai)表示，其企业会员的大多数已至少重启了部分业务。商会的企业会员遍布在中国中东部的主要工业地区。但商会会长季愷文(Ker Gibbs)说，恢复生产的企业中大多数都不是满负荷生产，主要原因是缺少工人。<br/></div>
+<div class="article-paragraph">企业重新开工意味着在度过了将近三周的春节假期之后，中国七亿多劳动力中的大部分将重返工厂。中国遏制疫情的措施已实际上将这个国家分割开。<a href="https://cn.nytimes.com/china/20200217/china-coronavirus-lockdown/">至少有7.6亿人</a>——略多于全国人口的一半——被各种各样的封闭措施限制起来。</div>
+<div class="article-paragraph">当局已开始试图将国家重新连接起来。中国的农业部在周末要求各地的农村拆除设置在公路和高速公路上阻碍牲畜和饲料运输的路障。江西省上周四宣布，将拆除设在高速公路出入口的检疫点。</div>
+<div class="article-paragraph">但仍有许多障碍。<br/></div>
+<div class="article-paragraph">“疫情很严重，我可以理解，这是国家的灾难，”来自中国西北地区的卡车司机马宏奎说。由于无货可运，他和其他数十名卡车司机已被困在西南省份云南的一个小镇里好几周了。“我不知道该向谁求助。”</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="本月，山东邹平一个生产医疗用品面料的生产线。" data-src="https://static01.nyt.com/images/2020/02/16/business/16china-work-3/merlin_168814572_243dce16-0759-447d-8719-769d1f0ea54d-master1050.jpg" src="https://static01.nyt.com/images/2020/02/16/business/16china-work-3/merlin_168814572_243dce16-0759-447d-8719-769d1f0ea54d-master1050.jpg"/></div><figcaption><span>本月，山东邹平一个生产医疗用品面料的生产线。</span> <cite>China Daily/Reuters</cite></figcaption></figure></div>
+<div class="article-paragraph">浙江省义乌市是一个小型制造业的中心，也是一个庞大的商品批发市场的所在地。返回义乌的农民工必须接受为期两周的隔离。他们<a href="https://cn.nytimes.com/china/20200217/china-coronavirus-lockdown/">到达义乌市的一个火车站</a>后，数十名身穿临时防护服、手持热像仪的官员对他们进行检查。当地政府已安排了四万个床位供他们住宿。</div>
+<div class="article-paragraph">据义乌市政府上周发布的一份通告，只有那些在企业复工人员名单上的人才可进入该市。说谎者将受到逮捕的惩罚。</div>
+<div class="article-paragraph">上海大数据中心主任朱宗尧说，上海正在从雇主那里收集每位员工的回沪日期和旅行历史数据。计算机将根据每个工人最近的旅行历史，自动计算和评估他们接触病毒的可能性和风险。<br/></div>
+<div class="article-paragraph">中国正在“维护人口安全，同时让人们尽快重返工作岗位之间找平衡”，迈克尔·D·克罗蒂(Michael D. Crotty)说，他是江苏省一家窗帘厂的联合业主，该厂准备在周一复工。</div>
+<div class="article-paragraph">当地政府要求克罗蒂的工厂为每位工人提供10天的口罩供应。但中国口罩供应商都在优先考虑医护工作者和其他有紧急需求的人。克罗蒂马上安排了从世界各地进口口罩。<br/></div>
+<div class="article-paragraph">伦敦卫生与热带医学学院院长彼得·皮奥特(Peter Piot)说，要求人人戴口罩不只是增加了个体的负担，还可能加剧全球的口罩短缺。<br/></div>
+<div class="article-paragraph">“在口罩如此短缺的时候，必须有一个合理的使用办法，”他说。</div>
+<div class="article-paragraph">中国工厂缓慢地恢复部分生产，可能会给世界各地的企业带来连锁反应。位于江西省的中国织材控股有限公司说，公司的纱线厂在2月20日之前开不了工。中国其他的工厂需要这家公司生产的纱线来织布。</div>
+<div class="article-paragraph">在邻国越南，手袋制造厂正面临着面料、拉链和各种金属部件的短缺，它们大部分来自中国，为越南手袋制造业提供咨询的塔蒂阿娜·欧婵奈兹基(Tatiana Olchanetzky)说。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="本月，青岛一个港口。隔离、道路封锁和检疫点基本上切断了供给线。" data-src="https://static01.nyt.com/images/2020/02/16/business/16china-work-4/merlin_168819741_dafd20ca-14f9-4119-9579-8e8e50228521-master1050.jpg" src="https://static01.nyt.com/images/2020/02/16/business/16china-work-4/merlin_168819741_dafd20ca-14f9-4119-9579-8e8e50228521-master1050.jpg"/></div><figcaption><span>本月，青岛一个港口。隔离、道路封锁和检疫点基本上切断了供给线。</span> <cite>CHINATOPIX, via Associated Press</cite></figcaption></figure></div>
+<div class="article-paragraph">“一些厂家可能不得不在3月份让工人无薪休假，如果材料进不来的话，”她说。</div>
+<div class="article-paragraph">复工只是挑战的一部分。中国有一个庞大的服务行业和消费群体，其中包括越来越富裕的中产阶级喜欢去的商店和餐馆。由于许多中国家庭受疫情影响被迫呆在家里，提供这些服务的小微企业也受到了严重打击。</div>
+<div class="article-paragraph">上海一家经营中国东北菜的餐馆老板艾米·李(Amy Li)说，她的餐馆和附近几十家餐馆一样，对很快重新开张几乎不抱希望，这让他们可能无法生存下去。<br/></div>
+<div class="article-paragraph">“现在还不知道哪一天可以重新开业，”艾米·李说。“未来的事只能听天由命了。”</div>
+*
+李文亮之死给习近平带来新考验
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠肺炎疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">中国武汉——死亡人数已过700。被感染者好几万。（截至2月8日24时，中国死亡病例达到811例——编注）数千万人过着行动受限制的生活，政府却试图平息人们的抱怨。</div>
+<div class="article-paragraph">但上周五，<a href="https://cn.nytimes.com/china/20200207/li-wenliang-coronavirus/">一名男子的死亡</a>引发了中国网民的反抗，让网络审查者面临十年来最激烈的攻势。这个人就是那位曾试图警告他人注意冠状病毒的医生。</div>
+<div class="article-paragraph">这个病毒也导致了<a href="https://cn.nytimes.com/china/20200208/li-wenliang-china-coronavirus/">李文亮医生</a>的死亡，他曾因提及这个病毒而遭受训诫。人们对他去世的悲愤如洪流，时不时突破了中国十分先进的审查和宣传系统的阻挡。社交媒体上有许多人把这位医生称为烈士和英雄，政府官员、名人和商业领袖们冒着被共产党指责的风险，加入到表达失望和悲伤的普通公民行列。</div>
+<div class="article-paragraph">“李文亮的死则是一个感性的触发点，”20多岁的武汉人王宇（音）说，他向记者展示了他手机上社交媒体圈里有关李文亮的大量评论。</div>
+<div class="article-paragraph">“他在疫情中是一个悲惨的人物，他的死则是把这种悲惨推到最高点，”王宇说。他犹豫了一下，然后改口说，“我担心李文亮的死根本不是悲剧的最高点。”</div>
+<div class="article-paragraph">李文亮之死给中国领导人习近平带来了新考验，他已经在与华盛顿新近签订的<a href="https://www.nytimes.com/2020/01/15/business/economy/china-trade-deal.html">贸易协定</a>、台湾最近的<a href="https://cn.nytimes.com/asia-pacific/20200112/taiwan-election-china/">大选</a>，以及香港抗议活动等方面面临严重的政治问题，这些问题都发生在病毒从武汉蔓延出来之前。最近几周，习近平与外国领导人的谈话已转向了为中国应对疫情做法的辩护，这场疫情目前已导致3.4万人被感染，让中国的运转几乎陷入停顿。</div>
+<div class="article-paragraph">如今，政府又陷入了一场对李文亮死后遗留问题展开的拉锯战，这可能会挑战习近平的强大审查机器。</div>
+<div class="article-paragraph"><figure class="article-inline-photo"><div class="img-box"><img alt="上个月，李文亮在武汉中心医院接受治疗。" data-src="https://static01.nyt.com/images/2020/02/07/world/07china-virus03/merlin_168522711_afc40177-390c-49ca-b0b0-f03269e3ec18-jumbo.jpg" src="https://static01.nyt.com/images/2020/02/07/world/07china-virus03/merlin_168522711_afc40177-390c-49ca-b0b0-f03269e3ec18-jumbo.jpg"/></div><figcaption><span>上个月，李文亮在武汉中心医院接受治疗。</span> <cite>Li Wenliang, via Agence France-Presse — Getty Images</cite></figcaption></figure></div>
+<div class="article-paragraph">34岁的李文亮曾于五周多前在一个网络群聊中对病毒发出警告，警方当时对他进行了惩罚，以儆戒那些不遵守官方保密要求的人。他被当局传唤，并被迫在一份指责他的警告是毫无根据的非法谣言的训诫书上签了字。</div>
+<div class="article-paragraph">他周五去世后，许多中国人说，他使人难以忘怀地感受到了政府为掩盖疫情所采取的早期措施。</div>
+<div class="article-paragraph">大范围的行动限制把许多人困在家里，他们只能泡在互联网上，有充足的时间细想李文亮之死。中国社交媒体的气氛通常易怒且善变，但在哀悼李文亮这件事上表现出了前所未有的一致，网上不断传来全国各地悼念他的文字。一个呼吁言论自由的话题曾在网上流行了几个小时。</div>
+<div class="article-paragraph">由于无法彻底删除这些讨论，北京当局已转向用官媒来把李文亮塑造成一名与政府事业一致的忠诚战士。一些人发帖说，对李文亮的记忆的争夺战及其可能的政治后果，让人想起了SARS暴发后发生的事情，这些帖子很快就被删除了。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="周四，中国成都空旷的天府广场地铁站，一名清洁工正在休息。" data-src="https://static01.nyt.com/images/2020/02/07/world/07china-virus02/merlin_168487119_8ea05f9e-2b87-4ad3-aa1b-4805d290fa6d-master1050.jpg" src="https://static01.nyt.com/images/2020/02/07/world/07china-virus02/merlin_168487119_8ea05f9e-2b87-4ad3-aa1b-4805d290fa6d-master1050.jpg"/></div><figcaption><span>周四，中国成都空旷的天府广场地铁站，一名清洁工正在休息。</span> <cite>Yuyang Liu for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">已退休的军医<a href="https://www.nytimes.com/2007/07/13/world/asia/13doctor.html">蒋彦永</a>是第一个提醒人们注意SARS病例数被大范围低报的人，在记录那时发生了什么的官方历史中，他已经被抹去。相比之下，对控制SARS有贡献的医生钟南山则被当作忠臣对待。当北京需要一名向公众发布关于这次冠状病毒的坏消息的人时，他们找来了钟南山。</div>
+<div class="article-paragraph">李文亮之死也表明，网络上的愤怒有时会漫过为压制这种情绪而修建的审查高墙。自2011年以来，中国的审查员们还没有如此应接不暇过，2011年温州发生的高铁事故曾引发了<a href="https://www.nytimes.com/2011/07/29/world/asia/29china.html">删不完</a>的令人愤怒、令政府尴尬的帖子。那场事故也促使政府出台了加强互联网监管的新政策。</div>
+<div class="article-paragraph">虽然被冠状病毒暴发夺去生命的许多人生已被统计数字所掩盖，但李文亮之死让人们看到了一个疫情受害者的面孔，也向人们提供了一个为控制疫情拼命工作的医务人员的故事。</div>
+<div class="article-paragraph">在武汉，灰蒙蒙的天空笼罩着李文亮去世的那个悲伤日子。他去世的医院门口出现了人们自发送来的纪念他的花，还有一张黑白照片和一支烧焦的香烟——这是烧炷香的替代。白天来吊唁的人很少，可能是因为很多武汉人仍不敢去离家太远的地方。</div>
+<div class="article-paragraph">“谢谢您曾经的勇气，”一束菊花中的一条留言写道，菊花是中国人哀悼用的花。“英雄不朽，谢谢。”另一条留言写道。</div>
+<div class="article-paragraph">在接受梨视频的<a href="https://www.pearvideo.com/video_1649482?st=2&amp;from=timeline&amp;isappinstalled=0" rel="noopener noreferrer" target="_blank">采访</a>时，李文亮的母亲啜泣着诉说了自己的悲痛。她说，在前几周里，他的身体状况仍稳定，可以自己下床吃饭。她还说，只是在最后两天里，他的状况才急转直下。她说她没能见儿子最后一面，还描述了他留下的遭到极大打击的家庭。</div>
+<div class="article-paragraph">“（媳妇二胎）6月份马上就该分娩了，”她说，“你说咋办吧这个家？是不是破碎了？”她还表示，自己和李文亮的父亲都得了肺炎，但已经康复。</div>
+<div class="article-paragraph">“我和他爸都治愈了，可惜孩子，孩子没挺过来，”她还说。“34岁，他（是）非常有潜力，非常有才华的孩子。不像会撒谎会什么的人——是忠于职守的人。”</div>
+<div class="article-paragraph">社交媒体上到处都是蜡烛表情符号、李文亮说过的话和他的照片。习惯于对政治热点保持缄默、不敢激怒政府的商业领袖和名人也分享了他们的思念和哀悼。在一张流传很广的画像里，李文亮戴的外科口罩轮廓变成了带刺的铁丝网。</div>
+<div class="article-paragraph">李文亮的感染力部分来自他的普通人情感。他喜欢炸鸡腿，对樱桃价格涨得太高生气，还不得不经常在医院加班。像中国许多人一样，他把这些琐事都在网上写了出来。</div>
+<div class="article-paragraph">用户们在微博网站上重现了他曾经有过的想法。</div>
+<div class="article-paragraph">“不经审视的人生是不值得过的，”他在一条典型的古怪微博中写道，那是他对鸡蛋煎饼起源有感而发的。“希望大家都能实现自己的价值。”</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="成都的一个本地市场。" data-src="https://static01.nyt.com/images/2020/02/07/world/07china-virus04/merlin_168487002_a65bf9be-9a45-406c-84be-dcfecb24c225-master1050.jpg" src="https://static01.nyt.com/images/2020/02/07/world/07china-virus04/merlin_168487002_a65bf9be-9a45-406c-84be-dcfecb24c225-master1050.jpg"/></div><figcaption><span>成都的一个本地市场。</span> <cite>Yuyang Liu for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">中国的官媒也发表了官方对他的追悼，有些悼文还巧妙地使用了他的故事。</div>
+<div class="article-paragraph">中国国家卫生健康委员会没有把他当作对病毒发出警告的凶事预言者、而是当作一名应对疫情的一线医生来纪念。虽然李文亮曾表示要帮助同事们战胜疫情，但他是眼科医生，在治疗一名青光眼病患时被传染了病毒。</div>
+<div class="article-paragraph">“疫情发生以来，广大医务工作者不顾个人安危，舍小家，为大家，迎难而上，英勇奋战在抗疫最前线，”卫健委在悼词中说。悼词还说，对这些“为保护人民生命健康作出了重大贡献”的工作者，“我们表示崇高敬意。”</div>
+<div class="article-paragraph">中国的国家电视台央视则试图将李文亮与习近平本人关于抗击疫情的言论直接联系起来。央视在一则评论中说，“战胜疫情魔鬼，就是对逝者最好的告慰。”魔鬼的说法附和习近平对疫情的描述。</div>
+<div class="article-paragraph">上周五，迫于公众压力，中共官员表示，将由掌握大权的中纪委派一个小组去调查有关李文亮死亡的情况。</div>
+<div class="article-paragraph">国家监察委员会已“决定派出调查组赴湖北省武汉市，就群众反映的涉及李文亮医生的有关问题作全面调查”，国家监委网站周五发布的仅有一句话的声明说。</div>
+<div class="article-paragraph">中共对公众愤怒做出如此迅速的反应很罕见。一些高级官员和官媒也在齐声悼念李文亮。国家卫健委和武汉市政府都在网络声明中对李文亮的逝世表示了哀悼。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="“钻石公主号”邮轮于周五停靠在日本横滨港。船上有3700多人被隔离。" data-src="https://static01.nyt.com/images/2020/02/07/world/07china-virus05/merlin_168517599_8d18117e-bffe-496a-8cfc-2668319c285b-master1050.jpg" src="https://static01.nyt.com/images/2020/02/07/world/07china-virus05/merlin_168517599_8d18117e-bffe-496a-8cfc-2668319c285b-master1050.jpg"/></div><figcaption><span>“钻石公主号”邮轮于周五停靠在日本横滨港。船上有3700多人被隔离。</span> <cite>Carl Court/Getty Images</cite></figcaption></figure></div>
+<div class="article-paragraph">在去世前一周，<a href="https://cn.nytimes.com/china/20200203/china-coronavirus/">李文亮接受了《纽约时报》的采访</a>。他对时报说，“如果官方提前公布疫情信息我想会好很多。应该更公开透明。”</div>
+<div class="article-paragraph">“觉得比较委屈，但是只能接受，”他在谈到自己被训诫时说。“明明出于好意。”</div>
+<div class="article-paragraph">“挺难过的。那么多人生病甚至失去亲人。”</div>
+*
+“它已经无处不在”：美国如何错失了遏制新冠病毒的良机？
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">西雅图的传染病专家海伦·Y·朱（Helen Y. Chu，音）博士知道美国没多少时间了。</div>
+<div class="article-paragraph">1月下旬，美国首例确诊冠状病毒病例落在了她所在的地区。一些关键问题有待解答：这个人感染了其他人吗？致命病毒是否已经潜伏在其他社区并在传播？</div>
+<div class="article-paragraph">凑巧的是，海伦·朱有办法监测该地区。几个月来，作为针对流感的研究项目的一部分，她和一组研究人员一直在整个普吉特海湾地区出现症状的居民中收集鼻拭子。</div>
+<div class="article-paragraph">为了将测试重新用于监测冠状病毒，他们需要州和联邦官员的支持。但是，采访和电子邮件表明，尽管经过了数周时间，并且感染开始在中国（感染最初开始的地方）以外的国家出现，在海伦·朱求助过的几乎所有机构里，官员们都反复拒绝了这个想法。</div>
+<div class="article-paragraph">到2月25日，海伦·朱和她的同事再也等不下去了。他们未经政府批准就开始进行冠状病毒测试。</div>
+<div class="article-paragraph">结果证实了他们最大的恐惧。他们很快从一个没有近期旅行史的当地青少年的测试中得到了阳性结果。冠状病毒已经神不知鬼不觉地在美国领土立足。</div>
+<div class="article-paragraph">“肯定一直都在这里，”海伦·朱惶惶不安地回忆道。“它已经无处不在。”</div>
+<div class="article-paragraph">实际上，官员后来通过测试发现，该病毒已经造成了两人死亡，并且在接下来的几天里又导致了20人死亡。</div>
+<div class="article-paragraph">联邦和州官员说，由于没有得到研究对象的明确许可，实验室也未获得临床工作认证，该流感研究不能被再利用。海伦·朱等人承认存在伦理问题，但同时也认为，在关乎众多生命的紧急情况下，应该有更大的灵活性。周一晚上，州监管机构要求他们完全停止测试。</div>
+<div class="article-paragraph">在暴发初期、疫情相对容易控制的阶段，联邦政府屡屡错失进行更大范围测试的机会，本报道首次披露的未能利用流感研究一事，就是其中一例。危机在不知不觉中急剧恶化，全国各地的地方官员却只能盲目应对。</div>
+<div class="article-paragraph"><span>即使到了现在，由于检测试剂盒的缺陷以及繁冗的规则，人们<a href="https://www.nytimes.com/2020/03/06/health/testing-coronavirus.html">对联邦政府的不满也与日俱增</a>，像<a href="https://www.nytimes.com/2020/03/08/nyregion/coronavirus-newyork.html">纽约州</a>和加利福尼亚州这样病例数不断增加的州仍在奋力进行对冠状病毒的广泛测试。持续的延误使官员们无法对不断</span>扩大的疫情规模有真实的了解，疫情现已蔓延至至少36个州以及华盛顿特区。</div>
+<div class="article-paragraph">疾病控制与预防中心(Centers for Disease Control and Prevention)主任罗伯特·R·雷德菲尔德(Robert R. Redfield)博士在周五的一次采访中表示，迅速采取行动对抗击疫情至关重要。他说：“时间很重要。”</div>
+<div class="article-paragraph">他坚称尽管起步艰难，美国仍有时间击败冠状病毒。“这将需要严格、积极主动的公众卫生——我想说的是，阻断并处理，阻断并处理，阻断并处理，阻断并处理，”他说。“这意味着如果你发现了一个新病例，要进行隔离。”</div>
+<div class="article-paragraph">但是从西雅图的流感研究可见，现行的监管和繁琐程序——有时旨在保护隐私和健康——如何导致无法快速进行全国范围的测试，而其他国家却可以更早、更迅速地进行。面对可能是百年一遇的公共卫生突发事件，美国未能做出灵活反应。</div>
+<div class="article-paragraph">疾控中心自己的努力，即利用现成的政府流感监控网络建立全国范围内的病毒监控系统，目前尚未运转起来。直到上周，在扩大了对商业和学术机构进行测试的授权之后，对于何时可以大量增加测试，本届政府官员给出的说法不一。</div>
+<div class="article-paragraph">在如缅因州、密苏里州和密歇根州等很少或没有已知感染的州，州公共卫生官员说他们有过剩的检测试剂盒。</div>
+<div class="article-paragraph"><span>但目前尚不清楚有多少美国人接受过冠状病毒检测。<a href="https://www.cdc.gov/coronavirus/2019-ncov/testing-in-us.html" rel="noopener noreferrer" target="_blank">疾控中心表示</a>，自疫情暴发以来已采集了约8500个标本或鼻拭子——</span>由于一个人可以有多个拭子，这一数字几乎肯定要高于被检测的人数。相比之下，据报道，与美国在同一时间发现了第一例病例的韩国，自2月底以来每天有能力测试约一万人。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="疾病控制与预防中心主任罗伯特·雷德菲尔德博士坚持认为，尽管起步艰难，但美国仍有时间击退冠状病毒。" data-src="https://static01.nyt.com/images/2020/03/11/us/09VIRUS-TESTING5/merlin_169595496_a5c5ee03-dbf4-4e44-bcb6-3a764297ed56-master1050.jpg" src="https://static01.nyt.com/images/2020/03/11/us/09VIRUS-TESTING5/merlin_169595496_a5c5ee03-dbf4-4e44-bcb6-3a764297ed56-master1050.jpg"/></div><figcaption><span>疾病控制与预防中心主任罗伯特·雷德菲尔德博士坚持认为，尽管起步艰难，但美国仍有时间击退冠状病毒。</span> <cite>T.J. Kirkpatrick for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>首要任务</b></div>
+<div class="article-paragraph">冠状病毒的基因序列在1月发布后，疾控中心的第一项工作就是开发诊断测试。“我们的首要任务，”雷德菲尔德说，“就是能看到这东西。”</div>
+<div class="article-paragraph">该机构还发布了决定对哪些人进行病毒检测的标准——起初仅包括那些出现发烧和呼吸道疾病且曾前往疫情起源地中国武汉的人。</div>
+<div class="article-paragraph">该标准实在太严格，以至于西雅图地区那名<span>有过武汉旅行史的病患都达不到要求。不放心的州卫生官员仍要求对他进行检测，然后疾控中心同意了。当地官员向亚特兰大发送了一个样本，<a href="https://www.cdc.gov/media/releases/2020/p0121-novel-coronavirus-travel-case.html" rel="noopener noreferrer" target="_blank">结果呈阳性</a>。</span></div>
+<div class="article-paragraph">官员们监测了70名与该男子有接触的人，其中有50名同意接受鼻拭子取样，无一人检测到冠状病毒呈阳性。但是，华盛顿州负责传染病的流行病学家斯科特·林德奎斯特(Scott Lindquist)博士说，仍然有可能漏掉一些人。</div>
+<div class="article-paragraph"><span>大约在这个时候，华盛顿州卫生部开始与该州已经进行的<a href="https://seattleflu.org/" rel="noopener noreferrer" target="_blank">西雅图流感研究</a>进行讨论。</span></div>
+<div class="article-paragraph">但是有一个麻烦：流感项目主要使用研究实验室，而不是临床实验室，并且其冠状病毒测试未获得美国食品药品监督管理局(FDA)的批准。因此，该小组无权向除了自己的调查人员以外的任何人提供测试结果。根据电子邮件和采访显示，他们开始与国家疾控中心和FDA官员们讨论，设法解决这个问题。</div>
+<div class="article-paragraph">前疾控中心高级官员斯科特·道威尔(Scott F. Dowell)博士现在是比尔和梅琳达·盖茨基金会(Bill＆Melinda Gates Foundation)的副主任，该基金会资助了西雅图流感研究，他向疾控中心负责应对冠状病毒的主管寻求帮助。他在2月10日写道：“希望能有个解决的办法。”</div>
+<div class="article-paragraph">后来，华盛顿州流行病学家林德奎斯特致信疾控中心流行病学和预防部门负责人阿丽莎·弗莱(Alicia Fry)博士，要求将该研究用于监测冠状病毒。</div>
+<div class="article-paragraph">疾控中心官员们一再表示不可能。疾控中心国家免疫与呼吸疾病中心的官员盖尔·兰利(Gayle Langley)在2月16日的一封电子邮件中写道：“如果要将你的测试用作筛查工具，你必须去问FDA。”但是FDA无法提供批准，因为该实验室未根据联邦医疗保险与医疗补助服务中心(Centers for Medicare＆Medicaid Services)建立的法规认证为临床实验室——此过程可能需要数月的时间。</div>
+<div class="article-paragraph">海伦·朱和林德奎斯特曾多次试图争取批准使用西雅图流感研究。得到的回答始终是否定的。</div>
+<div class="article-paragraph">“我们感觉在坐以待毙，等待大流行的到来，”海伦·朱说。“我们能帮忙。但我们什么都做不了。”</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="CDC的新冠病毒实验室检测试剂盒。" data-src="https://static01.nyt.com/images/2020/03/11/us/09VIRUS-TESTING3/merlin_170066298_0059aab0-27a2-47b3-bef3-bdb4346df78f-master1050.jpg" src="https://static01.nyt.com/images/2020/03/11/us/09VIRUS-TESTING3/merlin_170066298_0059aab0-27a2-47b3-bef3-bdb4346df78f-master1050.jpg"/></div><figcaption><span>CDC的新冠病毒实验室检测试剂盒。</span> <cite>CDC, via Associated Press</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>令人恼怒</b></div>
+<div class="article-paragraph">在华盛顿州与联邦官员就如何行动争论不休的同时，疾控中心要面对的是一项艰难的任务——进行更广泛的冠状病毒测试。</div>
+<div class="article-paragraph">按照疫情暴发期间的一贯做法，疾控中心设计了自己的测试。其他几个国家也开发了自己的测试。</div>
+<div class="article-paragraph">但是当疾控中心将检测试剂盒运送到全国各地的公共实验室时，一些当地官员开始报告说该测试产生了无效的结果。</div>
+<div class="article-paragraph">CDC承诺在几天内分发新试剂盒，但问题持续了两周多。在此期间，只有5个州实验室能够进行检测。华盛顿和纽约不在其中。</div>
+<div class="article-paragraph">到2月24日，随着新的病例开始在美国出现，州实验室一片混乱。</div>
+<div class="article-paragraph">美国公共卫生实验室协会(Association of Public Health Laboratories)向FDA局长斯蒂芬·哈恩(Stephen Hahn)博士提出了一个“非同寻常而罕见的要求”，要求他使用自由裁量权，允许州和地方公共卫生实验室自行进行病毒检测。</div>
+<div class="article-paragraph">“我们的应对行动已经进行了好几个星期，绝大多数成员实验室在CDC之外仍然没有可用的诊断或监测检测，”该协会的首席执行官斯科特·贝克尔(Scott Becker)在给哈恩的信中写道。</div>
+<div class="article-paragraph">两天后，哈恩做出了回应，在信中表示，“错误的诊断检测结果可能会导致严重的不良公共卫生后果”，并表示欢迎各实验室提交自己的检测，以获得紧急授权。</div>
+<div class="article-paragraph">但事实证明，实验室进行检测的审批过程十分繁琐。私人和大学的临床实验室通常有自行开发检测手段的自由，然而在获得FDA紧急批准的冠状病毒检测准备申请时，它们对FDA的速度感到失望。</div>
+<div class="article-paragraph">西雅图华盛顿大学医学中心(University of Washington Medical Center)的助理教授亚历克斯·格瑞宁格(Alex Greninger)博士说，他在2月中旬与FDA就开始检测进行申请沟通时，被弄得不胜其烦。“这种病毒可比FDA快，”他还说，该机构曾一度要求他除了通过电子邮件提交材料外，还要通过信件提交材料。</div>
+<div class="article-paragraph">新检测通常需要验证——对来自患者或病毒基因组副本的已知阳性样本进行检测。FDA的程序需要五个样本。伊利诺伊州北岸大学卫生系统(NorthShore University HealthSystem)病理与实验室医学部主任凯伦·考尔(Karen Kaul)博士说，获得这样的样本很困难，因为大多数医院的实验室还没有发现冠状病毒病例。</div>
+<div class="article-paragraph">她说，她不得不从欧洲的一个实验室里匆忙获取病毒RNA。“所有人都在试图弄清楚我们能得到什么来帮助我们收集需要的数据，”她说。</div>
+<div class="article-paragraph">FDA不同意其行动太慢的说法，并表示它在提交完整报告后的24小时内为两项实验室开发的检测提供了紧急授权——其中一个是CDC的检测，另一个是纽约沃兹沃斯实验室(Wadsworth)在核实CDC的检测遇到困难后研发的一种检测。</div>
+<div class="article-paragraph"><b>“我们该怎么办？”</b></div>
+<div class="article-paragraph">在美国另一边的西雅图，海伦·朱博士和她研究流感的同事不愿再等下去，决定开始检测样本。</div>
+<div class="article-paragraph">利亚·斯塔里塔(Lea Starita)实验室检测样本的一名技术员，很快就遭到当头一棒。</div>
+<div class="article-paragraph">“我说，‘哦，天哪，’”斯塔里塔博士说。“我一路跑着”去了研究项目经理的办公室。“我们有一个确诊，”她告诉他们。“我们该怎么办？”</div>
+<div class="article-paragraph">研究小组的成员讨论了下一步行动的道德问题。</div>
+<div class="article-paragraph">“我们被允许做的事情是不让别人知道，”海伦·朱说，“但我们觉得我们需要做的，是告诉公共卫生部门。”</div>
+<div class="article-paragraph">他们决定，正确的做法是通知当地的卫生官员。</div>
+<div class="article-paragraph">该病例为一名十来岁的青少年，与首例冠状病毒病例在同一个县，他在几天前刚做过流感拭子，但他没有旅行史，与任何已知病例也没有联系。</div>
+<div class="article-paragraph">终于可以开始进行测试的州实验室在第二天早上确认了结果。这名少年刚进入学校大楼就被找到，并通知了警方。他被送回家，后来为了预防起见，学校停课。该少年目前已从疾病中恢复。</div>
+<div class="article-paragraph">当天晚些时候，调查人员、西雅图卫生官员与CDC和FDA的代表聚集在一起，讨论发生的事情。来自联邦政府的信息直截了当。“他们在电话里说的很清楚，就是让海伦·朱住手，不要再这么干了，”林德奎斯特回忆说，“停止测试”。</div>
+<div class="article-paragraph"><b>无声的蔓延</b></div>
+<div class="article-paragraph">尽管如此，这一令人不安的发现改变了官员们对疫情的理解。西雅图流感研究所(Seattle Flu Study)的科学家<a href="https://www.nytimes.com/2020/03/01/health/coronavirus-washington-spread.html">迅速对病毒的基因组进行了测序</a>，发现在美国首例冠状病毒病例中也存在遗传变异。</div>
+<div class="article-paragraph">其含义令人不安。该病毒很有可能已经在社区内悄无声息地传播了大约六周，感染了数百人。</div>
+<div class="article-paragraph">研究人员回忆说，在CDC和FDA要求海伦·朱停止检测的第二天，官员们打来电话，态度有所缓和，但只是部分缓和。他们将允许该研究所的实验室测试病例，并只对未来的样本报告结果。他们将需要使用一份新的同意书，明确提到冠状病毒检测的结果可能会与当地卫生部门共享。</div>
+<div class="article-paragraph">他们不对已收集的数千个样本进行检测。</div>
+<div class="article-paragraph">同一天，<a href="https://www.nytimes.com/2020/02/29/health/fda-coronavirus-testing.html">FDA表示将放宽规定</a>，允许临床实验室开始使用自己的冠状病毒测试，只要他们向FDA提交他们工作的证据。周二，一名机构代表称，根据这项新政策，它已经收到14家实验室的提交，其中10家已经开始对患者进行检测。</div>
+<div class="article-paragraph">斯塔里塔说，3月2日，华盛顿大学(University of Washington)西雅图流感研究所审查委员会认定，在公共卫生紧急情况下，研究人员如果不进行检测并报告结果，是不道德的。从那时起，她的实验室发现并报告了许多其他病例，所有病例均已得到确认。</div>
+<div class="article-paragraph">在新样本到来的同时，斯塔里塔的实验室也开始追溯一些较老的、在冰柜里放了几周的样本，发现了至少可以追溯到2月20日的病例——这是在公共卫生官员对这种病毒有概念的七天前。</div>
+<div class="article-paragraph">科学家们说，他们相信会找到证据，证明这种病毒在更早的时间里就感染了人，如果允许他们进行检测，他们本可以更早地通知有关部门。</div>
+<div class="article-paragraph">但在周一晚上，执行医疗保险规定的州监管机构介入，再次要求他们停止工作，直到完成临床实验室的认证，这一过程可能需要数周时间。</div>
+<div class="article-paragraph">在那名少年接受检测后的几天里，西雅图地区陷入了危机，数十人检测呈阳性，至少22人死亡，其中许多人是在一家疗养院感染的，自2月19日以来，这家疗养院一直在不知不觉中有人感染。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="上周，纽约上下班高峰时间的通勤者。" data-src="https://static01.nyt.com/images/2020/03/11/us/09VIRUS-TESTING7/merlin_170077725_29f785e3-608e-431a-b625-8a7d27e54f4f-master1050.jpg" src="https://static01.nyt.com/images/2020/03/11/us/09VIRUS-TESTING7/merlin_170077725_29f785e3-608e-431a-b625-8a7d27e54f4f-master1050.jpg"/></div><figcaption><span>上周，纽约上下班高峰时间的通勤者。</span> <cite>Hiroko Masuike/The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">冠状病毒检测仍然不是哪里都可以做，美国某些地区可以轻松进行检测，有些则不行。一些州的官员担心，病毒的传播速度远远超过了检测能力的增长速度。</div>
+<div class="article-paragraph">海伦·朱说，现在回想起来，她能理解为什么过去几周有那些阻碍疫情研究的规定。“这些保护措施的存在是有原因的，”她说。“你想保护实验对象。你想以合乎道德的方式做事。”</div>
+<div class="article-paragraph">她说，令人沮丧的是，在一场可能在华盛顿州暴发，并在许多其他地区蔓延的疫情中，人们花了许多时间才得以突破繁文缛节去挽救生命。“我想那时候人们不知道，”她说。“我们现在知道了。”</div>
+*
+在纽约，几乎每个人身边都有人感染病毒
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">纽约市住房管理局的一名退休人员一条条记录下来：前妻病了、女儿病了、三个老朋友死了。在皇后区，一名年轻诗人得知朋友的父母住院了，其中一人还上了呼吸机。<br/></div>
+<div class="article-paragraph">来自布朗克斯区帕克切斯特的屈蒂娜·帕森(Qtina Parson) 带来了她那个原本欢乐的家庭的最新坏消息，就在几周之前，这位自豪的母亲、姊妹和阿姨的口吻还截然不同——那仿佛是上辈子的事情了。</div>
+<div class="article-paragraph">“我侄子病了，他28岁，”她说。“他和他的女朋友。我嫂子46岁，她也病了。”她的儿子马库斯18岁，住在南卡罗来纳州的亲戚家里，出现了发烧和咳嗽的症状。“但他在外面割草，”她补充，仿佛大声说出来就能证明这是真的。“我告诉他那是过敏。”</div>
+<div class="article-paragraph"><span>最近几天，在无助的恐惧中，纽约市民看到新型冠状病毒以令人眩晕的速度和烈度攻克这座城市。死亡人数超过了1500人，许多人失去了身边的某个人，可能是同事、高中时的老朋友、孩子同学的家长，也可能是<a href="https://www.nytimes.com/2020/04/01/nyregion/Father-Jorge-Ortiz-Garay-coronavirus-death.html">教区牧师</a>、楼上年长的邻居，或者一个母亲、父亲。</span></div>
+<div class="article-paragraph">现在几乎每个人都认识某个生病的人。</div>
+<div class="article-paragraph"><span>数字说明了一切：截至周四，<a href="https://www.nytimes.com/2020/04/02/nyregion/coronavirus-new-york-update.html?action=click&amp;module=Spotlight&amp;pgtype=Homepage">纽约市有近5.2万例</a>确诊病例。但实际情况要糟糕得多——<a href="https://www.nytimes.com/2020/03/16/health/coronavirus-statistics-undetected.html">一项针对中国病例的研究显示</a>，感染人数可能是被检测出阳性者的10倍，因此纽约的实际感染人数可能接近50万。据信，要达到拐点还需要数周时间。</span></div>
+<div class="article-paragraph">反过来，不断增长的数字又令约800万人口拥有的私人世界缩小了。它就像是一个微观的敌人，对许多人来说曾经只是个抽象的麻烦，是其他地方发生的事情，如今却在逼近，救护车持续不断的鸣笛声宣告着它的到来。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="口罩在每个社区都变得越来越常见。" data-src="https://static01.nyt.com/images/2020/03/31/nyregion/00nyvirus-mood1/merlin_171160908_4e012dde-0f9f-46a3-ab31-3ead2ac1f92d-master1050.jpg" src="https://static01.nyt.com/images/2020/03/31/nyregion/00nyvirus-mood1/merlin_171160908_4e012dde-0f9f-46a3-ab31-3ead2ac1f92d-master1050.jpg"/></div><figcaption><span>口罩在每个社区都变得越来越常见。</span> <cite>Juan Arredondo for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">如果疫情可以按周来计算进展——一周餐馆关闭，一周学校停课、商店关门，那么在本周，整个城市都感受到了它真正的威力。</div>
+<div class="article-paragraph">“这是极大的众生平等，”纽约州州长安德鲁·M·科莫(Andrew M. Cuomo)周二在新闻发布会上说。“它不在乎你自认为有多么聪明、富有、强大。它不在乎你年轻还是年老。”</div>
+<div class="article-paragraph">对许多人来说，在本周，应对的规则突然改变了。</div>
+<div class="article-paragraph">“他们先是说，‘只有免疫系统有问题的人会生病，’”27岁的诗人、作家M·马尔贝拉(M. Marbella)说。“现在大家都像苍蝇一样纷纷往下掉。”</div>
+<div class="article-paragraph">速度快得让人觉得不真实。一个月前在曼哈顿观看百老汇演出前享用晚餐的人，今天就有可能生病、悼念家人、失去工作，或者以上皆是。这种事几乎是史无前例的；9·11事件中，成千上万的人失去了亲人，但损失都是在那可怕的一天、在一瞬间发生的。有些人追溯到更早的时候，将它和第二次世界大战或1918年西班牙流感乃至更早的时期去做对比。</div>
+<div class="article-paragraph">“这就像14世纪从英格兰来的瘟疫，”67岁、现居布鲁克林格林堡的马克斯·德巴罗斯(Max Debarros)说。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="冠状病毒占据了所有新闻，以及所有谈话。" data-src="https://static01.nyt.com/images/2020/03/31/nyregion/00nyvirus-mood2/merlin_171163245_4cdb4faf-8011-474b-b14c-daaaf56b3630-master1050.jpg" src="https://static01.nyt.com/images/2020/03/31/nyregion/00nyvirus-mood2/merlin_171163245_4cdb4faf-8011-474b-b14c-daaaf56b3630-master1050.jpg"/></div><figcaption><span>冠状病毒占据了所有新闻，以及所有谈话。</span> <cite>Stephen Speranza for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">这场瘟疫不仅在街头发生，也在屏幕中上演。在人们的Facebook和Twitter账户上，不停地有老朋友或者朋友的朋友宣布痛失亲朋好友的消息。威胁似乎无处不在。</div>
+<div class="article-paragraph">“在社交媒体上，每天都会看到新的感染者，”今年30岁、来自皇后区桑尼赛德的奥黛丽·卡德威尔(Audrey Cardwell)说。起初，她对疫情暴发的可能性持怀疑态度——“感觉像是在散布恐慌”——现在，她开始通过冥想和遛狗解决焦虑。“我必须控制自己在网上看东西的时间，”她说。</div>
+<div class="article-paragraph">同样，家住布鲁克林贝德福德-斯图维森特、现年33岁的莱奥拉·富勒(Leora Fuller)说，她在纽瓦克罗格斯大学(Rutgers University-Newark)的两个学生已经住院，她将更多的精力放在友谊和自己的健康上。她说：“真正的关心是这样，‘哦，我要给自己买点东西。’”</div>
+<div class="article-paragraph">在城市各处，其他的应对方法也发挥着作用。现年36岁的奥雷利奥·阿吉拉(Aurelio Aguilar)在下东区的一个小杂货店里工作，他喝着姜、柠檬和蒜泥混合调制的饮品，这是祖母用来增强免疫力的配方。在格林堡(Fort Greene)，现年36岁的艾丹·史力伯(Aidan Sleeper)携带了自制的30:1的漂白水，喷洒他即将碰触的每个门把手。</div>
+<div class="article-paragraph">在长岛市皇后区，现年54岁的格伦·哈里斯(Glenn Harris)在视频会议平台Zoom上和20个朋友庆祝生日——他说：“大家来自全国各地。”与此同时，35岁的安迪·阿罗约(Andy Arroyo)做好了最坏的打算，谈起了2012年飓风桑迪袭击后他拥有的那把枪。</div>
+<div class="article-paragraph">“这看上去也许是过度反应，但你真的无法预测人们在绝望的时候会怎么做。”阿罗约说。他目前居住在韦斯特切斯特县的切斯特港，正在去布朗克斯找工作的路上。“我需要确保自己和亲人的安全。”</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="本周，皇后区伍德赛德的罗斯福大街人迹寥寥。" data-src="https://static01.nyt.com/images/2020/03/31/nyregion/00nyvirus-mood3/merlin_171091080_508fb0eb-0b70-4132-9d4e-67843d161ba1-master1050.jpg" src="https://static01.nyt.com/images/2020/03/31/nyregion/00nyvirus-mood3/merlin_171091080_508fb0eb-0b70-4132-9d4e-67843d161ba1-master1050.jpg"/></div><figcaption><span>本周，皇后区伍德赛德的罗斯福大街人迹寥寥。</span> <cite>Stephanie Keith for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph"><span>美国人整体上——不仅是大城市——都感觉到了冠状病毒的到来。<a href="https://civiqs.com/documents/Civiqs_DailyKos_monthly_banner_book_2020_03B_x2nf9sb.pdf" rel="noopener noreferrer" target="_blank">Civiqs/Daily Kos上周进行的一项民意调查</a>向美国1505名成年人就疫情进行了询问，结果发现13％的人被感染或有认识的人被感染，还有60％的人担心他们会得病。</span></div>
+<div class="article-paragraph">对于家住布朗克斯区、现年59岁的凯特·哈珀(Cat Harper)来说，冠状病毒曾是一个抽象概念，直到有消息传出在长岛市她家所在的教会有成员病倒。之后，她姐姐开始咳嗽，而且总治不好。</div>
+<div class="article-paragraph">她姐姐的检测呈阳性，几天前被送入蒙特菲奥雷医疗中心(Montefiore Medical Cente)。哈珀说：“我开始害怕我再也见不到她了，”她打电话过去，但是多天来，她姐姐的嗓子很痛，几乎无法说话。</div>
+<div class="article-paragraph">“她看到周围的人中有些比她病得更厉害，”哈珀说。“她可能在想她也会变成那样。”</div>
+<div class="article-paragraph">然而她康复了，随后出院回家隔离。其他家庭的结局要糟糕得多。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="布朗克斯区的Riverdale Diner只接受自取和外送。" data-src="https://static01.nyt.com/images/2020/03/31/nyregion/00nyvirus-mood4/merlin_171075681_b43b13a2-c93a-4ac3-9dad-45cf64951429-master1050.jpg" src="https://static01.nyt.com/images/2020/03/31/nyregion/00nyvirus-mood4/merlin_171075681_b43b13a2-c93a-4ac3-9dad-45cf64951429-master1050.jpg"/></div><figcaption><span>布朗克斯区的Riverdale Diner只接受自取和外送。</span> <cite>Gabriela Bhaskar for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">“我身边有些人病了，”纽约市住房管理局(New York City Housing Authority)退休雇员、60岁的安吉洛·阿尔斯顿(Angelo Alston)说。“我的前妻。我的女儿。我在佐治亚州的一个发小去世了。另外两个和我一起长大的朋友也去世了。”</div>
+<div class="article-paragraph"> 他几年前搬到宾夕法尼亚州，但是现在回到了这个城市，此前他的继子因非病毒性疾病去世，全家为了领回继子的遗体而返回这个城市。失去亲人在任何时候这都是沉痛的损失，但现在也成了一种威胁。</div>
+<div class="article-paragraph">他说：“我正尝试离开这里。”</div>
+<div class="article-paragraph">在格林堡，现年35岁的布莱尔·史密斯(Blair Smith)正在照顾一个生病的亲戚时，碰到了邻居，邻居告诉他一个坏消息：他们都认识的杂务工约尔格(Jorge)刚去世了。</div>
+<div class="article-paragraph">“哦，我的上帝，”她说。“这就像等待暴风雨来临，而你只看到暴风雨袭来的那一瞬间。”</div>
+<div class="article-paragraph">家住贝德福德-斯图维森特、现年44岁的狄恩·法里亚(Dion Faria)在太平洋街上的俱乐部被迫关闭，相比害怕，他更多的是感到烦恼。现在，随着Facebook上朋友的朋友病倒，尸体被装进城市医院外的冷藏卡车的视频疯传，他开始想象这场灾难过后的时光。</div>
+<div class="article-paragraph">“希望那时，门都开了，”他站在家门前的台阶上说，“然后我们都能恢复生活。”</div>
+*
+肺炎疫情每日情况更新：死亡56人，习近平警告严重形势
+<div class="article-paragraph"> <i>(春节期间，时报中文网将于每日发布一篇武汉疫情最新情况总结。<b>本文截稿时间为1月26日上午11时</b>。中文网其他报道将于1月31日周五恢复更新。更多关于武汉疫情的最新消息，欢迎关注时报的<a href="https://www.nytimes.com/2020/01/25/world/asia/china-coronavirus.html?action=click&amp;pgtype=Article&amp;state=default&amp;module=STYLN_wuhan_coronavirus_menu&amp;variant=1_wuhan_coronavirus_menu®ion=header&amp;context=menu" title="Link: https://www.nytimes.com/2020/01/25/world/asia/china-coronavirus.html?action=click&amp;pgtype=Article&amp;state=default&amp;module=STYLN_wuhan_coronavirus_menu&amp;variant=1_wuhan_coronavirus_menu®ion=header&amp;context=menu">实时更新报道</a>。)</i></div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="周五，武汉大学中南医院的重症监护病房。" data-src="https://static01.nyt.com/images/2020/01/25/world/25china-briefing9a/merlin_167761758_ca74e436-11cc-4303-bf63-7d151b12dfc8-master1050.jpg" src="https://static01.nyt.com/images/2020/01/25/world/25china-briefing9a/merlin_167761758_ca74e436-11cc-4303-bf63-7d151b12dfc8-master1050.jpg"/></div><figcaption><span>周五，武汉大学中南医院的重症监护病房。</span> <cite>Xiong Qi/Xinhua, via Associated Press</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>确诊及死亡病例数字汇总更新</b></div>
+<div class="article-paragraph">春节假期第二天，中国因感染新型冠状病毒死亡的人数继续攀升。卫健委1月25日<a href="http://www.nhc.gov.cn/xcs/yqfkdt/202001/9614b05a8cac4ffabac10c4502fe517c.shtml" rel="noopener noreferrer" target="_blank">通报</a>称，截至25日24时，死亡病例已升至56例，除疫情重灾区湖北外，上海和河南各新增一例死亡病例。全国报告新增确诊病例688例，累计确诊病例1975例。</div>
+<div class="article-paragraph">广西南部河池市报告了一例年仅2岁的感染患者，《人民日报》的官方媒体账号称她是目前年纪最小的确诊患者。地方卫生官员称她已入院治疗，情况稳定。<br/></div>
+<div class="article-paragraph">官方新闻媒体周六报道说，江苏泰州一名医生死于心脏衰竭，当时他在医院的发热病房照顾一名感染患者。目前尚不清楚他是否显示出感染迹象。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="周六，北京街头几乎荒无人烟。" data-src="https://static01.nyt.com/images/2020/01/25/world/25china-briefing2a/merlin_167762184_187134b1-6423-4dbb-82f3-5347d68c2de3-master1050.jpg" src="https://static01.nyt.com/images/2020/01/25/world/25china-briefing2a/merlin_167762184_187134b1-6423-4dbb-82f3-5347d68c2de3-master1050.jpg"/></div><figcaption><span>周六，北京街头几乎荒无人烟。</span> <cite>Wu Hong/EPA, via Shutterstock</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>北京停运省际客运，全国旅行社团队游暂停</b></div>
+<div class="article-paragraph">中国当局周六宣布，将从周一开始暂停所有旅行社的团队游及“机票＋酒店”产品业务。已出行的旅游团队可按合同继续完成行程，但行程中应密切关注旅客的健康状况。</div>
+<div class="article-paragraph">北京市政府周六宣布，将从周日起暂停所有省际客运，这将有效限制通往首都的公路旅行。新的限制措施说明，人们对疫情大规模暴发的担忧已经蔓延到中国的行政中心。</div>
+<div class="article-paragraph">武汉周六宣布从午夜开始禁止市中心的车辆通行，但随后又发布<a href="https://www.weibo.com/wuhanjiaojing?refer_flag=1005055014_" rel="noopener noreferrer" target="_blank">补充信息</a>，表示禁行只针对提前收到手机短信通知的车主，居民遇到紧急情况可以先通行，再到交管部门补办手续。</div>
+<div class="article-paragraph"><b>无症状感染者也可能传播病毒</b></div>
+<div class="article-paragraph">医学杂志《柳叶刀》(The Lancet)周五发表的<a href="https://www.thelancet.com/pb-assets/Lancet/pdfs/S0140673620301549.pdf" rel="noopener noreferrer" target="_blank">一项研究</a>认为，感染新型冠状病毒的人即使没有流感症状也可能传播病毒。<br/></div>
+<div class="article-paragraph">研究人员在中国的深圳市研究了一个七口之家，其中有五人曾前往疫情中心武汉。在武汉，他们中有两人曾与医院与一名被感染的亲戚有过接触。他们乘飞机回家几天后，对这个家庭进行的测试发现，有六名成员感染了新型冠状病毒，其中包括一名没有去武汉的人。</div>
+<div class="article-paragraph">研究发现，被感染的家庭成员中有一名儿童，没有表现出任何症状，这表明携带这种病毒的人可能在不知道自己携带病毒的情况下进行传播。<br/></div>
+<div class="article-paragraph">“这表明这种新的冠状病毒能够在医院、家庭和城市间的环境中出现人际传播，”该研究的作者袁国勇在接受采访时说，“这正是使这种新疾病难以控制的原因。” </div>
+<div class="article-paragraph">研究人员告诫说，该研究仅限于病毒的早期病例，并且现阶段很难评估危险因素。但鉴于无症状传播的早期迹象，他们强调了尽早隔离患者的重要性。<br/></div>
+<div class="article-paragraph">《柳叶刀》杂志的<a href="https://www.thelancet.com/pb-assets/Lancet/pdfs/S0140673620301835.pdf" rel="noopener noreferrer" target="_blank">另一项研究</a>发现，早期新型冠状病毒感染病例的症状与SARS相似，包括发烧，干咳和呼吸急促。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="周四，武汉的一间超市。" data-src="https://static01.nyt.com/images/2020/01/28/world/23china-briefing-9/merlin_167627730_fa93358d-9a65-4ef2-965b-74cd793ce48f-master1050.jpg" src="https://static01.nyt.com/images/2020/01/28/world/23china-briefing-9/merlin_167627730_fa93358d-9a65-4ef2-965b-74cd793ce48f-master1050.jpg"/></div><figcaption><span>周四，武汉的一间超市。</span> <cite>Getty Images</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>美国计划包机撤离驻武汉领事馆雇员</b></div>
+<div class="article-paragraph">美国大使馆周六表示，随着针对华中地区的封锁扩大，国务院已下令驻武汉领事馆的所有美国雇员离开武汉。</div>
+<div class="article-paragraph">该机构称，由于新型冠状病毒的蔓延、交通管制造成的混乱以及当地医院的不堪重负，疏散美国工作人员及其家属是必要的。</div>
+<div class="article-paragraph">据知情人士透露，美国政府正在安排包机在周日撤离美国外交官和公民，这架航班可能会把撤离人员带至美国西海岸。据了解该计划的人士透露，医务人员将登机随行，对乘客进行筛查；非外交人员需要自行负担飞行费用。</div>
+<div class="article-paragraph">此外，法国外交部称，法国驻武汉领事馆上周五也已对该国公民发出通知，正在考虑与中国当局合作，为希望离开武汉的人提供巴士服务。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="周六，在香港黄大仙庙庆祝农历新年的人们。这座城市正在取消各项新年庆祝活动。" data-src="https://static01.nyt.com/images/2020/01/25/world/25china-briefing6a/merlin_167767962_7c30614e-ac56-41f5-bc43-a8ec9c5eab62-master1050.jpg" src="https://static01.nyt.com/images/2020/01/25/world/25china-briefing6a/merlin_167767962_7c30614e-ac56-41f5-bc43-a8ec9c5eab62-master1050.jpg"/></div><figcaption><span>周六，在香港黄大仙庙庆祝农历新年的人们。这座城市正在取消各项新年庆祝活动。</span> <cite>Dale De La Rey/Agence France-Presse — Getty Images</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>香港宣布进入紧急状态，各级学校停课</b></div>
+<div class="article-paragraph">周六，特首林郑月娥宣布香港进入卫生紧急状态，并表示学校将停课至2月中旬，以应对当前暴发的病毒疫情。</div>
+<div class="article-paragraph">目前，香港已确诊五名感染新型冠状病毒的病患，另有超过100宗疑似病例。港府已暂停来往武汉的航班及高铁，并将取消所有农历新年的庆祝活动。原定于2月初举行的香港马拉松赛已被叫停。</div>
+<div class="article-paragraph">此外，在疫情最严重的湖北，全省从幼儿园到大学的各级学校均已决定推迟开学时间。<br/></div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="武汉的华南海鲜市场已经被消毒并关闭，该市场被认为是新型冠状病毒最有可能的发源地。" data-src="https://static01.nyt.com/images/2020/01/25/world/25int-china4/merlin_167415102_8b068d45-b01b-455d-b985-3223f7f2defa-master1050.jpg" src="https://static01.nyt.com/images/2020/01/25/world/25int-china4/merlin_167415102_8b068d45-b01b-455d-b985-3223f7f2defa-master1050.jpg"/></div><figcaption><span>武汉的华南海鲜市场已经被消毒并关闭，该市场被认为是新型冠状病毒最有可能的发源地。</span> <cite>Noel Celis/Agence France-Presse — Getty Images</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>中国野生动物交易再次成为关注焦点</b></div>
+<div class="article-paragraph">典型的中国市场出售水果蔬菜、成块的猪牛羊肉、拔了毛的整鸡，还有活螃蟹和活鱼。但还有些商店出售更稀罕的东西——包括活蛇、乌龟和蝉、豚鼠、竹鼠、獾、刺猬、水獭、果子狸，甚至还有狼崽子。</div>
+<div class="article-paragraph"><span>从武汉传播开来的新型冠状病毒就与上述野生动物交易有关，专家称，华南海鲜批发市场正是培养新型病原体的完美孵化器，而类似的市场在中国各地随处可见。短短二十年内，它们已第二次成为大规模流行病的发源地。2002年底暴发的SARS导致全球近800人死亡，数千人患病。<br/></span></div>
+<div class="article-paragraph"><span>随着政府试图控制公众对疫情暴发的愤怒，越来越多的人开始质疑，为何相关政策在SARS暴发后的17年内几乎没有什么变化。华南海鲜批发市场去年12月已被认定为疫情最有可能的暴发源头，但直至本周三，官员才宣布在湖北全省境内禁止销售野生动物。<br/></span></div>
+<div class="article-paragraph"><span>时报北京分社社长Steven Lee Myers为我们带来了有关中国野生动物交易现状的报道，并分析了这种贸易持续存在和繁荣的原因，<a href="https://www.nytimes.com/2020/01/25/world/asia/china-markets-coronavirus-sars.html">欢迎点击阅读</a>。<br/></span></div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="武汉药店工作人员身穿防护服，为顾客服务。" data-src="https://static01.nyt.com/images/2020/01/25/world/25china-briefing1a/25china-briefing1a-master1050.jpg" src="https://static01.nyt.com/images/2020/01/25/world/25china-briefing1a/25china-briefing1a-master1050.jpg"/></div><figcaption><span>武汉药店工作人员身穿防护服，为顾客服务。</span> <cite>Hector Retamal/Agence France-Presse — Getty Images</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>为什么会有如此大规模的恐慌？</b></div>
+<div class="article-paragraph">新型冠状病毒的感染和死亡人数令人震惊，公共卫生专家也对大规模焦虑症提出了警告。毕竟，仅在美国，普通流感每年就造成约35万人死亡，并使约20万人住院。现在还不知道这种新型病毒死亡率有多高。但是有迹象表明，这次暴发可能比普通流感严重得多。</div>
+<div class="article-paragraph">中国民众则被非典留下的阴影所困扰，当年的疫情也始于中国，最终导致全球800多人丧生。北京最初淡化了危机并隐瞒了信息，最终引起了广泛的批评。</div>
+<div class="article-paragraph">中国政府承诺的透明度要远远超过非典危机时，世界卫生组织也赞扬它与科学界的合作。 尽管如此，在中国社交媒体上仍然可以看到对地方和中央政府的不信任。中国卫生系统已经在新病毒的压力下挣扎，武汉的医院发出紧急求助，呼吁社会提供帮助和捐款。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="习近平在周六前对疫情鲜少公开发表评论。" data-src="https://static01.nyt.com/images/2020/01/25/world/25china-briefing8a/merlin_167305893_ed11a5b1-24ae-4ce5-9eb9-8f955e6e7ddd-master1050.jpg" src="https://static01.nyt.com/images/2020/01/25/world/25china-briefing8a/merlin_167305893_ed11a5b1-24ae-4ce5-9eb9-8f955e6e7ddd-master1050.jpg"/></div><figcaption><span>习近平在周六前对疫情鲜少公开发表评论。</span> <cite>Pool photo by Nyein Chan Naing</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>习近平主持召开常委会，称中国将“战胜疫情”</b></div>
+<div class="article-paragraph">中共召开政治局常委会，成立应对疫情工作领导小组，将向湖北等疫情严重地区派出指导组督导工作。</div>
+<div class="article-paragraph">习近平在会议上要求遏制疫情蔓延，加强改善对感染患者的治疗，保障武汉等被封锁地区的物资补给等。他还强调，面对疫情加快蔓延的严重形势，必须加强党中央集中统一领导，表示“一定能打赢疫情防控阻击战”。</div>
+<div class="article-paragraph">在此次会议之前，面对这场日益加剧的公共卫生危机，除了在五天前曾发布简短批示之外，习近平鲜少作公开表态。</div>
+<div class="article-paragraph"><b>公共卫生危机暴露中央与地方的紧张关系</b></div>
+<div class="article-paragraph">在中国社交媒体上，许多民众质疑当局是否准确报告了感染病例的数量，以及是否采取了有效措施遏制疫情传播。他们还批评地方、省级甚至国家级领导人没有前往疫区开展工作，一些网友甚至直接指向习近平，“那个人在哪里？他不在第一线。”一则微博帖子写道，但这条微博很快被删除。</div>
+<div class="article-paragraph">长期以来，中国地方官员常常为避免引发上级官员、特别是党内高层的愤怒而隐瞒问题。但习近平为将权力集中在北京所做的努力进一步削弱了地方政府，并强化了他们否认出现问题的动机。</div>
+<div class="article-paragraph">这是长期存在的模式的一部分，这种模式可能导致各级政府迟迟不承认问题，一旦发现问题就互相指责。</div>
+<div class="article-paragraph">疫情蔓延之际，官方媒体一直以报道正面新闻为主，称赞应对疫情的工作人员和普通民众的牺牲。<br/></div>
+<div class="article-paragraph">“这是中国中央与地方关系的一个连续主题，”牛津大学著名中国学者许慧文(Vivienne Shue)说：“你不想成为那个带来坏消息的人。”</div>
+<div class="article-paragraph"><i>感谢阅读今天的武汉疫情简报</i><i>，新读者请</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处订阅</i></a><i>。欢迎在Twitter(</i><a href="https://twitter.com/nytchinese" rel="noopener noreferrer" target="_blank"><i>@nytchinese</i></a><i>)、</i><a href="https://www.instagram.com/cn.nytimes/?hl=zh-tw" rel="noopener noreferrer" target="_blank"><i>Instagram</i></a><i>和</i><a href="https://www.facebook.com/nytimeschinese.t/" rel="noopener noreferrer" target="_blank"><i>Facebook</i></a><i>上关注我们，了解更多中文资讯。也欢迎访问中文网</i><a href="https://cn.nytimes.com/"><i>首页</i></a><i>阅读更多新闻。<b>我们本周更新了安卓系统客户端，</b>欢迎点击<a href="https://play.google.com/store/apps/details?id=com.nytimes.cn" rel="noopener noreferrer" target="_blank">此处</a>下载。如有任何建议和想法，请来信与我们分享：</i><a rel="nofollow" target="_blank"><i>cn.letters@nytimes.com</i></a><i>。</i></div>
+*
+多地现社区传播与聚集性疫情，新冠病毒传染力引发警惕
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠肺炎疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">香港——香港的一栋公寓楼，各单元有管道相连。在中国东部城市天津的一个百货大楼里，有超过1.1万名顾客和员工混杂在一起。在法国的一个滑雪小屋，住着一群在此度假的英国人。</div>
+<div class="article-paragraph">这些散布在世界各地的场所，被一个可怕的共同点联系到一起：它们都是最近零星出现了新型冠状病毒病例的地方，这引发了人们对于该病毒能够迅速传播，并远远超出中国中部起源地之外的担忧。</div>
+<div class="article-paragraph">自从疫情于12月下旬暴发以来，绝大多数病例都集中在武汉，也是首次报告这种新型病毒的地方。该市和所在省份当局试图控制疫情，孤注一掷地封锁了数千万人。</div>
+<div class="article-paragraph">但是，随着疫情迅速扩大——在中国已导致1000多人死亡，<a href="https://www.nytimes.com/interactive/2020/world/asia/china-wuhan-coronavirus-maps.html" title="Link: https://www.nytimes.com/interactive/2020/world/asia/china-wuhan-coronavirus-maps.html">超过4.3万人患病</a>——这清楚地表明，即使远离武汉，在世界各地的社区里，这种病毒是多么易于传播，又是多么难以遏制。许多被感染的人甚至从来没有去过武汉。</div>
+<div class="article-paragraph">在天津，当全市三分之一的病例被追溯到同一家百货大楼后，当局下令隔离一万余人。</div>
+<div class="article-paragraph">周二，在香港，数十名居民被连夜从他们住的公寓楼撤离，因为发现两个相隔10层楼的人感染了冠状病毒。官员们说，罪魁祸首可能是一段未经密封的排气管。</div>
+<div class="article-paragraph">周二，在英国，一名据信是英国和法国另外10起病例传染源的商人表示，在确诊之前，他没有任何症状。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="香港一栋公寓楼的十几名居民被撤离，图为公寓楼外的警察和医务工作者。" data-src="https://static01.nyt.com/images/2020/02/11/world/11china-virus2/merlin_168737238_c8b918f0-3882-40e2-a162-a0ce1bffeb7c-master1050.jpg" src="https://static01.nyt.com/images/2020/02/11/world/11china-virus2/merlin_168737238_c8b918f0-3882-40e2-a162-a0ce1bffeb7c-master1050.jpg"/></div><figcaption><span>香港一栋公寓楼的十几名居民被撤离，图为公寓楼外的警察和医务工作者。</span> <cite>Lam Yik Fei for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">世界卫生组织总干事谭德塞(Tedros Adhanom Ghebreyesus)周二在日内瓦的一个论坛上说，尽管这种新的冠状病毒在中国最为严重，但也“对世界其他地方构成了非常严重的威胁”。</div>
+<div class="article-paragraph">随着疫情对健康的影响越来越大，其政治代价也越来越高：它已成为中央政府数十年来面临的最大危机之一。中国的执政党共产党免去了疫情中心湖北省的两名卫生官员的职务，并以北京派去的一名领导人取而代之。他们是第一批因政府对疫情处理不当而受到惩罚的高级官员。</div>
+<div class="article-paragraph"><span><i>[</i><a href="https://www.nytimes.com/zh-hans/2020/02/11/world/asia/corona-virus-student-stories-chinese.html"><i>征文：新冠病毒给你带来什么影响</i></a><i>？]</i></span><br/></div>
+<div class="article-paragraph">本周，中国当局敦促工厂工人和农民返工。但与此同时，其他官员警告，在农历新年假期后，随着农民工重返工作岗位，未来几周可能会出现新的疫情暴发——尤其是在浙江、广东和河南这三个人口稠密的省份。</div>
+<div class="article-paragraph">他们还强调了聚集性疫情在加速疾病传播方面的作用，他们将其定义为在相对较小的区域内发生两例或多例感染。</div>
+<div class="article-paragraph">中国疾病预防控制中心流行病学首席专家吴尊友在周二的新闻发布会上说，中国有近1000起聚集性疫情，其中83％发生在家庭。他说，但是学校、工厂、购物中心和医疗场所也是助长传播的地点。</div>
+<div class="article-paragraph">在距武汉600多英里的天津，官员们已采取严厉措施遏制与宝坻百货大楼有关的一系列病例。那座城市的疫情对中央政府来说可能尤其麻烦：从那里到北京只需半小时高铁路程。</div>
+<div class="article-paragraph">据当地卫生部门称，在该市102名确诊患者中，至少有33人在那个百货大楼工作或购物，或与员工或顾客有密切接触。其中有许多人——包括周二宣布的最新的一名31岁女性患者——都没有武汉旅行史。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="中国天津，一个喷洒消毒剂的设备。" data-src="https://static01.nyt.com/images/2020/02/11/world/11china-virus5/merlin_168759564_6a6f40c7-18a1-4291-9d63-3a4e694dfe94-master1050.jpg" src="https://static01.nyt.com/images/2020/02/11/world/11china-virus5/merlin_168759564_6a6f40c7-18a1-4291-9d63-3a4e694dfe94-master1050.jpg"/></div><figcaption><span>中国天津，一个喷洒消毒剂的设备。</span> <cite>China News Service, via Reuters</cite></figcaption></figure></div>
+<div class="article-paragraph">对此，官员们表示，将要求1月下旬去过这个百货大楼的人在家中自行隔离。他们表示，已经追踪到约1.17万名员工和顾客，但预计这一数字还会上升。</div>
+<div class="article-paragraph">中国的新闻报道称，该市卫生官员在街道和社区使用喇叭敦促最近去过该百货大楼的居民联系他们。他们还派出联防小组进入村庄，在社交媒体上发布警报。</div>
+<div class="article-paragraph">当局在宝坻部分地区部署了24小时保安，并表示，他们将要求一些地区的居民只能每两天离家一次。</div>
+<div class="article-paragraph">宝坻区区长毛劲松把这家百货商场比作武汉的海鲜市场，后者被普遍认为是疫情暴发的源头。</div>
+<div class="article-paragraph">“绝不让宝坻百货大楼成为第二个华南海鲜市场，”他在新闻发布会上说。</div>
+<div class="article-paragraph">在香港，当局发现一名新近被确诊感染的62岁女子的浴室里有一根未密封的排气管后，下令疏散这座楼里的一些居民。这名女子住在一名此前被发现感染的居民楼下10层。</div>
+<div class="article-paragraph">据香港卫生局局长陈肇始说，住在另外三个单元的另外四人也出现了感染冠状病毒的症状。周二晚些时候，该市卫生当局宣布，那名62岁妇女的三名亲属也感染了该病毒。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="周二，香港的地铁站。" data-src="https://static01.nyt.com/images/2020/02/11/world/11china-virus4/merlin_168765837_6a51ee64-c340-4e81-86cd-f3f4911d3c23-master1050.jpg" src="https://static01.nyt.com/images/2020/02/11/world/11china-virus4/merlin_168765837_6a51ee64-c340-4e81-86cd-f3f4911d3c23-master1050.jpg"/></div><figcaption><span>周二，香港的地铁站。</span> <cite>Lam Yik Fei for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">这一消息令这个本已非常不安的城市更加紧张起来，2003年SARS暴发的记忆给这座城市留下的创伤仍未消除。当时，在一个拥挤的住宅区，有329名居民感染了那种新病毒。一些专家认为，病毒是通过有缺陷的管道传播的。42名受感染的居民死亡。</div>
+<div class="article-paragraph">当局周二试图缓解这些担忧，指出2003年那栋楼的管道系统与新疏散的那栋楼有所不同。但他们也承认存在以前未知的传播方式的风险，病毒甚至可能通过空气传播，而不仅仅是通过咳嗽或打喷嚏产生的飞沫。</div>
+<div class="article-paragraph">周二下午，警方封锁了这座建筑，只允许有身份证明的居民进入。尽管下着小雨，一辆街道清洁车仍在外面的路上喷水。</div>
+<div class="article-paragraph">“我们不会掉以轻心，一定会进行详细全面的调查，”香港特别行政区行政长官林郑月娥表示。</div>
+<div class="article-paragraph">不过，华威大学(University of Warwick)专门研究病毒分子生物学的教授安德鲁·伊斯顿(Andrew Easton)表示，尽管卫生官员和普通民众都提高了警惕，但是这种新冠病毒在社区迅速传播几乎是不可避免的。</div>
+<div class="article-paragraph">他在一封电子邮件中写道：“任何将一群人紧密联系在一起，或在长时间内经常联系在一起的情况”，都将为病毒的传播“提供更多机会”。他还写道：“当然，病毒可以在感染者出现症状之前传播，所以不可能总是避免这种情况。”</div>
+<div class="article-paragraph">法国木屋的案例清楚地表明，即使全球意识到疫情已经蔓延，病毒仍能很快在人与人之间传播。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="法国阿尔卑斯山脉的莱孔塔米讷-蒙茹瓦，被感染的几名英国人曾住在这里。" data-src="https://static01.nyt.com/images/2020/02/11/world/11china-virus6/merlin_168729903_db594774-fd17-4022-82ee-835b456fd933-master1050.jpg" src="https://static01.nyt.com/images/2020/02/11/world/11china-virus6/merlin_168729903_db594774-fd17-4022-82ee-835b456fd933-master1050.jpg"/></div><figcaption><span>法国阿尔卑斯山脉的莱孔塔米讷-蒙茹瓦，被感染的几名英国人曾住在这里。</span> <cite>Alex Martin/Agence France-Presse — Getty Images</cite></figcaption></figure></div>
+<div class="article-paragraph">据<a href="https://www.dailymotion.com/video/x7rnsohhttps://www.nytimes.com/2020/02/10/world/europe/coronavirus-europe.html" rel="noopener noreferrer" target="_blank">法国当局</a>和当事人表示，据信，法国木屋的感染源、<a href="https://www.nytimes.com/2020/02/11/world/europe/coronavirus-britain-steve-walsh.html">于周二公开自己身份</a>的英国男子史蒂夫·沃尔什(Steve Walsh)在飞往日内瓦之前，曾于上月前往新加坡开会。在新加坡期间，沃尔什据信曾接触过冠状病毒，不过他没有马上表现出症状。</div>
+<div class="article-paragraph">沃尔什从新加坡出发前往法国阿尔卑斯山上的村庄孔塔米纳-蒙茹瓦，和一群英国人一起住在那座木屋里。然后他回到了英格兰南部的家。</div>
+<div class="article-paragraph">回国后不久，他就被诊断出感染了这种病毒。据法国当局称，当时在滑雪场的另外五名英国人目前仍在法国，他们的病毒检测呈阳性。</div>
+<div class="article-paragraph">周一，英国当局宣布，英国又有四人诊断出感染了这种病毒，其中包括两名医护人员，这使英国的病例数量增加了一倍。官员们说，所有新病例都与木屋群体有关。</div>
+<div class="article-paragraph">周二，沃尔什在自己被隔离的医院发表了一份声明，表明了自己的身份，并向其他受病毒感染的人表达了同情。</div>
+<div class="article-paragraph">“虽然我已完全康复，但我的心仍与其他感染冠状病毒的人同在，”他说。</div>
+*
+新冠肺炎疫情简报：日本邮轮发现确诊病例；澳门关闭赌场
+<div class="article-paragraph"><i>（</i><i>欢迎</i><i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank">点击此处</a>订阅<a href="https://m.cn.nytimes.com/morning-brief/" title="Link: https://m.cn.nytimes.com/morning-brief/">新冠肺炎疫情中文简报</a></i><i>。</i><i>更多关于疫情的最新消息，欢迎关注时报英文版<a href="https://www.nytimes.com/2020/02/04/world/asia/coronavirus-china.html" title="Link: https://www.nytimes.com/2020/02/04/world/asia/coronavirus-china.html">实时更新报道</a>。）</i></div>
+<div class="article-paragraph"><b>最新确诊及死亡病例数字汇总</b></div>
+<div class="article-paragraph">中国感染人数持续攀升。据中国国家<a href="http://www.nhc.gov.cn/xcs/yqfkdt/202002/17a03704a99646ffad6807bc806f37a4.shtml" rel="noopener noreferrer" target="_blank">卫健委</a>通报，截至2月4日，中国大陆累计确诊病例24324例，死亡490例。过去11天内，新病例的增长超过一成，并且没有放缓的迹象。</div>
+<div class="article-paragraph">过去24小时内，中国大陆累计新增死亡病例65例，另有3887人被感染。</div>
+<div class="article-paragraph">专家警告称，目前仍然缺乏足够的数据来确切说明这种病毒的致命性。在疫情暴发中心的武汉，很多人认为死亡人数要比官方统计数字高得多。那里的医疗体系不堪重负，由于缺少检测试剂盒，许多病例尚未得到确诊。</div>
+<div class="article-paragraph">周二，卫生官员公布了迄今为止死亡病例的详细资料。死者中三分之二为男性，超过80％的人年龄超过60岁，他们通常还患有其他疾病，例如心血管疾病或糖尿病。</div>
+<div class="article-paragraph"><b>英法两国敦促在华公民尽快撤离</b></div>
+<div class="article-paragraph">周二，英国和法国加强了对其在华公民的警告，敦促所有能离开的人离开中国大陆，将感染新型冠状病毒的风险降到最低。</div>
+<div class="article-paragraph">英国外交部在一份最新的旅行建议中表示，“如果你身处中国，并且能够离开，你应该这样做。”外交部还建议，“不要前往”疫情中心湖北，“除了必要的旅行，不要前往中国大陆其他地方”。</div>
+<div class="article-paragraph">英国外交大臣Dominic Raab表示：“在湖北的英国公民如希望被撤离，我们将继续随时提供帮助。”</div>
+<div class="article-paragraph">法国外交部也发出了类似的警告。“作为预防措施，”声明写道，“建议法国公民，尤其是那些没有必要留在中国的家庭，暂时离开这个国家”。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="周一抵达横滨的钻石公主号。" data-src="https://static01.nyt.com/images/2020/02/04/world/04china-briefing-japanship/merlin_168328296_1faf64bc-1eba-46b2-9a5d-11958d9e86a9-master1050.jpg" src="https://static01.nyt.com/images/2020/02/04/world/04china-briefing-japanship/merlin_168328296_1faf64bc-1eba-46b2-9a5d-11958d9e86a9-master1050.jpg"/></div><figcaption><span>周一抵达横滨的钻石公主号。</span> <cite>Kyodo News, via Associated Press</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>日本隔离一艘载有3700人的邮轮</b></div>
+<div class="article-paragraph">日本厚生劳动大臣周三表示，在横滨一艘邮轮上，10名乘客的新冠病毒检测呈阳性。</div>
+<div class="article-paragraph">该船载有约3700人，于周二抵达横滨，但当局已禁止船上人员下船。一名80岁的香港居民较早前在香港下船后被发现感染新冠病毒。</div>
+<div class="article-paragraph">目前，船上共有273名乘客接受了病毒检测，其中21人结果呈阴性。官员正在等待其他结果。检测结果为阳性的乘客被日本海岸警卫队的船只运送至医院。其他乘客将继续在邮轮上隔离。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="澳门第一家赌场葡京娱乐场。" data-src="https://static01.nyt.com/images/2020/02/04/world/04china-briefing-macau/merlin_166022097_10eaf889-f55c-40c8-ac49-affe71ad52eb-master1050.jpg" src="https://static01.nyt.com/images/2020/02/04/world/04china-briefing-macau/merlin_166022097_10eaf889-f55c-40c8-ac49-affe71ad52eb-master1050.jpg"/></div><figcaption><span>澳门第一家赌场葡京娱乐场。</span> <cite>Lam Yik Fei for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>澳门宣布赌场暂停营业半个月</b></div>
+<div class="article-paragraph">澳门特首贺一诚周二宣布，为防止新型冠状病毒疫情扩散，澳门将暂时关闭赌场半个月。这一举动将进一步削弱中国本已陷入困境的经济。</div>
+<div class="article-paragraph">澳门是世界上最大的博彩业中心。据报道，该地区目前确诊了10例新型冠状病毒病例，其中包括一名博彩业员工。</div>
+<div class="article-paragraph">自新型冠状病毒暴发以来，对中国大陆游客的旅行限制越来越严格，澳门的赌场也陷入挣扎。澳门是中国唯一可以合法赌博的城市，其博彩业收入的很大一部分来自中国内地的赌客。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="中国江西九江的检查站附近，一名自湖北方向来的男子跨过九江长江大桥。" data-src="https://static01.nyt.com/images/2020/02/04/business/04china-outcast-1/merlin_168129936_5e49b408-88a6-48c0-8307-87f89cc3f7ce-master1050.jpg" src="https://static01.nyt.com/images/2020/02/04/business/04china-outcast-1/merlin_168129936_5e49b408-88a6-48c0-8307-87f89cc3f7ce-master1050.jpg"/></div><figcaption><span>中国江西九江的检查站附近，一名自湖北方向来的男子跨过九江长江大桥。</span> <cite>Thomas Peter/Reuters</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>驱逐、围堵、举报：数百万武汉人经历了什么？</b></div>
+<div class="article-paragraph">有人在出示身份证后被一家又一家酒店拒绝。有人被惊恐的当地村民驱逐。还有人在向当局登记后，发现自己的个人信息被泄露得到处都是……</div>
+<div class="article-paragraph">这些遭到驱逐的人来自湖北武汉。在那座城市暴发的新冠病毒疫情已经造成数百人死亡，并在世界各地引发恐慌。于是，这些人成了中国的新型“贱民”，数百万人无家可归，被认为是神秘冠状病毒的潜在携带者。</div>
+<div class="article-paragraph">而为了控制疫情，除了利用庞大监控网络展开追踪，中国政府还转向了它最为熟悉的威权技术：比如张起天罗地网，让邻居之间互相举报。这进一步加剧了武汉人被社会排挤的现状。专家警告，偏见和对弱势群体的边缘化可能适得其反。时报驻华记者孟建国(Paul Mozur)讲述了多名受到影响的武汉人的故事，这里是<a href="https://cn.nytimes.com/china/20200204/china-coronavirus-wuhan-surveillance/">本文中文版</a>，欢迎阅读。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="上周五，一名在武汉街头遛狗的女子。" data-src="https://static01.nyt.com/images/2020/02/04/world/04china-briefing92/merlin_168155742_e277c9cb-ef70-4bac-879d-08cbb4a3bfb4-master1050.jpg" src="https://static01.nyt.com/images/2020/02/04/world/04china-briefing92/merlin_168155742_e277c9cb-ef70-4bac-879d-08cbb4a3bfb4-master1050.jpg"/></div><figcaption><span>上周五，一名在武汉街头遛狗的女子。</span> <cite>Getty Images</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>武汉“封城”的另一重受害者：宠物</b><br/></div>
+<div class="article-paragraph">春节期间，许多宠物主人离开城市返乡过年，只留下几天的食物和水。当武汉被封锁，数千只宠物被困家中、面临饥饿威胁。主人们在社交媒体上无助地求援，好在还有志愿者。</div>
+<div class="article-paragraph">武汉小动物保护协会周六表示，他们上周已经帮助了600多只宠物。一位自称“老猫”的武汉居民告诉路透社，自1月25日以来，他的志愿者团队已经对1000多只宠物实施了救援，估计该市还有多达5万只宠物无人看管。</div>
+<div class="article-paragraph">但是，即便获得了业主的许可，要进入上锁的公寓和建筑也是一个挑战。老猫说，有一次，他爬上生锈的管道，进入三楼的一间公寓里给两只猫喂食。他发现趴在沙发底下的猫奄奄一息。当他给因封路而无法返回的主人打去视频电话时，他们哭了。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="北京首都国际机场外，往常拥堵的通道如今几乎空无一人。" data-src="https://static01.nyt.com/images/2020/02/03/world/03ghosttown1a/03ghosttown1a-master1050-v2.jpg" src="https://static01.nyt.com/images/2020/02/03/world/03ghosttown1a/03ghosttown1a-master1050-v2.jpg"/></div><figcaption><span>北京首都国际机场外，往常拥堵的通道如今几乎空无一人。</span> <cite>Giulia Marchi for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>新冠病毒疫情中的“空城”北京</b></div>
+<div class="article-paragraph">随着疫情在全国蔓延，北京没有像武汉那样，下令“封城”。但是，它仍然对生活的各个方面都施加了限制。时报北京分社社长Steven Lee Mayers对此感触颇深。</div>
+<div class="article-paragraph">大多数商店和餐馆都关门了。许多购物中心都要对顾客进行体温检测。一些社区自发地设置了检查站和岗哨，准备将那些从疫区归来的节后返京人员拒之门外。这种只差名分的封锁发生在中国各地的城市，猜疑本身成了传染病。</div>
+<div class="article-paragraph">北京街头，公共汽车和地铁还在运行，但几乎没有乘客；即使开放的公共场所实际上也是空的；司空见惯的大堵车已经没有了踪影。平时热闹朝气的城市突然慢了下来，甚至到了一种瘆人的地步。而没有人知道何时才能恢复正常。这里是本篇北京通讯的中文版，点击<a href="https://cn.nytimes.com/china/20200204/china-coronavirus-beijing/">此处</a>阅读。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="武汉一家超市的菜架。" data-src="https://static01.nyt.com/images/2020/02/04/world/04china-briefing97/04china-briefing97-master1050.jpg" src="https://static01.nyt.com/images/2020/02/04/world/04china-briefing97/04china-briefing97-master1050.jpg"/></div><figcaption><span>武汉一家超市的菜架。</span> <cite>Getty Images</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>中国努力保障食品供应</b></div>
+<div class="article-paragraph">疫情危机正在测试中国供养其14亿人口的能力，这是中共最自豪的成就之一。</div>
+<div class="article-paragraph">被困在家中无法出门人们担心疫情可能会持续数周甚至数月，很多家庭开始囤积食物，这使得商店和超市更难保证新鲜食品的供应。许多地方对道路实施封锁，导致货运速度延缓，成本上升。</div>
+<div class="article-paragraph">中国官员誓言将保持食品顺利运往疫情中心城市武汉。该国最大的蔬菜种植、贸易和运输中心之一寿光已向武汉捐赠蔬菜。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="武汉一家酒店的走廊被消毒后变成了隔离区。" data-src="https://static01.nyt.com/images/2020/02/04/world/04china-briefing89/04china-briefing89-master1050.jpg" src="https://static01.nyt.com/images/2020/02/04/world/04china-briefing89/04china-briefing89-master1050.jpg"/></div><figcaption><span>武汉一家酒店的走廊被消毒后变成了隔离区。</span> <cite>Agence France-Presse — Getty Images</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>“病毒是敌人，中国人不是”</b></div>
+<div class="article-paragraph">中国驻纽约总领事黄屏周二公开感谢了华人社区和其他关心此事的美国人在抗击冠状病毒疫情方面提供的帮助。</div>
+<div class="article-paragraph">但身为资深外交官的黄屏也批评了美国政府的“过度反应”。他特别提到了撤离美国驻武汉领事馆工作人员的决定。</div>
+<div class="article-paragraph">“我个人不太明白，”黄屏在中国驻曼哈顿领事馆的新闻发布会上说。“这不是中国外交官的做法。我自己也主持过几次撤离，在这样的困难时刻，中国的外交官会被派过去，而不是抽身离开，因为那里还会有需要你的人。”</div>
+<div class="article-paragraph">黄屏的领事业务覆盖了10个州，这些地方共有13万名中国学生在大学就读。他表示，由于美国的隐私规定和其他原因，他不清楚其中有多少人来自湖北，也不知道他们最近何时到访过那里。“我们一直在尽最大努力找出这些信息，但并不容易。”</div>
+<div class="article-paragraph">黄屏是在访问波士顿的一天后发表上述言论的。上周，位于波士顿的马萨诸塞州大学的一名学生从中国返回美国后，冠状病毒检测呈阳性。校方表示，这名学生正在康复，目前仍处于隔离状态。</div>
+<div class="article-paragraph">在被问及美国与冠状病毒暴发有关的反华情绪时，黄屏说，“我真的不想看到这种情况”。他还向马萨诸塞州官员表达了自己的担忧，“病毒是敌人，中国人不是。” </div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="苹果周六表示，由于冠状病毒的暴发，它将暂时关闭在中国的所有门店，包括北京的这家店。" data-src="https://static01.nyt.com/images/2020/02/01/business/01VIRUSECON01/merlin_168207552_831625ea-a49a-4a97-b0a3-c6482828baef-master1050.jpg" src="https://static01.nyt.com/images/2020/02/01/business/01VIRUSECON01/merlin_168207552_831625ea-a49a-4a97-b0a3-c6482828baef-master1050.jpg"/></div><figcaption><span>苹果周六表示，由于冠状病毒的暴发，它将暂时关闭在中国的所有门店，包括北京的这家店。</span> <cite>Kevin Frayer/Getty Images</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>新冠病毒疫情将如何影响全球经济？</b></div>
+<div class="article-paragraph">苹果、星巴克和宜家关闭门店。汽车工厂推迟生产。多家航空公司取消往返中国的航班……新冠病毒疫情在中国的暴发正对全球经济造成冲击。</div>
+<div class="article-paragraph">依赖中国工厂和消费者的跨国公司已对损失问题发出警告，全球供应链可能被扰乱。鉴于中国在世界经济中已经占据更为主导的地位，分析认为，疫情的破坏力可能比17年前的SARS要强大得多。</div>
+<div class="article-paragraph">据牛津经济研究院基于病毒迄今为止造成的影响做出的保守预测，中国今年的经济增长率预计将下滑至5.6%，低于去年的6.1%。这将进而导致今年全球经济增长率跌至2.3%——这将成为自2008年全球金融危机以来的最低增速。欢迎阅读这篇经济分析稿件的<a href="https://cn.nytimes.com/business/20200204/sars-coronavirus-economic-impact-china/">中文版</a>。</div>
+<div class="article-paragraph"><b>新冠疫情或损害美中贸易协议成果</b></div>
+<div class="article-paragraph">新型冠状病毒已经造成数百人死亡、数万人患病，而工厂停工、航班停飞和供应链的扰动将给中国乃至全球经济带来沉重打击。</div>
+<div class="article-paragraph">上个月，特朗普政府与中国官员签署了初步贸易协议，不过，这场疫情可能会减缓中国对部分贸易协议承诺的履行。根据该协议的条款，中国已承诺在未来两年购买额外的2000亿美元美国商品。中国政府按说还应该迅速采取行动，为美国农业和金融公司开放市场。</div>
+<div class="article-paragraph">但分析人士指出，随着中国各地工厂和商店关闭以及政府官员专注于遏制病毒传播，北京将难以满足特朗普总统的条件。而中国无法履行承诺仍可能会在美国引起一些反对，或将使两国回到在签署贸易协定之前的艰难关系。时报对此进行了解读，欢迎阅读本篇分析稿件的<a href="https://cn.nytimes.com/business/20200204/coronavirus-china-trade-economy/">中文版</a>。 </div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="曼哈顿唐人街，一条平时熙熙攘攘的街道如今几乎空无一人。" data-src="https://static01.nyt.com/images/2020/02/04/nyregion/04china-briefing91/04nychinatourism-master1050.jpg" src="https://static01.nyt.com/images/2020/02/04/nyregion/04china-briefing91/04nychinatourism-master1050.jpg"/></div><figcaption><span>曼哈顿唐人街，一条平时熙熙攘攘的街道如今几乎空无一人。</span> <cite>James Estrin/The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>纽约旅游业受冲击，唐人街生意萧条</b></div>
+<div class="article-paragraph">由于旅行限制，中国游客数量急剧下降，各地城市都开始受到影响。纽约地区的旅游运营商和旅行社正准备迎接未来一段时间的经济阵痛。</div>
+<div class="article-paragraph">一家为曼哈顿景点安排中文巴士游的公司正在处理多达300个取消行程的中国游客，他们本周无法前来。皇后区一家为200名中国游客预订未来两周行程的旅行社老板也开始担心，他可能不得不解雇五名员工中的其中两名。</div>
+<div class="article-paragraph">纽约卫生官员已经确认了三例可能感染的疑似病例，目前所有人都在住院治疗，他们敦促人们保持冷静。但纽约三大唐人街的餐馆和商店老板说，生意还是受到了影响。在曼哈顿唐人街的餐馆里，营业额在过去10天里下降了50%到70%。</div>
+<div class="article-paragraph"><b>供应链中断，现代汽车暂停韩国生产线</b></div>
+<div class="article-paragraph">全球第五大汽车制造商现代汽车周二表示，将<a href="https://www.nytimes.com/2020/02/04/business/hyundai-south-korea-coronavirus.html">暂停其在韩国的汽车工厂生产线</a>。现代汽车成为首批因冠状病毒面临严重供应链问题的大型制造商之一。</div>
+<div class="article-paragraph">现代汽车的生产依赖来自中国的零部件。该公司表示，冠状病毒在中国暴发导致这一供应链出现中断，“公司正在评估各种措施，以最大限度地减少业务中断，包括在其他地区寻找替代供应商。”</div>
+<div class="article-paragraph">许多在中国的汽车厂已经受疫情影响停产，包括现代、特斯拉、福特和日产。现代汽车韩国生产线将是中国境外首个停产的工厂。 </div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="周一，顾客在香港一家药店选购口罩。" data-src="https://static01.nyt.com/images/2020/02/04/world/04china-briefing-masks/merlin_168335841_df69728f-cdb2-4764-8104-b6f566de32da-master1050.jpg" src="https://static01.nyt.com/images/2020/02/04/world/04china-briefing-masks/merlin_168335841_df69728f-cdb2-4764-8104-b6f566de32da-master1050.jpg"/></div><figcaption><span>周一，顾客在香港一家药店选购口罩。</span> <cite>Billy H.C. Kwok for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>戴口罩有用吗？</b></div>
+<div class="article-paragraph">台湾疾病管制署上周表示，健康人士不需要佩戴口罩，除非在前往医院时。香港特首林郑月娥周二要求官员停止佩戴口罩，以帮助节省医务人员所需。</div>
+<div class="article-paragraph">口罩有用吗？这一看似简单的问题答案并不简单。专家们普遍认为，口罩在医疗机构内可以降低人们被感染的风险，但其是否能在医疗机构以外有效地保护人们的健康，目前尚无高质量的科学证据。</div>
+<div class="article-paragraph">当病患佩戴口罩时，可以减缓疾病的蔓延，但健康人士佩戴口罩似乎并没有什么作用。</div>
+<div class="article-paragraph">如今，口罩已在全球范围内普遍出现短缺，在香港等亚洲一些城市，人们每天早晨开始排长队，希望能买到口罩。街上和公共交通上的大多数人都戴着口罩。</div>
+<div class="article-paragraph">绝大多数专家的共识是：为了防止新冠病毒传播，最好的方法是<a href="https://cn.nytimes.com/opinion/20200131/coronavirus-prevention-tips/">勤洗手</a>，以及避免用手触摸你的脸部。</div>
+<div class="article-paragraph"><i>感谢阅读今天的新冠肺炎疫情简报</i><i>，新读者请</i><i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank">点击此处订阅</a>。点击<a href="https://cn.nytimes.com/morning-brief/">这里</a>查看往日更新</i><i>。</i><i>欢迎在Twitter(</i><a href="https://twitter.com/nytchinese" rel="noopener noreferrer" target="_blank"><i>@nytchinese</i></a><i>)、</i><a href="https://www.instagram.com/cn.nytimes/?hl=zh-tw" rel="noopener noreferrer" target="_blank"><i>Instagram</i></a><i>和</i><a href="https://www.facebook.com/nytimeschinese.t/" rel="noopener noreferrer" target="_blank"><i>Facebook</i></a><i>上关注我们，了解更多中文资讯。也欢迎访问中文网</i><a href="https://cn.nytimes.com/"><i>首页</i></a><i>阅读更多新闻。如有任何建议和想法，请来信与我们分享：cn.letters@nytimes.com。</i><br/></div>
+*
+新冠肺炎疫情简报：死亡超600，“吹哨人”李文亮去世
+<div class="article-paragraph"><i>（</i><i>欢迎</i><i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank">点击此处</a>订阅<a href="https://m.cn.nytimes.com/morning-brief/">新冠肺炎疫情中文简报</a></i><i>。</i><i>更多关于疫情的最新消息，欢迎关注时报英文版<a href="https://www.nytimes.com/2020/02/06/world/asia/coronavirus-china.html">实时更新报道</a>。）</i></div>
+<div class="article-paragraph"><b>确诊及死亡病例数字汇总更新</b></div>
+<div class="article-paragraph">中国感染新型冠状病毒的死亡人数和确诊病例数继续攀升。据中国<a href="http://www.nhc.gov.cn/xcs/yqfkdt/202002/3db09278e3034f289841300ed09bd0e1.shtml" rel="noopener noreferrer" target="_blank" title="Link: http://www.nhc.gov.cn/xcs/yqfkdt/202002/3db09278e3034f289841300ed09bd0e1.shtml">国家卫健委</a>通报，截至2月6日24时，确诊病例累计达31161例，累计死亡人数636人。过去24小时内报告新增病例3143例，新增死亡病例73例。除了湖北，吉林、河南、广东、海南多地有患者死亡。</div>
+<div class="article-paragraph"> 到目前为止，绝大多数死亡病例发生在中国大陆，但菲律宾、香港也有死亡报告。中国境外还有200多例确诊病例。</div>
+<div class="article-paragraph">各国继续从中国撤侨。美国本周将再次派出两架包机前往武汉，此前的三架包机共计撤离了543名美国人，目前均在军事基地接受隔离。意大利本周从武汉撤离的56人中有一人被确诊。</div>
+<div class="article-paragraph"><figure class="article-inline-photo with-no-credit-caption"><div class="img-box"><img alt="" data-src="https://static01.nyt.com/images/2020/01/31/world/00china-briefing92/00virus-reconstruct-1-jumbo.jpg" src="https://static01.nyt.com/images/2020/01/31/world/00china-briefing92/00virus-reconstruct-1-jumbo.jpg"/></div><figcaption><span></span> <cite></cite></figcaption></figure></div>
+<div class="article-paragraph"><b>“吹哨人”李文亮医生去世</b></div>
+<div class="article-paragraph">李文亮是最早向外界披露新冠病毒存在的八名医生之一，却因发表“不实言论”受到警方训诫。据医院通报，这名34岁的医生在自己感染病毒后于周五去世。</div>
+<div class="article-paragraph">武汉市中心医院周五凌晨在<a href="https://www.weibo.com/2630028693/It1D4rfo3?from=page_1001062630028693_profile&amp;wvr=6&amp;mod=weibotime" rel="noopener noreferrer" target="_blank">官方微博</a>上确认了这一消息，称李文亮医生经全力抢救无效，于2点58分去世。“对此我们深表痛惜和哀悼”。但几个小时前，数名武汉当地医生就在社交媒体上发布了李文亮逝世的消息。</div>
+<div class="article-paragraph">李文亮的死引发了民众巨大的悲伤和愤怒，许多人在微博上发帖要求当局向李医生及其家人道歉。“我想要言论自由”也成为微博最热门的话题标签之一，但审查部门最终压制了这些信息。</div>
+<div class="article-paragraph">《纽约时报》曾在2月1日采访过李文亮。“如果官员们早点披露有关疫情的信息，我觉得情况会好得多。”他说，“应该有更多的公开性和透明度。”这里是这篇报道的<a href="https://cn.nytimes.com/china/20200203/china-coronavirus/">中文版</a>。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="现被用作医院的武汉的展览中心内部。" data-src="https://static01.nyt.com/images/2020/02/06/world/06-China-Virus02/merlin_168455682_03245816-de3f-43eb-b726-9d9ca73cfe0b-master1050.jpg" src="https://static01.nyt.com/images/2020/02/06/world/06-China-Virus02/merlin_168455682_03245816-de3f-43eb-b726-9d9ca73cfe0b-master1050.jpg"/></div><figcaption><span>现被用作医院的武汉的展览中心内部。</span> <cite>Agence France-Presse — Getty Images</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>武汉大规模集中隔离感染者</b></div>
+<div class="article-paragraph">中国副总理孙春兰下令，要求武汉举全市之力，对所有感染冠状病毒的居民进行入户上门排查，并将他们送往隔离点和定点医疗机构。</div>
+<div class="article-paragraph">“设立24小时值班制度，战时状态决不能当逃兵，否则就会被永远钉在历史的耻辱柱上”，她在武汉召开的肺炎疫情<a href="http://www.xinhuanet.com/video/2020-02/06/c_1210463876.htm" rel="noopener noreferrer" target="_blank">全面排查动员会</a>上说。</div>
+<div class="article-paragraph">武汉当局本周设立了临时的大规模隔离点，以满足这些要求。政府说这些方舱医院是为轻症患者所准备的，但<a href="https://www.nytimes.com/2020/01/26/world/asia/coronavirus-wuhan-china-hubei.html">人们越来越担心</a>，它们能否为患者提供基本的护理，并防范进一步感染的风险。</div>
+<div class="article-paragraph">微博上一篇广泛被转发的帖文称，一处被改造成隔离设施的展览中心“情况非常糟糕”。因为停电，被隔离的患者无法使用电热毯，“睡觉也发着抖”。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="周四，世界卫生组织召开了关于新型冠状病毒的会议。" data-src="https://static01.nyt.com/images/2020/02/06/world/06china-briefing88/merlin_168466419_7cff7d2b-e9c4-4f79-9a87-41c3a1732f6c-master1050.jpg" src="https://static01.nyt.com/images/2020/02/06/world/06china-briefing88/merlin_168466419_7cff7d2b-e9c4-4f79-9a87-41c3a1732f6c-master1050.jpg"/></div><figcaption><span>周四，世界卫生组织召开了关于新型冠状病毒的会议。</span> <cite>Denis Balibouse/Reuters</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>卫生官员和科学家关注于加快诊断速度</b></div>
+<div class="article-paragraph">为了帮助遏制新冠状病毒传播，世界卫生组织将于2月11日至12日在日内瓦召开科学会议，着重于加快诊断、治疗和疫苗的开发。WHO指出，控制这种疾病扩散的努力“严重取决于迅速发现病原体的能力”。</div>
+<div class="article-paragraph">WHO表示，已经启动了一个国际“专业转诊实验室网络”，以支持各个国家的实验室确诊新病例。它将向全球159个实验室运送25万个测试盒，以帮助加快诊断速度。每个测试盒可处理700至800个患者样本，约四个小时可出结果。</div>
+<div class="article-paragraph">目前医学界尚未发现有效的治疗方法，但一家专门研究传染病的意大利医院周四表示，世卫组织已经发现两种“最有希望”的药，包括抗HIV病毒的药物利托那韦(Ritonavir)和治疗埃博拉病毒的瑞德西韦(Remdesivir)。研发后者的美国公司吉利德已向中国捐赠免费药品。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="一名女子摸她儿子的额头检查体温。" data-src="https://static01.nyt.com/images/2020/02/05/world/05wuhan-dispatch-6/merlin_167923197_57a0a7c7-43b6-4a4f-8be2-1413982fd9f1-master1050.jpg" src="https://static01.nyt.com/images/2020/02/05/world/05wuhan-dispatch-6/merlin_167923197_57a0a7c7-43b6-4a4f-8be2-1413982fd9f1-master1050.jpg"/></div><figcaption><span>一名女子摸她儿子的额头检查体温。</span> <cite>Getty Images</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>在“鬼城”武汉，被疫情颠覆的生活</b></div>
+<div class="article-paragraph">时报首席驻华记者储百亮(Chris Buckley)记录了他在武汉的所见所感：人们戴着口罩小心翼翼地出门买菜，在宣告售罄的药店外执着等待。有些人保持泰然自若，继续正常的生活；也有许多人被无聊和恐惧困住。患病的人最不幸，肺炎时刻折磨着他们。政府的宣传充满虚假的乐观，这座寂静的城市却被混乱挫折所围困。<br/></div>
+<div class="article-paragraph">这里和湖北省大部分地区的人们，是一场只有在专制的中国才能想像得出来的大规模医学实验的对象：是否有可能通过将上千万人以某种方式拘禁在房子里——警告他们在家呆着，并阻止他们离开城市、城镇或村庄——来阻止病毒的传播？<a href="https://cn.nytimes.com/china/20200206/china-wuhan-coronavirus/">欢迎阅读本文中文版</a>。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="周三，台湾总统蔡英文在新北市的一家面具工厂视察。" data-src="https://static01.nyt.com/images/2020/02/06/world/06china-briefing-taiwan/merlin_168463188_48a8e1c6-0961-424a-a803-3c06b5366abc-master1050.jpg" src="https://static01.nyt.com/images/2020/02/06/world/06china-briefing-taiwan/merlin_168463188_48a8e1c6-0961-424a-a803-3c06b5366abc-master1050.jpg"/></div><figcaption><span>周三，台湾总统蔡英文在新北市的一家面具工厂视察。</span> <cite>Taiwan Presidential Office</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>中国警告台湾，不要“趁火打劫”寻求独立</b></div>
+<div class="article-paragraph">中国政府周四指责台湾利用此次冠状病毒疫情推动独立议题，将矛头指向这个自治岛屿试图参与世卫组织讨论的努力。</div>
+<div class="article-paragraph"><a href="http://www.gov.cn/xinwen/2020-02/06/content_5475302.htm" rel="noopener noreferrer" target="_blank">中国国台办</a>周四发表声明称，“‘台独’分裂势力伺机鼓噪所谓台湾参与世界卫生组织议题，企图利用疫情趁火打劫，拓展所谓台湾的‘国际空间’。”</div>
+<div class="article-paragraph">台湾曾多次游说希望被纳入WHO。但由于联合国认为台湾是中国的一部分，WHO不能与台湾直接分享有关病毒的信息。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="1月，台北的一个捷运站。截至目前，台湾已确诊了超过10名新型冠状病毒的病例。" data-src="https://static01.nyt.com/images/2020/02/02/world/02china-virus4/02china-virus4-master1050.jpg" src="https://static01.nyt.com/images/2020/02/02/world/02china-virus4/02china-virus4-master1050.jpg"/></div><figcaption><span>1月，台北的一个捷运站。截至目前，台湾已确诊了超过10名新型冠状病毒的病例。</span> <cite>Sam Yeh/Agence France-Presse — Getty Images</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>观点文章：台湾肺炎防疫困境与中国没有吸取的SARS教训</b><br/></div>
+<div class="article-paragraph">南台科技大学讲座教授、台湾前疾病管制局局长苏益仁在时报中文网<a href="https://cn.nytimes.com/opinion/20200206/taiwan-coronavirus-sars-china/">撰文</a>，指出两岸因新型冠状病毒疫情产生一系列摩擦，使公卫防疫再次蒙上了政治考量的阴影。</div>
+<div class="article-paragraph">苏益仁回顾了SARS时期台湾防疫的困境和经验，尤其是政治与外交博弈对于防疫工作造成的阻碍。而针对中国当局的应对措施，苏益仁指出，相比2003年，中国在防疫科技上取得了长足进步，但这些进步并未被有效运用来控制武汉疫情，防疫体系反而被中国的官僚制度所击溃。无论是通报体系，还是封城、封院后的配套措施，中国并未从SARS中真正吸取教训。</div>
+<div class="article-paragraph"><b>香港居民抢购囤积厕纸</b></div>
+<div class="article-paragraph">周三晚间，香港居民冲向超市卖场抢购囤积厕纸，尽管几乎没有切实证据表明这个城市将出现厕纸供应紧张。</div>
+<div class="article-paragraph">恐慌源自网络上所谓来自连锁超市惠康的内部消息，声称中国内地工厂停工将导致大多数厕纸品牌的库存很快将消耗殆尽。惠康的母公司牛奶有限公司(Dairy Farm Group)在一份声明中说否认了这些传言。</div>
+<div class="article-paragraph">哄抢厕纸反映出这个处于边缘的城市对疫情突然扩大的担忧（截至目前为止香港的确诊病例数量仍相对较少），也反映出居民对政府及其应对危机能力的不信任。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="2020年奥运会定于7月24日在东京开幕。" data-src="https://static01.nyt.com/images/2020/02/06/world/06china-briefing-olympics/06china-briefing-olympics-master1050.jpg" src="https://static01.nyt.com/images/2020/02/06/world/06china-briefing-olympics/06china-briefing-olympics-master1050.jpg"/></div><figcaption><span>2020年奥运会定于7月24日在东京开幕。</span> <cite>Issei Kato/Reuters</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>全球影响继续扩大</b></div>
+<div class="article-paragraph">受到疫情冲击的跨国公司名单正继续加长：永利度假村(Wynn Resorts)表示，<a href="https://www.nytimes.com/2020/02/04/business/coronavirus-macau-gambling.html">澳门赌场关闭</a>给该公司造成每天240万至260万美元的损失；雅诗兰黛(Estee Lauder)警告说疫情将在短期内影响其财务业绩，并预测2020年第三季度的销售将受到最大影响；任天堂(Nintendo)宣布日本国内Switch游戏机的出货时间将延迟。</div>
+<div class="article-paragraph">此外，数据显示，1月底从美国飞往中国大陆的航班需求大幅下降。1月第四周机票销售额同比锐减59%，退款率同比飙升534%。</div>
+<div class="article-paragraph">除了经济方面的影响，人们还在担心这种传染性极强的病毒是否会影响东京奥运会。虽然目前日本的确诊病例数相对较少，但停靠在横滨港的一艘邮轮上<a href="https://www.nytimes.com/2020/02/05/world/asia/japan-coronavirus-cruise-ship.html">隔离了超过2000人</a>，仍然令民众警惕和担忧。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="上个月，在北京的记者。" data-src="https://static01.nyt.com/images/2020/02/05/opinion/05repnikova2/05repnikova2-master1050.jpg" src="https://static01.nyt.com/images/2020/02/05/opinion/05repnikova2/05repnikova2-master1050.jpg"/></div><figcaption><span>上个月，在北京的记者。</span> <cite>Kyodo, via Associated Press</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>观点文章：新冠病毒危机中，中国媒体和公民发声的力量</b></div>
+<div class="article-paragraph">佐治亚州立大学(Georgia State University)国际传播学助理教授玛利亚·瑞普尼科娃(Maria Repnikova)分析了几家进行深入报道的中国媒体如何突破政府的信息控制。她写道，“冠状病毒危机中出现的有希望的事情之一是，中国更敢说话的信息渠道和社交媒体上的新声音产生的创造性报道。”<a href="https://cn.nytimes.com/opinion/20200206/coronavirus-china-news-journalism/">欢迎阅读本文中文版。</a></div>
+<div class="article-paragraph"><b>观点文章：是谁说前往中国旅行不安全？</b></div>
+<div class="article-paragraph"><span>一位报道全球旅游业的记者写道，在没有得到国际机构建议的情况下，全面关闭边境并不是遏制病毒的有效手段，而是一种经济上的自残，也会演化为毫不掩饰的种族主义。<a href="https://cn.nytimes.com/opinion/20200206/china-travel-coronavirus/">欢迎阅读本文中文版。</a></span><br/></div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="上个月，在北京一处小区里玩耍的儿童。专家表示，幼童受新型冠状病毒的影响似乎并不大。" data-src="https://static01.nyt.com/images/2020/02/05/science/05VIRUS-CHILDREN/05VIRUS-CHILDREN-master1050.jpg" src="https://static01.nyt.com/images/2020/02/05/science/05VIRUS-CHILDREN/05VIRUS-CHILDREN-master1050.jpg"/></div><figcaption><span>上个月，在北京一处小区里玩耍的儿童。专家表示，幼童受新型冠状病毒的影响似乎并不大。</span> <cite>Nicolas Asfouri/Agence France-Presse — Getty Images</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>为什么儿童似乎不易感染新冠病毒？</b></div>
+<div class="article-paragraph">根据现有数据，儿童的确诊病例似乎相对较少。病毒学家认为，这并非因为儿童不会被感染，而是大多数被感染的儿童没有明显症状，而我们对轻症病例的数据掌握尚不完整。<a href="https://cn.nytimes.com/health/20200206/coronavirus-children/">欢迎阅读本文中文版。</a><br/></div>
+<div class="article-paragraph"><i>感谢阅读今天的新冠肺炎疫情简报</i><i>，新读者请</i><i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank">点击此处订阅</a>。点击<a href="https://cn.nytimes.com/morning-brief/">这里</a>查看往日更新</i><i>。</i><i>欢迎在Twitter(</i><a href="https://twitter.com/nytchinese" rel="noopener noreferrer" target="_blank"><i>@nytchinese</i></a><i>)、</i><a href="https://www.instagram.com/cn.nytimes/?hl=zh-tw" rel="noopener noreferrer" target="_blank"><i>Instagram</i></a><i>和</i><a href="https://www.facebook.com/nytimeschinese.t/" rel="noopener noreferrer" target="_blank"><i>Facebook</i></a><i>上关注我们，了解更多中文资讯。也欢迎访问中文网</i><a href="https://cn.nytimes.com/"><i>首页</i></a><i>阅读更多新闻。如有任何建议和想法，请来信与我们分享：cn.letters@nytimes.com。</i></div>
+*
+武汉进入“战时状态”：封锁力度加强，恐面临人道灾难
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>、或发送邮件至cn.letters@nytimes.com订阅《纽约时报》</i><a href="https://cn.nytimes.com/morning-brief/"><i>中文简报</i></a><i>。]</i></div>
+<div class="article-paragraph">中国武汉——为了遏制因冠状病毒导致的致命疫情，中国当局周四采取紧急措施，大举加强对武汉的封锁，下令进行逐户排查，将病人集中安置在改造成临时隔离点的会议中心和其他建筑物内。</div>
+<div class="article-paragraph">领导应对疫情的最高官员在视察位于疫情中心的中国中部城市武汉时，宣布了这些看上去像是临场决定的措施。它们清楚地表明，执政共产党未能控制住冠状病毒的流行，疫情使医疗体系不堪重负，并蔓延到国外，有可能令中国——世界上人口最多的国家和第二大经济体——陷入瘫痪。</div>
+<div class="article-paragraph">由副总理孙春兰宣布的官方措施，让人想起为应对1918年西班牙流感大流行而采取的紧急措施，那次流感在全球范围内造成2000万人死亡。中国采取的措施并不能保证成功。</div>
+<div class="article-paragraph">有关新限制措施的消息传来之际，武汉和其他地区的人们正遭受情感上的打击，有消息称，一名在去年12月份对疫情发出警告，但被警察噤声的医生<a href="https://cn.nytimes.com/china/20200207/li-wenliang-coronavirus/">死于冠状病毒感染</a>。武汉中心医院在社交媒体帖子上说，李文亮医生经全力抢救无效去世。</div>
+<div class="article-paragraph">帖子说：“对此我们深表痛惜和哀悼。”</div>
+<div class="article-paragraph">新限制的严苛程度有可能给武汉带来人道灾难，这座拥有1100万人口的繁忙大都市武汉已封城，疫情始于一个多月前。</div>
+<div class="article-paragraph">孙春兰在视察时表示，这个城市和国家面临着“战时状态”。 “决不能当逃兵，否则就会被永远钉在历史的耻辱柱上。”</div>
+<div class="article-paragraph">她要求医务工作者行动起来全天候排班，在武汉挨家挨户上门测体温，询问密切接触者。</div>
+<div class="article-paragraph">新措施宣布两周前，<a href="https://cn.nytimes.com/china/20200123/coronavirus-quarantines-history/">中国禁止人们离开武汉</a>，后将范围扩大到中部省份湖北的多个城市，现在限制了5000多万人——规模几乎令人难以想像。</div>
+<div class="article-paragraph">然而，确诊感染的人数大约每四天增加一倍，更多的中国城镇陷入困境，<a href="https://www.nytimes.com/2020/01/26/world/asia/coronavirus-wuhan-china-hubei.html" title="Link: https://www.nytimes.com/2020/01/26/world/asia/coronavirus-wuhan-china-hubei.html">专家们质疑</a>政府的行动是否在给民众造成了不必要的艰难，同时对疫情的缓解几乎没有起到作用。</div>
+<div class="article-paragraph">截至周五，政府数据显示，该病毒已导致636人死亡，至少感染了31161人，许多人认为这些官方统计数据远不能反映完整的情况。截至周四，湖北省的总体死亡率为2.8%。</div>
+<div class="article-paragraph">当局开始将武汉的患者引导至临时改造的医院——包括体育馆、展览中心和一个小区——这些医院预期能容纳数千人。孙春兰在视察设在洪山体育馆的其中一个临时医院时说，必要时，任何需要治疗的人应被集中并强制隔离。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="现被用作医院的武汉展览中心内部。" data-src="https://static01.nyt.com/images/2020/02/06/world/06-China-Virus02/merlin_168455682_03245816-de3f-43eb-b726-9d9ca73cfe0b-master1050.jpg" src="https://static01.nyt.com/images/2020/02/06/world/06-China-Virus02/merlin_168455682_03245816-de3f-43eb-b726-9d9ca73cfe0b-master1050.jpg"/></div><figcaption><span>现被用作医院的武汉展览中心内部。</span> <cite>Agence France-Presse — Getty Images</cite></figcaption></figure></div>
+<div class="article-paragraph">“必须从源头上切断，”据中国新闻媒体《现代快报》报道，她谈到这种病毒时说：“你们要盯紧。不能漏。”</div>
+<div class="article-paragraph">如果按照她所说的规模，尚不清楚已经不堪重负的设施如何应对涌入的病患，或者这些新的庇护所是否配备了可以为患者提供基本护理并防止病毒传播的设备或人员。</div>
+<div class="article-paragraph">在体育馆内拍摄的照片显示，狭窄的成排简易床用教室里常用的那种桌椅隔开。中国社交媒体上的一些评论将这些场景与现代历史上最致命的西班牙流感大流行的场面进行了比较。</div>
+<div class="article-paragraph">中国领导人习近平周一将这次疫情称为“<a href="https://www.nytimes.com/2020/02/03/world/asia/coronavirus-deaths-sars.html">对我国治理体系和能力的一次大考</a>”。但是，两天后，习近平在与柬埔寨首相洪森一起出现时说，中国政府的努力“正在取得积极成效”。</div>
+<div class="article-paragraph">周四，习近平没有公开露面，显然将这场危机的责任委托给了副手，他们全都采用了《人民日报》本周设定的军事主义语调，将遏制这种流行病的运动描述为“人民战争”。 </div>
+<div class="article-paragraph">即便如此，越来越多的迹象表明，尽管北京、私人企业及慈善团体承诺救援物品在运送中，对进出湖北的限制仍正在减缓药品、防护口罩和其他必需品的再次补给。</div>
+<div class="article-paragraph">“由于没有足够的医疗用品，这几乎是一场人道主义灾难，”香港中文大学中国研究中心客席教授林和立(Willy Wo-Lap Lam)说：“武汉人民似乎陷入了绝境。”</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="周二，昆明一座火车站，背着消毒设备的工作人员。" data-src="https://static01.nyt.com/images/2020/02/06/world/06-China-Virus03/merlin_168432978_d6e35edb-8f97-4275-8a6e-b7f4e1202ea2-master1050.jpg" src="https://static01.nyt.com/images/2020/02/06/world/06-China-Virus03/merlin_168432978_d6e35edb-8f97-4275-8a6e-b7f4e1202ea2-master1050.jpg"/></div><figcaption><span>周二，昆明一座火车站，背着消毒设备的工作人员。</span> <cite>Reuters</cite></figcaption></figure></div>
+<div class="article-paragraph">许多医学专家认为，感染人数和死亡人数高于官方统计数字。许多武汉居民身体不适，但不确定自己是否患有这种疾病，他们被迫步行，从一家医院到另一家医院，结果连病毒检测都做不了，更别说接受治疗。</div>
+<div class="article-paragraph">还有一些人穿着全套防护服，或者采取头上戴着塑料袋等临时安全措施四处行走。许多人冒着病毒在家庭和邻里传播的风险，选择在家中进行自我隔离。</div>
+<div class="article-paragraph">位于田纳西州纳什维尔的范德比尔特大学医学中心(Vanderbilt University Medical Center)的传染病专家威廉·沙夫纳(William Schaffner)博士说，中国卫生部门在处理武汉疫情方面面临巨大挑战。</div>
+<div class="article-paragraph">“当用于直接医疗的人力物力资源捉襟见肘的时候，就会发生不幸的事件，会有人死亡，”他说。“你不可能在很长一段时间内管理这么多的病人。”</div>
+<div class="article-paragraph">但沙夫纳也对新措施提出了质疑，包括临时隔离避难所内的冠状病毒患者及其护理人员面临的风险。</div>
+<div class="article-paragraph">“生病的人怎么办？”他问道。“他们得到照顾了吗？什么级别的护理？在体育馆和学校礼堂这样的环境里，护理人员能否有效提供护理并保证自身安全？”</div>
+<div class="article-paragraph">其他外部专家表示，将大量病人集中在类似宿舍的设施里，为一系列传染病不经意间的传播创造了条件。</div>
+<div class="article-paragraph">“很多人已经有了潜在的健康问题，需要照顾，”美国传染病学会会长小托马斯·M·法尔(Thomas M. File Jr.)说：“你把他们安置在相聚很近的地方，他们可能会受到其他比冠状病毒更容易传播的感染，比如通过空气传播的结核病，以及可以在密集人群中传播的细菌感染。”</div>
+<div class="article-paragraph">疫情使中国大部分地区几乎陷入停滞，甚至远离武汉的地方也是如此。每天都有更多城市封锁的报道，2月乃至其后的公共活动和集会取消，学校准备推迟春节后的开学时间。</div>
+<div class="article-paragraph">尽管政府公开将其描述为一场可控的危机，同时又采取了激进的措施应对疫情，但它的影响还是越过了国境。在大约20个国家和地区，已经证实有近200人感染了这种病毒，中国以外也有两名患者死亡。</div>
+<div class="article-paragraph">其他国家也加紧了隔离病人的工作，包括两艘邮轮上的病人。依赖于中国庞大市场和供应链的全球企业正<a href="https://www.nytimes.com/2020/02/04/business/hyundai-south-korea-coronavirus.html">忙于应对冠状病毒造成的破坏</a>，这表明<a href="https://www.nytimes.com/2020/01/29/business/china-coronavirus-economy.html">对</a><a href="https://www.nytimes.com/2020/01/29/business/china-coronavirus-economy.html">中国经济的依赖程度</a>。</div>
+<div class="article-paragraph">总部位于香港的国际航空公司国泰航空(Cathay Pacific)要求2.7万名员工休三周无薪假，日本视频游戏制造商任天堂(Nintendo)宣布，将推迟Switch游戏机的发货。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="钻石公主号邮轮上发现了20例冠状病毒病例。周四，它停靠在日本横滨，船上乘客正处于隔离。" data-src="https://static01.nyt.com/images/2020/02/06/world/06-China-Virus04/merlin_168456837_a1f3fc1a-7890-4010-a555-346d71dc8ea0-master1050.jpg" src="https://static01.nyt.com/images/2020/02/06/world/06-China-Virus04/merlin_168456837_a1f3fc1a-7890-4010-a555-346d71dc8ea0-master1050.jpg"/></div><figcaption><span>钻石公主号邮轮上发现了20例冠状病毒病例。周四，它停靠在日本横滨，船上乘客正处于隔离。</span> <cite>Carl Court/Getty Images</cite></figcaption></figure></div>
+<div class="article-paragraph">苹果和星巴克等大型连锁店已经关闭了数百家中国门店。经营肯德基和必胜客的百胜中国(Yum China)宣布，已关闭三分之一的特许经营店，并称“如果这个销售趋势持续下去”，今年可能出现亏损。</div>
+<div class="article-paragraph">在武汉，最大的问题是这座围困进入第三周的城市所面临的人道主义困境。高层笼统呼吁采取行动造成的困惑，以及基层的混乱情况表明，中国政府还没处理好这场危机。</div>
+<div class="article-paragraph">中国医学科学院院长、呼吸系统专家王辰说，新的临时治疗点是为了应对家庭和社区的传播。</div>
+<div class="article-paragraph">“大批患者没有及时收治到医院，这批患者在社会上的流动，在家庭中的居住，会造成更进一步的家庭和社区的感染，”新华社引述王辰的话说。</div>
+<div class="article-paragraph">周四，在受欢迎的社交媒体网站微博上，一条被广泛转发的帖子称，已被改造成隔离设施的武汉展览中心“条件很差”。这位作者表示，他有亲戚在里面，他提到了供电和供暖问题，说人们“晚上睡觉打寒颤”。</div>
+<div class="article-paragraph">这则帖子称，人员和设备似乎也出现短缺。“没有见到医生护士登记病情，发放药物，”帖子说，氧气设备“严重缺乏”。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="周四，成都一家空荡荡的苹果商店。" data-src="https://static01.nyt.com/images/2020/02/06/world/06-China-Virus05/merlin_168477234_ee72f92c-c13c-4024-991d-67c94bb5122e-master1050.jpg" src="https://static01.nyt.com/images/2020/02/06/world/06-China-Virus05/merlin_168477234_ee72f92c-c13c-4024-991d-67c94bb5122e-master1050.jpg"/></div><figcaption><span>周四，成都一家空荡荡的苹果商店。</span> <cite>Yuyang Liu for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">随着公众的怒火不断发酵，中国共产党开始压制新闻机构和社交媒体平台，它们对政府最初反应的批评<a href="https://www.nytimes.com/2020/01/27/technology/china-coronavirus-censorship-social-media.html">一度在网上未经审查</a>。</div>
+<div class="article-paragraph">与香港大学(University of Hong Kong)合作的监督组织中国媒体计划(China Media Project)<a href="http://chinamediaproject.org/2020/02/06/internet-giants-warned-amid-coronavirus-crackdown/" rel="noopener noreferrer" target="_blank">公布了中国国家互联网信息办公室的一项指令</a>，它指责几家社交媒体公司“在涉疫情报道中存在违规从事互联网新闻信息服务等问题”。</div>
+<div class="article-paragraph">它说，包括新浪微博、腾讯和字节跳动在内的一些国内巨头公司将受到特别监管，确保“为打赢疫情防控阻击战营造良好网络环境”。</div>
+*

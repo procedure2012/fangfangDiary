@@ -1,0 +1,419 @@
+病亡率、压平曲线、疫情高峰：如何正确理解这些术语？
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i><br/></div>
+<div class="article-paragraph">弄懂新型冠状病毒大流行，既需要了解流行病学的最新情况，也需要在语义学上跟上形势。</div>
+<div class="article-paragraph">“病亡率”、“压平曲线”和“活动限制”等说法从政府官员和公共卫生专业人士的嘴里脱口而出，他们假设大家都知道这些词的意思。但对不同的国家、不同的州，甚至不同的城市和个人来说，这些术语有着不同的含义。</div>
+<div class="article-paragraph">官员们使用“大规模检测”、“病例数”和“死亡病例数”等相同的措辞，来描绘非常不同的情况。这令一些重要的问题难以得到明确的回答：情况有多糟糕？正在向什么方向发展？</div>
+<div class="article-paragraph">人们将自己的国家与那些经历了疫情更多阶段的国家进行比较，以求了解情况。但是，如果这些词语使人产生误解，或在使用方式上存在差异的话，这种比较就是错误的。此外，这些统计数据和词汇给人以精准的假象，而现实是，我们所掌握的信息仅代表冰山一角。<br/></div>
+<div class="article-paragraph">“每天的新增病例数或死亡人数都是以精准数字的形式通报的，我们被训练成只看这些表面数字，”布朗大学(Brown University)公共卫生学院流行病学家马克·N·卢里(Mark N. Lurie)说。“但这些数字远非精准，而且有严重缺陷，它们的含义因不同的时间和地点而不同。”</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="伦敦的一个不必下车即可做新冠病毒检测的中心。" data-src="https://static01.nyt.com/images/2020/04/02/world/virus-language1/merlin_171222396_53b84fd9-54a3-44a6-ab7f-a9f9382e42cd-master1050.jpg" src="https://static01.nyt.com/images/2020/04/02/world/virus-language1/merlin_171222396_53b84fd9-54a3-44a6-ab7f-a9f9382e42cd-master1050.jpg"/></div><figcaption><span>伦敦的一个不必下车即可做新冠病毒检测的中心。</span> <cite>Andrew Testa for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>确诊病例</b><br/></div>
+<div class="article-paragraph">美国前不久超过中国成为<a href="https://www.nytimes.com/2020/03/26/health/usa-coronavirus-cases.html">通报的感染病例数最多的国家</a>，这是一个引人注目的里程碑。但对于美国是否真的有更多病例，以及这些数字在多大程度上反映了真实情况等方面，仍存在很大的不确定性。</div>
+<div class="article-paragraph">各国在病毒检测以及通报数字的方式上有很大差异，而且专家们说，大多数感染都没有被发现。因此，各国公布的只是粗略的数据，这些并不完整的描绘也许没有多少可比性。</div>
+<div class="article-paragraph">这还是在假设各国愿意提供数据的情况下。<br/></div>
+<div class="article-paragraph">中国通报的累计确诊病例超过8.2万例，美国官员说，中国淡化了本国的疫情。直到本周前，中国政府一直把病毒检测呈阳性但没有症状的感染者不纳入确诊病例。</div>
+<div class="article-paragraph">中国也未公开接受检测的人数，而且外界对中国是否<a href="https://cn.nytimes.com/china/20200331/china-coronavirus-xinjiang/">在新疆</a>进行了大规模检测表示怀疑，中国在那里把数十万穆斯林关进了拘禁营。<br/></div>
+<div class="article-paragraph">很少有国家进行大规模的检测。当然，检测的人数越多，发现的感染病例就越多。<br/></div>
+<div class="article-paragraph">在<a href="https://cn.nytimes.com/asia-pacific/20200327/japan-coronavirus/">确诊病例相对较少的日本</a>，每百万人中只做了大约500例检测，让人担心病毒可能在隐性传播。英国也有类似的担忧，它的检测率按西欧的标准来看是很低的，到目前为止，每百万人中有2400余人接受检测，而且其中的卫生工作者相对较少。</div>
+<div class="article-paragraph">相比之下，韩国每百万人当中有逾8000人做了检测，挪威的这个数字约为1.7万人。</div>
+<div class="article-paragraph">在美国，州政府和地方当局从公立和私营实验室收集数据，但这些数据可能截然不同：一些实验室报告做了多少例检测，一些则报告有多少人接受了检测，而另一些只报告阳性检测结果。<br/></div>
+<div class="article-paragraph">《大西洋月刊》(The Atlantic)的新冠病毒肺炎跟踪计划(<a href="https://covidtracking.com/" rel="noopener noreferrer" target="_blank" title="Link: https://covidtracking.com/">Covid Tracking Project</a>)试图汇总美国的所有数据，它统计到的数字是，美国迄今为止进行了逾120万例检测，平均每百万人超过3600例。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="纽约西奈山医院外面的分诊帐篷。" data-src="https://static01.nyt.com/images/2020/04/02/world/virus-language4/merlin_171168375_91200571-36d3-432d-921c-ff6f0c0a2b3c-master1050.jpg" src="https://static01.nyt.com/images/2020/04/02/world/virus-language4/merlin_171168375_91200571-36d3-432d-921c-ff6f0c0a2b3c-master1050.jpg"/></div><figcaption><span>纽约西奈山医院外面的分诊帐篷。</span> <cite>Juan Arredondo for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>大规模检测</b><br/></div>
+<div class="article-paragraph">特朗普总统曾吹嘘，美国接受病毒检测的人数超过其他国家，但在人均基础上，许多发达国家的检测数字都超过了美国。<br/></div>
+<div class="article-paragraph">但重要的不只是多少人做了检测，检测时间和检测对象也很重要。各国在检测时间和对象上也有不同，这让数字的含义也有所不同。<br/></div>
+<div class="article-paragraph"><a href="https://cn.nytimes.com/asia-pacific/20200324/coronavirus-south-korea-flatten-curve/">韩国</a>、澳大利亚和新加坡等少数国家很早就开始认真地进行大规模检测。他们利用这些信息严格追踪接触者，也就是找到并检测那些亲密接触者，即使他们没有症状。<br/></div>
+<div class="article-paragraph">在感染人数仍在可控范围内时，这种做法为疫情提供了一个相当全面的描绘，让减缓疫情成为可能。</div>
+<div class="article-paragraph">尽管德国没有采取与韩国和新加坡相同规模的行动，但德国在早期做了比大多数欧洲国家都多的病毒检测和追踪工作。<br/></div>
+<div class="article-paragraph">但大多数存在大量确诊病例的国家进行的检测数量都比较少，都是等了更长时间后才开始进行大规模检测，而且对追踪接触者的工作几乎未做尝试。这些国家发现自己在拼命追赶病毒的传播，在疫情迅速蔓延后才加大了检测力度。</div>
+<div class="article-paragraph">这些国家都检测到了更多的病例，但此时已很难判断新增病例中有多少是疫情不断扩大的结果，有多少是扩大疫情监测的结果。由于无法满足检测需求，这些国家通常只能对病情最严重的患者以及卫生工作者做检测。</div>
+<div class="article-paragraph">美国是一个典型的例子。它大约90%的检测是在过去两周完成的。医生、病人、州和地方官员都报告说，检测试剂盒仍不够用，患者经常得到的说法是，他们的病情还没有严重到做检测的程度。<br/></div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="西班牙与法国和意大利一样，一般不对医院外死亡者的尸体做病毒检测，这让许多病亡者未被纳入官方统计数字。" data-src="https://static01.nyt.com/images/2020/04/02/world/virus-language5/merlin_170745762_f5843bd7-dcee-4862-a592-a0825013809d-master1050.jpg" src="https://static01.nyt.com/images/2020/04/02/world/virus-language5/merlin_170745762_f5843bd7-dcee-4862-a592-a0825013809d-master1050.jpg"/></div><figcaption><span>西班牙与法国和意大利一样，一般不对医院外死亡者的尸体做病毒检测，这让许多病亡者未被纳入官方统计数字。</span> <cite>Samuel Aranda for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>病亡率</b><br/></div>
+<div class="article-paragraph">一个反复提及的说法是：意大利和西班牙的新冠病毒肺炎患者病亡率高，德国的低，中国的居中。<br/></div>
+<div class="article-paragraph">情况也许并不那么简单。统计死亡人数和统计感染人数一样存在缺陷和不一致的地方。<br/></div>
+<div class="article-paragraph">最近有报道称，武汉的殡仪馆订购的骨灰盒数比该市官方统计的2535例死亡高出好几千，表明死亡人数远高于官方公布的数字。新冠病毒最早就是在这座城市发现的。</div>
+<div class="article-paragraph">武汉以及意大利和西班牙部分地区的疫情使医院不堪重负，许多患者被迫在家中渡过难关。没人知道究竟有多少人在从未做检测的情况下康复或病亡。<br/></div>
+<div class="article-paragraph">意大利和法国报告的死亡人数一般只包括那些死在医院的人。德国甚至将部分在医院死亡的患者也排除在外，因为死后进行检测不是医院的标准做法。</div>
+<div class="article-paragraph">如果只对病情最严重的患者做检测的话，感染人数看上去会更低，而死亡的比例看起来将更高。<br/></div>
+<div class="article-paragraph">德国的病亡率（约占感染者的1%）看起来较低，部分原因可能是将健康的或症状轻微或无症状者包括进来的大规模检测，以及对死者做检测的范围相当有限。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="意大利贝加莫的教皇若望二十三世医院的一个改造成收治新冠病毒患者的病房。" data-src="https://static01.nyt.com/images/2020/04/02/world/virus-language2/merlin_171156099_2217e826-7cd3-4739-ac7f-c6329a2a2749-master1050.jpg" src="https://static01.nyt.com/images/2020/04/02/world/virus-language2/merlin_171156099_2217e826-7cd3-4739-ac7f-c6329a2a2749-master1050.jpg"/></div><figcaption><span>意大利贝加莫的教皇若望二十三世医院的一个改造成收治新冠病毒患者的病房。</span> <cite>Fabio Bucciarelli for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>疫情高峰</b><br/></div>
+<div class="article-paragraph">官员们经常提疫情何时达到高峰或进入平台期，也就是一个国家“压平曲线”的时候。但他们很少具体说明是什么达到了高峰，以及我们怎么能确定高峰已过？<br/></div>
+<div class="article-paragraph">当疫情不受控制地发展时，每天的感染和死亡人数都比前一天多。3月初，意大利每天报告的新增确诊病例只有几百例，而3月21日一天的新确诊病例就超过6500例。</div>
+<div class="article-paragraph">这种加速传播不可能无限期地持续下去，更重要的是，意大利已经加强了保持社交距离的做法，这似乎减缓了病毒的传播。自3月21日以来，每天新增确诊病例一直在4000至6000例之间徘徊。尽管现有数据存在种种问题，而且仅凭几天的数据就做结论也有危险，但近两周的数据显示，意大利似乎已经度过了一个转折点。</div>
+<div class="article-paragraph">曲线图上显示的每天新增病例数从急剧上升变得趋于平缓——曲线已被压平——甚至开始出现下行。<br/></div>
+<div class="article-paragraph">这是一个转折点：病毒的传播速度已经放缓。度过死亡人数的转折点则需要更长的时间。不过，意大利的死亡人数似乎也在趋于平缓，上周每日的死亡人数徘徊在800左右。</div>
+<div class="article-paragraph">但是，即使这些曲线已趋于平缓，疫情的另一个重要衡量指标——现存确诊病例数——仍未达到“峰值”。在每天的死亡或康复患者人数超过新增感染人数之前，这个数字还将继续上升。</div>
+<div class="article-paragraph">为缓解卫生系统的沉重负担，现存确诊病例数的曲线也必须先趋平，然后下降。<br/></div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="3月，法国士兵在巴黎街头巡逻。" data-src="https://static01.nyt.com/images/2020/04/02/world/virus-language06/merlin_170787141_aafde546-e512-4aa0-869b-e7980f82cab1-master1050.jpg" src="https://static01.nyt.com/images/2020/04/02/world/virus-language06/merlin_170787141_aafde546-e512-4aa0-869b-e7980f82cab1-master1050.jpg"/></div><figcaption><span>3月，法国士兵在巴黎街头巡逻。</span> <cite>Dmitry Kostyukov for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>活动限制</b><br/></div>
+<div class="article-paragraph">全球有20多亿人，包括大多数美国人正生活在一般被称为“活动限制”的状态下。但这个词没有固定的定义，其他的相关说法，比如政府的“呆在家里”和“保持社交距离”令也没有明确的定义，所以各地的具体做法也不一样。</div>
+<div class="article-paragraph">各地的封锁措施，对于某些工种、个人情况或锻炼有不同的例外。有些地方允许最多10人或最多5人的聚会，有些地方则禁止所有聚会。有些地方对葬礼有例外，有些地方则没有。</div>
+<div class="article-paragraph">最大的不同可能在执行方面。有些地方，比如美国有限制令的地方，主要依靠人们自觉遵守，而非强制。<br/></div>
+<div class="article-paragraph">但意大利等国为确保限制令的落实而<a href="https://www.nytimes.com/2020/03/21/world/europe/italy-coronavirus-center-lessons.html">动用了军队</a>，法国警方还对数已十万计的违反禁令者处以罚款。中国除了使用安全部队外，还<a href="https://www.nytimes.com/2020/02/15/business/china-coronavirus-lockdown.html">动员了一支志愿者大军</a>来加大服从封锁隔离措施的社会压力。</div>
+<div class="article-paragraph">周三，菲律宾总统罗德里戈·杜特地(Rodrigo Duterte)威胁要<a href="https://www.nytimes.com/2020/04/01/world/coronavirus-news.html" title="Link: https://www.nytimes.com/2020/04/01/world/coronavirus-news.html">击毙违反封锁隔离措施的人</a>。<br/></div>
+<div class="article-paragraph">意大利的经历表明了这个词语解释上的自由。意大利的封锁令经历了几个阶段，适用范围扩大到越来越多的人，封锁及其执行也变得越来越严格。</div>
+<div class="article-paragraph">几周前，人们还可以因为正当的工作或家庭原因在意大利旅行。现在，人们会因不必要的离家太远的走动而被罚款。</div>
+<div class="article-paragraph">但禁令的每个阶段用的都是同一个泛泛的名称：活动限制。<br/></div>
+*
+疫情简报：中国确诊病例超8万；习近平承认政府应对失误
+<div class="article-paragraph"><i>（</i><i>欢迎</i><i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank">点击此处</a>订阅<a href="https://m.cn.nytimes.com/morning-brief/">新冠病毒疫情中文简报</a></i><i>。</i><i>更多关于疫情的最新消息，欢迎关注时报英文版<a href="https://www.nytimes.com/2020/03/02/world/coronavirus-news.html">实时更新报道</a>。）</i></div>
+<div class="article-paragraph"> <b>中国确诊人数超8万，澳大利亚报告首宗死亡病例</b></div>
+<div class="article-paragraph">截至周日，全球确诊病例已超过8.7万，其中7000余例发生在中国大陆以外，至少61个国家和地区出现了感染病例。</div>
+<div class="article-paragraph">在疫情最为严重的几个国家中，意大利共报告了1694例确诊病例和34例死亡病例。伊朗确诊人数增至987例，54人死亡。韩国确认4212例，死亡22例。澳大利亚周日报告了该国首宗死亡病例，系一名“钻石公主号”乘客。此外，爱尔兰和多米尼加共和国成为最新报告首例确诊病例的国家。</div>
+<div class="article-paragraph">在中国，新增确诊病例数曲折下降。据<a href="http://www.nhc.gov.cn/xcs/yqtb/202003/5819f3e13ff6413ba05fdb45b55b66ba.shtml" rel="noopener noreferrer" target="_blank">中国卫健委</a>数据，周日大陆地区新增确诊病例202例，较前一日腰斩；死亡42例，湖北以外没有死亡报告。</div>
+<div class="article-paragraph">中国大陆目前累计报告确诊病例达到80026例；累计治愈出院44462例，占到总数过半；另有死亡病例2912例，重症病例7110例。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="习近平在北京视察时检测体温。" data-src="https://static01.nyt.com/images/2020/03/01/us/01virus-briefing-xi-sub/01virus-briefing-xi-sub-master1050-v2.jpg" src="https://static01.nyt.com/images/2020/03/01/us/01virus-briefing-xi-sub/01virus-briefing-xi-sub-master1050-v2.jpg"/></div><figcaption><span>习近平在北京视察时检测体温。</span> <cite>Ju Peng/Xinhua, via Agence France-Presse — Getty Images</cite></figcaption></figure></div>
+<div class="article-paragraph"> <b>习近平承认政府早期疫情应对引发不满</b></div>
+<div class="article-paragraph">习近平在公开发表的讲话内容节选中指出，中国在对冠状病毒疫情的早期应对中存在政策失误，这些失误引发了公众的愤怒。</div>
+<div class="article-paragraph">习近平的这番话摘自他2月发表的两次内部讲话，并发表在共产党的主要刊物<a href="http://www.qstheory.cn/dukan/qs/2020-02/29/c_1125641632.htm" rel="noopener noreferrer" target="_blank">《求是》</a>上。他们似乎有意强调习近平为防控疫情而打算推动的政策和法律。</div>
+<div class="article-paragraph">这些措施包括禁止野生动物非法贸易、健全重大疫情应急响应机制、完善医疗救治体系、加强物资协调等。</div>
+<div class="article-paragraph">在赞扬中国对防控疫情取得成绩的同时，习近平也承认存在问题，他使用的措辞比以往公开评论疫情时更加直言不讳。“一些地方和部门面对突如其来的疫情进退失措，出台的一些防控措施朝令夕改，一些地方甚至出现了严重妨碍疫情防控的违法犯罪行为，”他说，“群众对此不满意。”</div>
+<div class="article-paragraph">习近平没有详细说明他所说的“违法犯罪行为”是什么意思。中国媒体报道了官员对受灾家庭的忽视，以及在转移病人中粗鲁、不符合卫生标准的工作方式。</div>
+<div class="article-paragraph">值得注意的是习近平没有说的事：包括卫生专家在内的许多中国人都认为，这场疫情说明了官方审查制度对公共卫生造成的风险。医生李文亮在被“训诫”后染病死亡，更让他成了一个象征着说出真相代价的殉道者。</div>
+<div class="article-paragraph">但习近平没有表示放松审查是他的议程之一。他说，政府将继续严厉打击“造谣传谣”——这正是武汉警方对“吹哨人”李文亮的指控。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="韩国政府上周关闭了新天地会教会的一个分会。" data-src="https://static01.nyt.com/images/2020/03/01/world/01virus-briefing96/merlin_169617912_46ec4789-6975-4c20-92e9-08d148b1f3a5-master1050.jpg" src="https://static01.nyt.com/images/2020/03/01/world/01virus-briefing96/merlin_169617912_46ec4789-6975-4c20-92e9-08d148b1f3a5-master1050.jpg"/></div><figcaption><span>韩国政府上周关闭了新天地会教会的一个分会。</span> <cite>Ryu Hyung-Geun/Yonhap, via Associated Press</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>韩国将以“过失杀人罪”起诉新天地教会会长</b></div>
+<div class="article-paragraph">首尔市长朴元淳周日要求检方调查大邱新天地会教会的创始人李万熙以及其他高层领袖。</div>
+<div class="article-paragraph">官员们认为，教会未能准确提供教会成员名单，干扰政府抗击疫情，是造成该国病死人数不断上升的原因之一。朴元淳在社交媒体发文指出，教会的行为无异于“故意过失杀人”。</div>
+<div class="article-paragraph">检方尚未决定是否将对李万熙等人开启正式调查，新天地教会没有立即回复记者的置评请求。该教会此前表示，它正在与政府全面合作，并称自己是“政治迫害”的受害者。</div>
+<div class="article-paragraph">韩国官员周日还表示，一些教会成员今年1月曾到访武汉，韩国4000余例确诊病例中，将近60%是这个教会的成员或者与他们有过接触的人。该教会承认在武汉有信徒，但表示自去年12月以来没有中国信徒到访韩国。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="在日本横滨停泊的“钻石公主号”。" data-src="https://static01.nyt.com/images/2020/03/01/world/01virus-briefing09/merlin_169615227_16f9725f-7b69-4681-8a2d-69e20529f07c-master1050.jpg" src="https://static01.nyt.com/images/2020/03/01/world/01virus-briefing09/merlin_169615227_16f9725f-7b69-4681-8a2d-69e20529f07c-master1050.jpg"/></div><figcaption><span>在日本横滨停泊的“钻石公主号”。</span> <cite>Kazuhiro Nogi/Agence France-Presse — Getty Images</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>“钻石公主号”所有滞留乘客、工作人员下船</b></div>
+<div class="article-paragraph">日本厚生劳动大臣加藤胜信周日表示，在邮轮上被隔离超过14天的“钻石公主号”所有乘客和船员，已均可排除感染冠状病毒的可能性。</div>
+<div class="article-paragraph">该部门称，船上有149名船员感染了病毒，数百名其他国家的船员已被撤侨，剩下的238名船员将在东京近郊埼玉县的一处政府设施被隔离14天。此外，隔离期间在邮轮上工作的第八名官员被证实诊断结果呈阳性。</div>
+<div class="article-paragraph">在已被撤侨的乘客中，一名78岁的澳大利亚男子成为该国首名死亡患者。西澳大利亚卫生部的首席卫生官员Andrew Robertson表示，这名男子的妻子当时也在邮轮上，同样感染病毒，目前情况稳定。</div>
+<div class="article-paragraph">澳大利亚目前共报告了25例确诊病例，其中九例与钻石公主有关。15名患者已经康复出院。Robertson指出，这种病毒在澳大利亚尚未出现社区传播，公众在此阶段不必恐慌。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="罗马斗兽场外的中国游客。" data-src="https://static01.nyt.com/images/2020/02/14/world/coronavirus-europe3/merlin_168910845_aefd661e-aa3a-4fde-9900-cad9249300cf-master1050.jpg" src="https://static01.nyt.com/images/2020/02/14/world/coronavirus-europe3/merlin_168910845_aefd661e-aa3a-4fde-9900-cad9249300cf-master1050.jpg"/></div><figcaption><span>罗马斗兽场外的中国游客。</span> <cite>Alberto Pizzoli/Agence France-Presse — Getty Images</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>观点：面对疫情引发的歧视，欧洲华人选择站出来</b></div>
+<div class="article-paragraph">疫情在全球激起了种族歧视与反华情绪，荷兰也不例外。一部分荷兰民众对中国和华人的刻板印象与标签化进一步浮出水面。</div>
+<div class="article-paragraph">但这一次，当地华人选择为自己发声，并试图理解歧视背后的社会心理与文化差异。在阿姆斯特丹自由大学就读博士的中国留学生亲历了荷兰社会的歧视，也目睹了华人如何参与议题、自我捍卫。欢迎阅读这篇<a href="https://cn.nytimes.com/opinion/20200302/coronavirus-xenophobia-in-europe/">中文观点文章。</a></div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="卢浮宫周日因召开有关冠状病毒的讨论会闭馆。" data-src="https://static01.nyt.com/images/2020/03/01/world/01virus-briefing99-sub/merlin_169849836_bfb614d7-0b1b-4b88-a582-0f9a2a0a0bfb-master1050.jpg" src="https://static01.nyt.com/images/2020/03/01/world/01virus-briefing99-sub/merlin_169849836_bfb614d7-0b1b-4b88-a582-0f9a2a0a0bfb-master1050.jpg"/></div><figcaption><span>卢浮宫周日因召开有关冠状病毒的讨论会闭馆。</span> <cite>Yoan Valat/EPA, via Shutterstock</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>更多消息</b></div>
+<div class="article-paragraph"><b>• 美国报告第二例死亡病例：</b>华盛顿州卫生官员周日晚间称，一名70多岁的西雅图男性死于新冠病毒。他所在的医院与此前美国第一宗死亡病例患者的医院是同一间。华盛顿州官员还表示，该州周日新增三例确诊病例，均发生在金县。官员表示感染数字可能会进一步增加。华盛顿州目前已宣布进入紧急状态。研究人员称病毒可能<a href="https://www.nytimes.com/2020/03/01/health/coronavirus-washington-spread.html">已在这里传播了数周</a>，可能导致1500人被感染。<b><br/></b></div>
+<div class="article-paragraph"><b>• <a href="https://www.nytimes.com/2020/03/01/nyregion/new-york-city-coronavirus.html">纽约发现首宗确诊患者</a></b>。这名30多岁的女子在周日晚间被确诊感染新冠病毒，纽约州州长表示，该女子曾在伊朗旅行，目前被隔离在曼哈顿家中。尽管当地人意识到问题的严重性、开始购买口罩，但一些餐馆仍然爆满。此外，罗德岛州也报告了首宗病例。</div>
+<div class="article-paragraph"><b>• </b><b>加州两名医护人员感染：</b>当局周日表示，旧金山湾区两名医护人员在接触了一名确诊患者后，病毒检测呈阳性。</div>
+<div class="article-paragraph"><span><b>• 伊朗确诊人数增至987例，54人死亡。</b>邻国伊拉克则报告了19例确诊病例，一些飞往伊拉克的国际航班被停飞。</span></div>
+<div class="article-paragraph"> <b>• 卢浮宫暂时关闭：</b>这间世界上参观人数最多的博物馆周日表示，由于内部正举行一场关于冠状病毒暴发的员工会议，将暂时关闭。一名发言人此前称博物馆预计将在会议结束后重新开放，但随后其在推特上表示，仍将继续关闭。</div>
+<div class="article-paragraph"><span><b>• 休斯敦取消“剑桥能源周”：</b>原定于3月9日开幕的这一年度会议是世界上规模最大的能源会议之一，原本预计将有来自80多个多家的能源公司高管和专家参加。</span></div>
+<div class="article-paragraph"><b>• </b><span><b>科技公司加强防疫措施：</b>亚马逊周日宣布，该公司两名米兰员工确诊，并表示尚不清楚公司美国员工中是否有人患病。自上周以来，亚马逊、Facebook等大型科技公司均已推出员工旅行限制措施，以防止病毒传播。<br/></span></div>
+<div class="article-paragraph"> <i>感谢阅读今天的新冠病毒疫情简报</i><i>，新读者请</i><i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank">点击此处订阅</a>。点击<a href="https://cn.nytimes.com/morning-brief/">这里</a>查看往日更新</i><i>。</i><i>欢迎在Twitter(</i><a href="https://twitter.com/nytchinese" rel="noopener noreferrer" target="_blank"><i>@nytchinese</i></a><i>)、</i><a href="https://www.instagram.com/cn.nytimes/?hl=zh-tw" rel="noopener noreferrer" target="_blank"><i>Instagram</i></a><i>和</i><a href="https://www.facebook.com/nytimeschinese.t/" rel="noopener noreferrer" target="_blank"><i>Facebook</i></a><i>上关注我们，了解更多中文资讯。也欢迎访问中文网</i><a href="https://cn.nytimes.com/"><i>首页</i></a><i>阅读更多新闻。如有任何建议和想法，请来信与我们分享：cn.letters@nytimes.com。</i></div>
+*
+简报：武汉解封；任志强被查；美国确诊病例逼近40万
+<div class="article-paragraph"><i>（欢迎</i><i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank">点击此处</a></i><i>订阅</i><i><a href="https://cn.nytimes.com/morning-brief/" title="Link: https://cn.nytimes.com/morning-brief/">新冠病毒疫情中文简报</a></i><i>。更多关于疫情的最新消息，欢迎关注时报英文版</i><i><a href="https://www.nytimes.com/2020/04/08/world/coronavirus-news.html" title="Link: https://www.nytimes.com/2020/04/07/world/coronavirus-updates-news-live.html">实时更新报道</a></i><i>。时报关于新冠疫情的</i><i><a href="https://www.nytimes.com/news-event/coronavirus?action=click&amp;module=Spotlight&amp;pgtype=Homepage">报道</a></i><i>已向读者全部免费开放，欢迎阅读。）</i></div>
+<div class="article-paragraph"><b>武汉封城76天后正式解封</b></div>
+<div class="article-paragraph">中国结束了对武汉的封锁。从1月23日<a href="https://cn.nytimes.com/china/20200123/china-coronavirus-travel-ban/">封城</a>至今，已有76天。但这座受损的城市要恢复正常，还有很长的路要走。</div>
+<div class="article-paragraph">武汉的“复苏”可以让我们一窥中国如何从停摆走向重启。疾病和死亡已经影响了成千上万人的生命。企业，甚至那些已经复工的企业，都面临着一条艰难的道路，萧条可能会持续下去。社区继续对居民的出入进行监管，恢复正常的迹象还有待观察。</div>
+<div class="article-paragraph">1月下旬，中国当局关闭离汉通道、试图以此控制疫情时，许多局外人曾认为这是一种极端的做法，只能在中国这样的威权体制下实现。但随着疫情走向恶化，世界各国都开始对本国公民实施各种严格的限制。</div>
+<div class="article-paragraph">周三午夜过后，中国正式取消了对离汉通道的限制。在向当局指定的手机应用程序提交信息后，被认定为无传染风险的居民可以离开。据一家国有电视台报道，中国铁路武汉局估计，周三将有超过5.5万人乘火车离开武汉。</div>
+<div class="article-paragraph">此前一天，中国官方统计数据显示，其大陆地区首次无新增死亡病例通报。不过，外界对中国统计数据的准确性<a href="https://cn.nytimes.com/china/20200405/coronavirus-china-grief-deaths/">仍有疑问</a>。</div>
+<div class="article-paragraph">据<a href="http://www.nhc.gov.cn/xcs/yqfkdt/202004/5e2b6f0bd47d48559582242e3878447d.shtml" rel="noopener noreferrer" target="_blank">中国卫健委</a>通报，周二中国大陆新增确诊病例62例，其中59例为境外输入病例，三例本土病例来自山东（两例）和广东（一例）；新增死亡病例两例，上海、湖北各一例；新增无症状感染者137例，其中境外输入无症状感染者102例。目前中国累计通报确诊病例81802例，3333人死亡。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="已退休的房地产开发商任志强，摄于2014年。他的朋友说他3月失踪了。" data-src="https://static01.nyt.com/images/2020/03/26/business/00newworld-2-copy/00newworld-2-master1050.jpg" src="https://static01.nyt.com/images/2020/03/26/business/00newworld-2-copy/00newworld-2-master1050.jpg"/></div><figcaption><span>已退休的房地产开发商任志强，摄于2014年。他的朋友说他3月失踪了。</span> <cite>Visual China Group, via Getty Images</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>中国当局宣布任志强被调查，涉嫌“严重违纪违法”</b></div>
+<div class="article-paragraph">中国共产党的纪律监察部门周二晚间表示，他们<a href="https://www.nytimes.com/2020/04/07/world/asia/china-tycoon-coronavirus.html">正在调查</a>一位直言不讳的房地产大亨，后者曾指责中国最高领导人习近平对疫情处理不当。</div>
+<div class="article-paragraph">这是任志强自3月<a href="https://cn.nytimes.com/china/20200316/china-ren-zhiqiang/">失联</a>以来首度有消息传出。中共这份简短的通报指出，任志强涉嫌“严重违纪违法”，这是当局经常用来指代腐败和其他权力滥用的委婉说法。</div>
+<div class="article-paragraph">任志强是一名资深党员，在写过一篇爆炸性的“檄文”后消失。他在文中将习近平称为一个渴望权力的“小丑”，并称共产党对言论自由的严格限制和对新闻媒体的压制加剧了疫情的暴发。</div>
+<div class="article-paragraph">→ 相关阅读：<a href="https://cn.nytimes.com/china/20200331/china-ren-zhiqiang-censorship/">消失的任志强：中共为何容不下一位忠诚的批评者</a></div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="新泽西州帕特森市消防部门的急诊医疗技术人员在最近的一个早班照顾一名新冠患者。" data-src="https://static01.nyt.com/images/2020/03/31/science/00VIRUS-EMTS-pui1/00VIRUS-EMTS-pui1-master1050-v2.jpg" src="https://static01.nyt.com/images/2020/03/31/science/00VIRUS-EMTS-pui1/00VIRUS-EMTS-pui1-master1050-v2.jpg"/></div><figcaption><span>新泽西州帕特森市消防部门的急诊医疗技术人员在最近的一个早班照顾一名新冠患者。</span> <cite></cite></figcaption></figure></div>
+<div class="article-paragraph"><b>美国确诊病例近40万，特朗普抨击世卫组织</b></div>
+<div class="article-paragraph">新冠病毒在美国暴发已经第五周，纽约和新泽西这两个受打击最严重的州的单日新增死亡病例仍在持续增长。截至目前，<a href="https://www.nytimes.com/2020/04/07/nyregion/coronavirus-new-york-update.html">纽约州</a>的死亡人数多达5489人；新泽西州为1232人。周二更是这两州迄今为止死亡人数最多的一天。</div>
+<div class="article-paragraph">据<a href="https://coronavirus.jhu.edu/map.html" rel="noopener noreferrer" target="_blank">约翰·霍普金斯大学</a>统计数据，美国确诊病例已有近40万，超过紧随其后的西班牙、意大利和法国的确诊人数之和。目前该国共有12844例死亡病例，仅纽约市就有4009例。</div>
+<div class="article-paragraph">→ 白宫高级顾问曾在1<span>月就疫情发出警告。特朗普的贸易顾问<a href="https://www.nytimes.com/2020/04/06/us/politics/navarro-warning-trump-coronavirus.html">彼得·纳瓦罗</a>曾直截了当地指出，新冠病毒危机可能让美国损失数万亿美元，使数百万美国人面临患病或死亡的风险。这份备忘录显示，在最糟糕的情况下，可能会有超过</span>50万美国人死亡。</div>
+<div class="article-paragraph">→ 特朗普“甩锅”世卫组织，称其“<a href="https://twitter.com/realDonaldTrump/status/1247540701291638787" rel="noopener noreferrer" target="_blank">搞砸了</a>”。特朗普总统周二对WHO发起猛烈攻击，批评该组织“以中国为中心”、没有支持他的对华旅行限制，并威胁要停止向其提供资金。但公共卫生专家此前曾指出，特朗普公开否认对疫情的担忧导致了美国应对迟缓。 </div>
+<div class="article-paragraph">→ 特朗普“驱逐”美国疫情救济法案<a href="https://www.nytimes.com/2020/04/07/us/politics/trump-coronavirus-watchdog-glenn-fine.html">督查小组负责人</a>Glenn A. Fine，免除其国防部代理监察长一职。该督查小组控制着8000万美元的预算，以监督如何政府执行2万亿美元的救济法案。民主党人称特朗普此举是“对美国纳税人的直接侮辱”。 </div>
+<div class="article-paragraph">→ “罗斯福号”航母事件发酵，美国海军代理部长莫德利辞职：托马斯·莫德利此前曾批评“罗斯福号”舰长“<a href="https://www.nytimes.com/2020/04/06/magazine/modly-crozier-coronavirus.html">太天真或太愚蠢</a>”，并<a href="https://www.nytimes.com/2020/04/02/us/politics/coronavirus-aircraft-carrier-roosevelt.html">将其解职</a>。他的做法引发了广泛批评。特朗普周二表示，自己与莫德利辞职一事无关，但他对莫德利辞职的决定感到失望。</div>
+<div class="article-paragraph"><span>→ 美国黑人感染和死亡比例<a href="https://www.nytimes.com/2020/04/07/us/coronavirus-race.html">引发关注</a>：最新数据显示，在美国一些最大的城市和州，非裔美国人正以令人不安的速度遭受病毒感染，其确诊率和病死率不成比例地高于其他种族人士。美国国家过敏和传染病研究所所长福奇指出，糖尿病、高血压、肥胖和哮喘等疾病对非洲裔美国人的影响尤为严重，而患有这些疾病和冠状病毒的患者往往更易感。 </span></div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="英国外交大臣多米尼克·拉布（中）的责任增长得比任何人预期的都要快。" data-src="https://static01.nyt.com/images/2020/04/07/world/07virus-raab1/07virus-raab1-master1050-v2.jpg" src="https://static01.nyt.com/images/2020/04/07/world/07virus-raab1/07virus-raab1-master1050-v2.jpg"/></div><figcaption><span>英国外交大臣多米尼克·拉布（中）的责任增长得比任何人预期的都要快。</span> <cite>Simon Dawson/Reuters</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>首相病重，谁来领导英国抗疫？</b></div>
+<div class="article-paragraph">英国首相鲍里斯·约翰逊周二仍在伦敦一家医院的<a href="https://www.nytimes.com/2020/04/07/world/europe/boris-johnson-coronavirus.html">重症监护室</a>中与病魔作斗争，这不仅引发了人们对其健康状况的担忧，还引发了在必要情况下，谁将代替他领导这个国家对抗疫情的质疑。据公共卫生官员周二报道，在过去的24小时内，仅在英格兰就有758名患者在医院内死亡。</div>
+<div class="article-paragraph">约翰逊在周一病情恶化后被转移至重症监护室。周二晚上，英国外交大臣<a href="https://www.nytimes.com/2020/04/06/world/europe/boris-johnson-coronavirus-hospital-intensive-care.html">多米尼克·拉布</a>表示，约翰逊正在“接受标准的氧气治疗”，并称其可以自主呼吸，没有使用呼吸机等辅助设备。</div>
+<div class="article-paragraph">由于英国没有成文的宪法，也没有在政府首脑生病或死亡时的标准继任规则，因此约翰逊需要自己决定有谁来接管他的职务。但是他提名的拉布<a href="https://www.nytimes.com/2020/04/07/world/europe/who-is-dominic-raab.html">从政资历尚浅</a>，担任外交大臣还不到一年。</div>
+<div class="article-paragraph">英国上一次经历这样的权力真空是在1953年，当时丘吉尔中风，当局向英国公众隐瞒了他的真实情况。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="3月，美国纽约，艾姆赫斯特医疗中心的医护人员。" data-src="https://static01.nyt.com/images/2020/03/27/us/27VIRUS-BRIEFING-elmhurst5/merlin_171039264_444ba860-f9a7-4de6-ae3c-980ab9baf04e-master1050.jpg" src="https://static01.nyt.com/images/2020/03/27/us/27VIRUS-BRIEFING-elmhurst5/merlin_171039264_444ba860-f9a7-4de6-ae3c-980ab9baf04e-master1050.jpg"/></div><figcaption><span>3月，美国纽约，艾姆赫斯特医疗中心的医护人员。</span> <cite>Andrew Kelly/Reuters</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>更多消息：</b></div>
+<div class="article-paragraph">• 疫中记事：<a href="https://cn.nytimes.com/usa/20200408/coronavirus-china-wuhan-us/">武汉人的经验能否帮我们在美国克服疫情</a>。刘文在中国疫情最严重的时候，从北美给武汉捐赠医疗物资，因此结识了很多武汉的医护人员和志愿者，现在，大家反过来帮助她和她的邻居们在美国抗击疫情。欢迎阅读这篇发表在时报中文网上的文章。</div>
+<div class="article-paragraph">• 在偏见与歧视中做贡献：美国华人采购抗疫物资。在纽约州和新泽西州各地，来自华人社区的小群体团结起来，帮助抗击疫情。他们在微信上建立起庞大网络，调动在美中两国的关系，为有需求的医院和医护人员采购物资。（<a href="https://cn.nytimes.com/usa/20200407/coronavirus-chinese-americans-supplies/">阅读本文中文版</a>）</div>
+<div class="article-paragraph">• 特朗普对中国的旅行限制起作用了吗？数据分析显示，禁令就算有效，可能也为时已晚。武汉疫情暴发后，至少43万人从中国飞抵美国，其中近4万人是在旅行限制实施后抵达的；各机场的入境筛查也松紧不一。（<a href="https://cn.nytimes.com/usa/20200407/coronavirus-china-travel-restrictions/">阅读本文中文版</a>）</div>
+<div class="article-paragraph">• 大批留学生滞留海外，中国政府陷入两难：疫情暴发使100多万中国留学生滞留海外，其中许多人希望逃回中国。政府认为，让海外人士回国会造成病毒进一步扩散，但不采取行动又会损害其强国形象。（<a href="https://cn.nytimes.com/china/20200407/coronavirus-china-students/">阅读本文中文版</a>）</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="周一，巴基斯坦拉合尔，阿富汗人抵达两国边界跨境回国。" data-src="https://static01.nyt.com/images/2020/04/07/world/07virus-briefing-afghanistan/merlin_171328602_b382143a-af49-4185-bd0e-4e0a84ded927-master1050.jpg" src="https://static01.nyt.com/images/2020/04/07/world/07virus-briefing-afghanistan/merlin_171328602_b382143a-af49-4185-bd0e-4e0a84ded927-master1050.jpg"/></div><figcaption><span>周一，巴基斯坦拉合尔，阿富汗人抵达两国边界跨境回国。</span> <cite>Akhter Gulfam/EPA, via Shutterstock</cite></figcaption></figure></div>
+<div class="article-paragraph">• 阿富汗边境管理薄弱引发担忧：周二，成千上万的人涌入巴基斯坦与阿富汗接壤的边界，混乱的场面使筛查病例的工作难以负荷。巴基斯坦已报告了近4000例确诊病例，人们担心难民将把病毒带入阿富汗。此前，在邻国伊朗暴发严重疫情后，也有数十万人<a href="https://www.nytimes.com/2020/03/26/world/asia/afghanistan-iran-coronavirus.html">返回了阿富汗</a>。</div>
+<div class="article-paragraph">• 东南亚国家继续收紧限制：马尼拉将封锁令延长两周；泰国当局将入境航班禁令延长了12天；印尼首都雅加达省长准备实施更严格的控制社交距离的措施，此前当地学校和一些工作场所已被关闭。</div>
+<div class="article-paragraph">• 土耳其当局要求公众在购物或参观拥挤的公共场所时，<a href="https://www.nytimes.com/2020/04/07/world/europe/turkey-virus-erdogan-masks.html">必须佩戴口罩</a>，并表示将向每个家庭免费提供口罩。</div>
+<div class="article-paragraph">• 欧洲一些国家开始考虑在一定程度上恢复生活常态：奥地利总理提出解除封锁的时间表，一些商店将在复活节后重新开业；丹麦很快将允许幼儿重返日托所和学校。</div>
+<div class="article-paragraph">• 印度对羟氯喹药物出口的态度似乎出现软化。此前特朗普威胁说，若印度不解除上个月实施的严格出口限制，将对印度进行报复。羟氯喹药物被一些人视为冠状病毒可能的治疗药物。</div>
+<div class="article-paragraph">• 专栏：面对灾难，我们唯一的出路。病原体肆虐各大洲，毫不在意受害者的阶级地位，这是一场对全天下的袭击。专栏作家罗杰·科恩写道：我们彼此相连。这里没有陌生人。放下个人欲望，团结一致吧。（<a href="https://cn.nytimes.com/opinion/20200407/coronavirus-pandemic/">阅读本文中文版</a>）</div>
+<div class="article-paragraph"> <i>感谢阅读今天的新冠病毒疫情简报</i><i>，新读者请</i><i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank">点击此处订阅</a>。点击<a href="https://cn.nytimes.com/morning-brief/">这里</a>查看往日更新</i><i>。</i><i>欢迎在Twitter(</i><a href="https://twitter.com/nytchinese" rel="noopener noreferrer" target="_blank"><i>@nytchinese</i></a><i>)、</i><a href="https://www.instagram.com/cn.nytimes/?hl=zh-tw" rel="noopener noreferrer" target="_blank"><i>Instagram</i></a><i>和</i><a href="https://www.facebook.com/nytimeschinese.t/" rel="noopener noreferrer" target="_blank"><i>Facebook</i></a><i>上关注我们，了解更多中文资讯。也欢迎访问中文网</i><a href="https://cn.nytimes.com/"><i>首页</i></a><i>阅读更多新闻。如有任何建议和想法，请来信与我们分享：cn.letters@nytimes.com。</i></div>
+*
+中国第一季度GDP萎缩6.8%，经济增长奇迹终结
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">北京——新冠病毒暴发终结了中国<a href="https://www.nytimes.com/interactive/2018/11/25/world/asia/china-economy-strategy.html">近半个世纪惊人的经济增长</a>，对世界领导人试图重启全球经济这一庞大的任务来说，这是一个残酷的警示。<br/></div>
+<div class="article-paragraph">中国官员周五表示，全球第二大经济体在今年的前三个月萎缩6.8%，结束了历经<a href="https://www.nytimes.com/2019/05/30/world/asia/china-tiananmen-crackdown.html" title="Link: https://www.nytimes.com/2019/05/30/world/asia/china-tiananmen-crackdown.html">天安门广场镇压事件</a>、<a href="https://www.nytimes.com/2020/02/03/business/economy/SARS-coronavirus-economic-impact-china.html" title="Link: https://www.nytimes.com/2020/02/03/business/economy/SARS-coronavirus-economic-impact-china.html">非典疫情</a>甚至全球金融危机的<a href="https://www.nytimes.com/interactive/2018/11/25/world/asia/china-economy-strategy.html">无限制增长</a>。这些数据反映了中国为消灭新冠病毒所付出的巨大努力，包括1、2月份因疫情暴发导致成千上万的人患病时，将大部分的企事业单位关闭。</div>
+<div class="article-paragraph">严峻的数字表明，让全球经济重新站起来将面临多么艰巨的挑战。自从40多年前摆脱贫困和孤立以来，中国可能已经成为世界上最重要的单一增长引擎，在之前的困难时期，例如金融危机，都是中国提振了世界经济。</div>
+<div class="article-paragraph">现在，中国正试图重启其庞大的14万亿美元的经济体量，这一努力有可能为世界其他地区注入一支急需的强心剂。新冠病毒传播到美国和欧洲，冻结了那里的经济，人们因此预测，今年全球的产出萎缩幅度甚至可能超过金融危机。</div>
+<div class="article-paragraph">回过来说，全球停摆将损害中国重新走上正轨的努力，给北京的最高领导人带来巨大的经济难题。即使中国试图恢复运转，由于疫情及防疫措施极大地降低了全球对中国商品的胃口，也可能会导致工厂关闭和工人停薪休假。</div>
+<div class="article-paragraph">最近几周，中国逐步取消了对工作和旅行的诸多限制。但是中国各地的商业人士说，日子仍然艰难。人们表示，家庭收入下降了。</div>
+<div class="article-paragraph">“今年困难，有失业了，找不到工作的，”来自北京北郊一个村子的水果商刘霞说。“上班的做生意的都受好大影响。”</div>
+<div class="article-paragraph">中国国家统计局周五上午发布的经济收缩数据，是自1976年以来官方统计数据首次承认萎缩，当年该国正处于文化大革命尾声，那是一场充斥城市暴力和严刑拷打的全国性灾难。</div>
+<div class="article-paragraph">大规模的现代化公路和铁路网建设、国民强大的创业精神、熟练的劳动力，以及愿意为更高的经济产出而将环境和劳工问题搁置一旁的政府，推动了中国历史性的经济增长。但是，这些因素不是新冠病毒的对手。疫情于12月下旬在武汉首次出现后，中国巨大的工业引擎陷入了停顿状态。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="上周，在北京一家超市购物的顾客。" data-src="https://static01.nyt.com/images/2020/04/15/business/Virus-China-Econ-2/merlin_171390312_6e023f71-0d49-4d69-9255-6c3beadf0030-master1050.jpg" src="https://static01.nyt.com/images/2020/04/15/business/Virus-China-Econ-2/merlin_171390312_6e023f71-0d49-4d69-9255-6c3beadf0030-master1050.jpg"/></div><figcaption><span>上周，在北京一家超市购物的顾客。</span> <cite>Giulia Marchi for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">北京方面的<a href="https://www.nytimes.com/2020/04/09/business/economy/coronavirus-china-economy-stimulus.html">选择有限</a>。迄今为止，它避免了像美国和欧洲领导人所做的那样，展开一项庞大的支出计划。它的经济变得过于庞大和复杂，很难像2008年那样轻易重启——当时中国公布了一项支出高达5000亿美元的计划。多年的宽松贷款也使地方政府和国有企业陷入债务泥潭。</div>
+<div class="article-paragraph">然而，中国领导人面临采取行动的压力。家庭收入的减少带来节衣缩食。 35岁的韩小娟在一家小店里销售夹克和拖鞋，她说，许多人现在只买必需品。</div>
+<div class="article-paragraph">“我在这里十多年了，”韩小娟说。“今年是情况最不好的。”</div>
+<div class="article-paragraph">中国已经放松了针对疫情的最严厉措施。上周，疫情暴发的起始地<a href="https://cn.nytimes.com/china/20200408/wuhan-coronavirus/">武汉结束了严格的封锁</a>。</div>
+<div class="article-paragraph">然而，许多保持社交距离的措施依然存在。从餐馆到客机再到火车，许多座位可能要空出来，这限制了销量。购物中心和路边商店的人流量仍然比平时少，因为很多人担心感染而呆在家里。</div>
+<div class="article-paragraph">疫情的持续影响也体现在周五上午发布的其他数据中，从中可以看到中国在3月份的经济表现。这些数据和周二公布的进出口数据一样，表明经济已经开始复苏，但仍有相当长的路要走。</div>
+<div class="article-paragraph">3月工业生产较上年同期下滑1.1%，零售额下滑15.8%。前三个月的固定资产投资与去年同期相比也下降了16.1%。</div>
+<div class="article-paragraph">“当前国际疫情持续蔓延，世界经济下行风险加剧，不稳定不确定因素显著增多，我国防范疫情输入压力不断加大，复工复产和经济社会发展面临新的困难和挑战，”中国国家统计局新闻发言人毛盛勇周五上午在北京的新闻发布会上表示。</div>
+<div class="article-paragraph">中国经济遭受的下一个打击可能来自全球对其出口的需求减弱。</div>
+<div class="article-paragraph">广交会是中国的主要出口活动，会有来自世界各地的数万名参展商和数十万买家参加。它原定在本周三开始，一直持续到5月初。取而代之的是一个规模有限的于6月中旬举行的网上活动。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="周三，北京一家宝马经销店。中国消费者已经减少了支出。" data-src="https://static01.nyt.com/images/2020/04/15/business/Virus-China-Econ-3/merlin_171601659_18a37c44-92f0-4656-8f82-7c049368f8bc-master1050.jpg" src="https://static01.nyt.com/images/2020/04/15/business/Virus-China-Econ-3/merlin_171601659_18a37c44-92f0-4656-8f82-7c049368f8bc-master1050.jpg"/></div><figcaption><span>周三，北京一家宝马经销店。中国消费者已经减少了支出。</span> <cite>Giulia Marchi for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">甚至有现成海外客户的中国企业也发现，许多买家希望推迟或取消交货。</div>
+<div class="article-paragraph">“发货延期的情况（到处）都有，”义乌的耳环出口商阿珥南时尚钢饰的老板亚伦·杨(Aaron Yang)说。</div>
+<div class="article-paragraph">义乌水枪玩具出口商方维梅玩具厂的老板吴建英说，往年这个时候，西方的零售商都在为夏天的泳池季做准备，本应是她一年中出口生意最繁忙的时间。但是零售商已经停止下单。有些甚至停止为现有订单汇款。</div>
+<div class="article-paragraph">她说：“货款不好收。”</div>
+<div class="article-paragraph">商人们表示，中国为了防止第二波感染浪潮，几乎完全关闭了边境，这给出口订单造成了损失。</div>
+<div class="article-paragraph">“很多客户打算从非洲过来，但现在客户进不来，很多航空公司公司取消了航班，”上海贸易投资公司达之路的董事长何烈辉说。该公司从非洲购买矿产和木材，并向那里出口服装和其他制成品。</div>
+<div class="article-paragraph">何烈辉说，国内外市场已经发生了变化。更时尚、价格更高的服装销量下降了。但他也表示，睡衣和其他居家时期人们可能想在家中穿着的简单服装的销量实际上增加了。</div>
+<div class="article-paragraph">他说，“企业要调整方向。”</div>
+<div class="article-paragraph">北京已经严格关闭了中国边境，已经出国的外国居民也不被允许回国。中国欧盟商会(European Chamber of Commerce)天津分会主席张挹凡说，这延缓了大型建设项目以及其他的投资，因为它们所需要的技术人员和专家无法再进入中国。</div>
+<div class="article-paragraph">另一个担忧是，中国有多少中小企业能挺过当前的困难。在疫情之前，已经有许多企业在苦苦挣扎，因为拥有更好政治背景的国有企业越来越多地垄断了国有银行部门提供的贷款。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="周三，北京的一家廉价商品店。许多小企业甚至在疫情之前就陷入了困境。" data-src="https://static01.nyt.com/images/2020/04/15/business/Virus-China-Econ-4/merlin_171601791_e6b85a42-ac45-45c8-af40-939989c97dfb-master1050.jpg" src="https://static01.nyt.com/images/2020/04/15/business/Virus-China-Econ-4/merlin_171601791_e6b85a42-ac45-45c8-af40-939989c97dfb-master1050.jpg"/></div><figcaption><span>周三，北京的一家廉价商品店。许多小企业甚至在疫情之前就陷入了困境。</span> <cite>Giulia Marchi for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">因此，小企业倾向于在非正式的渠道借贷。纽约州立大学新帕尔茨分校(State University of New Paltz)专门研究中国小企业的经济学家徐赛兰(Sara Hsu)说，现在这些渠道也遇到了麻烦。</div>
+<div class="article-paragraph"> “很多中小企业向朋友和家人借钱，但他们同样是中小企业的拥有者，”她说。“所有的借款人都将面临困境。”</div>
+<div class="article-paragraph">1月下旬至2月下旬的经济活动普遍中断，令中国整个季度的产出受到拖累。商业卫星图像公司斯佩斯诺(SpaceKnow)表示，因为企业关闭，人们不再开车，中国北方臭名昭著的空气污染在2月份几乎完全消失。</div>
+<div class="article-paragraph">据斯佩斯诺的数据，即使是现在，中国夜间照明的卫星图像也显示，目前中国的工业基地的运行状况只有平时水平的一半。</div>
+<div class="article-paragraph">“中国可能是第一个目睹了新冠病毒暴发、地方封城导致经济放缓的国家，但现在中国似乎感受到了全球经济放缓的冲击，”该公司首席执行官杰里米·方德(Jeremy Fand)表示。</div>
+<div class="article-paragraph">达之路的何烈辉说，虽然中国的工厂已经重新开工，但为产品寻找市场可能会更加困难。</div>
+<div class="article-paragraph">他说，“大家比较乐观的一点，中国全国各地复工复产进展的很好。”但他也表示，“疫情对世界经济影响是非常大的，有些企业熬不过这段时间。”</div>
+*
+新冠疫情冲击全球化，世界重新审视对中国的依赖
+<div class="article-paragraph"> <i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i><br/></div>
+<div class="article-paragraph">布鲁塞尔——全球化，这个概括我们的彼此互联的别扭词语，已经是民粹主义者、恐怖分子、贸易斗士和气候活动家的靶子，我们很容易把一些困扰归咎于它。</div>
+<div class="article-paragraph">现在又来了冠状病毒。分析人士和专家说，在围绕世界该怎样整合或分离的激烈辩论中，它的传播可能是一个决定性时刻。</div>
+<div class="article-paragraph">甚至在病毒抵达欧洲之前，气候变化、安全担忧和对不公平贸易的抱怨就已加剧人们对全球航空旅行和全球化工业供应链的担忧，同时也加深了人们对中国作为可靠合作伙伴的怀疑。</div>
+<div class="article-paragraph">这种病毒对正在放缓的经济造成了又一次打击，并鼓励民粹主义者重新发出带有种族主义和仇外情绪的呼声，要求对移民、游客甚至跨国公司实施更严格的控制。</div>
+<div class="article-paragraph">在全球化面对的所有挑战中，许多是政治或意识形态的，但这种病毒可能有所不同。</div>
+<div class="article-paragraph">“我们总是忘记我们都受自然的摆布，事情过去后我们就会忘记，并继续下去，”维也纳人类科学研究所(Institute for Human Sciences)研究员伊万·韦伊沃达(Ivan Vejvoda)说。“但这种病毒提出了关于我们所建立的世界互联性的所有问题。航空旅行、全球供应链——这些都是相互关联的。”</div>
+<div class="article-paragraph">随着病毒蔓延到欧洲和其他地方，韦伊沃达说，“这让中国显得更加脆弱，对中国‘世界工厂’地位的依赖变得更不确定。”</div>
+<div class="article-paragraph">伦敦研究机构查塔姆研究所(Chatham House)所长罗宾·尼布利特(Robin Niblett)表示，这种病毒从亚洲迅速蔓延，是“压在全球化骆驼背上的又一根稻草”。</div>
+<div class="article-paragraph">他指出，美国和中国之间在贸易上的政治紧张关系，以及对气候变化的担忧，已经令人们质疑在各国之间运输部分货物的意义和成本，并考虑在边境征收碳税的可能性。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="中国青岛的一家轮胎制造厂。" data-src="https://static01.nyt.com/images/2020/02/25/world/25virus-q02/merlin_169491048_4ddc12db-2ff4-4650-82b3-edfa6c404e59-master1050.jpg" src="https://static01.nyt.com/images/2020/02/25/world/25virus-q02/merlin_169491048_4ddc12db-2ff4-4650-82b3-edfa6c404e59-master1050.jpg"/></div><figcaption><span>中国青岛的一家轮胎制造厂。</span> <cite>CHINATOPIX, via Associated Press</cite></figcaption></figure></div>
+<div class="article-paragraph">再加上供应链容易受到下一次冠状病毒爆发的冲击，以及日益专制的中国的脆弱性，尼布利特说，“如果你是一家企业，在面对这一切之前必须三思。”</div>
+<div class="article-paragraph">他说，特别是现在，越来越多的国家把制裁和经济上的相互依赖“作为一种强制外交的新形式，这会令人在全球化中更加厌恶风险”。</div>
+<div class="article-paragraph">布鲁塞尔经济研究机构勃鲁盖尔(Bruegel)的负责人贡特拉姆·沃尔夫(Guntram Wolff)指出，疾病全球化并不是什么新鲜事。他提到了欧洲人抵达美洲后的大规模死亡，或者说瘟疫，如今已经取消的威尼斯狂欢节在一定程度上就是为了纪念那场瘟疫。</div>
+<div class="article-paragraph">“不同的是，随着飞机的出现，病毒传播得非常快，”他说。最直接的冲动就是后退，竖起障碍。“我们已经看到航班数量大幅下降。”</div>
+<div class="article-paragraph">有气候意识的公民已经不鼓励不受限制的空中旅行，况且数字技术已令远程参与和信息传输成为可能。</div>
+<div class="article-paragraph">“你会想，全球飞行热潮的顶峰是否已经过去，”沃尔夫说。“很多人都在问，我们是不是真的需要像现在这样，经常定期坐飞机去世界各地旅行。”</div>
+<div class="article-paragraph">在某种程度上，这种病毒凸显了全球化的不平衡。私营部门的供应链已经极有效率。航空旅行是全面的，永无休止的。因此，私营部门不断在世界各地流动。</div>
+<div class="article-paragraph">但是，无论是在气候变化、卫生还是贸易方面，任何形式的协调政府反应通常都是软弱和无组织的。加强全球化公共努力的努力，遭到民族主义者和民粹主义者的攻击，称其侵犯了主权。</div>
+<div class="article-paragraph">在供应链解冻方面，政府也无能为力，而且欧洲国家的政府很少有向经济注入大量额外资金的财政灵活性。</div>
+<div class="article-paragraph">俄罗斯、欧洲和亚洲研究中心(Center for Russia Europe Asia Studies)主任特蕾莎·费伦(Theresa Fallon)也认为，现在中国可能面临许多的负面反应。</div>
+<div class="article-paragraph">她说，她最近刚从米兰回来，那里的官员正在检查游客的体温，医生们对出诊很谨慎，当地人显然在与中国游客保持距离。</div>
+<div class="article-paragraph">“中国的增长一直是一个漫长而积极的故事，但现在它受到了严重的打击，”她说，病毒的出现是“一个黑天鹅式的事件，突显了中国有多么不同”。</div>
+<div class="article-paragraph">她说，许多公司“正在重新考虑在中国这个篮子里放太多鸡蛋的问题”，尤其是中国越来越像西方的希望日渐渺茫。</div>
+<div class="article-paragraph">她说，“我们看到了中国更多的集权化，”以及对其统计数据和管理危机能力的不信任。即便中国领导人联合世卫组织这样的国际机构以影响他们所谓的“话语管理”，从而试图淡化这种疾病。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="周二的上海。" data-src="https://static01.nyt.com/images/2020/02/25/world/25virus-q03/merlin_169486314_cd73b469-e6d7-43e0-9156-8ddb5ab14382-master1050.jpg" src="https://static01.nyt.com/images/2020/02/25/world/25virus-q03/merlin_169486314_cd73b469-e6d7-43e0-9156-8ddb5ab14382-master1050.jpg"/></div><figcaption><span>周二的上海。</span> <cite>Noel Celis/Agence France-Presse — Getty Images</cite></figcaption></figure></div>
+<div class="article-paragraph">柏林研究机构新经济论坛(Forum New Economy)负责人西蒙·蒂尔福德(Simon Tilford)说，中国的信任危机超出了中国应对这种病毒的能力。</div>
+<div class="article-paragraph"><span>他说，<a href="https://foreignpolicy.com/2020/02/15/coronavirus-xi-jinping-chinas-incompetence-endangered-the-world/?utm_source=PostUp&amp;utm_medium=email&amp;utm_campaign=19815&amp;utm_term=Flashpoints%20OC" rel="noopener noreferrer" target="_blank">缺乏信任</a>“只会加剧企业之间减少依赖和风险的现有趋势”。</span></div>
+<div class="article-paragraph">蒂尔福德说，但是这种病毒向欧洲的传播也将对政治产生重大影响，这很可能会提振反移民、反全球化的极右翼派。</div>
+<div class="article-paragraph">他说：“我们已经看到许多民粹主义者对全球化带来的利益感到担忧，认为它造福于跨国公司、精英和外国人，而不是本地人民和本地公司。”</div>
+<div class="article-paragraph">这将对坚持控制边境和移民的政客有益，尽管病毒很容易越境。</div>
+<div class="article-paragraph">蒂尔福德说：“他们的说法是，当前的制度不仅构成经济威胁，而且还构成关乎生存的健康和安全威胁，而且我们不能为讨好大企业而如此开放。”</div>
+<div class="article-paragraph">他还说，这种说法可能会吸引这样的选民——“憎恶公开的种族主义但又担心失去控制，并且担心体系容易受到世界其他地方影响。”</div>
+<div class="article-paragraph">正在传播的病毒产生的种族影响是微妙的，人们都同意这一点，但无济于事。</div>
+<div class="article-paragraph">“这种事发生在你自己的社区，发生在你身边的人身上时，总会有所不同，”前意大利外交官斯特凡诺·斯特凡尼尼(Stefano Stefanini)说。“当它发生在丹麦、西班牙或意大利时，你会感觉它发生在和你拥有相同生活方式的人中间——因此你能想象它会发生在你身上。”</div>
+<div class="article-paragraph">但是，蒂尔福德说，人们可能对中国怀有敌意但不愿开口，而病毒让人们把它表达了出来。他说：“在欧洲和美国已经暗涌着一种对华人的恐惧，因为他们对西方霸权构成了挑战。”</div>
+<div class="article-paragraph">特朗普政府针对中国电信公司华为的行动，以及有关中国通过使用先进技术进行压制和审查的报道，都加剧了这种担忧。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="在意大利报道冠状病毒病例激增后，一些米兰人戴上了口罩。" data-src="https://static01.nyt.com/images/2020/02/25/world/25virus-q04/merlin_169474338_4fcc159b-bb10-4f54-aca7-210050a7c46a-master1050.jpg" src="https://static01.nyt.com/images/2020/02/25/world/25virus-q04/merlin_169474338_4fcc159b-bb10-4f54-aca7-210050a7c46a-master1050.jpg"/></div><figcaption><span>在意大利报道冠状病毒病例激增后，一些米兰人戴上了口罩。</span> <cite>Andrea Mantovani for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">据报道，许多在西方生活或旅行的中国人在公共场所遭受辱骂和回避的情况迅速增加。蒂尔福德说：“这表明这种情绪有多么容易冲出表面。”</div>
+<div class="article-paragraph">斯特凡尼尼和蒂尔福德说，新闻媒体也存在这种文化距离和差异感。</div>
+<div class="article-paragraph">斯特凡尼尼回顾了意大利外交部关于是否发送慰问信的辩论，这取决于死亡人数和死亡发生的遥远程度。</div>
+<div class="article-paragraph">“澳大利亚发生的事件得到了广泛报道，但孟加拉国的大洪水和死亡几乎没有提及，”蒂尔福德说。他说，中国的疫情“在地理和文化上都与我们相距遥远，还带有一丝种族主义的感觉，就好像我们在用不同的方式衡量生命的丧失”。</div>
+<div class="article-paragraph">意大利社会学家伊尔沃·迪亚曼蒂(Ilvo Diamanti)对此有一种更具哲学性的担忧。这种病毒向意大利的传播“已经使我们的确定性产生了质疑”，因为“在我们的安全受到威胁的情况下，这使防御系统变得<span>更加复杂，”<a href="https://quotidiano.repubblica.it/edicola/catalogogenerale.jsp?ref=search" rel="noopener noreferrer" target="_blank">他在周一的《共和报》(La Repubblica)上写道</a>。“世界不再具有无法攻破的边境。”</span></div>
+<div class="article-paragraph">为了抵御这种病毒，迪亚曼蒂写道：“一个人不得不抵御世界，”躲在家里关掉电视、广播和互联网。“为了不被他人感染致死，或自己变成传播者感染他人，我们不得不孤独地死去。”</div>
+<div class="article-paragraph">他表示，这是“比冠状病毒更大的风险”。</div>
+*
+读者来鸿：新冠疫情中，海内外华人的焦虑、愤怒与希望
+<div class="article-paragraph"><span><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></span><br/></div>
+<div class="article-paragraph">从疫情中心的武汉到中国以外的至少56个国家，<a href="https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html">冠状病毒肺炎</a>的迅速蔓延已导致超过85000人感染，超过2900人死亡 。疫情让中国大大小小的城镇陷入瘫痪，导致商业活动、旅行和学校教育无法进行，使得许许多多的中国学生和家庭面对着一个不确定的未来。</div>
+<div class="article-paragraph"><a href="https://www.nytimes.com/zh-hans/2020/02/11/world/asia/corona-virus-student-stories-chinese.html">《纽约时报》</a>向海内外华人了解，疫情是如何打乱了他们的生活，中国对疫情的处置又是如何改变他们对这个国家的看法。</div>
+<div class="article-paragraph">我们收到来自世界各地的回复，包括智利、以色列、亚美尼亚、新西兰，以及中国一些省市。有武汉人说就住在离疑似疫情源头的华南海鲜市场五公里以外、危险近在咫尺，有人因为躲避疫情逃去了东南亚、家人分离。有人在欧洲因为中国人的身份而被房东要求搬离，还有人在美国的医学院就读，担心病人会拒绝检查。</div>
+<div class="article-paragraph">在我们2月中旬收到的170多封来自世界各地的回复里，多数人表现出对现有政治制度的严重不满，有人说希望自己的孩子能去别的地方生活，接受不同的教育。也有人，甚至是在西方学医的，认为作为发展中国家，中国的应对已非常有力。</div>
+<div class="article-paragraph">以下为他们的故事以及一些照片，经过编辑和缩减。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="人们悼念在武汉因冠状病毒去世的李文亮医生。" data-src="https://static01.nyt.com/images/2020/02/09/world/09china-disease7/merlin_168525456_26f6fb98-0a3d-4559-9bd6-523ec1f6b9e9-master1050.jpg" src="https://static01.nyt.com/images/2020/02/09/world/09china-disease7/merlin_168525456_26f6fb98-0a3d-4559-9bd6-523ec1f6b9e9-master1050.jpg"/></div><figcaption><span>人们悼念在武汉因冠状病毒去世的李文亮医生。</span> <cite>Lam Yik Fei for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph"><b><i>对政府愤怒：“第一次意识到了言论自由的重要性”</i></b></div>
+<div class="article-paragraph"><b>梁逸，湖北天门</b></div>
+<div class="article-paragraph">疫情发生时，我就住在离武汉华南海鲜市场以北约五公里的地方。我应该是第一批看到微信里李文亮医生截图而且引起了警觉的人，我当天立马就给家人网购了口罩和消毒剂，并要求他们没有紧急事情不要出小区。但随后因为政府一系列的辟谣和消息封锁，几乎所有人都开始放松警惕，我个人也不例外。</div>
+<div class="article-paragraph">言论不自由和政府官员的失职是导致这场灾难的罪魁祸首，让每一个人感到愤怒。</div>
+<div class="article-paragraph"><b>苏敏，美国旧金山</b></div>
+<div class="article-paragraph">我作为家属陪同先生到美国读书，现在他已经工作，而我由于签证问题，只能待在家里。</div>
+<div class="article-paragraph">我在今年年初和先生严肃地讨论了未来生活的去向问题。他一直觉得国内系统性风险太大，不应该回去。而我却觉得为了更舒适热闹的生活，我愿意去牺牲一些东西。比如言论自由，上网自由等。更何况人这一生也不长，在如今这个和平年代，要去承受系统性风险的概率太低了。 </div>
+<div class="article-paragraph">没想到我们谈话的十几天后，就暴发了疫情。不断爆出的各种管理问题、人权问题让我每天悲愤交加。偶尔传出的疫区人民求助的声音，让我觉得那里现在就像是人间地狱。我极其的失望、伤心我们的政府竟然如此的冷漠、无能，视人命如草芥。我每天都在转发一些人求助的消息，批评政府的言论，可是这些东西过不了多久就会被删除。我第一次意识到了言论自由的重要性。 而这次疫情像是打在我脸上的耳光，让我彻底清醒，也让我非常的难过，我觉得我离自己的祖国越来越远了。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="当地关闭的中餐馆，原定的歇业日期过去后仍未开门。" data-src="https://static01.nyt.com/images/2020/02/25/multimedia/c00callout1/c00callout1-jumbo.png" src="https://static01.nyt.com/images/2020/02/25/multimedia/c00callout1/c00callout1-jumbo.png"/></div><figcaption><span>当地关闭的中餐馆，原定的歇业日期过去后仍未开门。</span> <cite>COURTESY OF WANG SHENGFAN</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>澳大利亚阿德莱德</b></div>
+<div class="article-paragraph">在本次疫情恶化前，我和我的朋友都以为中国是固若金汤的数字极权(Digital Totalitarian State)，中国传统父母官文化+列宁先锋队主义+工业文明如虎添翼，但这些光环都因为本次中国政府对于武汉肺炎的混乱应对而被打破了。</div>
+<div class="article-paragraph">对我而言，这次危机暴露出了官僚的懦弱和胡乱作为，同时也展现了官僚缺位的情况下中国人民仍然保留了强大的基层自治和自组织能力，让我转而相信当代中国仍然具有产生民主革命的条件。 </div>
+<div class="article-paragraph">不过对于跟我政治立场相左的朋友来说，心理就没有这么好受了。我的一个朋友坦承，他过去受到中国“厉害了我的国”和西方“中国威胁论”的双重影响，真的认为利维坦坚而不摧。结果一个瘟疫现出原形，还是草台班子。他说，这可能是年轻人的第一个充满愤恨和亡国感的春节。</div>
+<div class="article-paragraph"><b>高恩洲，泰国曼谷</b> </div>
+<div class="article-paragraph">随着中共一直延用威权手段处理任何事情，人道灾难已经发生，我的决策就是放下一切尽快逃离。而老人们被中共宣传洗脑深刻，表示死也要死在这片土地，与祖国共存亡，我对此表示无奈的同时瞬间感到他们的想法应该也是绝大多数中国人的想法吧，我买了次日的机票决定带着九岁女儿离开，我老婆的护照有效期不足六个月，出入境部门答复已经暂停办理公民出入境业务，现在只有我带着女儿在泰国。</div>
+<div class="article-paragraph">这次疫情，让我深深的感受到源自家庭内部的分裂，这种分裂源自个体对中共的不同看法。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="本月，香港的海滨步道。" data-src="https://static01.nyt.com/images/2020/02/24/business/24hongkong01/merlin_169336764_ef681885-e840-4f08-81a8-aa842cc3e2fb-master1050.jpg" src="https://static01.nyt.com/images/2020/02/24/business/24hongkong01/merlin_169336764_ef681885-e840-4f08-81a8-aa842cc3e2fb-master1050.jpg"/></div><figcaption><span>本月，香港的海滨步道。</span> <cite>Vivek Prakash/Agence France-Presse — Getty Images</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>郭谐和，河南新乡</b></div>
+<div class="article-paragraph">疫情暴发时，我还在香港的学校。回家之后，小区封锁，出入受限制，到现在也只能在家里关注进一步的消息。</div>
+<div class="article-paragraph">有人说我们在香港的学生很不幸，两次停课都是因为口罩，上次人祸，这次天灾。但我觉得这次不仅仅是天灾，也有人祸。这次疫情暴发中国公共卫生体系的缺陷一览无遗。官僚主义，维稳思想严重影响了第一时间对疫情进行防控。而李文亮医生的去世，也激发了众多内地民众对于缺乏言论自由的不满，让我们感受到还是有很多人可以坚守良知，鞭笞不公。</div>
+<div class="article-paragraph">当然，我也看到我的社交媒体中的年轻人呈现出一种对社会事务较为漠然的态度。而李文亮医生事后，还有一部分人出来赞颂共产党，指责网上追求言论自由的声音为“被境外势力利用”，这些年轻人也不能使我对中国的未来太过乐观。</div>
+<div class="article-paragraph"><figure class="article-inline-photo"><div class="img-box"><img alt="学校家长群要求观看正能量节目的截图。" data-src="https://static01.nyt.com/images/2020/02/25/multimedia/c00callout4/c00callout4-master1050.png" src="https://static01.nyt.com/images/2020/02/25/multimedia/c00callout4/c00callout4-master1050.png"/></div><figcaption><span>学校家长群要求观看正能量节目的截图。</span> <cite>COURTESY OF ZOU PEIPEI</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>邹佩佩，北京</b></div>
+<div class="article-paragraph">我们在北京，疫情暴发以来我们以前没有考虑或面对的问题现在似乎有时间考虑了，其中一个是关于孩子价值观的教育问题。</div>
+<div class="article-paragraph">前几天学校老师给我今年在上小学一年级的女儿发来通知要求观看北京卫视的一档在晚上9:30播出的访谈节目《疫情当前，谁在逆行》，讲述的是在应对这次疫情不顾生命危险前往武汉援助的医护人员。然后还要写观后感在当晚11点前通过微信上交。显然，节目只提供了这次疫情的一个方面的信息，向孩子传播正能量。</div>
+<div class="article-paragraph">后来我在微信群里看到的别的孩子发过来的观后感，可能大部分也是父母帮忙写的，只是完成任务。其中自然是有很多赞赏医务人员的，并立志将来成为他们中的一员的。我想，这样的观后感大概就是老师和教委领导们喜欢的吧！这不是有意识让孩子形成唯上是遵，投其所好的价值观吗？这和这次疫情暴发初期的消息被掩盖的原因如出一辙吗？ </div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="随着中国努力正应对冠状病毒疫情，连北京的天安门一带现在也几乎空无一人。" data-src="https://static01.nyt.com/images/2020/02/19/world/19china-us10/merlin_167898096_92f49315-c7d3-4e60-9937-abc196e26860-master1050.jpg" src="https://static01.nyt.com/images/2020/02/19/world/19china-us10/merlin_167898096_92f49315-c7d3-4e60-9937-abc196e26860-master1050.jpg"/></div><figcaption><span>随着中国努力正应对冠状病毒疫情，连北京的天安门一带现在也几乎空无一人。</span> <cite>Mark Schiefelbein/Associated Press</cite></figcaption></figure></div>
+<div class="article-paragraph"><b><i>对政府包容：“这次疫情中对中国的批评非常不公”</i></b><br/></div>
+<div class="article-paragraph"><b>Arthur Chan，英国伦敦 </b></div>
+<div class="article-paragraph">我目前在伦敦一所大学求学。最近去新加坡参加了一次工作面试。回来以后开始出现一些和新冠肺炎有关的症状。所以英国国家医疗服务体系(NHS)对我进行了检测，并要求我在结果出来之前不要出门，最后检测结果是阴性。</div>
+<div class="article-paragraph">这次疫情证实了我对中国的想法，即人们必须给它一个公正的评价。我认为这次疫情中对中国的批评非常不公。</div>
+<div class="article-paragraph">当对情况进行批判性分析时，我们必须记住——尽管中国经济实现了奇迹般的发展——中国仍是一个发展中国家。对一个发展中国家来说，它已经应对得足够好了，这种面对疫情的动员能力只有一个权力非常集中的政府才有可能实现。一种传染性疾病碰上全世界最大的出行季，对任何一个国家来说，这都将是一场灾难。尽管对疫情初期应对不利的批评有其根据，但它扭曲了真相，没有哪个政府为控制疫情做出过这么多。</div>
+<div class="article-paragraph">作为一名华裔加拿大人，我在东西两地生活长大。我注意到西方媒体总是以一种狭隘的视角报道中国。这种叙事来自冷战时期，把每个非民主国家都视为威胁。关于新冠病毒疫情的报道也陷入了这种模式。</div>
+<div class="article-paragraph"><b>Xiao Me，缅甸仰光</b></div>
+<div class="article-paragraph">我在缅甸，首先是自动隔离，为了不影响当地人。所以，感觉到异国他乡，既关心身边人，给别人一个好的印象，关系到中国人的形象，也对国内的家人的情况感到不安。 </div>
+<div class="article-paragraph">我感受到中国国家和政府的所做所为，是空前的，这个是体制的优势。</div>
+<div class="article-paragraph"><b>Zheng Xu，美国密苏里州圣路易斯</b></div>
+<div class="article-paragraph">作为一名大学二年级的医学生，从去年12月开始，我每天都在关注疫情的进展。我认为这次的暴发与2003年的SARS形成了鲜明的对比。当时我还是个小孩，在疫情发生的中心城市亲历过一切。我认为这种对比是双重的，且都是积极的。</div>
+<div class="article-paragraph">首先是透明度，比起SARS，这次的透明度被推向了一个更加重要的优先位置。当前，在中国主要的搜索引擎百度的首页，你可以找到一个超链，那个链接列出了关于疫情下至每个省市的具体数字，每天都会更新。我个人认为，这有助于国人之间的沟通和自我防护。</div>
+<div class="article-paragraph">第二点，中国的科学和医学领域都有了显著的进步。疫情暴发后不久，武汉的医生和北京方面就能够汇总并公布他们的数据，并将其系统和策略性地发布在诸如《新英格兰医学杂志》和《美国医学会杂志》等国际知名期刊上，对国内外医务工作者的防护和决策来说，这已被证明是无价的。此外，此次疫情中，中国医院和医生使用的干预措施，包括人工心肺机(ECMO)等，都是中国医学和人民福祉的发展和进步的明证。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="远隔重洋，张煜卿和另一个武汉老乡点起蜡烛，为家乡祈福。" data-src="https://static01.nyt.com/images/2020/02/27/multimedia/c00callout5/c00callout5-jumbo.jpg" src="https://static01.nyt.com/images/2020/02/27/multimedia/c00callout5/c00callout5-jumbo.jpg"/></div><figcaption><span>远隔重洋，张煜卿和另一个武汉老乡点起蜡烛，为家乡祈福。</span> <cite>COURTESY OF ZHANG YUQING</cite></figcaption></figure></div>
+<div class="article-paragraph"><b><i>对未来不明：“现在面临一个两难选择”</i></b></div>
+<div class="article-paragraph"><b>张煜卿，爱尔兰高威</b></div>
+<div class="article-paragraph">我是一个在爱尔兰的武汉留学生，这里不是一个主流的留学国家，我这个城市只有两个武汉人。在这次疫情发生之后，和其他主流留学国不一样的是，这里的人没有对我们的亚洲面孔大惊小怪，大家还是很友好，班上知道我来自武汉的同学也有很多给我发安慰的消息。</div>
+<div class="article-paragraph">圣诞期间我回了一趟武汉，在疫情爆出人传人之前已经回到了爱尔兰，来了一周后钟南山院士宣布有人传人现象。那时候正逢春节，学校的中国学联组织的春晚活动在我到了之后的第十四天当天举行，我是志愿者，我一直在犹豫该不该去，我和主席发了消息，他安慰我过了隔离期就来吧。但是在活动过程里我还是听到了一些声音，我知道这来自人的本性，都在害怕，但是还是感觉到了很孤单和独在异乡的悲凉感。</div>
+<div class="article-paragraph">时至如今我身为武汉人，不奢求什么知情权和言论自由，我只希望政府能还武汉普通老百姓一个基本的生存权。当一个国家的人民连生存权都不能保证，你拿什么来谈这个国家的发展呢。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="小Max的第一个春节。" data-src="https://static01.nyt.com/images/2020/02/25/multimedia/c00callout2/c00callout2-jumbo.jpg" src="https://static01.nyt.com/images/2020/02/25/multimedia/c00callout2/c00callout2-jumbo.jpg"/></div><figcaption><span>小Max的第一个春节。</span> <cite>COURTESY OF MO WEICHENG</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>Mo Weicheng，广东佛山</b></div>
+<div class="article-paragraph">我们目前在佛山的家中。 我的妻子在去年年初拿到了华盛顿大学（西雅图）的教育学 PhD 录取，但是当时妻子已经怀孕，于是将原定的入学时间2019年9月1日延迟到了今年的3月31日。 如果没有这场 “突如其来” 的疫情，3月1日，我们将会带着刚满六个月的女儿Max飞往西雅图，开启一段新的人生体验。但是现在因为美国的旅行禁令，还有担忧婴儿的出行风险，我们不敢冒险前往第三国自行隔离14天，只好在家中期盼事情快点好转。（我们）现在面临一个两难选择。</div>
+<div class="article-paragraph"><figure class="article-inline-photo"><div class="img-box"><img alt="清迈使领馆外，中国游客排队等候办理签证延期需要的文件。" data-src="https://static01.nyt.com/images/2020/02/25/multimedia/c00callout3/c00callout3-jumbo.jpg" src="https://static01.nyt.com/images/2020/02/25/multimedia/c00callout3/c00callout3-jumbo.jpg"/></div><figcaption><span>清迈使领馆外，中国游客排队等候办理签证延期需要的文件。</span> <cite>COURTESY OF ZHANG ZHIDA</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>张志达，泰国清迈</b></div>
+<div class="article-paragraph">（我）常住广东省惠州市，目前人在泰国清迈。原计划2月份在深圳参加GMAT考试，受疫情影响考试取消了。我和妻子决定去香港参加考试，当晚从深圳过关去了香港。并在香港报名了GMAT考试，但是过了两天接到通知说香港的考试也取消了。</div>
+<div class="article-paragraph">我们搜索了一下最近的考点在泰国，于是开始申请泰国的电子签证（因为担心落地签不给进，当时网上有传言说要出具健康证）。电子签证批准之后我们就飞到了泰国清迈（[当时]媒体报道这里只有一例感染者，担心曼谷疫情比较严重所以选择来清迈）。目前已经在清迈参加了GMAT考试，目前计划继续停留在清迈。</div>
+<div class="article-paragraph">没有最失望只有更失望。兵熊熊一个，将熊熊一窝。这次疫情失控中国最高领导层负有直接责任。</div>
+<div class="article-paragraph"><b>万千山，美国纽约</b></div>
+<div class="article-paragraph">这是我出国学习生活九年以来第一次有机会在春节期间回国过年。身处疫情相对可控的福州的我，在多日挣扎于中外媒体报道，微博舆论，与政府宣传后，感受到了由这场疫情带来的最实际也是最魔幻的冲击——美国入境管制。</div>
+<div class="article-paragraph">的确，我的工作，租的公寓，以及很多个人的计划都被这一纸旅行禁令彻底打乱。很多情况紧急的人已经在旅行限制后改签机票飞往能够入境的第三国进行14天的过渡期。</div>
+<div class="article-paragraph">我很久很久没有感受到这种纯粹的愤怒了。纯粹的愤怒就意味着其源头是纯粹的恶。我当时只有一个感受： “我不行了”。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="2月，巴黎埃菲尔铁塔前的特罗卡迪罗广场。" data-src="https://static01.nyt.com/images/2020/02/14/world/coronavirus-europe1/merlin_168206253_9a38ea95-e8a2-4091-ae1a-a71a9ad61d42-master1050.jpg" src="https://static01.nyt.com/images/2020/02/14/world/coronavirus-europe1/merlin_168206253_9a38ea95-e8a2-4091-ae1a-a71a9ad61d42-master1050.jpg"/></div><figcaption><span>2月，巴黎埃菲尔铁塔前的特罗卡迪罗广场。</span> <cite>Gonzalo Fuentes/Reuters</cite></figcaption></figure></div>
+<div class="article-paragraph"><b><i>遭到歧视：他们跨过</i></b><b><i>千山万水把我和新冠病毒联系在一起</i></b><br/></div>
+<div class="article-paragraph"><b>李想，德国慕尼黑</b></div>
+<div class="article-paragraph">我去年10月中旬从西班牙来到慕尼黑继续求学。在新冠暴发前我一直觉得自己仍然是属于西班牙的居民，对它有情感上的依赖。新冠发生后，我在年初四当天早上收到德国房东的信息，希望我在五天内搬出去。原因是她丈夫害怕新冠病毒。这是一件匪夷所思的事情。我去年8月最后一次回国，我的家乡也不在疫区。他们是怎么样跨过了千山万水把我和新冠病毒联系在一起的我不得而知。</div>
+<div class="article-paragraph"><b>Yujie Jiang，美国纽约长岛</b></div>
+<div class="article-paragraph">我现在在长岛的一所医学院读书。自从冠状病毒暴发后，我就不时听到医院的工作人员拿这场流行病“开玩笑”。他们嘲笑人们吃的奇怪食物，就好像所有的中国人都是野蛮人。他们还宣称火神山医院实际上是一个无法照顾病人的集中营，而无视中国政府迅速作出回应的努力。作为一名中国留学生，我对这些错误和傲慢的评论感到极度不适。我曾亲自向其中一名护士表示抗议，并向他们说明了真实发生的情况。</div>
+<div class="article-paragraph">美国的媒体号称秉持自由主义精神，但却存在偏见。他们并不致力于报道真相，而是经常倾向于歪曲故事，让美国人误以为中国是一个可怕的地方，所有亚洲人都有这种“中国病毒”。在美国医疗系统中，我亲眼目睹了对看上去像亚裔的华人的歧视，这些都是源自于媒体所投射的恐惧。</div>
+<div class="article-paragraph">我时不时地担心，我的病人会因为我是亚洲人而怀疑我携带了冠状病毒，拒绝我对他们进行检查。</div>
+<div class="article-paragraph"><b>Chao Zhang，西班牙巴塞罗那</b></div>
+<div class="article-paragraph">疫情目前并没有对我的学业有直接影响，但是对海外华人的生计影响很大，特别是海外华人经济的影响。大量的中国餐厅、百元店、服装店等华人聚集区开始陷入半停业或完全停业状态，但这些状态并不是受到地方政府的命令，而是一种完全自发的隔离行为，受到了海外侨团、中国大使馆非正式的监督。</div>
+<div class="article-paragraph">饶有趣味的是，有一家巴塞罗那市区的兰州拉面餐馆，在老顾客们（主要是学生）得知店主2020年1月31日从中国返回后，学生们在微信群里开始强制建议老板停业隔离，甚至鼓励大家不要去店里吃饭。如果遇到有些强硬的店主，不愿意损失经济，这些学生们甚至将店主的地址和照片发在朋友圈里，开始号召大家不要去店里吃饭，这种行为有点像“强制隔离”。 </div>
+<div class="article-paragraph">甚至于有些学生，主动给当局或者学校发邮件，希望可以下发通知，让国内回来的学生强制隔离。</div>
+<div class="article-paragraph"><b>Rui，美国得克萨斯州</b></div>
+<div class="article-paragraph">我是一个武汉人，博士在读生。美国同学们会开始用新冠肺炎跟我开玩笑，虽然他们跟我关系很好、玩笑本质不带恶意，可是真的一点也不好笑。前两天有同学开派对，派对上的一位美国同学特意拿了一提Corona啤酒跟我说这是他特意买的，算是一个joke。我听完之后很难受。这是天灾人祸，是我家乡的浩劫，不是玩笑。</div>
+<div class="article-paragraph">病毒搭了一个台子，很多人就开始群魔乱舞。</div>
+*
+面对疫情，专制比民主更有优势？
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">中国和它的一些信徒认为，北京成功应对冠状病毒大流行，是对威权主义统治的有力证明。<br/></div>
+<div class="article-paragraph">该论点认为，尽管起步不佳，中国有能力实施<span>大规模的遏制措施，在很大程度上将疾病控制在其境内。世界卫生组织<a href="https://www.theguardian.com/world/2020/mar/09/how-did-china-get-grips-with-coronavirus-outbreak" rel="noopener noreferrer" target="_blank" title="Link: https://www.theguardian.com/world/2020/mar/09/how-did-china-get-grips-with-coronavirus-outbreak">称其为</a>“可能是历史上最具挑战、最敏捷和最积极的</span>疾控行动”，中国当局很快将其转化为对领导人习近平主席的歌颂。<a href="https://www.fmprc.gov.cn/mfa_eng/zxxx_662805/t1745264.shtml" rel="noopener noreferrer">中国外交部长说</a>：“只有在习近平主席领导下，才得以有效管控住这场突如其来而且传播速度相当快的疫情。”</div>
+<div class="article-paragraph">是这样吗？民主制度是否因固有的低效率和政治分歧受到阻碍？或者它们的开放性和多样性是否能更有效地帮助动员全体人民，及其所有私人和公共机构？</div>
+<div class="article-paragraph"><span>其他亚洲国家对冠状病毒采取了相对有效的防御措施，<a href="https://www.nytimes.com/2020/03/13/opinion/coronavirus-best-response.html" title="Link: https://www.nytimes.com/2020/03/13/opinion/coronavirus-best-response.html">最明显的是韩国和台湾</a>，这些都是活跃的民主国家，它们在限制出行、积极组织检测和实施严格隔离方面行动透明。他们的反应无疑是吸取了相对较为近期的流行病的教训，尤其是2002-2003年SARS暴发。但这并不需要铁腕措施。</span></div>
+<div class="article-paragraph">而同样的“习近平主席的领导”也是令冠状病毒开始传播的关键原因。政府否认了最初的证据，并让传递坏消息的人噤声，其中最悲惨的是武汉的<span>眼科医师<a href="https://cn.nytimes.com/china/20200207/li-wenliang-coronavirus/" title="Link: https://cn.nytimes.com/china/20200207/li-wenliang-coronavirus/">李文亮</a>。等到北京做出回应时，冠状病毒已经向世界范围进发。</span></div>
+<div class="article-paragraph">那些赞美民主优势的人往往会引用经济学家阿玛蒂亚·森(Amartya Sen)的名言：“人类历史上，没有哪一场饥荒是发生在正常运转的民主国家的。”森认为，这是因为民主政府必须面对选民。他们有防止灾难发生的强烈意愿。</div>
+<div class="article-paragraph">然而，他的论点与这样一个事实背道而驰：当今许多专制政权的领导人——如奥班·维克多(Viktor Orban)、雷杰普·塔伊普·埃尔多安(Recep Tayyip Erdogan)和弗拉基米尔·普京(Vladimir Putin)来说——都是通过民主程序上台的，而且似乎得到了广泛的公众支持。然而，他们的行动准则更像是“每一次饥荒都要好好利用起来”。</div>
+<div class="article-paragraph">匈牙利总理奥班已经不断积累了越来越大的权力，他很快看到，<span>在整个欧洲实施的严厉措施是<a href="https://www.nytimes.com/reuters/2020/03/30/world/europe/30reuters-health-coronavirus-hungary-law.html" title="Link: https://www.nytimes.com/reuters/2020/03/30/world/europe/30reuters-health-coronavirus-hungary-law.html">实现真正独裁政权</a>的完美</span>掩护。匈牙利议会通过了由他的青民盟(Fidesz)控制的立法，实际上等于让他可以开始进行法令统治，取消选举，并惩罚散布“虚假”信息的人。直到永远。</div>
+<div class="article-paragraph">没有哪个领导人有如此放肆的夺权之举，但有的<span>也已在疫情中找到了政治优势。以色列总理本杰明·内塔尼亚胡(Benjamin Netanyahu)执政多年后似乎不可避免要面临着耻辱的终结，但危机让他得到了喘息。他命令大多数法院关闭，推迟自己的腐败审判，并设法操纵在三次无说服力的竞选中挑战他的本尼·甘茨(Benny Gantz)加入<a href="https://www.nytimes.com/2020/03/26/world/middleeast/israel-netanyahu-gantz-government.html">紧急“团结”政府</a>，该政府迅速摧毁了甘茨的联合执政。但是以色列不是独裁国家：内塔尼亚胡的举动在媒体和社会中产生了激烈的辩论，</span>尽管此刻国家正在为了应对冠状病毒武装自己。</div>
+<div class="article-paragraph"><span>其他政府也已利用这次危机采取了一些本应遭到强烈抵制的行动。印度封锁后，总理纳伦德拉·莫迪(Narendra Modi)的印度民族主义政府<a href="https://www.aljazeera.com/news/2020/04/flooding-india-introduces-kashmir-domicile-law-200401100651450.html" rel="noopener noreferrer" target="_blank" title="Link: https://www.aljazeera.com/news/2020/04/flooding-india-introduces-kashmir-domicile-law-200401100651450.html">颁布法律</a>，</span>方便印度人成为穆斯林占多数的查谟和克什米尔地区的永久居民。</div>
+<div class="article-paragraph">环顾世界各地，可以看到许多国家的政府在防疫过程中存在权力过度扩张。在菲律宾，平时冷酷无情的铁腕领导人罗德里戈·杜特地<span>(Rodrigo Duterte)攫取了更大的力量来对抗这种病毒，包括<a href="https://cpj.org/2020/03/philippines-covid-19-state-of-emergency-includes-p.php" rel="noopener noreferrer" target="_blank" title="Link: https://cpj.org/2020/03/philippines-covid-19-state-of-emergency-includes-p.php">威胁监禁</a>传播冠状病毒假新闻的人——这一措施</span>可以用来对政府的批评者实施刑事惩罚。土库曼斯坦可以说是中亚最专制的国家，对信息控制采取可能最为严厉的措施<span>，甚至<a href="https://thediplomat.com/2020/04/did-turkmenistan-really-ban-the-word-coronavirus/" rel="noopener noreferrer" target="_blank" title="Link: https://thediplomat.com/2020/04/did-turkmenistan-really-ban-the-word-coronavirus/">逮捕了在公开场合讨论疫情的人</a>。在泰国，2014年靠军事政变上台的总理巴育·占奥差(Prayuth Chan-ocha)<a href="https://uk.reuters.com/article/us-health-coronavirus-thailand-emergency/thai-leader-to-invoke-emergency-powers-as-virus-infections-climb-idUKKBN21B0RV" rel="noopener noreferrer" target="_blank" title="Link: https://uk.reuters.com/article/us-health-coronavirus-thailand-emergency/thai-leader-to-invoke-emergency-powers-as-virus-infections-climb-idUKKBN21B0RV">宣布，他正在行驶紧急权力</a>，包括“如有必要，可审查或关闭媒体”。</span></div>
+<div class="article-paragraph">无论专制制度制定的疫情应对措施能够提供的优势有多大，当铁腕领导人选择拒绝威胁存在或提供不一样的叙事时，专制的真正危险就显现出来了。掌握巨大权力的<span>白俄罗斯总统亚历山大·卢卡申科(Aleksandr Lukashenko)已允许该国的<a href="https://www.espn.co.uk/football/belarus/story/4078805/how-belarus-is-fighting-the-coronavirus-vodka-firstfootball-second" rel="noopener noreferrer" target="_blank" title="Link: https://www.espn.co.uk/football/belarus/story/4078805/how-belarus-is-fighting-the-coronavirus-vodka-firstfootball-second">足球超级联赛</a>如期进行，并且辩称“恐慌比病毒本身对我们的伤害更大”——这与特朗普总统的“</span>对策不应该比问题更糟”相呼应。几乎每个政府都在敦促人们待在家里，卢卡申科却不这样做，反而建议白俄罗斯人每天喝伏特加，定期去桑拿房，以及下地辛苦劳作一番。</div>
+<div class="article-paragraph"><span>在邻国俄罗斯，普京总统加强了对疫情的防御，我们可以看到专制政权带来的另一个问题：可疑的统计数据。截至周四，俄罗斯感染人数超过3500人，但数周以来，官方报告的数字低得出奇。实际数字可能要高得多。俄罗斯也一如既往地加入了中国和伊朗的行列，在社交媒体上<a href="https://cn.nytimes.com/world/20200330/china-russia-coronavirus-disinformation/">散布关于这种冠状病毒起源的虚假消息</a>——包括来自北京的一种论点：这是一种美国疾病，可能是由</span>访华的美国军人带来的。</div>
+<div class="article-paragraph">最后，关于专制国家和民主国家抗疫能力的比较，很难得出一个确定结论：大流行还远远没有结束，除了治理风格之外，还有许多其他因素。一个国家的财富和资源显然在应对突发危机的能力中发挥重要作用，以往有疾病流行历史的国家，在应对新出现的流行病方面具有明显优势。</div>
+<div class="article-paragraph">然而，民主国家似乎仍拥有明显的优势。当中国在不到两周的时间里就能建起一座新医院，而纽约市的医院床位正迅速耗尽时，这一点似乎并不明显。但在美国，信息的流动和公众的互让，可能有助于不断调整对抗这种疾病的策略；错误的信息，不管是有意还是无意，都可以<span>很快被揭露。<a href="https://www.ft.com/content/e015e096-6532-11ea-a6cd-df28cc3c6a68" rel="noopener noreferrer" target="_blank">台湾一位官员指出</a>，透明度是其政府应对成功的最重要因素之一。</span></div>
+<div class="article-paragraph"><span><a href="https://www.economist.com/graphic-detail/2020/02/18/diseases-like-covid-19-are-deadlier-in-non-democracies" rel="noopener noreferrer" target="_blank" title="Link: https://www.economist.com/graphic-detail/2020/02/18/diseases-like-covid-19-are-deadlier-in-non-democracies">《经济学人》(The Economist)对1960年以来所有流行病数据的分析</a>发现，“在任何特定的收入水平条件下，民主国家的流行病死亡率似乎都低于非民主国家。”</span>文章说，一个原因是专制政权“不适合处理需要信息自由流动，以及公民与统治者之间需要公开对话的事务”。如果白俄罗斯拥有独立的新闻媒体，卢卡申科就不太可能坚持自己的鲁莽立场。</div>
+<div class="article-paragraph">在这场辩论乃至美国政治图景中的其他许多辩论中，特朗普政府扮演着什么角色，取决于人们在激烈的政治分歧中站在哪一边。美国民主的多样性——地方政府、多样的医疗服务、强势的新闻媒体和诸多宗教团体——可以预防中国式专制统治的形成。但是独裁者利用危机的倾向绝不应被忽视。</div>
+*
+简报：美国死亡人数超1.6万；欧盟通过5千亿欧元纾困案
+<div class="article-paragraph"><i>（欢迎</i><i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank">点击此处</a></i><i>订阅</i><i><a href="https://cn.nytimes.com/morning-brief/" title="Link: https://cn.nytimes.com/morning-brief/">新冠病毒疫情中文简报</a></i><i>。更多关于疫情的最新消息，欢迎关注时报英文版</i><i><a href="https://www.nytimes.com/2020/04/10/world/coronavirus-news.html" title="Link: https://www.nytimes.com/2020/04/09/world/coronavirus-news-international.html">实时更新报道</a></i><i>。时报关于新冠疫情的</i><i><a href="https://www.nytimes.com/news-event/coronavirus?action=click&amp;module=Spotlight&amp;pgtype=Homepage">报道</a></i><i>已向读者全部免费开放，欢迎阅读。）</i></div>
+<div class="article-paragraph"><b>美国三周内1600万人失业；纽约州单日死亡799人</b></div>
+<div class="article-paragraph">美国的死亡人数继续以每天超过1000例的速度攀升，截至周四，各地报告的死亡人数已超过<a href="https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html">1.6万人</a>。在疫情中心纽约州，当日又有799人死于新冠病毒，这是目前该州的单日最高死亡人数。</div>
+<div class="article-paragraph">但纽约州长科莫表示，<span>在过去两周中，住院患者人数从最开始的一天增长20％以上<a href="https://www.nytimes.com/2020/04/09/nyregion/ny-coronavirus-hospitalizations-flattening-the-curve.html">减缓到本周的个位数增长</a>。</span>这可能是保持社交距离奏效的一个迹象。如果这一趋势继续下去，医院里的病人数量将很快开始下降。</div>
+<div class="article-paragraph">美国经济在疫情中持续受损。劳工部周四报告，上周又有<a href="https://www.nytimes.com/2020/04/09/business/stock-market-today-coronavirus.html">660万人申请了失业救济</a>。这意味着，仅在三周内，就有超过1600万美国人失业，这个数字几乎是整个大衰退期间的两倍。而在华盛顿，共和党和民主党在白宫提出的为小企业再提供2500亿美元贷款的要求条款上发生了<a href="https://www.nytimes.com/2020/04/09/us/coronavirus-us-news.html">冲突</a>。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="周二在白宫举行的冠状病毒疫情新闻发布会。" data-src="https://static01.nyt.com/images/2020/04/08/us/politics/08dc-memo/merlin_171381498_26854289-faa3-4e6d-bbd9-02e252cd6597-master1050.jpg" src="https://static01.nyt.com/images/2020/04/08/us/politics/08dc-memo/merlin_171381498_26854289-faa3-4e6d-bbd9-02e252cd6597-master1050.jpg"/></div><figcaption><span>周二在白宫举行的冠状病毒疫情新闻发布会。</span> <cite>Doug Mills/The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">随着疫情和经济形势日益严峻，特朗普的领导力再次受到审视。时报白宫记者Peter Baker回顾了近期总统在白宫疫情发布会上的表现，从对中国的态度，到是否停止向WHO拨款，特朗普一直在发表自相矛盾的言论，却从不承认这一点。他发出了令人困惑的信号，其他政治人物、卫生官员和民众只能自行解读。欢迎阅读<a href="https://cn.nytimes.com/usa/20200409/trump-coronavirus-news-briefings/">本文中文版</a>。</div>
+<div class="article-paragraph">→ <span>白宫冠状病毒特别工作组周四发布了一份病毒检测数据的细目分类表，让人们了解了该病毒对不同年龄段人群的打击程度，进一步证实了老年人最有可能感染该病毒。在接受检测的人群中，65岁至85岁年龄段中有22%的人结果呈阳性，85岁以上者则是24%呈阳性。<br/></span></div>
+<div class="article-paragraph">→ 第一夫人梅拉尼娅周四在<a href="https://twitter.com/FLOTUS/status/1248277174072860672" rel="noopener noreferrer" target="_blank">推特</a>上发布了一张自己佩戴一次性口罩的照片，建议美国人按照疾控中心最新建议，在公共场合戴可以遮住面部的布制口罩。特朗普曾表示，自己不会这么做。<br/></div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="周四，曼哈顿中央公园的一处临时医院。" data-src="https://static01.nyt.com/images/2020/04/09/world/09virus-nat-briefing-nypa/merlin_171447036_3f4e3326-250e-417f-80ce-94759de8ec8f-master1050.jpg" src="https://static01.nyt.com/images/2020/04/09/world/09virus-nat-briefing-nypa/merlin_171447036_3f4e3326-250e-417f-80ce-94759de8ec8f-master1050.jpg"/></div><figcaption><span>周四，曼哈顿中央公园的一处临时医院。</span> <cite>Gregg Vigliotti for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">→ 最新研究显示，冠状病毒在2月中旬就已经开始在纽约地区传播，旅行者主要是从<a href="https://www.nytimes.com/2020/04/08/science/new-york-coronavirus-cases-europe-genomes.html">欧洲</a>——而不是亚洲，将病毒带入美国的。美国首先实施了针对中国的旅行限制，几周后才扩大到欧洲国家。</div>
+<div class="article-paragraph">→ 加州向纽约州、新泽西州等输送500台呼吸机，但当地官员对自身缺口表示担忧。加州州长纽森表示，“当我们可以在其他州挽救生命时，我们不能坐视不管。”但近期暴发疫情的河滨郡的官员表示，州政府拒绝了他们希望获得呼吸机的请求。<br/></div>
+<div class="article-paragraph">→ 学生群体不愿为在线课程支付高昂学费，要求大学退还部分款项。芝加哥大学的学生正在组织一场学费罢工，这一呼声也在纽约的多所大学校园里响起。学生们抱怨网络课程和现实教学的差距，认为他们不应为不合格的体验支付全部费用，尤其是在更多学生面临财务不确定性的时候。<br/></div>
+<div class="article-paragraph"><figure class="article-inline-photo large with-no-credit-caption"><div class="img-box"><img alt="" data-src="https://static01.nyt.com/images/2020/04/09/us/coronavirus-hong-kong-singapore-taiwan-promo-1586459035985/coronavirus-hong-kong-singapore-taiwan-promo-1586459035985-master1050-v6.png" src="https://static01.nyt.com/images/2020/04/09/us/coronavirus-hong-kong-singapore-taiwan-promo-1586459035985/coronavirus-hong-kong-singapore-taiwan-promo-1586459035985-master1050-v6.png"/></div><figcaption><span></span> <cite></cite></figcaption></figure></div>
+<div class="article-paragraph"><b>香港、新加坡和台湾的疫情为何突然恶化？</b></div>
+<div class="article-paragraph">香港、新加坡和台湾在疫情初期都相对成功地控制住了病毒传播，但数据显示，这些地区的病例在过去两周<a href="https://www.nytimes.com/interactive/2020/04/09/world/asia/coronavirus-hong-kong-singapore-taiwan.html">显著增加</a>。</div>
+<div class="article-paragraph">最主要的原因是国际旅行，尽管这三个地方最早实施旅行限制，在保持社会距离和检测追踪方面也尤为警惕。香港和台湾官员表示，海外输入的新病例远超本地感染的病例。新加坡一度也是如此，但后来“社区传播”急剧增加——尤其是在移民工人宿舍中。<br/></div>
+<div class="article-paragraph">与旅行相关的病例主要发生在长期居住于英美的居民中，其中数百起病例是在国外上学的学生。不过，尽管最近感染人数有所上升，这些地区的情况仍好过许多发达国家。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="经济学家越来越倾向于由中国政府发放消费券以刺激消费。" data-src="https://static01.nyt.com/images/2020/04/08/business/00virus-china-econ-4-copy/merlin_168726297_9b6b2bd0-3ed9-4470-b7ce-4e010c3815e8-master1050.jpg" src="https://static01.nyt.com/images/2020/04/08/business/00virus-china-econ-4-copy/merlin_168726297_9b6b2bd0-3ed9-4470-b7ce-4e010c3815e8-master1050.jpg"/></div><figcaption><span>经济学家越来越倾向于由中国政府发放消费券以刺激消费。</span> <cite>Yuyang Liu for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>没有打开钱袋的中国能顺利重启经济吗？</b></div>
+<div class="article-paragraph">全世界都在为抗击冠状病毒疫情打开钱袋。美国公布了一项2万亿美元的救援计划。欧洲国家已各自展开支出的闪电战，日本也批准了近1万亿美元的经济刺激计划。</div>
+<div class="article-paragraph">然而中国不一样，这一次它的行动相对克制。尽管它已经在帮助企业留住员工，并推动国有银行增加放贷，但始终没有大规模支出，或向金融体系注入大量资金。</div>
+<div class="article-paragraph">越来越多的人认为中国应该做得更多。著名经济学家呼吁北京让中国消费者重新开始消费，例如发放有时效性的消费券，帮助刺激国内需求——至少有7个省市已经开始这样做。这里是本文<a href="https://cn.nytimes.com/business/20200409/coronavirus-china-economy-stimulus/">中文版</a>，欢迎阅读。 </div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="意大利商业之都米兰，街头空无一人。" data-src="https://static01.nyt.com/images/2020/04/09/world/09virus-int-briefing-EU/merlin_171302640_9c2663f0-2165-4ea5-8acf-1eb402a1613c-master1050.jpg" src="https://static01.nyt.com/images/2020/04/09/world/09virus-int-briefing-EU/merlin_171302640_9c2663f0-2165-4ea5-8acf-1eb402a1613c-master1050.jpg"/></div><figcaption><span>意大利商业之都米兰，街头空无一人。</span> <cite>Alessandro Grassani for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>欧盟通过5千亿欧元贷款计划</b></div>
+<div class="article-paragraph">周四晚间，欧盟各国财长就价值高达5000亿欧元的贷款计划达成一致，以帮助欧元区国家抵御病毒对经济的冲击。</div>
+<div class="article-paragraph">但财长们回避了意大利和西班牙的联合发债请求。尽管德国、荷兰和其他国家表现得比以往危机时更为慷慨，但公布的措施细节表明，即便病毒已经导致5万多名欧盟公民死亡，富裕的北欧国家也不愿为遭受重创的南欧国家提供廉价债务补贴。</div>
+<div class="article-paragraph">财长们同意建议提交各国领导人最终批准的计划包括1000亿欧元的失业救济金贷款，2000亿欧元的小企业贷款，以及2400亿欧元的欧元区国家救助基金贷款——但救助资金的用途将被限制在与医疗相关的项目上。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="上个月，世卫组织总干事谭德塞在日内瓦。评论人士称世卫组织对中国政府过于信任。" data-src="https://static01.nyt.com/images/2020/04/08/world/08virus-china-who-1/merlin_170358849_d9ab0401-44a1-43c4-8583-75e3d92779da-master1050.jpg" src="https://static01.nyt.com/images/2020/04/08/world/08virus-china-who-1/merlin_170358849_d9ab0401-44a1-43c4-8583-75e3d92779da-master1050.jpg"/></div><figcaption><span>上个月，世卫组织总干事谭德塞在日内瓦。评论人士称世卫组织对中国政府过于信任。</span> <cite>Fabrice Coffrini/Agence France-Presse — Getty Images</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>WHO总干事谭塞德称受到来自台湾的种族主义攻击</b></div>
+<div class="article-paragraph">世卫组织总干事谭德塞周三表示，过去三个月里，他曾受到来自台湾的种族主义言论攻击和死亡威胁，比如被称作“黑鬼”(Negro)。谭德塞还特别提到了台湾政府官员，“他们甚至也开始在所有那些侮辱和诽谤中批评我”。</div>
+<div class="article-paragraph">台湾总统蔡英文周四在<a href="https://www.facebook.com/tsaiingwen/photos/a.390960786064/10156607666626065/?type=3&amp;theater" rel="noopener noreferrer" target="_blank">Facebook</a>上回击道：“台湾一直反对一切形式的歧视。多年来，我们一直被排斥在国际组织之外，我们比任何人都清楚被歧视和孤立的感受。”</div>
+<div class="article-paragraph">疫情期间，世卫组织的表现一度遭到多方指责，批评人士称其过于信任中国政府、对疫情的应对行动迟缓，批其为<a href="https://cn.nytimes.com/world/20200409/trump-who-coronavirus-china/">“中国卫生组织”</a>。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="3月，巴黎卢浮宫外。" data-src="https://static01.nyt.com/images/2020/04/07/world/09virus-int-briefing-masks/merlin_170618697_2f13a72d-3e74-4b12-9026-ef19978b78f9-master1050.jpg" src="https://static01.nyt.com/images/2020/04/07/world/09virus-int-briefing-masks/merlin_170618697_2f13a72d-3e74-4b12-9026-ef19978b78f9-master1050.jpg"/></div><figcaption><span>3月，巴黎卢浮宫外。</span> <cite>Andrea Mantovani for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>更多消息：</b></div>
+<div class="article-paragraph">• 周四，英国首相鲍里斯·约翰逊病情好转，从重症监护病房转入普通病房。代理首相工作的外交大臣多米尼克·拉布并没有为约翰逊复职提供时间表。英国目前死亡人数已逼近8000。<br/></div>
+<div class="article-paragraph"> • 在欧洲，在公共场合戴口罩<a href="https://www.nytimes.com/2020/04/09/world/europe/virus-mask-wearing.html">不再是“异类”</a>。捷克、斯洛伐克和土耳其已要求国民在公共场合必须佩戴口罩，法国医学研究院也发出类似建议。这是一个“巨大的调整”，奥地利总理塞巴斯蒂安·库尔兹说，因为“口罩与我们的文化格格不入”。<br/></div>
+<div class="article-paragraph">• 匿名知情人士称，石油输出国组织和俄罗斯等国周四达成协议，同意在5月和6月每天减产约1000万桶（或比正常产量低约10％）。20国集团周五将举行会议，届时可能宣布进一步减产。达成协议的消息未能阻止国际油价继续下跌。<br/></div>
+<div class="article-paragraph">• 德国疫情趋缓，默克尔警告不能放松警惕。“最新的事态发展给了我们可以谨慎希望的理由”，但随着复活节假期临近、夏日气温回暖，她提醒德国人不要屈服于在外面闲逛和聚集的诱惑。 过去一周，德国每日新增感染人数已从7000人降至平均4000人左右。</div>
+<div class="article-paragraph">• 南非国家<span>博茨瓦纳<a href="https://www.facebook.com/BotswanaGovernment/posts/2891693237579982" rel="noopener noreferrer" target="_blank">强制隔离所有议会议员</a>，这是全球最大规模的涉及政府官员的此类行动之一。</span>据非洲疾控中心的数据，迄今为止，52个非洲国家共报告了<a href="https://twitter.com/AfricaCDC/status/1247570070622142470" rel="noopener noreferrer" target="_blank">10252确诊病例</a>和492例死亡病例。世界银行称，受疫情影响，撒哈拉以南的非洲将在25年来首次出现经济衰退。</div>
+<div class="article-paragraph">• 印度总理纳伦德拉·莫迪告诉政府部长，“完全不可能”解除该国的封锁，这表明原定于4月15日结束的封锁措施可能延长。</div>
+<div class="article-paragraph">• 研究称空气污染程度与新冠致死率有关。哈佛的一项研究表明，生活在空气污染严重地区的新冠病毒患者比污染程度较轻地区的患者更容易死于感染。该研究可能会对疫情期间呼吸机等资源的分配问题产生重大影响。（<a rel="nofollow" target="_blank">阅读本文中文版</a>）<br/></div>
+<div class="article-paragraph"><i>感谢阅读今天的新冠病毒疫情简报</i><i>，新读者请</i><i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank">点击此处订阅</a>。点击<a href="https://cn.nytimes.com/morning-brief/">这里</a>查看往日更新</i><i>。</i><i>欢迎在Twitter(</i><a href="https://twitter.com/nytchinese" rel="noopener noreferrer" target="_blank"><i>@nytchinese</i></a><i>)、</i><a href="https://www.instagram.com/cn.nytimes/?hl=zh-tw" rel="noopener noreferrer" target="_blank"><i>Instagram</i></a><i>和</i><a href="https://www.facebook.com/nytimeschinese.t/" rel="noopener noreferrer" target="_blank"><i>Facebook</i></a><i>上关注我们，了解更多中文资讯。也欢迎访问中文网</i><a href="https://cn.nytimes.com/"><i>首页</i></a><i>阅读更多新闻。如有任何建议和想法，请来信与我们分享：cn.letters@nytimes.com。</i></div>
+*
+世卫组织为何被批为“中国卫生组织”？
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">周二，特朗普总统对世界卫生组织发起<a href="https://www.nytimes.com/2020/04/07/us/politics/coronavirus-trump-who.html">抨击</a>，指责该组织行动太慢，未及时就新冠病毒发出警报。在此次疫情中，这家全球卫生机构不是第一次面临这样的批评。</div>
+<div class="article-paragraph">最近几周，政府官员、卫生专家和分析人士对该组织的疫情应对工作表示了关切。</div>
+<div class="article-paragraph">日本副首相兼财务大臣麻生太郎最近称，由于该组织与北京关系密切，有大量声音将世界卫生组织称为“中国卫生组织”。台湾官员说，世卫组织忽视了有关该病毒的早期警告，这是因为中国拒绝台湾成为世卫组织成员，声称该自治岛屿为其领土的一部分。</div>
+<div class="article-paragraph">评论人士称，世卫组织一直以来<a href="https://www.wsj.com/articles/world-health-coronavirus-disinformation-11586122093" rel="noopener noreferrer" target="_blank">过于信任</a>中国政府，而中国政府最初<a href="https://cn.nytimes.com/china/20200203/china-coronavirus/">试图掩盖</a>武汉的疫情。还有人指责该组织及其领导人谭德塞(Dr. Tedros Adhanom Ghebreyesus)在宣布<a href="https://www.nytimes.com/2020/01/30/health/coronavirus-world-health-organization.html">全球卫生紧急事件</a>方面行动太慢。</div>
+<div class="article-paragraph">身为联合国机构的世卫组织对此作出了辩护，它在周三表示，自己已向世界发出警报，及时提醒人们该病毒所构成的威胁，并“致力于确保所有会员国都能有效应对该流行病疫情”。</div>
+<div class="article-paragraph">该机构的辩护者说，它对任何一个政府能行使的权力都是有限的，并且它已经尽了最大努力，来处理这个几乎前所未见的公共卫生威胁。</div>
+<div class="article-paragraph"> 今后会有评判成败以及评估“这种病毒及其破坏性后果”的时候，联合国秘书长安东尼奥·古特雷斯(Antonio Guterres)周三在一份赞扬世卫组织的声明中说。古特雷斯称该机构对击败Covid-19“绝对关键”。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="1月17日，中国武汉，一名患者被到到医院。" data-src="https://static01.nyt.com/images/2020/04/08/world/08virus-china-who-2/merlin_167281152_d8ce84c8-f777-4a4e-b02c-41b395be94d7-master1050.jpg" src="https://static01.nyt.com/images/2020/04/08/world/08virus-china-who-2/merlin_167281152_d8ce84c8-f777-4a4e-b02c-41b395be94d7-master1050.jpg"/></div><figcaption><span>1月17日，中国武汉，一名患者被到到医院。</span> <cite>Getty Images</cite></figcaption></figure></div>
+<div class="article-paragraph">以下是世卫组织受到攻击的原因。</div>
+<div class="article-paragraph"><b>针对中国早期的失误，世卫组织未向其施压。</b></div>
+<div class="article-paragraph">去年12月，当武汉首现神秘的病毒性肺炎病例时，中国的卫生官员<a href="https://cn.nytimes.com/china/20200208/china-coronavirus-doctor-death/">使吹哨人噤声</a>，并一再淡化疫情的严重性。</div>
+<div class="article-paragraph">甚至到了1月中旬，随着该病毒传播到中国境外，中国官员还称其“<a href="https://www.nytimes.com/2020/01/18/world/asia/china-virus-wuhan-coronavirus.html">可防可控</a>”，并表示未发现明显人传人证据。</div>
+<div class="article-paragraph">世卫组织认可中国政府的说法，例如，它在1月中旬称，人传人现象尚未得到证实。</div>
+<div class="article-paragraph">批评人士说，该组织<a href="https://foreignpolicy.com/2020/04/02/china-coronavirus-who-health-soft-power/" rel="noopener noreferrer" target="_blank">对北京的再三遵从</a>加剧了疾病的传播。一组国际专家直到2月中旬才被允许访问武汉。</div>
+<div class="article-paragraph">西顿霍尔大学(Seton Hall University)研究中国的全球卫生专家黄严忠说：“他们本应再强硬一些，尤其是在危机初期，存在掩盖和不作为的时候。”</div>
+<div class="article-paragraph">黄严忠指出，2002年和2003年的SARS疫情造成了全球700多人死亡，世卫组织通过<a href="https://www.nytimes.com/2003/04/13/weekinreview/china-discovers-secrecy-is-expensive.html">公开批评</a>中国政府隐瞒疫情，推动其提高透明度。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="官方媒体新华社发布的一张照片显示，中国国家主席习近平上个月访问武汉。 习近平已将加强中国在世界卫生组织等国际机构中的影响力作为优先事项。" data-src="https://static01.nyt.com/images/2020/04/08/world/08virus-china-who-3/merlin_170336982_3b106038-f94d-427d-9a3e-4e50f9887573-master1050.jpg" src="https://static01.nyt.com/images/2020/04/08/world/08virus-china-who-3/merlin_170336982_3b106038-f94d-427d-9a3e-4e50f9887573-master1050.jpg"/></div><figcaption><span>官方媒体新华社发布的一张照片显示，中国国家主席习近平上个月访问武汉。 习近平已将加强中国在世界卫生组织等国际机构中的影响力作为优先事项。</span> <cite>Ju Peng/Xinhua, via Associated Press</cite></figcaption></figure></div>
+<div class="article-paragraph">根据当时的报道，北京一些医院的官员逼迫SARS患者上救护车，开车载着他们四处兜圈，以免被到访的世卫组织专家代表团看到。</div>
+<div class="article-paragraph"><b>批评人士说，这次，世界卫生组织官员迟迟不宣布进入公共卫生紧急状态。</b></div>
+<div class="article-paragraph">尽管该病毒扩散到六个以上的国家，并迫使中国在1月下旬封锁湖北省部分地区，但世卫组织仍不愿宣布这是全球卫生紧急事件。</div>
+<div class="article-paragraph">世卫组织官员<a href="https://www.nytimes.com/2020/01/23/health/china-virus-who-emergency.html">当时表示</a>，一个讨论疫情的委员会在是否宣布紧急事件的问题上存在分歧，但最后得出的结论是现在下结论为时过早。一位官员<a href="https://www.who.int/docs/default-source/coronaviruse/transcripts/ihr-emergency-committee-for-pneumonia-due-to-the-novel-coronavirus-2019-ncov-press-briefing-transcript-23012020.pdf?sfvrsn=c1fd337e_2" rel="noopener noreferrer" target="_blank">补充说</a>，他们权衡了这样的声明可能对中国人民产生的影响。</div>
+<div class="article-paragraph">在美国宣布禁止大多数最近有中国旅行史的外国人入境后，世卫组织似乎再次遵从了中国官员，称旅行限制是不必要的。该组织<a href="https://cn.nytimes.com/health/20200312/coronavirus-pandemic-who/">在3月11日正式将新冠病毒的传播称为大流行</a>。</div>
+<div class="article-paragraph">一些专家认为，该组织迟迟没有作出这类声明，剥夺了其他国家为医院应对大量涌入的患者做好准备的宝贵时间。</div>
+<div class="article-paragraph">“这让人们更加不愿在灾难真的降临到其他国家之前早早采取强有力的措施，”巴黎非营利组织蒙泰涅研究所(Institut Montaigne)的亚洲事务高级顾问弗朗索瓦·戈德芒(Francois Godement)说。“世界卫生组织拖延或不情愿全面提出这个问题，帮助了那些想要推迟做出艰难决定的人。”</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="日内瓦世界卫生组织总部。未来几年，中国在世界卫生组织中的作用可能会继续增长。" data-src="https://static01.nyt.com/images/2020/04/08/world/08virus-china-who-4/merlin_171369363_d86cddcd-a37a-4ed8-a902-b35ab8b5fc20-master1050.jpg" src="https://static01.nyt.com/images/2020/04/08/world/08virus-china-who-4/merlin_171369363_d86cddcd-a37a-4ed8-a902-b35ab8b5fc20-master1050.jpg"/></div><figcaption><span>日内瓦世界卫生组织总部。未来几年，中国在世界卫生组织中的作用可能会继续增长。</span> <cite>Fabrice Coffrini/Agence France-Presse — Getty Images</cite></figcaption></figure></div>
+<div class="article-paragraph">世界卫生组织为自己的行动进行了辩护，它在周三表示，自中国官员于12月31日首次报告疫情以来，它已经“提醒成员国注意Covid-19的重大风险和后果，并向它们源源不断地提供信息”。</div>
+<div class="article-paragraph"><b>中国在世界卫生组织的影响力正在增长。</b></div>
+<div class="article-paragraph">中国领导人习近平将美国主导的全球秩序视为中国崛起为超级大国的障碍，他把加强北京在世界卫生组织等国际机构中的影响力作为一项优先任务。</div>
+<div class="article-paragraph">在世卫组织60亿美元的预算中，中国的出资只占一小部分，而美国是它的主要捐助者之一。但是近年来，北京通过其他方式扩大了自己在该组织中的影响力。</div>
+<div class="article-paragraph">中国政府一直游说世卫组织推广中药，习近平曾利用它作为增进民族自豪感的源泉，并将其作为软实力工具部署在发展中国家，尽管一些科学家怀疑它的有效性。</div>
+<div class="article-paragraph">去年，世卫组织提出支持中医药，将其纳入该组织颇具影响力的医学纲要。这遭到了动物权利活动人士的严厉批评，他们认为，这可能会导致野生动物的<a href="https://www.nationalgeographic.com/animals/2018/12/traditional-medicine-decision-threatens-wildlife/" rel="noopener noreferrer" target="_blank">非法贩运活动激增</a>，因为它们的身体部位被用于中药。</div>
+<div class="article-paragraph">中国一直寻求在国内外推广<a href="https://cn.nytimes.com/china/20200206/coronavirus-traditional-chinese-medicine/">治疗新冠病毒症状</a>的中药。上个月，世卫组织在其中国大陆的网站上删除了一条关于不要使用传统草药治疗新冠病毒的警告，该组织因此受到了批评。</div>
+<div class="article-paragraph">未来几年，中国在世卫组织的作用可能会继续增强，尤其是如果西方政府像特朗普威胁的那样退出该组织的话。</div>
+<div class="article-paragraph">“这是中国更积极参与国际机构努力的一部分，”全球卫生专家黄严忠说。“这不会让所有国家或所有参与者都满意，但会影响世界卫生组织的议程。”</div>
+*
