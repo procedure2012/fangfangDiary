@@ -1,7 +1,7 @@
 # FangfangDiary
 I used a few simple text mining techniques to analyses Fangfang' Diary. The code is very ugly but it successfully finished its task! (ﾟ∀ﾟ)
 
-Here, I only give a simple result. For details, please check my blog[]().
+Here, I only give a simple result. For details, please check my [blog](https://procedure2012.com/2020/04/22/fangfang/). My friend gives a more straight view of the result [here](https://mp.weixin.qq.com/s/lcqfiISmZRWzyhWArmNwcQ).
 
 ## Summarazation
 
