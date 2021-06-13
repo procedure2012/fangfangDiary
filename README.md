@@ -1,11 +1,12 @@
 # FangfangDiary
-I used a few simple text mining techniques to analyses Fangfang' Diary. The code is very ugly but it successfully finished its task! (ﾟ∀ﾟ)
+I use a few simple text mining techniques to analyses Fangfang' Diary. The code is ugly but it successfully finished its task! (ﾟ∀ﾟ)
 
 Here, I only give a simple result. For details, please check my [blog](https://procedure2012.com/2020/04/22/fangfang/). My friend gives a more straight view of the result [here](https://mp.weixin.qq.com/s/lcqfiISmZRWzyhWArmNwcQ).
 
-## Summarazation
+## Summary
 
-I abstracted the summarization of the whole diary and every single day using gensim. If you don't want to read the whole diary, you can find the summarization [here](https://github.com/procedure2012/fangfangDiary/blob/master/data/fangfangAbstract.txt).
+I extract a abstract of the whole diary and every single day using gensim. If you don't want to read the whole diary, you can find the abstracts [here](https://github.com/procedure2012/fangfangDiary/blob/master/data/fangfangAbstract.txt).
+
 ## LDA Topics
 
 I also used gensim to construct an LDA model and calculated the topic distribution on all media and Fangfang's diary.
@@ -43,7 +44,7 @@ I also used gensim to construct an LDA model and calculated the topic distributi
 |公共卫生   |反对      |同事    |周三|股市|胜则|贷款|
 |戴        |中国病毒   |没      |街|放缓|基金会|降准|
 
-Here is the distribution on all media and Fangfang's Diary.
+Here is the topic distribution on all media and Fangfang's Diary.
 
 ||topic1|topic2|topic3|topic4|topic5|topic6|topic7|
 |--|--|--|--|--|--|--|--|
